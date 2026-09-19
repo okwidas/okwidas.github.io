@@ -177,30 +177,107 @@
 <script>
 "use strict";
 var WORDS = (
-  "the be to of and a in that have i it for not on with he as you do at "
-  + "this but his by from they we say her she or an will my one all would "
-  + "there their what so up out if about who get which go me when make can "
-  + "like time no just him know take people into year your good some could "
-  + "them see other than then now look only come its over think also back "
-  + "after use two how our work first well way even new want because any "
-  + "these give day most us water long find here thing great man world life "
-  + "still hand part child eye woman place week case point government company "
-  + "number group problem fact down side always show try turn move right same "
-  + "ask why help through much before line kind hold system each between ever "
-  + "call keep seem under thought head far run play talk city book eat song "
-  + "feel high old area story fish walk market road speak animal power office "
-  + "door health stand school country plant learn parent friend word grow write "
-  + "easy sea morning music color paper style clean order sense image sound "
-  + "video signal bright quiet river forest mountain island bridge garden "
-  + "window kitchen coffee travel letter simple silent focus energy pencil "
-  + "laptop wallet planet orange purple silver golden shadow winter summer "
-  + "spring autumn cloud storm breeze gentle strong quick slow apple banana "
-  + "lemon grape cherry peach plum mango cereal yogurt honey bread cheese "
-  + "butter cream sugar salt pepper garlic onion tomato lettuce spinach castle "
-  + "lighthouse pirate treasure compass kingdom legend dragon wizard magic "
-  + "ally enemy victory defeat courage honor wisdom mystery adventure quest "
-  + "path forest meadow valley canyon desert jungle river ocean island summit"
-).split(/\s+/);
+    "the be to of and a in that have i it for "+
+    "not on with he as you do at this but his by "+
+    "from they we say her she or an will my one all "+
+    "would there their what so up out if about who get which "+
+    "go me when make can like time no just him know take "+
+    "people into year your good some could them see other than then "+
+    "now look only come its over think also back after use two "+
+    "how our work first well way even new want because any these "+
+    "give day most us is water long find here thing great man "+
+    "world life still hand part child eye woman place week case point "+
+    "government company number group problem fact down side always show try turn "+
+    "move right same ask why help through much before line kind hold "+
+    "system each between should never last call keep seem under thought head "+
+    "far run play talk city book eat song feel high old area "+
+    "develop story fish walk market road speak animal power office door health "+
+    "stand school country plant learn parent friend light word grow open write "+
+    "easy sea morning music color paper style clean order sense image sound "+
+    "video signal bright quiet river forest mountain island bridge garden window kitchen "+
+    "coffee travel letter simple silent focus energy pencil laptop wallet planet orange "+
+    "purple silver golden shadow winter summer spring autumn cloud storm breeze gentle "+
+    "strong quick slow apple banana lemon grape cherry peach plum melon mango "+
+    "kiwi coconut walnut almond pepper onion garlic potato carrot tomato lettuce spinach "+
+    "cabbage pumpkin squash broccoli radish celery cucumber parsley basil thyme rosemary sugar "+
+    "salt butter cream cheese bread rice pasta noodle soup salad sandwich burger "+
+    "pizza pancake waffle cereal yogurt honey syrup vinegar oil flour dough batter "+
+    "oven stove grill pan pot bowl plate cup glass fork spoon knife "+
+    "napkin table chair couch sofa lamp shelf drawer closet mirror curtain blanket "+
+    "pillow sheet mattress carpet rug tile floor ceiling roof wall fence gate "+
+    "porch balcony stair elevator hallway lobby entrance exit corridor tunnel highway street "+
+    "avenue lane alley path trail track railway station airport harbor dock port "+
+    "ship boat canoe kayak sailboat ferry train subway bus taxi bicycle scooter "+
+    "motorcycle engine wheel brake pedal handle steering wing propeller rocket satellite orbit "+
+    "gravity comet meteor galaxy universe atom molecule element metal iron steel copper "+
+    "bronze aluminum plastic rubber wood stone brick cement concrete fabric cotton wool "+
+    "silk leather denim velvet linen thread needle button zipper pocket collar sleeve "+
+    "pattern design fashion trend model runway makeup lipstick perfume shampoo soap towel "+
+    "brush comb razor scale clock watch calendar diary journal notebook pen marker "+
+    "eraser ruler scissors glue tape stapler folder envelope stamp postcard package parcel "+
+    "delivery courier mailbox address state continent ocean lake stream valley canyon desert "+
+    "jungle meadow field farm barn tractor plow seed harvest crop grain wheat "+
+    "corn barley oat soybean cattle sheep goat pig chicken duck goose turkey "+
+    "horse donkey rabbit squirrel deer fox wolf bear lion tiger elephant giraffe "+
+    "zebra monkey gorilla panda koala kangaroo penguin dolphin whale shark octopus jellyfish "+
+    "crab lobster shrimp turtle frog snake lizard spider ant bee wasp butterfly "+
+    "moth beetle dragonfly cricket grasshopper snail worm owl eagle hawk sparrow robin "+
+    "pigeon crow raven parrot peacock swan flamingo pelican stork heron nest feather "+
+    "beak claw fur tail paw hoof horn antler gill fin shell hive "+
+    "web burrow cave den hatch breed migrate hibernate predator prey herd flock "+
+    "pack swarm colony habitat ecosystem environment climate weather rain snow hail sleet "+
+    "fog mist dew frost ice ash smoke fire flame spark ember coal "+
+    "fuel gas solar wind battery charge circuit wire cable plug socket switch "+
+    "screen keyboard mouse monitor speaker microphone camera lens photo picture film movie "+
+    "theater stage actor actress director producer script scene costume audience ticket concert "+
+    "band singer guitar piano drum violin trumpet flute harp cello saxophone orchestra "+
+    "choir melody rhythm harmony lyric verse chorus album podcast radio broadcast channel "+
+    "network antenna internet website browser server database code program software hardware device "+
+    "gadget robot artificial intelligence algorithm data file document spreadsheet slide chart graph "+
+    "diagram map compass globe atlas history science math physics chemistry biology geography "+
+    "astronomy geology philosophy psychology economics politics religion culture language grammar vocabulary sentence "+
+    "paragraph essay novel poem chapter title author editor publisher library bookstore museum "+
+    "gallery exhibit sculpture painting drawing sketch canvas palette easel frame portrait landscape "+
+    "abstract texture shape circle square triangle rectangle diamond oval sphere cube cylinder "+
+    "pyramid cone angle curve axis grid ratio percent fraction decimal equation formula "+
+    "theorem proof variable constant function slope zero infinity negative positive average total "+
+    "sum difference product quotient remainder measure length width height depth distance speed "+
+    "velocity acceleration mass weight volume density pressure temperature heat cold force motion "+
+    "friction magnet electric current voltage resistance frequency wave particle nucleus electron proton "+
+    "neutron compound mixture solution reaction catalyst enzyme cell tissue organ muscle bone "+
+    "blood heart lung brain nerve vein artery skin hair nail tooth tongue "+
+    "lip ear nose eyebrow eyelash cheek chin forehead shoulder elbow wrist finger "+
+    "thumb knee ankle toe heel spine rib skull liver kidney stomach intestine "+
+    "bladder throat chest waist hip thigh calf palm fist grip grasp reach "+
+    "stretch bend twist spin roll jump leap hop skip crawl climb swim "+
+    "dive float sink drown breathe inhale exhale cough sneeze yawn blink wink "+
+    "smile frown laugh cry shout whisper mumble scream sing hum whistle chatter "+
+    "argue debate discuss negotiate agree disagree compromise decide choose select pick prefer "+
+    "suggest recommend advise warn remind forget remember recall memorize teach explain describe "+
+    "define clarify confuse mistake correct error fault blame apologize forgive excuse thank "+
+    "appreciate praise criticize complain compliment insult tease joke amuse entertain bore excite "+
+    "thrill scare frighten worry stress relax calm soothe comfort console encourage motivate "+
+    "inspire discourage disappoint frustrate annoy irritate anger upset sadden please satisfy delight "+
+    "surprise shock astonish amaze impress admire respect trust doubt suspect believe assume "+
+    "guess predict expect anticipate hope wish dream imagine create invent build construct "+
+    "assemble repair fix break destroy demolish remove replace install upgrade update download "+
+    "upload save delete copy paste cut edit revise draft outline summarize analyze "+
+    "evaluate assess calculate compute estimate approximate round convert translate transform transfer transport "+
+    "carry deliver send receive collect gather organize arrange sort classify categorize label "+
+    "tag mark highlight underline box list rank sequence schedule plan prepare manage "+
+    "supervise oversee lead guide direct instruct command control regulate govern rule enforce "+
+    "obey follow comply violate adjust adapt modify customize personalize simplify complicate expand "+
+    "reduce increase decrease shrink contract compress squeeze release extend shorten lengthen widen "+
+    "narrow deepen flatten raise lower lift drop push pull drag let catch "+
+    "throw toss kick punch slap tap pat rub scratch pinch knock hit "+
+    "strike bounce vibrate shake tremble rattle crack snap shatter crumble crush smash "+
+    "grind chop slice dice mince peel grate blend mix stir whisk beat "+
+    "fold knead mold carve engrave etch paint dye stain polish shine wax "+
+    "buff sand scrub wipe rinse wash dry hang stack pile display showcase "+
+    "present introduce announce declare reveal disclose expose hide conceal cover uncover discover "+
+    "explore investigate research study examine inspect test experiment observe trace chase pursue "+
+    "escape flee avoid dodge evade seek search locate identify recognize notice detect "+
+    "touch smell taste hear view glance stare gaze peek glimpse spot").split(/\s+/);
 (function(){
   var state = {
     mode: "time",
