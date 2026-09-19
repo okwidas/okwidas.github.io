@@ -59,15 +59,61 @@
   }
   tbody td{ padding:11px 14px; border-bottom:1px solid var(--border); vertical-align:middle; }
   tbody tr:last-child td{ border-bottom:none; }
-  tbody tr:hover{ background:rgba(201,174,242,.045); }
+  tbody tr.row{ cursor:pointer; transition:background .12s ease; }
+  tbody tr.row:hover{ background:rgba(201,174,242,.06); }
+  tbody tr.row:hover .name{ color:var(--accent); }
   .pos{ color:var(--accent); font-weight:600; width:52px; font-variant-numeric:tabular-nums; }
-  .name a{ color:var(--text); text-decoration:none; }
-  .name a:hover{ color:var(--accent); text-decoration:underline; }
+  .name{ color:var(--text); transition:color .12s ease; }
   .muted{ color:var(--faint); }
   .req{ color:var(--dim); font-variant-numeric:tabular-nums; }
 
   .empty{ text-align:center; color:var(--faint); font-size:13px; padding:60px 20px; border:1px dashed var(--border-strong); border-radius:12px; }
   .foot-note{ margin-top:20px; font-size:10.5px; color:var(--faint); line-height:1.7; }
+
+  /* modal */
+  #modal[hidden]{ display:none; }
+  #modal{ position:fixed; inset:0; z-index:50; display:flex; align-items:center; justify-content:center; padding:20px; }
+  #modal .backdrop{ position:absolute; inset:0; background:rgba(5,3,9,.72); backdrop-filter:blur(3px); }
+  #modal .card{
+    position:relative; z-index:1; width:100%; max-width:620px; max-height:min(88vh, 820px);
+    overflow-y:auto;
+    background:linear-gradient(180deg, rgba(201,174,242,.05), transparent 140px), var(--panel);
+    border:1px solid var(--border-strong); border-radius:16px;
+    box-shadow:0 24px 60px -24px rgba(0,0,0,.8);
+    padding:24px 26px 22px;
+  }
+  .m-head{ display:flex; align-items:baseline; gap:10px; padding-right:34px; }
+  .m-pos{ color:var(--accent); font-weight:600; font-variant-numeric:tabular-nums; }
+  .m-name{ font-size:19px; font-weight:600; }
+  .m-close{ position:absolute; top:16px; right:16px; background:var(--accent-soft); border:1px solid var(--border-strong); color:var(--text); width:30px; height:30px; border-radius:9px; cursor:pointer; font-family:var(--font); font-size:14px; line-height:1; display:flex; align-items:center; justify-content:center; transition:background .15s ease, color .15s ease; }
+  .m-close:hover{ background:var(--accent); color:var(--bg); }
+
+  .m-video{ position:relative; margin-top:16px; border:1px solid var(--border); border-radius:12px; overflow:hidden; background:#000; aspect-ratio:16/9; }
+  .m-video img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block; }
+  .m-video .play{ position:absolute; inset:0; display:flex; align-items:center; justify-content:center; background:rgba(0,0,0,.25); border-radius:12px; cursor:pointer; transition:background .15s ease; }
+  .m-video .play:hover{ background:rgba(0,0,0,.45); }
+  .m-video .play svg{ width:58px; height:58px; filter:drop-shadow(0 4px 14px rgba(0,0,0,.6)); }
+  .m-video iframe{ position:absolute; inset:0; width:100%; height:100%; border:0; }
+
+  .m-grid{ display:grid; grid-template-columns:repeat(auto-fit, minmax(150px,1fr)); gap:12px; margin-top:18px; }
+  .m-grid .cell{ background:var(--panel-soft); border:1px solid var(--border); border-radius:10px; padding:10px 12px; }
+  .m-grid .k{ font-size:9.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint); margin-bottom:4px; }
+  .m-grid .v{ font-size:13px; color:var(--text); word-break:break-word; }
+  .m-grid a{ color:var(--accent); text-decoration:none; }
+  .m-grid a:hover{ text-decoration:underline; }
+
+  .m-rec{ margin-top:18px; }
+  .m-rec .r-head{ display:flex; align-items:center; justify-content:space-between; margin-bottom:10px; }
+  .m-rec .r-title{ font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--dim); }
+  .m-rec .r-count{ font-size:10.5px; color:var(--faint); }
+  .m-rec-list{ border:1px solid var(--border); border-radius:10px; max-height:260px; overflow-y:auto; }
+  .m-rec-list .rec{ display:flex; align-items:center; gap:10px; padding:9px 12px; border-bottom:1px solid var(--border); font-size:12.5px; }
+  .m-rec-list .rec:last-child{ border-bottom:none; }
+  .rec .pct{ color:var(--accent); font-weight:600; font-variant-numeric:tabular-nums; width:52px; }
+  .rec .who{ flex:1; color:var(--text); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .rec .tag{ font-size:9.5px; text-transform:uppercase; letter-spacing:.08em; color:var(--faint); border:1px solid var(--border); border-radius:5px; padding:2px 6px; }
+  .rec .tag.ok{ color:var(--accent); border-color:var(--accent-soft2); }
+  .m-rec .none{ color:var(--faint); font-size:12px; padding:6px 2px; }
 
   .go-home{ position:fixed; left:50%; bottom:28px; transform:translateX(-50%); z-index:10; display:inline-flex; align-items:center; gap:10px; background:var(--panel); border:1px solid var(--border-strong); border-radius:14px; color:var(--text); text-decoration:none; font-family:var(--font); font-size:13px; padding:13px 26px; box-shadow:0 14px 30px -18px rgba(0,0,0,.8); transition:background .16s ease, color .16s ease, border-color .16s ease; }
   .go-home .arrow{ color:var(--accent); transition:transform .16s ease; }
@@ -81,6 +127,8 @@
     thead th{ padding:10px 10px; }
     tbody td{ padding:10px; }
     .hide-mobile{ display:none; }
+    #modal .card{ padding:18px 16px; }
+    .m-name{ font-size:16px; }
   }
 </style>
 </head>
@@ -100,7 +148,7 @@
 
   <h1>demonlist</h1>
   <div class="meta">
-    <span class="sub">a working mirror of pointercrate/demonlist.</span>
+    <span class="sub">a working mirror of pointercrate/demonlist — click any row for details.</span>
     <span class="updated"><span class="dot"></span><span id="updated">checking…</span></span>
   </div>
 
@@ -110,6 +158,20 @@
 </div>
 
 <a href="../" class="go-home"><span class="arrow">&larr;</span><span>back home</span></a>
+
+<div id="modal" hidden aria-hidden="true">
+  <div class="backdrop"></div>
+  <div class="card" role="dialog" aria-modal="true" aria-labelledby="mName">
+    <button class="m-close" id="mClose" aria-label="close">&times;</button>
+    <div class="m-head">
+      <span class="m-pos" id="mPos"></span>
+      <span class="m-name" id="mName"></span>
+    </div>
+    <div class="m-video" id="mVideo"></div>
+    <div class="m-grid" id="mGrid"></div>
+    <div class="m-rec" id="mRec"></div>
+  </div>
+</div>
 
 <script>
 (function(){
@@ -133,6 +195,120 @@
       return { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c];
     });
   }
+  function ytId(url){
+    var m = String(url || "").match(/(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([\w-]{11})/);
+    return m ? m[1] : null;
+  }
+
+  var recordsMap = {};
+  var byId = {};
+
+  function buildModal(d){
+    document.getElementById("mPos").textContent = "#" + pick(d, ["position", "rank"], "?");
+    document.getElementById("mName").textContent = pick(d, ["name"], "unknown");
+
+    // video preview: thumbnail + play → embed
+    var video = page_video = pick(d, ["video"], null);
+    var vid = ytId(video);
+    var thumb = pick(d, ["thumbnail"], null) || (vid ? "https://i.ytimg.com/vi/" + vid + "/hqdefault.jpg" : null);
+    var vbox = document.getElementById("mVideo");
+    vbox.innerHTML = "";
+    if (thumb){
+      var img = document.createElement("img");
+      img.src = thumb;
+      img.alt = "preview";
+      var play = document.createElement("div");
+      play.className = "play";
+      play.setAttribute("role", "button");
+      play.setAttribute("aria-label", "play preview");
+      play.innerHTML = '<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="11" fill="rgba(0,0,0,.55)" stroke="rgba(255,255,255,.9)" stroke-width="1"/><path d="M9.5 8.2v7.6a.4.4 0 0 0 .6.35l6.4-3.8a.4.4 0 0 0 0-.7l-6.4-3.8a.4.4 0 0 0-.6.35z" fill="rgba(255,255,255,.95)"/></svg>';
+      var once = false;
+      play.addEventListener("click", function(){
+        if (once || !vid) return;
+        once = true;
+        var ifr = document.createElement("iframe");
+        ifr.src = "https://www.youtube-nocookie.com/embed/" + vid + "?rel=0&autoplay=1";
+        ifr.allow = "autoplay; encrypted-media; picture-in-picture";
+        ifr.setAttribute("allowfullscreen", "");
+        vbox.innerHTML = "";
+        vbox.appendChild(ifr);
+      });
+      vbox.appendChild(img);
+      vbox.appendChild(play);
+    } else {
+      vbox.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--faint);font-size:12px">no video preview</div>';
+    }
+
+    // info grid
+    var verifier = esc(nameOf(pick(d, ["verifier"], "")));
+    var creator = esc(nameOf(pick(d, ["publisher"], "")));
+    var req = pick(d, ["requirement", "points"], null);
+    var levelId = pick(d, ["level_id"], null);
+    var recCount = (recordsMap[d.id] || []).length;
+    var cells = [
+      ["verifier", verifier || "—"],
+      ["creator", creator || "—"],
+      ["requirement", req !== null && req !== undefined ? esc(String(req)) + "%" : "—"],
+      ["level id", levelId !== null && levelId !== undefined ? esc(String(levelId)) : "—"],
+      ["completions", String(recCount)]
+    ];
+    var gridHtml = cells.map(function(c){
+      return '<div class="cell"><div class="k">' + c[0] + '</div><div class="v">' + c[1] + '</div></div>';
+    }).join("");
+    if (video){
+      gridHtml += '<div class="cell"><div class="k">video</div><div class="v"><a href="' + esc(video) +
+        '" target="_blank" rel="noopener">watch on youtube &nearr;</a></div></div>';
+    }
+    document.getElementById("mGrid").innerHTML = gridHtml;
+
+    // completions
+    renderRecords(d);
+  }
+
+  var page_video = null;
+
+  function renderRecords(d){
+    var box = document.getElementById("mRec");
+    var recs = (recordsMap[d.id] || []).slice().sort(function(a, b){
+      if ((b.progress||0) !== (a.progress||0)) return (b.progress||0) - (a.progress||0);
+      return String(a.player||"").toLowerCase().localeCompare(String(b.player||"").toLowerCase());
+    });
+    var html = '<div class="r-head"><span class="r-title">completions</span>' +
+      '<span class="r-count">' + recs.length + (recs.length === 1 ? " victor" : " victors") + '</span></div>';
+    if (recs.length === 0){
+      html += '<div class="none">no completion records for this one yet — refresh with the local updater if you expect some.</div>';
+    } else {
+      var shown = recs.slice(0, 120);
+      html += '<div class="m-rec-list">' + shown.map(function(r){
+        var pct = r.progress;
+        var isDone = pct >= 100 || r.status === "approved" || r.status === "completed";
+        var tag = (r.status === "approved" || r.status === "completed") ? "listed"
+          : (r.status || "record");
+        return '<div class="rec">' +
+          '<span class="pct">' + (pct !== null && pct !== undefined ? esc(String(pct)) + "%" : "—") + '</span>' +
+          '<span class="who" title="' + esc(r.player || "") + '">' + esc(r.player || "unknown") + '</span>' +
+          '<span class="tag' + (isDone ? " ok" : "") + '">' + esc(tag) + '</span>' +
+          '</div>';
+      }).join("") + '</div>';
+      if (recs.length > shown.length){
+        html += '<div class="none">+ ' + (recs.length - shown.length) + ' more</div>';
+      }
+    }
+    box.innerHTML = html;
+  }
+
+  function openModal(d){
+    buildModal(d);
+    document.getElementById("modal").hidden = false;
+    document.getElementById("modal").setAttribute("aria-hidden", "false");
+    document.getElementById("mClose").focus();
+    document.body.style.overflow = "hidden";
+  }
+  function closeModal(){
+    document.getElementById("modal").hidden = true;
+    document.getElementById("modal").setAttribute("aria-hidden", "true");
+    document.body.style.overflow = "";
+  }
 
   function render(demons){
     var el = document.getElementById("content");
@@ -140,19 +316,17 @@
       el.innerHTML = '<div class="empty">no data yet — the update job hasn\'t run for the first time.<br>go to Actions → "Update demonlist" → Run workflow.</div>';
       return;
     }
+    byId = {};
+    demons.forEach(function(d){ byId[d.id] = d; });
     var rows = demons.map(function(d){
       var position = pick(d, ["position", "rank"], "?");
       var name = esc(pick(d, ["name"], "unknown"));
       var publisher = esc(nameOf(pick(d, ["publisher"], "")));
       var verifier = esc(nameOf(pick(d, ["verifier"], "")));
-      var video = pick(d, ["video"], null);
       var points = pick(d, ["requirement", "points"], null);
-      var nameCell = video
-        ? '<a href="' + esc(video) + '" target="_blank" rel="noopener">' + name + '</a>'
-        : name;
-      return "<tr>" +
+      return '<tr class="row" data-id="' + esc(String(d.id)) + '">' +
         '<td class="pos">' + esc(position) + "</td>" +
-        '<td class="name">' + nameCell + "</td>" +
+        '<td class="name">' + name + "</td>" +
         '<td class="muted hide-mobile">' + publisher + "</td>" +
         '<td class="muted hide-mobile">' + verifier + "</td>" +
         '<td class="req">' + (points !== null ? esc(points) + "%" : "—") + "</td>" +
@@ -166,7 +340,20 @@
       "</tr></thead>" +
       "<tbody>" + rows + "</tbody>" +
       "</table></div>";
+
+    el.querySelector("tbody").addEventListener("click", function(ev){
+      var tr = ev.target.closest("tr.row");
+      if (!tr) return;
+      var d = byId[tr.getAttribute("data-id")];
+      if (d) openModal(d);
+    });
   }
+
+  document.getElementById("mClose").addEventListener("click", closeModal);
+  document.getElementById("modal").querySelector(".backdrop").addEventListener("click", closeModal);
+  document.addEventListener("keydown", function(ev){
+    if (ev.key === "Escape" && !document.getElementById("modal").hidden) closeModal();
+  });
 
   fetch("data/demonlist.json", { cache: "no-store" })
     .then(function(r){ return r.json(); })
@@ -182,6 +369,13 @@
       document.getElementById("content").innerHTML =
         '<div class="empty">couldn\'t load data/demonlist.json — make sure the file exists in this repo.</div>';
     });
+
+  fetch("data/records.json", { cache: "no-store" })
+    .then(function(r){ return r.ok ? r.json() : Promise.reject(); })
+    .then(function(data){
+      recordsMap = (data && data.demons) || {};
+    })
+    .catch(function(){ recordsMap = {}; });
 
   fetch("data/updated_at.txt", { cache: "no-store" })
     .then(function(r){ return r.text(); })
