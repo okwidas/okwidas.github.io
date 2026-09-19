@@ -244,13 +244,13 @@
     var creator = esc(nameOf(pick(d, ["publisher"], "")));
     var req = pick(d, ["requirement", "points"], null);
     var levelId = pick(d, ["level_id"], null);
-    var recCount = (recordsMap[d.id] || []).length;
+    var vd = victorData(d);
     var cells = [
       ["verifier", verifier || "—"],
       ["creator", creator || "—"],
       ["requirement", req !== null && req !== undefined ? esc(String(req)) + "%" : "—"],
       ["level id", levelId !== null && levelId !== undefined ? esc(String(levelId)) : "—"],
-      ["completions", String(recCount)]
+      ["victors", String(vd.total)]
     ];
     var gridHtml = cells.map(function(c){
       return '<div class="cell"><div class="k">' + c[0] + '</div><div class="v">' + c[1] + '</div></div>';
@@ -267,33 +267,70 @@
 
   var page_video = null;
 
+  function victorData(d){
+    var recs = recordsMap[d.id] || [];
+    var done = recs.filter(function(r){ return (r.progress || 0) >= 100; });
+    var pending = recs.filter(function(r){ var p = r.progress || 0; return p > 0 && p < 100; });
+    var ver = nameOf(pick(d, ["verifier"], ""));
+    var hasVer = ver !== "" && !done.some(function(r){
+      return String(r.player || "").toLowerCase() === ver.toLowerCase();
+    });
+    return { done: done, pending: pending, ver: ver, hasVer: hasVer, total: done.length + (hasVer ? 1 : 0) };
+  }
+
+  function byPctName(a, b){
+    if ((b.progress||0) !== (a.progress||0)) return (b.progress||0) - (a.progress||0);
+    return String(a.player||"").toLowerCase().localeCompare(String(b.player||"").toLowerCase());
+  }
+
   function renderRecords(d){
     var box = document.getElementById("mRec");
-    var recs = (recordsMap[d.id] || []).slice().sort(function(a, b){
-      if ((b.progress||0) !== (a.progress||0)) return (b.progress||0) - (a.progress||0);
-      return String(a.player||"").toLowerCase().localeCompare(String(b.player||"").toLowerCase());
-    });
-    var html = '<div class="r-head"><span class="r-title">completions</span>' +
-      '<span class="r-count">' + recs.length + (recs.length === 1 ? " victor" : " victors") + '</span></div>';
-    if (recs.length === 0){
-      html += '<div class="none">no completion records for this one yet — refresh with the local updater if you expect some.</div>';
+    var vd = victorData(d);
+
+    // victors = the verifier (always a victor) + everyone with 100%
+    var victors = [];
+    if (vd.hasVer) victors.push({ player: vd.ver, progress: 100, special: "verifier" });
+    victors = victors.concat(vd.done.slice().sort(byPctName));
+    var shownVictors = victors.slice(0, 120);
+
+    var html = '<div class="r-head"><span class="r-title">victors</span>' +
+      '<span class="r-count">' + vd.total + (vd.total === 1 ? " victor" : " victors") + '</span></div>';
+    if (shownVictors.length === 0){
+      html += '<div class="none">no victors yet — neither the verifier nor any 100% completion is recorded.</div>';
     } else {
-      var shown = recs.slice(0, 120);
-      html += '<div class="m-rec-list">' + shown.map(function(r){
-        var pct = r.progress;
-        var isDone = pct >= 100 || r.status === "approved" || r.status === "completed";
-        var tag = (r.status === "approved" || r.status === "completed") ? "listed"
-          : (r.status || "record");
+      html += '<div class="m-rec-list">' + shownVictors.map(function(r){
+        var tag;
+        if (r.special) tag = "verifier";
+        else if (r.status === "approved" || r.status === "completed") tag = "listed";
+        else tag = (r.status || "completed") + " ← " + (r.progress || 0) + "%";
         return '<div class="rec">' +
-          '<span class="pct">' + (pct !== null && pct !== undefined ? esc(String(pct)) + "%" : "—") + '</span>' +
+          '<span class="pct">' + esc(String(r.progress != null ? r.progress : 100)) + '%</span>' +
           '<span class="who" title="' + esc(r.player || "") + '">' + esc(r.player || "unknown") + '</span>' +
-          '<span class="tag' + (isDone ? " ok" : "") + '">' + esc(tag) + '</span>' +
+          '<span class="tag ok">' + esc(tag) + '</span>' +
           '</div>';
       }).join("") + '</div>';
-      if (recs.length > shown.length){
-        html += '<div class="none">+ ' + (recs.length - shown.length) + ' more</div>';
+      if (victors.length > shownVictors.length){
+        html += '<div class="none">+ ' + (victors.length - shownVictors.length) + ' more</div>';
       }
     }
+
+    // people who reached list percentage but never finished: NOT victors
+    if (vd.pending.length){
+      var pp = vd.pending.slice().sort(byPctName).slice(0, 120);
+      html += '<div class="r-head" style="margin-top:16px"><span class="r-title">list percentage — not victors</span>' +
+        '<span class="r-count">' + vd.pending.length + '</span></div>';
+      html += '<div class="m-rec-list">' + pp.map(function(r){
+        return '<div class="rec">' +
+          '<span class="pct">' + esc(String(r.progress)) + '%</span>' +
+          '<span class="who" title="' + esc(r.player || "") + '">' + esc(r.player || "unknown") + '</span>' +
+          '<span class="tag">' + esc(r.status || "progress") + '</span>' +
+          '</div>';
+      }).join("") + '</div>';
+      if (vd.pending.length > pp.length){
+        html += '<div class="none">+ ' + (vd.pending.length - pp.length) + ' more</div>';
+      }
+    }
+
     box.innerHTML = html;
   }
 
