@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>okwidas.github.io — demonlist</title>
+<style>
+  :root{
+    --bg:#100e16; --bg-deep:#0b0911; --panel:#151022; --panel-soft:#120d1c;
+    --border:rgba(201,174,242,.14); --border-strong:rgba(201,174,242,.28);
+    --text:#e7e3ee; --dim:#8d84a3; --faint:#4c445e;
+    --accent:#c9aef2; --accent-soft:rgba(201,174,242,.14); --accent-soft2:rgba(201,174,242,.22);
+    --font:ui-monospace,"SF Mono","Cascadia Mono","Roboto Mono",Consolas,"Liberation Mono",monospace;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html,body{ background:var(--bg); color:var(--text); font-family:var(--font); }
+  body{ min-height:100vh; display:flex; flex-direction:column; align-items:center; padding:40px 20px 130px; position:relative; overflow-x:hidden; }
+  @media (prefers-reduced-motion: reduce){ *{ transition:none !important; animation:none !important; } }
+  body::before{ content:""; position:fixed; inset:0; background:radial-gradient(700px 300px at 50% -120px, rgba(201,174,242,.07), transparent 70%); pointer-events:none; z-index:0; }
+
+  .wrap{ position:relative; z-index:1; width:100%; max-width:860px;
+    background:linear-gradient(180deg, rgba(201,174,242,.04), transparent 120px), var(--panel);
+    border:1px solid var(--border); border-radius:18px;
+    box-shadow:0 1px 0 rgba(255,255,255,.03) inset, 0 24px 50px -30px rgba(0,0,0,.7);
+    padding:28px 36px 40px; }
+
+  .topbar{ display:flex; align-items:center; justify-content:space-between; gap:16px; padding-bottom:26px; margin-bottom:28px; border-bottom:1px solid var(--border); }
+  .wordmark{ font-size:17px; letter-spacing:.02em; color:var(--dim); text-decoration:none; }
+  .wordmark b{ color:var(--accent); font-weight:600; }
+  .topnav{ display:flex; gap:6px; }
+  .topnav a{ color:var(--faint); text-decoration:none; font-size:12.5px; padding:6px 11px; border-radius:7px; transition:color .15s ease, background .15s ease; }
+  .topnav a:hover{ color:var(--text); background:var(--accent-soft); }
+  .topnav a.on{ color:var(--accent); background:var(--accent-soft); }
+
+  .sec{ display:flex; align-items:center; gap:12px; font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--dim); margin-bottom:12px; }
+  .sec b{ color:var(--accent); font-weight:600; font-variant-numeric:tabular-nums; }
+  .sec::after{ content:""; flex:1; height:1px; background:var(--border); }
+
+  h1{ font-size:24px; font-weight:600; }
+  .meta{ display:flex; align-items:center; gap:14px; flex-wrap:wrap; margin:8px 0 28px; }
+  .meta .sub{ font-size:12px; color:var(--dim); }
+  .meta .updated{ font-size:11px; color:var(--faint); }
+  .meta .dot{ width:6px; height:6px; border-radius:50%; background:var(--accent); box-shadow:0 0 6px rgba(201,174,242,.5); display:inline-block; margin-right:5px; vertical-align:1px; }
+
+  /* table */
+  .sink{ border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+  table{ width:100%; border-collapse:collapse; font-size:13px; }
+  thead th{
+    position:sticky; top:-1px;
+    background:var(--panel-soft);
+    text-align:left;
+    font-weight:500;
+    color:var(--faint);
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    padding:12px 14px;
+    border-bottom:1px solid var(--border-strong);
+  }
+  tbody td{ padding:11px 14px; border-bottom:1px solid var(--border); vertical-align:middle; }
+  tbody tr:last-child td{ border-bottom:none; }
+  tbody tr:hover{ background:rgba(201,174,242,.045); }
+  .pos{ color:var(--accent); font-weight:600; width:52px; font-variant-numeric:tabular-nums; }
+  .name a{ color:var(--text); text-decoration:none; }
+  .name a:hover{ color:var(--accent); text-decoration:underline; }
+  .muted{ color:var(--faint); }
+  .req{ color:var(--dim); font-variant-numeric:tabular-nums; }
+
+  .empty{ text-align:center; color:var(--faint); font-size:13px; padding:60px 20px; border:1px dashed var(--border-strong); border-radius:12px; }
+  .foot-note{ margin-top:20px; font-size:10.5px; color:var(--faint); line-height:1.7; }
+
+  .go-home{ position:fixed; left:50%; bottom:28px; transform:translateX(-50%); z-index:10; display:inline-flex; align-items:center; gap:10px; background:var(--panel); border:1px solid var(--border-strong); border-radius:14px; color:var(--text); text-decoration:none; font-family:var(--font); font-size:13px; padding:13px 26px; box-shadow:0 14px 30px -18px rgba(0,0,0,.8); transition:background .16s ease, color .16s ease, border-color .16s ease; }
+  .go-home .arrow{ color:var(--accent); transition:transform .16s ease; }
+  .go-home:hover{ background:var(--accent); color:var(--bg); border-color:var(--accent); }
+  .go-home:hover .arrow{ color:var(--bg); transform:translateX(-3px); }
+
+  @media (max-width:640px){
+    body{ padding:20px 12px 120px; }
+    .wrap{ padding:20px 14px 30px; }
+    .topnav a{ font-size:11.5px; padding:5px 8px; }
+    thead th{ padding:10px 10px; }
+    tbody td{ padding:10px; }
+    .hide-mobile{ display:none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="topbar">
+    <a href="../" class="wordmark">okwidas<b>.github.io</b></a>
+    <nav class="topnav">
+      <a href="../typewriter/">typewriter</a>
+      <a href="../dlist/" class="on">dlist</a>
+      <a href="../links.html">links</a>
+    </nav>
+  </header>
+
+  <div class="sec"><b>01</b> dlist</div>
+
+  <h1>demonlist</h1>
+  <div class="meta">
+    <span class="sub">a working mirror of pointercrate/demonlist — served from here, no cult flags.</span>
+    <span class="updated"><span class="dot"></span><span id="updated">checking…</span></span>
+  </div>
+
+  <div id="content">loading…</div>
+  <p class="foot-note" id="dataNote"></p>
+
+</div>
+
+<a href="../" class="go-home"><span class="arrow">&larr;</span><span>back home</span></a>
+
+<script>
+(function(){
+  "use strict";
+
+  function pick(obj, keys, fallback){
+    for (var i = 0; i < keys.length; i++){
+      var v = obj && obj[keys[i]];
+      if (v !== undefined && v !== null) return v;
+    }
+    return fallback;
+  }
+  function nameOf(v){
+    if (v === undefined || v === null) return "";
+    if (typeof v === "string") return v;
+    if (typeof v === "object") return v.name || v.username || "";
+    return String(v);
+  }
+  function esc(s){
+    return String(s).replace(/[&<>"']/g, function(c){
+      return { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c];
+    });
+  }
+
+  function render(demons){
+    var el = document.getElementById("content");
+    if (!demons || demons.length === 0){
+      el.innerHTML = '<div class="empty">no data yet — the update job hasn\'t run for the first time.<br>go to Actions → "Update demonlist" → Run workflow.</div>';
+      return;
+    }
+    var rows = demons.map(function(d){
+      var position = pick(d, ["position", "rank"], "?");
+      var name = esc(pick(d, ["name"], "unknown"));
+      var publisher = esc(nameOf(pick(d, ["publisher"], "")));
+      var verifier = esc(nameOf(pick(d, ["verifier"], "")));
+      var video = pick(d, ["video"], null);
+      var points = pick(d, ["requirement", "points"], null);
+      var nameCell = video
+        ? '<a href="' + esc(video) + '" target="_blank" rel="noopener">' + name + '</a>'
+        : name;
+      return "<tr>" +
+        '<td class="pos">' + esc(position) + "</td>" +
+        '<td class="name">' + nameCell + "</td>" +
+        '<td class="muted hide-mobile">' + publisher + "</td>" +
+        '<td class="muted hide-mobile">' + verifier + "</td>" +
+        '<td class="req">' + (points !== null ? esc(points) + "%" : "—") + "</td>" +
+        "</tr>";
+    }).join("");
+
+    el.innerHTML =
+      '<div class="sink"><table>' +
+      "<thead><tr>" +
+      "<th>#</th><th>demon</th><th class=\"hide-mobile\">publisher</th><th class=\"hide-mobile\">verifier</th><th>req</th>" +
+      "</tr></thead>" +
+      "<tbody>" + rows + "</tbody>" +
+      "</table></div>";
+  }
+
+  fetch("data/demonlist.json", { cache: "no-store" })
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      var list = Array.isArray(data) ? data : (data.demons || []);
+      render(list);
+      if (list.length){
+        document.getElementById("dataNote").textContent =
+          "showing " + list.length + " listed demons. this copy updates hourly from github's side — no direct calls from your browser.";
+      }
+    })
+    .catch(function(){
+      document.getElementById("content").innerHTML =
+        '<div class="empty">couldn\'t load data/demonlist.json — make sure the file exists in this repo.</div>';
+    });
+
+  fetch("data/updated_at.txt", { cache: "no-store" })
+    .then(function(r){ return r.text(); })
+    .then(function(t){
+      document.getElementById("updated").textContent = "last updated " + t.trim() + " UTC";
+    })
+    .catch(function(){
+      document.getElementById("updated").textContent = "update time unknown";
+    });
+})();
+</script>
+</body>
+</html>

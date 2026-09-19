@@ -1,0 +1,2852 @@
+[
+  {
+    "id": 698,
+    "position": 1,
+    "name": "Society",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=3CoEaH1CM7o",
+    "thumbnail": "https://i.ytimg.com/vi/3CoEaH1CM7o/mqdefault.jpg",
+    "publisher": {
+      "id": 70224,
+      "name": "Neomarbilan",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51613,
+      "name": "[WBT] wPopoff",
+      "banned": false
+    },
+    "level_id": 127323087
+  },
+  {
+    "id": 635,
+    "position": 2,
+    "name": "Thinking Space II",
+    "requirement": 79,
+    "video": "https://www.youtube.com/watch?v=CELNmHwln_c",
+    "thumbnail": "https://i.ytimg.com/vi/CELNmHwln_c/mqdefault.jpg",
+    "publisher": {
+      "id": 4624,
+      "name": "CairoX",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 119544028
+  },
+  {
+    "id": 623,
+    "position": 3,
+    "name": "Amethyst",
+    "requirement": 59,
+    "video": "https://www.youtube.com/watch?v=4lfkzz1VCbA",
+    "thumbnail": "https://i.ytimg.com/vi/4lfkzz1VCbA/mqdefault.jpg",
+    "publisher": {
+      "id": 62758,
+      "name": "iMist",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51613,
+      "name": "[WBT] wPopoff",
+      "banned": false
+    },
+    "level_id": 119550490
+  },
+  {
+    "id": 638,
+    "position": 4,
+    "name": "Flamewall",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=x4Io4zkWVRw",
+    "thumbnail": "https://i.ytimg.com/vi/wS4VXKN-ses/mqdefault.jpg",
+    "publisher": {
+      "id": 64718,
+      "name": "Narwall",
+      "banned": false
+    },
+    "verifier": {
+      "id": 34423,
+      "name": "[400] CuatrocientosYT",
+      "banned": false
+    },
+    "level_id": 126242564
+  },
+  {
+    "id": 562,
+    "position": 5,
+    "name": "Tidal Wave",
+    "requirement": 72,
+    "video": "https://www.youtube.com/watch?v=9fsZ014qB3s",
+    "thumbnail": "https://i.ytimg.com/vi/9fsZ014qB3s/mqdefault.jpg",
+    "publisher": {
+      "id": 56892,
+      "name": "OniLink",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 86407629
+  },
+  {
+    "id": 702,
+    "position": 6,
+    "name": "Green Bullet",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=JG-qcvVkZFw",
+    "thumbnail": "https://i.ytimg.com/vi/JG-qcvVkZFw/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 50481,
+      "name": "[UFA] Nickname09",
+      "banned": true
+    },
+    "level_id": 142896409
+  },
+  {
+    "id": 671,
+    "position": 7,
+    "name": "ORBIT",
+    "requirement": 65,
+    "video": "https://www.youtube.com/watch?v=QKcv8DkNPd0",
+    "thumbnail": "https://i.ytimg.com/vi/QKcv8DkNPd0/mqdefault.jpg",
+    "publisher": {
+      "id": 3021,
+      "name": "MindCap",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 133175713
+  },
+  {
+    "id": 711,
+    "position": 8,
+    "name": "Antarctic Lights",
+    "requirement": 75,
+    "video": "https://www.youtube.com/watch?v=Uue4ZRhVf-I",
+    "thumbnail": "https://i.ytimg.com/vi/Uue4ZRhVf-I/mqdefault.jpg",
+    "publisher": {
+      "id": 38692,
+      "name": "declanlc",
+      "banned": false
+    },
+    "verifier": {
+      "id": 32305,
+      "name": "Axinity",
+      "banned": false
+    },
+    "level_id": 144988390
+  },
+  {
+    "id": 589,
+    "position": 9,
+    "name": "Nullscapes",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=EztneTPp5CU",
+    "thumbnail": "https://i.ytimg.com/vi/EztneTPp5CU/mqdefault.jpg",
+    "publisher": {
+      "id": 2513,
+      "name": "Kiba",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 109780665
+  },
+  {
+    "id": 660,
+    "position": 10,
+    "name": "Quanteuse processing",
+    "requirement": 60,
+    "video": "https://www.youtube.com/watch?v=j5NC0u1Q91Q",
+    "thumbnail": "https://i.ytimg.com/vi/j5NC0u1Q91Q/mqdefault.jpg",
+    "publisher": {
+      "id": 40438,
+      "name": "Renn241",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 117692518
+  },
+  {
+    "id": 594,
+    "position": 11,
+    "name": "BOOBAWAMBA",
+    "requirement": 63,
+    "video": "https://www.youtube.com/watch?v=20fYiqLAo_E",
+    "thumbnail": "https://i.ytimg.com/vi/20fYiqLAo_E/mqdefault.jpg",
+    "publisher": {
+      "id": 55509,
+      "name": "Akunakunn",
+      "banned": false
+    },
+    "verifier": {
+      "id": 50518,
+      "name": "eastshark",
+      "banned": false
+    },
+    "level_id": 110816181
+  },
+  {
+    "id": 700,
+    "position": 12,
+    "name": "The Bloop",
+    "requirement": 67,
+    "video": "https://www.youtube.com/watch?v=ROuXHSKEhHA",
+    "thumbnail": "https://i.ytimg.com/vi/ROuXHSKEhHA/mqdefault.jpg",
+    "publisher": {
+      "id": 50924,
+      "name": "[TARIQ] murkkat",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 135661111
+  },
+  {
+    "id": 620,
+    "position": 13,
+    "name": "Every End",
+    "requirement": 67,
+    "video": "https://www.youtube.com/watch?v=AO--mVVFtKI",
+    "thumbnail": "https://i.ytimg.com/vi/AO--mVVFtKI/mqdefault.jpg",
+    "publisher": {
+      "id": 3021,
+      "name": "MindCap",
+      "banned": false
+    },
+    "verifier": {
+      "id": 50503,
+      "name": "[FOWL] Hqmy",
+      "banned": false
+    },
+    "level_id": 116174063
+  },
+  {
+    "id": 680,
+    "position": 14,
+    "name": "Penumbral",
+    "requirement": 80,
+    "video": "https://www.youtube.com/watch?v=nVHPFf13M-I",
+    "thumbnail": "https://i.ytimg.com/vi/nVHPFf13M-I/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 54183,
+      "name": "[UFA] w3rty",
+      "banned": true
+    },
+    "level_id": 134942736
+  },
+  {
+    "id": 428,
+    "position": 15,
+    "name": "Silent clubstep",
+    "requirement": 63,
+    "video": "https://www.youtube.com/watch?v=GR4OMkS3SN8",
+    "thumbnail": "https://i.ytimg.com/vi/GR4OMkS3SN8/mqdefault.jpg",
+    "publisher": {
+      "id": 51553,
+      "name": "TheRealSailent",
+      "banned": false
+    },
+    "verifier": {
+      "id": 31606,
+      "name": "[DL] zoe",
+      "banned": false
+    },
+    "level_id": 4125776
+  },
+  {
+    "id": 669,
+    "position": 16,
+    "name": "Ashley Wave Trials",
+    "requirement": 77,
+    "video": "https://www.youtube.com/watch?v=aTxt76U3e2Q",
+    "thumbnail": "https://i.ytimg.com/vi/aTxt76U3e2Q/mqdefault.jpg",
+    "publisher": {
+      "id": 60293,
+      "name": "oddmod",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 62912799
+  },
+  {
+    "id": 704,
+    "position": 17,
+    "name": "Ultra Paracosm",
+    "requirement": 37,
+    "video": "https://www.youtube.com/watch?v=4V24spYQWuE",
+    "thumbnail": "https://i.ytimg.com/vi/4V24spYQWuE/mqdefault.jpg",
+    "publisher": {
+      "id": 38692,
+      "name": "declanlc",
+      "banned": false
+    },
+    "verifier": {
+      "id": 34665,
+      "name": "[HOLA] Wity",
+      "banned": false
+    },
+    "level_id": 138704906
+  },
+  {
+    "id": 613,
+    "position": 18,
+    "name": "andromeda",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=mk3TDemdkC0",
+    "thumbnail": "https://i.ytimg.com/vi/mk3TDemdkC0/mqdefault.jpg",
+    "publisher": {
+      "id": 60450,
+      "name": "Insxne97",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39295,
+      "name": "[WBT] Taiago",
+      "banned": false
+    },
+    "level_id": 114283297
+  },
+  {
+    "id": 696,
+    "position": 19,
+    "name": "KILLSTEALER",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=uhH4oqWrsfo",
+    "thumbnail": "https://i.ytimg.com/vi/uhH4oqWrsfo/mqdefault.jpg",
+    "publisher": {
+      "id": 42342,
+      "name": "rynoxious",
+      "banned": false
+    },
+    "verifier": {
+      "id": 38083,
+      "name": "[OG B] kloone",
+      "banned": false
+    },
+    "level_id": 138781722
+  },
+  {
+    "id": 649,
+    "position": 20,
+    "name": "Subsuming Vortex",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=0eYG1ogJpIQ",
+    "thumbnail": "https://i.ytimg.com/vi/0eYG1ogJpIQ/mqdefault.jpg",
+    "publisher": {
+      "id": 33483,
+      "name": "[TCD] Cursed",
+      "banned": false
+    },
+    "verifier": {
+      "id": 33483,
+      "name": "[TCD] Cursed",
+      "banned": false
+    },
+    "level_id": 127997391
+  },
+  {
+    "id": 602,
+    "position": 21,
+    "name": "Anathema",
+    "requirement": 77,
+    "video": "https://www.youtube.com/watch?v=_uKwmjHmySI",
+    "thumbnail": "https://i.ytimg.com/vi/_uKwmjHmySI/mqdefault.jpg",
+    "publisher": {
+      "id": 3661,
+      "name": "nikroplays",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 112313819
+  },
+  {
+    "id": 486,
+    "position": 22,
+    "name": "Avernus",
+    "requirement": 67,
+    "video": "https://www.youtube.com/watch?v=16Zh8jssanc",
+    "thumbnail": "https://i.ytimg.com/vi/16Zh8jssanc/mqdefault.jpg",
+    "publisher": {
+      "id": 53449,
+      "name": "PockeWindfish",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 89496627
+  },
+  {
+    "id": 442,
+    "position": 23,
+    "name": "Acheron",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=sBKR6aUorzA",
+    "thumbnail": "https://i.ytimg.com/vi/RMRBhZJrgkw/mqdefault.jpg",
+    "publisher": {
+      "id": 35283,
+      "name": "ryamu",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 73667628
+  },
+  {
+    "id": 592,
+    "position": 24,
+    "name": "Spectre",
+    "requirement": 75,
+    "video": "https://www.youtube.com/watch?v=MzsSLKJrLSI",
+    "thumbnail": "https://i.ytimg.com/vi/MzsSLKJrLSI/mqdefault.jpg",
+    "publisher": {
+      "id": 698,
+      "name": "xander",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35599,
+      "name": "PersonHuman42",
+      "banned": false
+    },
+    "level_id": 110815379
+  },
+  {
+    "id": 577,
+    "position": 25,
+    "name": "Menace",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=nnkgghxxsEE",
+    "thumbnail": "https://i.ytimg.com/vi/nnkgghxxsEE/mqdefault.jpg",
+    "publisher": {
+      "id": 59258,
+      "name": "Arraegen",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 107805281
+  },
+  {
+    "id": 413,
+    "position": 26,
+    "name": "Abyss of Darkness",
+    "requirement": 75,
+    "video": "https://www.youtube.com/watch?v=ejJkpqcMMCY",
+    "thumbnail": "https://i.ytimg.com/vi/ejJkpqcMMCY/mqdefault.jpg",
+    "publisher": {
+      "id": 31575,
+      "name": "Exen",
+      "banned": true
+    },
+    "verifier": {
+      "id": 33483,
+      "name": "[TCD] Cursed",
+      "banned": false
+    },
+    "level_id": 49896559
+  },
+  {
+    "id": 639,
+    "position": 27,
+    "name": "Defeated Circles",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=nU5AQPzd2YA",
+    "thumbnail": "https://i.ytimg.com/vi/nU5AQPzd2YA/mqdefault.jpg",
+    "publisher": {
+      "id": 64802,
+      "name": "GXQ",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 120012581
+  },
+  {
+    "id": 715,
+    "position": 28,
+    "name": "FOREST OF SPIKES",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=WJYh3dW8Bfo",
+    "thumbnail": "https://i.ytimg.com/vi/WJYh3dW8Bfo/mqdefault.jpg",
+    "publisher": {
+      "id": 52342,
+      "name": "bims",
+      "banned": false
+    },
+    "verifier": {
+      "id": 56916,
+      "name": "Brian_Cheese",
+      "banned": false
+    },
+    "level_id": 145709435
+  },
+  {
+    "id": 520,
+    "position": 29,
+    "name": "Tunnel of Despair",
+    "requirement": 79,
+    "video": "https://www.youtube.com/watch?v=LpS4JREhW98",
+    "thumbnail": "https://i.ytimg.com/vi/LpS4JREhW98/mqdefault.jpg",
+    "publisher": {
+      "id": 31575,
+      "name": "Exen",
+      "banned": true
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 91351939
+  },
+  {
+    "id": 468,
+    "position": 30,
+    "name": "Kyouki",
+    "requirement": 72,
+    "video": "https://www.youtube.com/watch?v=KDa5c0CJTHs",
+    "thumbnail": "https://i.ytimg.com/vi/KDa5c0CJTHs/mqdefault.jpg",
+    "publisher": {
+      "id": 40612,
+      "name": "｛出見塩｝",
+      "banned": false
+    },
+    "verifier": {
+      "id": 40612,
+      "name": "｛出見塩｝",
+      "banned": false
+    },
+    "level_id": 86018142
+  },
+  {
+    "id": 668,
+    "position": 31,
+    "name": "Based After Based",
+    "requirement": 74,
+    "video": "https://www.youtube.com/watch?v=yQBFyUvB3lY",
+    "thumbnail": "https://i.ytimg.com/vi/yQBFyUvB3lY/mqdefault.jpg",
+    "publisher": {
+      "id": 55509,
+      "name": "Akunakunn",
+      "banned": false
+    },
+    "verifier": {
+      "id": 130,
+      "name": "DiamondSplash",
+      "banned": false
+    },
+    "level_id": 110534288
+  },
+  {
+    "id": 528,
+    "position": 32,
+    "name": "The Lightning Rod",
+    "requirement": 63,
+    "video": "https://www.youtube.com/watch?v=nQDTi077O6M",
+    "thumbnail": "https://i.ytimg.com/vi/nQDTi077O6M/mqdefault.jpg",
+    "publisher": {
+      "id": 51641,
+      "name": "Lavatrex",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51641,
+      "name": "Lavatrex",
+      "banned": false
+    },
+    "level_id": 93917076
+  },
+  {
+    "id": 380,
+    "position": 33,
+    "name": "Slaughterhouse",
+    "requirement": 75,
+    "video": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
+    "thumbnail": "https://i.ytimg.com/vi/X2uKSNUJPWI/mqdefault.jpg",
+    "publisher": {
+      "id": 3245,
+      "name": "icedcave",
+      "banned": false
+    },
+    "verifier": {
+      "id": 5223,
+      "name": "[TCD] Doggie",
+      "banned": false
+    },
+    "level_id": 27690100
+  },
+  {
+    "id": 612,
+    "position": 34,
+    "name": "Subterminal Point",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=h2wmRMgACH4",
+    "thumbnail": "https://i.ytimg.com/vi/h2wmRMgACH4/mqdefault.jpg",
+    "publisher": {
+      "id": 4410,
+      "name": "SyQual",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51292,
+      "name": "[ILUV] PoCle",
+      "banned": false
+    },
+    "level_id": 113599729
+  },
+  {
+    "id": 501,
+    "position": 35,
+    "name": "KOCMOC",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=2CxE-UWCIG4",
+    "thumbnail": "https://i.ytimg.com/vi/2CxE-UWCIG4/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 87665224
+  },
+  {
+    "id": 709,
+    "position": 36,
+    "name": "cognitohazard",
+    "requirement": 75,
+    "video": "https://www.youtube.com/watch?v=T5g0r16X_ZA",
+    "thumbnail": "https://i.ytimg.com/vi/T5g0r16X_ZA/mqdefault.jpg",
+    "publisher": {
+      "id": 55758,
+      "name": "MercuryDT",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 130891319
+  },
+  {
+    "id": 697,
+    "position": 37,
+    "name": "Maniacal Chains",
+    "requirement": 85,
+    "video": "https://www.youtube.com/watch?v=TzeMJeIu6bY",
+    "thumbnail": "https://i.ytimg.com/vi/TzeMJeIu6bY/mqdefault.jpg",
+    "publisher": {
+      "id": 70124,
+      "name": "LordDivinity",
+      "banned": false
+    },
+    "verifier": {
+      "id": 41404,
+      "name": "spcreat",
+      "banned": false
+    },
+    "level_id": 48991380
+  },
+  {
+    "id": 679,
+    "position": 38,
+    "name": "BEING HOME",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=kt7FnUzK8CY",
+    "thumbnail": "https://i.ytimg.com/vi/kt7FnUzK8CY/mqdefault.jpg",
+    "publisher": {
+      "id": 54585,
+      "name": "Turtl123",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51270,
+      "name": "[OG] goobs",
+      "banned": false
+    },
+    "level_id": 130327668
+  },
+  {
+    "id": 516,
+    "position": 39,
+    "name": "Deimos",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=b2yHaIk5zio",
+    "thumbnail": "https://i.ytimg.com/vi/421xfxmjSn0/mqdefault.jpg",
+    "publisher": {
+      "id": 33044,
+      "name": "ItsHybrid",
+      "banned": false
+    },
+    "verifier": {
+      "id": 5223,
+      "name": "[TCD] Doggie",
+      "banned": false
+    },
+    "level_id": 93091893
+  },
+  {
+    "id": 706,
+    "position": 40,
+    "name": "Sacrifice",
+    "requirement": 72,
+    "video": "https://www.youtube.com/watch?v=Sth67PA8XBU",
+    "thumbnail": "https://i.ytimg.com/vi/Sth67PA8XBU/mqdefault.jpg",
+    "publisher": {
+      "id": 32052,
+      "name": "Laniakea",
+      "banned": false
+    },
+    "verifier": {
+      "id": 32052,
+      "name": "Laniakea",
+      "banned": false
+    },
+    "level_id": 141052363
+  },
+  {
+    "id": 652,
+    "position": 41,
+    "name": "CHIL",
+    "requirement": 78,
+    "video": "https://www.youtube.com/watch?v=DROMiCc2ZRM",
+    "thumbnail": "https://i.ytimg.com/vi/DROMiCc2ZRM/mqdefault.jpg",
+    "publisher": {
+      "id": 55261,
+      "name": "McCoco",
+      "banned": false
+    },
+    "verifier": {
+      "id": 55261,
+      "name": "McCoco",
+      "banned": false
+    },
+    "level_id": 114281093
+  },
+  {
+    "id": 677,
+    "position": 42,
+    "name": "zorin",
+    "requirement": 62,
+    "video": "https://www.youtube.com/watch?v=U19vmpenb9g",
+    "thumbnail": "https://i.ytimg.com/vi/U19vmpenb9g/mqdefault.jpg",
+    "publisher": {
+      "id": 57060,
+      "name": "태리",
+      "banned": false
+    },
+    "verifier": {
+      "id": 62094,
+      "name": "[미소노 미카] 구아이",
+      "banned": false
+    },
+    "level_id": 134541844
+  },
+  {
+    "id": 391,
+    "position": 43,
+    "name": "Sakupen Circles",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=ofG2mJi9kEA",
+    "thumbnail": "https://i.ytimg.com/vi/ofG2mJi9kEA/mqdefault.jpg",
+    "publisher": {
+      "id": 35840,
+      "name": "[TCD] Diamond",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35840,
+      "name": "[TCD] Diamond",
+      "banned": false
+    },
+    "level_id": 76962930
+  },
+  {
+    "id": 655,
+    "position": 44,
+    "name": "The Salt Factory",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=lQ7M-Sgov24",
+    "thumbnail": "https://i.ytimg.com/vi/lQ7M-Sgov24/mqdefault.jpg",
+    "publisher": {
+      "id": 50481,
+      "name": "[UFA] Nickname09",
+      "banned": true
+    },
+    "verifier": {
+      "id": 50481,
+      "name": "[UFA] Nickname09",
+      "banned": true
+    },
+    "level_id": 113045735
+  },
+  {
+    "id": 695,
+    "position": 45,
+    "name": "Master of Puppets",
+    "requirement": 83,
+    "video": "https://www.youtube.com/watch?v=JBZ-lrBgkl0",
+    "thumbnail": "https://i.ytimg.com/vi/JBZ-lrBgkl0/mqdefault.jpg",
+    "publisher": {
+      "id": 38217,
+      "name": "TheZinkYT",
+      "banned": false
+    },
+    "verifier": {
+      "id": 38612,
+      "name": "[TMG] Scotchtape",
+      "banned": false
+    },
+    "level_id": 136396693
+  },
+  {
+    "id": 648,
+    "position": 46,
+    "name": "Silentlocked",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=O-IQeUdEGvI",
+    "thumbnail": "https://i.ytimg.com/vi/O-IQeUdEGvI/mqdefault.jpg",
+    "publisher": {
+      "id": 31596,
+      "name": "GDSkele",
+      "banned": false
+    },
+    "verifier": {
+      "id": 32940,
+      "name": "TFIBB",
+      "banned": false
+    },
+    "level_id": 113959291
+  },
+  {
+    "id": 545,
+    "position": 47,
+    "name": "Eyes in the Water",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=yvLwiOy3KEA",
+    "thumbnail": "https://i.ytimg.com/vi/yvLwiOy3KEA/mqdefault.jpg",
+    "publisher": {
+      "id": 711,
+      "name": "hawkyre",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36906,
+      "name": "[DL] LordVadercraft",
+      "banned": false
+    },
+    "level_id": 95851008
+  },
+  {
+    "id": 667,
+    "position": 48,
+    "name": "Voltage",
+    "requirement": 57,
+    "video": "https://www.youtube.com/watch?v=wBRvBN9tmlc",
+    "thumbnail": "https://i.ytimg.com/vi/wBRvBN9tmlc/mqdefault.jpg",
+    "publisher": {
+      "id": 65429,
+      "name": "ThePurgatory",
+      "banned": false
+    },
+    "verifier": {
+      "id": 31978,
+      "name": "[OG B] maybee",
+      "banned": true
+    },
+    "level_id": 131599104
+  },
+  {
+    "id": 587,
+    "position": 49,
+    "name": "KOSETSU",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=hZ8vFX8z_BU",
+    "thumbnail": "https://i.ytimg.com/vi/hZ8vFX8z_BU/mqdefault.jpg",
+    "publisher": {
+      "id": 59822,
+      "name": "fwe",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39295,
+      "name": "[WBT] Taiago",
+      "banned": false
+    },
+    "level_id": 109439644
+  },
+  {
+    "id": 663,
+    "position": 50,
+    "name": "Through The Gates",
+    "requirement": 90,
+    "video": "https://www.youtube.com/watch?v=4yHA6jux5UI",
+    "thumbnail": "https://i.ytimg.com/vi/4yHA6jux5UI/mqdefault.jpg",
+    "publisher": {
+      "id": 67127,
+      "name": "TeamTheDashers",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 49072489
+  },
+  {
+    "id": 379,
+    "position": 51,
+    "name": "Firework",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=QBe5x2o9v2w",
+    "thumbnail": "https://i.ytimg.com/vi/QBe5x2o9v2w/mqdefault.jpg",
+    "publisher": {
+      "id": 36915,
+      "name": "[TCD] Trick",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36915,
+      "name": "[TCD] Trick",
+      "banned": false
+    },
+    "level_id": 75206202
+  },
+  {
+    "id": 673,
+    "position": 52,
+    "name": "NOMAD",
+    "requirement": 72,
+    "video": "https://www.youtube.com/watch?v=H2TkHbEX__A",
+    "thumbnail": "https://i.ytimg.com/vi/H2TkHbEX__A/mqdefault.jpg",
+    "publisher": {
+      "id": 68337,
+      "name": "ReeseVT",
+      "banned": false
+    },
+    "verifier": {
+      "id": 32052,
+      "name": "Laniakea",
+      "banned": false
+    },
+    "level_id": 115077305
+  },
+  {
+    "id": 658,
+    "position": 53,
+    "name": "Snowbound",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=cjHwgbtAkXU",
+    "thumbnail": "https://i.ytimg.com/vi/cjHwgbtAkXU/mqdefault.jpg",
+    "publisher": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "level_id": 120289520
+  },
+  {
+    "id": 640,
+    "position": 54,
+    "name": "CONVULSION",
+    "requirement": 64,
+    "video": "https://www.youtube.com/watch?v=qeRKuyU3eGI",
+    "thumbnail": "https://i.ytimg.com/vi/qeRKuyU3eGI/mqdefault.jpg",
+    "publisher": {
+      "id": 41470,
+      "name": "stellar",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 113322063
+  },
+  {
+    "id": 705,
+    "position": 55,
+    "name": "NervHell",
+    "requirement": 64,
+    "video": "https://www.youtube.com/watch?v=1zrvPgDAoaA",
+    "thumbnail": "https://i.ytimg.com/vi/1zrvPgDAoaA/mqdefault.jpg",
+    "publisher": {
+      "id": 71302,
+      "name": "ASVTeam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 55538,
+      "name": "ChopBlox",
+      "banned": false
+    },
+    "level_id": 143718114
+  },
+  {
+    "id": 464,
+    "position": 56,
+    "name": "poocubed",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=fzL31vai1ms",
+    "thumbnail": "https://i.ytimg.com/vi/fzL31vai1ms/mqdefault.jpg",
+    "publisher": {
+      "id": 42495,
+      "name": "Liisp",
+      "banned": false
+    },
+    "verifier": {
+      "id": 38020,
+      "name": "Kyasshukodo",
+      "banned": false
+    },
+    "level_id": 85133223
+  },
+  {
+    "id": 683,
+    "position": 57,
+    "name": "Calibrate",
+    "requirement": 63,
+    "video": "https://www.youtube.com/watch?v=6WYnZryX_mg",
+    "thumbnail": "https://i.ytimg.com/vi/6WYnZryX_mg/mqdefault.jpg",
+    "publisher": {
+      "id": 52141,
+      "name": "[SARK] Bamvie",
+      "banned": false
+    },
+    "verifier": {
+      "id": 52917,
+      "name": "[떡볶이과자] Blebae",
+      "banned": false
+    },
+    "level_id": 136981369
+  },
+  {
+    "id": 487,
+    "position": 58,
+    "name": "MINUSdry",
+    "requirement": 75,
+    "video": "https://www.youtube.com/watch?v=YvA8ehhzz0Q",
+    "thumbnail": "https://i.ytimg.com/vi/YvA8ehhzz0Q/mqdefault.jpg",
+    "publisher": {
+      "id": 41103,
+      "name": "CDMusic",
+      "banned": false
+    },
+    "verifier": {
+      "id": 2275,
+      "name": "Varium",
+      "banned": false
+    },
+    "level_id": 89414220
+  },
+  {
+    "id": 496,
+    "position": 59,
+    "name": "Saul Goodman",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=hjs5PjUaw9k",
+    "thumbnail": "https://i.ytimg.com/vi/hjs5PjUaw9k/mqdefault.jpg",
+    "publisher": {
+      "id": 40438,
+      "name": "Renn241",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6161,
+      "name": "bloom",
+      "banned": true
+    },
+    "level_id": 90477539
+  },
+  {
+    "id": 614,
+    "position": 60,
+    "name": "Apocalyptic Trilogy",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=RUBbpsTR5eU",
+    "thumbnail": "https://i.ytimg.com/vi/RUBbpsTR5eU/mqdefault.jpg",
+    "publisher": {
+      "id": 40245,
+      "name": "APTeamOfficial",
+      "banned": false
+    },
+    "verifier": {
+      "id": 33116,
+      "name": "Polterghast",
+      "banned": false
+    },
+    "level_id": 113443235
+  },
+  {
+    "id": 630,
+    "position": 61,
+    "name": "Sevvend Clubstep",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
+    "thumbnail": "https://i.ytimg.com/vi/TvA8EJTJFCc/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 57014,
+      "name": "[UFA] Vorten",
+      "banned": true
+    },
+    "level_id": 120255728
+  },
+  {
+    "id": 427,
+    "position": 62,
+    "name": "The Hallucination",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=tYbXsNkO9HE",
+    "thumbnail": "https://i.ytimg.com/vi/tYbXsNkO9HE/mqdefault.jpg",
+    "publisher": {
+      "id": 4410,
+      "name": "SyQual",
+      "banned": false
+    },
+    "verifier": {
+      "id": 4374,
+      "name": "VoTcHi",
+      "banned": false
+    },
+    "level_id": 81139702
+  },
+  {
+    "id": 707,
+    "position": 63,
+    "name": "Pinnacle of Life",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=gQl5iY1ekyE",
+    "thumbnail": "https://i.ytimg.com/vi/gQl5iY1ekyE/mqdefault.jpg",
+    "publisher": {
+      "id": 56410,
+      "name": "skzyl",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42488,
+      "name": "[DL] vonic",
+      "banned": false
+    },
+    "level_id": 144012996
+  },
+  {
+    "id": 526,
+    "position": 64,
+    "name": "COMBUSTION",
+    "requirement": 76,
+    "video": "https://www.youtube.com/watch?v=3cTR4XUcA28",
+    "thumbnail": "https://i.ytimg.com/vi/3cTR4XUcA28/mqdefault.jpg",
+    "publisher": {
+      "id": 3971,
+      "name": "[SKWAD] Cersia",
+      "banned": false
+    },
+    "verifier": {
+      "id": 4543,
+      "name": "[SKWAD] Slithium",
+      "banned": false
+    },
+    "level_id": 94359172
+  },
+  {
+    "id": 713,
+    "position": 65,
+    "name": "Haunted Ship",
+    "requirement": 61,
+    "video": "https://www.youtube.com/watch?v=22l59QGmL48",
+    "thumbnail": "https://i.ytimg.com/vi/22l59QGmL48/mqdefault.jpg",
+    "publisher": {
+      "id": 40014,
+      "name": "awesomeme360",
+      "banned": false
+    },
+    "verifier": {
+      "id": 50960,
+      "name": "[STACK] Washed",
+      "banned": false
+    },
+    "level_id": 143523624
+  },
+  {
+    "id": 642,
+    "position": 66,
+    "name": "Loops of Fury",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=9HBG3i5zbw8",
+    "thumbnail": "https://i.ytimg.com/vi/9HBG3i5zbw8/mqdefault.jpg",
+    "publisher": {
+      "id": 59124,
+      "name": "[TCC] Enfur",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51771,
+      "name": "[TCC] Cork",
+      "banned": false
+    },
+    "level_id": 126571887
+  },
+  {
+    "id": 558,
+    "position": 67,
+    "name": "Deadlier Clubstep",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=eRhgaF0r5Q0",
+    "thumbnail": "https://i.ytimg.com/vi/eRhgaF0r5Q0/mqdefault.jpg",
+    "publisher": {
+      "id": 41319,
+      "name": "HeroZombie80",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53295,
+      "name": "Jenath",
+      "banned": false
+    },
+    "level_id": 96314787
+  },
+  {
+    "id": 674,
+    "position": 68,
+    "name": "Stellar Night",
+    "requirement": 78,
+    "video": "https://www.youtube.com/watch?v=XpBY-eMYZTE",
+    "thumbnail": "https://i.ytimg.com/vi/XpBY-eMYZTE/mqdefault.jpg",
+    "publisher": {
+      "id": 3245,
+      "name": "icedcave",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37857,
+      "name": "Tuggy",
+      "banned": false
+    },
+    "level_id": 83244159
+  },
+  {
+    "id": 708,
+    "position": 69,
+    "name": "Prismline",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=pIHOHz3i0Rw",
+    "thumbnail": "https://i.ytimg.com/vi/pIHOHz3i0Rw/mqdefault.jpg",
+    "publisher": {
+      "id": 71493,
+      "name": "ItsHarryy",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37603,
+      "name": "Wain",
+      "banned": false
+    },
+    "level_id": 135148907
+  },
+  {
+    "id": 485,
+    "position": 70,
+    "name": "Edge of Destiny",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=rUphe3H59yU",
+    "thumbnail": "https://i.ytimg.com/vi/rUphe3H59yU/mqdefault.jpg",
+    "publisher": {
+      "id": 41103,
+      "name": "CDMusic",
+      "banned": false
+    },
+    "verifier": {
+      "id": 33116,
+      "name": "Polterghast",
+      "banned": false
+    },
+    "level_id": 89187968
+  },
+  {
+    "id": 699,
+    "position": 71,
+    "name": "Losing Your Mind",
+    "requirement": 67,
+    "video": "https://www.youtube.com/watch?v=LXp7t5gjyX8",
+    "thumbnail": "https://i.ytimg.com/vi/LXp7t5gjyX8/mqdefault.jpg",
+    "publisher": {
+      "id": 70294,
+      "name": "GDgalaxygaming",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37331,
+      "name": "[OG B] Laysah",
+      "banned": false
+    },
+    "level_id": 139508889
+  },
+  {
+    "id": 495,
+    "position": 72,
+    "name": "Solar Flare",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=eHQNgty8ypY",
+    "thumbnail": "https://i.ytimg.com/vi/eHQNgty8ypY/mqdefault.jpg",
+    "publisher": {
+      "id": 53409,
+      "name": "Linear",
+      "banned": false
+    },
+    "verifier": {
+      "id": 4531,
+      "name": "[1319] swiborg",
+      "banned": false
+    },
+    "level_id": 90390075
+  },
+  {
+    "id": 670,
+    "position": 73,
+    "name": "The Catacombs",
+    "requirement": 60,
+    "video": "https://www.youtube.com/watch?v=T9-75lfKVQg",
+    "thumbnail": "https://i.ytimg.com/vi/T9-75lfKVQg/mqdefault.jpg",
+    "publisher": {
+      "id": 3971,
+      "name": "[SKWAD] Cersia",
+      "banned": false
+    },
+    "verifier": {
+      "id": 4543,
+      "name": "[SKWAD] Slithium",
+      "banned": false
+    },
+    "level_id": 104232191
+  },
+  {
+    "id": 467,
+    "position": 74,
+    "name": "LIMBO",
+    "requirement": 64,
+    "video": "https://www.youtube.com/watch?v=kXYMbaMVOZg",
+    "thumbnail": "https://i.ytimg.com/vi/kXYMbaMVOZg/mqdefault.jpg",
+    "publisher": {
+      "id": 3021,
+      "name": "MindCap",
+      "banned": false
+    },
+    "verifier": {
+      "id": 3421,
+      "name": "[1319] BUNNYGRAM",
+      "banned": false
+    },
+    "level_id": 86084399
+  },
+  {
+    "id": 615,
+    "position": 75,
+    "name": "Gaggatrondra",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=A4G41vw6Cf0",
+    "thumbnail": "https://i.ytimg.com/vi/A4G41vw6Cf0/mqdefault.jpg",
+    "publisher": {
+      "id": 54026,
+      "name": "JCMoon",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6238,
+      "name": "Zeronium",
+      "banned": false
+    },
+    "level_id": 114990369
+  },
+  {
+    "id": 712,
+    "position": 76,
+    "name": "Make Paul Dance",
+    "requirement": 57,
+    "video": "https://www.youtube.com/watch?v=XQoF35hNKpg",
+    "thumbnail": "https://i.ytimg.com/vi/XQoF35hNKpg/mqdefault.jpg",
+    "publisher": {
+      "id": 71552,
+      "name": "Bemq",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42006,
+      "name": "Airi~",
+      "banned": false
+    },
+    "level_id": 115860808
+  },
+  {
+    "id": 551,
+    "position": 77,
+    "name": "Belladonna",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=saHSgoU1JQQ",
+    "thumbnail": "https://i.ytimg.com/vi/saHSgoU1JQQ/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 40419,
+      "name": "[PRIME] exsii",
+      "banned": false
+    },
+    "level_id": 94969889
+  },
+  {
+    "id": 511,
+    "position": 78,
+    "name": "Codependence",
+    "requirement": 78,
+    "video": "https://www.youtube.com/watch?v=IKGk41hSnDo",
+    "thumbnail": "https://i.ytimg.com/vi/IKGk41hSnDo/mqdefault.jpg",
+    "publisher": {
+      "id": 6104,
+      "name": "TCTeam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 54905,
+      "name": "[IH82P] Pukklez",
+      "banned": false
+    },
+    "level_id": 62556400
+  },
+  {
+    "id": 606,
+    "position": 79,
+    "name": "Collapse",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=RCFpXyf6bn0",
+    "thumbnail": "https://i.ytimg.com/vi/RCFpXyf6bn0/mqdefault.jpg",
+    "publisher": {
+      "id": 42324,
+      "name": "[COMET] Nexel",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42324,
+      "name": "[COMET] Nexel",
+      "banned": false
+    },
+    "level_id": 113256247
+  },
+  {
+    "id": 439,
+    "position": 80,
+    "name": "Mayhem",
+    "requirement": 57,
+    "video": "https://www.youtube.com/watch?v=U6e6DD32noM",
+    "thumbnail": "https://i.ytimg.com/vi/U6e6DD32noM/mqdefault.jpg",
+    "publisher": {
+      "id": 36906,
+      "name": "[DL] LordVadercraft",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36906,
+      "name": "[DL] LordVadercraft",
+      "banned": false
+    },
+    "level_id": 82544060
+  },
+  {
+    "id": 672,
+    "position": 81,
+    "name": "CHROMACAVE",
+    "requirement": 82,
+    "video": "https://www.youtube.com/watch?v=tfpsMZI6z-o",
+    "thumbnail": "https://i.ytimg.com/vi/tfpsMZI6z-o/mqdefault.jpg",
+    "publisher": {
+      "id": 41417,
+      "name": "HappyMoby",
+      "banned": false
+    },
+    "verifier": {
+      "id": 50749,
+      "name": "[FOWL] geodom",
+      "banned": false
+    },
+    "level_id": 131497860
+  },
+  {
+    "id": 610,
+    "position": 82,
+    "name": "The Plunge",
+    "requirement": 67,
+    "video": "https://www.youtube.com/watch?v=8gW1-_u1K0Y",
+    "thumbnail": "https://i.ytimg.com/vi/8gW1-_u1K0Y/mqdefault.jpg",
+    "publisher": {
+      "id": 61366,
+      "name": "Dolabill",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35407,
+      "name": "Gokill",
+      "banned": false
+    },
+    "level_id": 113220284
+  },
+  {
+    "id": 681,
+    "position": 83,
+    "name": "Fracture",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=R_-chk3SRFI",
+    "thumbnail": "https://i.ytimg.com/vi/R_-chk3SRFI/mqdefault.jpg",
+    "publisher": {
+      "id": 68920,
+      "name": "Arrow",
+      "banned": false
+    },
+    "verifier": {
+      "id": 40787,
+      "name": "Dezstro",
+      "banned": false
+    },
+    "level_id": 99703915
+  },
+  {
+    "id": 429,
+    "position": 84,
+    "name": "walter white",
+    "requirement": 65,
+    "video": "https://www.youtube.com/watch?v=KzK62PkWOJ0",
+    "thumbnail": "https://i.ytimg.com/vi/KzK62PkWOJ0/mqdefault.jpg",
+    "publisher": {
+      "id": 40438,
+      "name": "Renn241",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37331,
+      "name": "[OG B] Laysah",
+      "banned": false
+    },
+    "level_id": 81011195
+  },
+  {
+    "id": 653,
+    "position": 85,
+    "name": "Infinite Chaos",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=wOMVERxU5IA",
+    "thumbnail": "https://i.ytimg.com/vi/wOMVERxU5IA/mqdefault.jpg",
+    "publisher": {
+      "id": 4624,
+      "name": "CairoX",
+      "banned": false
+    },
+    "verifier": {
+      "id": 34310,
+      "name": "Victurkey",
+      "banned": false
+    },
+    "level_id": 119689515
+  },
+  {
+    "id": 684,
+    "position": 86,
+    "name": "BRITNEY NO SCLEARS",
+    "requirement": 76,
+    "video": "https://www.youtube.com/watch?v=ff_mQSXwjhU",
+    "thumbnail": "https://i.ytimg.com/vi/ff_mQSXwjhU/mqdefault.jpg",
+    "publisher": {
+      "id": 69092,
+      "name": "wabas",
+      "banned": false
+    },
+    "verifier": {
+      "id": 38612,
+      "name": "[TMG] Scotchtape",
+      "banned": false
+    },
+    "level_id": 125317359
+  },
+  {
+    "id": 627,
+    "position": 87,
+    "name": "Operation Evolution",
+    "requirement": 76,
+    "video": "https://www.youtube.com/watch?v=WsVF-ayipvY",
+    "thumbnail": "https://i.ytimg.com/vi/WsVF-ayipvY/mqdefault.jpg",
+    "publisher": {
+      "id": 56217,
+      "name": "Halzion",
+      "banned": false
+    },
+    "verifier": {
+      "id": 34641,
+      "name": "cobrablitz",
+      "banned": false
+    },
+    "level_id": 114999625
+  },
+  {
+    "id": 521,
+    "position": 88,
+    "name": "Damascus",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=MWQyCUGt76Y",
+    "thumbnail": "https://i.ytimg.com/vi/MWQyCUGt76Y/mqdefault.jpg",
+    "publisher": {
+      "id": 55544,
+      "name": "Dzeser",
+      "banned": false
+    },
+    "verifier": {
+      "id": 32020,
+      "name": "Timo",
+      "banned": false
+    },
+    "level_id": 93339534
+  },
+  {
+    "id": 659,
+    "position": 89,
+    "name": "Decks Dark",
+    "requirement": 77,
+    "video": "https://www.youtube.com/watch?v=l52ApE4HWkY",
+    "thumbnail": "https://i.ytimg.com/vi/l52ApE4HWkY/mqdefault.jpg",
+    "publisher": {
+      "id": 35393,
+      "name": "[SKG] Madison Yuko",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 95719795
+  },
+  {
+    "id": 547,
+    "position": 90,
+    "name": "SARYYX NEVER CLEAR",
+    "requirement": 74,
+    "video": "https://www.youtube.com/watch?v=rRlyvmjcz_4",
+    "thumbnail": "https://i.ytimg.com/vi/rRlyvmjcz_4/mqdefault.jpg",
+    "publisher": {
+      "id": 44848,
+      "name": "artos",
+      "banned": false
+    },
+    "verifier": {
+      "id": 56410,
+      "name": "skzyl",
+      "banned": false
+    },
+    "level_id": 95998005
+  },
+  {
+    "id": 590,
+    "position": 91,
+    "name": "The Yangire",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=V3FjIorIfWg",
+    "thumbnail": "https://i.ytimg.com/vi/V3FjIorIfWg/mqdefault.jpg",
+    "publisher": {
+      "id": 1048,
+      "name": "Dorami",
+      "banned": false
+    },
+    "verifier": {
+      "id": 1048,
+      "name": "Dorami",
+      "banned": false
+    },
+    "level_id": 110500920
+  },
+  {
+    "id": 540,
+    "position": 92,
+    "name": "Climax",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=E4ppq2WeAAs",
+    "thumbnail": "https://i.ytimg.com/vi/E4ppq2WeAAs/mqdefault.jpg",
+    "publisher": {
+      "id": 56137,
+      "name": "HushLC",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37603,
+      "name": "Wain",
+      "banned": false
+    },
+    "level_id": 95049815
+  },
+  {
+    "id": 579,
+    "position": 93,
+    "name": "ORDINARY",
+    "requirement": 74,
+    "video": "https://www.youtube.com/watch?v=4QiHP3jpGnk",
+    "thumbnail": "https://i.ytimg.com/vi/4QiHP3jpGnk/mqdefault.jpg",
+    "publisher": {
+      "id": 38461,
+      "name": "vit12",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51613,
+      "name": "[WBT] wPopoff",
+      "banned": false
+    },
+    "level_id": 105593215
+  },
+  {
+    "id": 676,
+    "position": 94,
+    "name": "TrakineS",
+    "requirement": 77,
+    "video": "https://www.youtube.com/watch?v=oKuoI-_JzKU",
+    "thumbnail": "https://i.ytimg.com/vi/oKuoI-_JzKU/mqdefault.jpg",
+    "publisher": {
+      "id": 68364,
+      "name": "Laranjoo",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53180,
+      "name": "[WBT] mariner",
+      "banned": false
+    },
+    "level_id": 125788781
+  },
+  {
+    "id": 650,
+    "position": 95,
+    "name": "Wavterminal",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=dlvsCE3xYkQ",
+    "thumbnail": "https://i.ytimg.com/vi/dlvsCE3xYkQ/mqdefault.jpg",
+    "publisher": {
+      "id": 63982,
+      "name": "Skyavoxii",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39617,
+      "name": "Frice",
+      "banned": false
+    },
+    "level_id": 128093374
+  },
+  {
+    "id": 469,
+    "position": 96,
+    "name": "Sinister Silence",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=dJCdTMQxHMo",
+    "thumbnail": "https://i.ytimg.com/vi/dJCdTMQxHMo/mqdefault.jpg",
+    "publisher": {
+      "id": 39687,
+      "name": "Wahffle",
+      "banned": false
+    },
+    "verifier": {
+      "id": 34881,
+      "name": "DarkTD",
+      "banned": false
+    },
+    "level_id": 82249742
+  },
+  {
+    "id": 633,
+    "position": 97,
+    "name": "THE JET ENGINE",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=8Q20XU__LoQ",
+    "thumbnail": "https://i.ytimg.com/vi/8Q20XU__LoQ/mqdefault.jpg",
+    "publisher": {
+      "id": 60258,
+      "name": "[TARIQ] Billzer",
+      "banned": false
+    },
+    "verifier": {
+      "id": 63986,
+      "name": "[TARIQ] eviljoe",
+      "banned": false
+    },
+    "level_id": 122941596
+  },
+  {
+    "id": 687,
+    "position": 98,
+    "name": "Trickshot",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=IMLjnmnIWRc",
+    "thumbnail": "https://i.ytimg.com/vi/IMLjnmnIWRc/mqdefault.jpg",
+    "publisher": {
+      "id": 42488,
+      "name": "[DL] vonic",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42488,
+      "name": "[DL] vonic",
+      "banned": false
+    },
+    "level_id": 136135870
+  },
+  {
+    "id": 549,
+    "position": 99,
+    "name": "Midnight",
+    "requirement": 74,
+    "video": "https://www.youtube.com/watch?v=NhkN_a9cNi8",
+    "thumbnail": "https://i.ytimg.com/vi/NhkN_a9cNi8/mqdefault.jpg",
+    "publisher": {
+      "id": 35393,
+      "name": "[SKG] Madison Yuko",
+      "banned": false
+    },
+    "verifier": {
+      "id": 480,
+      "name": "[BLOOM] nei",
+      "banned": false
+    },
+    "level_id": 96083028
+  },
+  {
+    "id": 701,
+    "position": 100,
+    "name": "Doppler",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=xSP43i61SLM",
+    "thumbnail": "https://i.ytimg.com/vi/xSP43i61SLM/mqdefault.jpg",
+    "publisher": {
+      "id": 55101,
+      "name": "At424",
+      "banned": false
+    },
+    "verifier": {
+      "id": 61841,
+      "name": "[IH82P] Danieljgd",
+      "banned": false
+    },
+    "level_id": 133489881
+  },
+  {
+    "id": 622,
+    "position": 101,
+    "name": "Cimmerian Shade",
+    "requirement": 81,
+    "video": "https://www.youtube.com/watch?v=lUNvV1k19HA",
+    "thumbnail": "https://i.ytimg.com/vi/lUNvV1k19HA/mqdefault.jpg",
+    "publisher": {
+      "id": 41404,
+      "name": "spcreat",
+      "banned": false
+    },
+    "verifier": {
+      "id": 41404,
+      "name": "spcreat",
+      "banned": false
+    },
+    "level_id": 93340783
+  },
+  {
+    "id": 570,
+    "position": 102,
+    "name": "PSYCHOPATH",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=1luL7tTE8p8",
+    "thumbnail": "https://i.ytimg.com/vi/1luL7tTE8p8/mqdefault.jpg",
+    "publisher": {
+      "id": 4585,
+      "name": "DeniPol",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35841,
+      "name": "[USSR] BONN GD",
+      "banned": true
+    },
+    "level_id": 103925676
+  },
+  {
+    "id": 383,
+    "position": 103,
+    "name": "arcturus",
+    "requirement": 74,
+    "video": "https://www.youtube.com/watch?v=a_Bqa8l9Xtc",
+    "thumbnail": "https://i.ytimg.com/vi/a_Bqa8l9Xtc/mqdefault.jpg",
+    "publisher": {
+      "id": 41476,
+      "name": "Maxfs",
+      "banned": false
+    },
+    "verifier": {
+      "id": 32883,
+      "name": "ultrakawaHD",
+      "banned": false
+    },
+    "level_id": 72315402
+  },
+  {
+    "id": 675,
+    "position": 104,
+    "name": "Diabolic ClubStep",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=BN7DxkMaQfg",
+    "thumbnail": "https://i.ytimg.com/vi/BN7DxkMaQfg/mqdefault.jpg",
+    "publisher": {
+      "id": 6244,
+      "name": "Sevant",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6244,
+      "name": "Sevant",
+      "banned": false
+    },
+    "level_id": 73214186
+  },
+  {
+    "id": 605,
+    "position": 105,
+    "name": "BEELINE",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=nt6T9YDb6gw",
+    "thumbnail": "https://i.ytimg.com/vi/nt6T9YDb6gw/mqdefault.jpg",
+    "publisher": {
+      "id": 53328,
+      "name": "[DOOBY] Galaxxyss",
+      "banned": false
+    },
+    "verifier": {
+      "id": 34884,
+      "name": "[IH82P] Motor8",
+      "banned": false
+    },
+    "level_id": 93792764
+  },
+  {
+    "id": 682,
+    "position": 106,
+    "name": "DreamStep",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=EK5-0OB1tmc",
+    "thumbnail": "https://i.ytimg.com/vi/EK5-0OB1tmc/mqdefault.jpg",
+    "publisher": {
+      "id": 68924,
+      "name": "[LARP] Blaster1337",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53134,
+      "name": "[LARP] youngs6",
+      "banned": false
+    },
+    "level_id": 129235528
+  },
+  {
+    "id": 349,
+    "position": 107,
+    "name": "Sonic Wave Infinity",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=C3-l_fFikpQ",
+    "thumbnail": "https://i.ytimg.com/vi/C3-l_fFikpQ/mqdefault.jpg",
+    "publisher": {
+      "id": 40245,
+      "name": "APTeamOfficial",
+      "banned": false
+    },
+    "verifier": {
+      "id": 4238,
+      "name": "[1319] Xanii",
+      "banned": false
+    },
+    "level_id": 69685815
+  },
+  {
+    "id": 250,
+    "position": 108,
+    "name": "Tartarus",
+    "requirement": 64,
+    "video": "https://www.youtube.com/watch?v=JptG7rwti1U",
+    "thumbnail": "https://i.ytimg.com/vi/JptG7rwti1U/mqdefault.jpg",
+    "publisher": {
+      "id": 6030,
+      "name": "-",
+      "banned": true
+    },
+    "verifier": {
+      "id": 6030,
+      "name": "-",
+      "banned": true
+    },
+    "level_id": 59075347
+  },
+  {
+    "id": 588,
+    "position": 109,
+    "name": "Coalescence",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=do-a2EzZ4R8",
+    "thumbnail": "https://i.ytimg.com/vi/do-a2EzZ4R8/mqdefault.jpg",
+    "publisher": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "level_id": 108708033
+  },
+  {
+    "id": 595,
+    "position": 110,
+    "name": "Waterfall",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=VKuVdqneG9Y",
+    "thumbnail": "https://i.ytimg.com/vi/VKuVdqneG9Y/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36906,
+      "name": "[DL] LordVadercraft",
+      "banned": false
+    },
+    "level_id": 110991117
+  },
+  {
+    "id": 555,
+    "position": 111,
+    "name": "Jigsaw",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=FPfSqlI0T30",
+    "thumbnail": "https://i.ytimg.com/vi/FPfSqlI0T30/mqdefault.jpg",
+    "publisher": {
+      "id": 50465,
+      "name": "NekonGames",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35407,
+      "name": "Gokill",
+      "banned": false
+    },
+    "level_id": 95031870
+  },
+  {
+    "id": 525,
+    "position": 112,
+    "name": "Delta",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=_rr3J8DkIm4",
+    "thumbnail": "https://i.ytimg.com/vi/_rr3J8DkIm4/mqdefault.jpg",
+    "publisher": {
+      "id": 55651,
+      "name": "[FaZe] Drakosa",
+      "banned": false
+    },
+    "verifier": {
+      "id": 5223,
+      "name": "[TCD] Doggie",
+      "banned": false
+    },
+    "level_id": 93917362
+  },
+  {
+    "id": 690,
+    "position": 113,
+    "name": "Between Duality",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=uOb-ajQ4bgw",
+    "thumbnail": "https://i.ytimg.com/vi/sK2dyGGVV_c/mqdefault.jpg",
+    "publisher": {
+      "id": 42324,
+      "name": "[COMET] Nexel",
+      "banned": false
+    },
+    "verifier": {
+      "id": 60441,
+      "name": "[TSC] destr",
+      "banned": false
+    },
+    "level_id": 137757402
+  },
+  {
+    "id": 599,
+    "position": 114,
+    "name": "BPATA MPAKA",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=sSbHYzYgYfA",
+    "thumbnail": "https://i.ytimg.com/vi/sSbHYzYgYfA/mqdefault.jpg",
+    "publisher": {
+      "id": 42497,
+      "name": "Inex",
+      "banned": false
+    },
+    "verifier": {
+      "id": 31978,
+      "name": "[OG B] maybee",
+      "banned": true
+    },
+    "level_id": 109947627
+  },
+  {
+    "id": 662,
+    "position": 115,
+    "name": "The Wonder of You",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=iQ3RzYCvLvA",
+    "thumbnail": "https://i.ytimg.com/vi/iQ3RzYCvLvA/mqdefault.jpg",
+    "publisher": {
+      "id": 53299,
+      "name": "HangerLord",
+      "banned": false
+    },
+    "verifier": {
+      "id": 40816,
+      "name": "Helix",
+      "banned": false
+    },
+    "level_id": 94858072
+  },
+  {
+    "id": 583,
+    "position": 116,
+    "name": "Natural Disaster",
+    "requirement": 71,
+    "video": "https://www.youtube.com/watch?v=_0GqdSFmG_8",
+    "thumbnail": "https://i.ytimg.com/vi/_0GqdSFmG_8/mqdefault.jpg",
+    "publisher": {
+      "id": 37331,
+      "name": "[OG B] Laysah",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37331,
+      "name": "[OG B] Laysah",
+      "banned": false
+    },
+    "level_id": 107741051
+  },
+  {
+    "id": 678,
+    "position": 117,
+    "name": "Dualist",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=6ntYaDqBqu4",
+    "thumbnail": "https://i.ytimg.com/vi/6ntYaDqBqu4/mqdefault.jpg",
+    "publisher": {
+      "id": 68742,
+      "name": "SyncTM",
+      "banned": false
+    },
+    "verifier": {
+      "id": 58784,
+      "name": "[HOLA] Draks_Loves_U",
+      "banned": false
+    },
+    "level_id": 130464801
+  },
+  {
+    "id": 710,
+    "position": 118,
+    "name": "Sanctity",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=rtU2oDBz9X0",
+    "thumbnail": "https://i.ytimg.com/vi/rtU2oDBz9X0/mqdefault.jpg",
+    "publisher": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "level_id": 135547923
+  },
+  {
+    "id": 274,
+    "position": 119,
+    "name": "The Golden",
+    "requirement": 72,
+    "video": "https://www.youtube.com/watch?v=Ah-PcqwqRTQ",
+    "thumbnail": "https://img.youtube.com/vi/Ah-PcqwqRTQ/maxresdefault.jpg",
+    "publisher": {
+      "id": 35150,
+      "name": "BoBoBoBoBoBoBo",
+      "banned": false
+    },
+    "verifier": {
+      "id": 5240,
+      "name": "nSwish",
+      "banned": false
+    },
+    "level_id": 60978746
+  },
+  {
+    "id": 425,
+    "position": 120,
+    "name": "Oblivion",
+    "requirement": 72,
+    "video": "https://www.youtube.com/watch?v=ZcmDAm50BB0",
+    "thumbnail": "https://i.ytimg.com/vi/ZcmDAm50BB0/mqdefault.jpg",
+    "publisher": {
+      "id": 6185,
+      "name": "[DLNW] Dice88",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6185,
+      "name": "[DLNW] Dice88",
+      "banned": false
+    },
+    "level_id": 71025973
+  },
+  {
+    "id": 578,
+    "position": 121,
+    "name": "Viprin UFO",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=LTMW9Py-nHE",
+    "thumbnail": "https://i.ytimg.com/vi/LTMW9Py-nHE/mqdefault.jpg",
+    "publisher": {
+      "id": 711,
+      "name": "hawkyre",
+      "banned": false
+    },
+    "verifier": {
+      "id": 50456,
+      "name": "[CHIL] Cookie",
+      "banned": false
+    },
+    "level_id": 107238250
+  },
+  {
+    "id": 539,
+    "position": 122,
+    "name": "NETWORK",
+    "requirement": 76,
+    "video": "https://www.youtube.com/watch?v=K7wJi01J5D8",
+    "thumbnail": "https://i.ytimg.com/vi/K7wJi01J5D8/mqdefault.jpg",
+    "publisher": {
+      "id": 51992,
+      "name": "Agat3",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39738,
+      "name": "vulcanium4",
+      "banned": false
+    },
+    "level_id": 95176417
+  },
+  {
+    "id": 497,
+    "position": 123,
+    "name": "Terminal Rampancy",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=29hRhhqQTLc",
+    "thumbnail": "https://i.ytimg.com/vi/29hRhhqQTLc/mqdefault.jpg",
+    "publisher": {
+      "id": 729,
+      "name": "Xyriak",
+      "banned": false
+    },
+    "verifier": {
+      "id": 31657,
+      "name": "Bigthunder556",
+      "banned": false
+    },
+    "level_id": 90057148
+  },
+  {
+    "id": 393,
+    "position": 124,
+    "name": "Verdant Landscape",
+    "requirement": 63,
+    "video": "https://www.youtube.com/watch?v=wjZxkS5KC0A",
+    "thumbnail": "https://i.ytimg.com/vi/wjZxkS5KC0A/mqdefault.jpg",
+    "publisher": {
+      "id": 251,
+      "name": "Nisha",
+      "banned": false
+    },
+    "verifier": {
+      "id": 251,
+      "name": "Nisha",
+      "banned": false
+    },
+    "level_id": 76543324
+  },
+  {
+    "id": 665,
+    "position": 125,
+    "name": "Levigo",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=AROmUo7DNkE",
+    "thumbnail": "https://i.ytimg.com/vi/AROmUo7DNkE/mqdefault.jpg",
+    "publisher": {
+      "id": 41307,
+      "name": "Swib",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35743,
+      "name": "[DTC] Kandai",
+      "banned": false
+    },
+    "level_id": 97086864
+  },
+  {
+    "id": 716,
+    "position": 126,
+    "name": "Heavenly Sakupen",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=4uwSVZBrtfg",
+    "thumbnail": "https://i.ytimg.com/vi/4uwSVZBrtfg/mqdefault.jpg",
+    "publisher": {
+      "id": 60561,
+      "name": "Youknowwho",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39481,
+      "name": "[BHO] bazettuk",
+      "banned": false
+    },
+    "level_id": 123467310
+  },
+  {
+    "id": 475,
+    "position": 127,
+    "name": "UNKNOWN",
+    "requirement": 83,
+    "video": "https://www.youtube.com/watch?v=a1sQxQqU6EM",
+    "thumbnail": "https://i.ytimg.com/vi/a1sQxQqU6EM/mqdefault.jpg",
+    "publisher": {
+      "id": 42147,
+      "name": "NineDice",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35840,
+      "name": "[TCD] Diamond",
+      "banned": false
+    },
+    "level_id": 88203501
+  },
+  {
+    "id": 568,
+    "position": 128,
+    "name": "ATOMIC CANNON Mk III",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=xlAI_wVvnx8",
+    "thumbnail": "https://i.ytimg.com/vi/5nM4hlnLDyM/mqdefault.jpg",
+    "publisher": {
+      "id": 34993,
+      "name": "Lieb",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6238,
+      "name": "Zeronium",
+      "banned": false
+    },
+    "level_id": 104672501
+  },
+  {
+    "id": 714,
+    "position": 129,
+    "name": "SPIRIT OVERCLOCK",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=WECBlbM0LJk",
+    "thumbnail": "https://i.ytimg.com/vi/WECBlbM0LJk/mqdefault.jpg",
+    "publisher": {
+      "id": 71518,
+      "name": "TheRealXFuture",
+      "banned": false
+    },
+    "verifier": {
+      "id": 58583,
+      "name": "[ABA] Riley",
+      "banned": false
+    },
+    "level_id": 132751236
+  },
+  {
+    "id": 435,
+    "position": 130,
+    "name": "Shukketsu",
+    "requirement": 78,
+    "video": "https://www.youtube.com/watch?v=nkG4hKJIz2g",
+    "thumbnail": "https://i.ytimg.com/vi/nkG4hKJIz2g/mqdefault.jpg",
+    "publisher": {
+      "id": 35393,
+      "name": "[SKG] Madison Yuko",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36251,
+      "name": "[YAHO] Baeru",
+      "banned": false
+    },
+    "level_id": 75286957
+  },
+  {
+    "id": 703,
+    "position": 131,
+    "name": "idontknowwhatthisis",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=Dg9Q6s8EOlg",
+    "thumbnail": "https://i.ytimg.com/vi/Dg9Q6s8EOlg/mqdefault.jpg",
+    "publisher": {
+      "id": 59831,
+      "name": "YeldA",
+      "banned": false
+    },
+    "verifier": {
+      "id": 59831,
+      "name": "YeldA",
+      "banned": false
+    },
+    "level_id": 137334994
+  },
+  {
+    "id": 582,
+    "position": 132,
+    "name": "Checked Steam",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=cq6047eYGXs",
+    "thumbnail": "https://i.ytimg.com/vi/cq6047eYGXs/mqdefault.jpg",
+    "publisher": {
+      "id": 44955,
+      "name": "gruzy",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 105748155
+  },
+  {
+    "id": 478,
+    "position": 133,
+    "name": "Critical Heat",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=UjYIt2jy_BY",
+    "thumbnail": "https://i.ytimg.com/vi/UjYIt2jy_BY/mqdefault.jpg",
+    "publisher": {
+      "id": 52291,
+      "name": "Zeniux",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36784,
+      "name": "[WBT] hstorm",
+      "banned": false
+    },
+    "level_id": 88442157
+  },
+  {
+    "id": 637,
+    "position": 134,
+    "name": "WOBBLING MACHINE",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=RKX6VOsICOg",
+    "thumbnail": "https://i.ytimg.com/vi/RKX6VOsICOg/mqdefault.jpg",
+    "publisher": {
+      "id": 64386,
+      "name": "Smarted",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36882,
+      "name": "[POB2P] conski",
+      "banned": false
+    },
+    "level_id": 87130877
+  },
+  {
+    "id": 617,
+    "position": 135,
+    "name": "Crystal Crusher",
+    "requirement": 67,
+    "video": "https://www.youtube.com/watch?v=qirwgz-haVQ",
+    "thumbnail": "https://i.ytimg.com/vi/qirwgz-haVQ/mqdefault.jpg",
+    "publisher": {
+      "id": 52291,
+      "name": "Zeniux",
+      "banned": false
+    },
+    "verifier": {
+      "id": 57454,
+      "name": "GuitGuit",
+      "banned": false
+    },
+    "level_id": 93732702
+  },
+  {
+    "id": 625,
+    "position": 136,
+    "name": "limbo but uwu ig idk",
+    "requirement": 77,
+    "video": "https://www.youtube.com/watch?v=3B36N-qfOD8",
+    "thumbnail": "https://i.ytimg.com/vi/3B36N-qfOD8/mqdefault.jpg",
+    "publisher": {
+      "id": 55509,
+      "name": "Akunakunn",
+      "banned": false
+    },
+    "verifier": {
+      "id": 33684,
+      "name": "[JOB] ViperVenom95",
+      "banned": false
+    },
+    "level_id": 110705712
+  },
+  {
+    "id": 651,
+    "position": 137,
+    "name": "Graceful",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=5kOD37vQHKE",
+    "thumbnail": "https://i.ytimg.com/vi/5kOD37vQHKE/mqdefault.jpg",
+    "publisher": {
+      "id": 6056,
+      "name": "[1319] D A G",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6056,
+      "name": "[1319] D A G",
+      "banned": false
+    },
+    "level_id": 71885708
+  },
+  {
+    "id": 664,
+    "position": 138,
+    "name": "paranoia",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=Aw83i8Zmh_0",
+    "thumbnail": "https://i.ytimg.com/vi/Aw83i8Zmh_0/mqdefault.jpg",
+    "publisher": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "level_id": 113364415
+  },
+  {
+    "id": 618,
+    "position": 139,
+    "name": "Starlit Stroll",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=U7MM74dTXuI",
+    "thumbnail": "https://i.ytimg.com/vi/U7MM74dTXuI/mqdefault.jpg",
+    "publisher": {
+      "id": 59124,
+      "name": "[TCC] Enfur",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51584,
+      "name": "[TCC] TheButcher",
+      "banned": false
+    },
+    "level_id": 115380769
+  },
+  {
+    "id": 572,
+    "position": 140,
+    "name": "The Paroxysm of Rage",
+    "requirement": 65,
+    "video": "https://www.youtube.com/watch?v=nq3i1qJQeEk",
+    "thumbnail": "https://i.ytimg.com/vi/nq3i1qJQeEk/mqdefault.jpg",
+    "publisher": {
+      "id": 58443,
+      "name": "Zacanaii",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39466,
+      "name": "[RF] turtle",
+      "banned": false
+    },
+    "level_id": 87071894
+  },
+  {
+    "id": 636,
+    "position": 141,
+    "name": "Blood Echo",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=fSvk4tLlQzQ",
+    "thumbnail": "https://i.ytimg.com/vi/fSvk4tLlQzQ/mqdefault.jpg",
+    "publisher": {
+      "id": 31714,
+      "name": "Farva",
+      "banned": false
+    },
+    "verifier": {
+      "id": 4531,
+      "name": "[1319] swiborg",
+      "banned": false
+    },
+    "level_id": 112242564
+  },
+  {
+    "id": 412,
+    "position": 142,
+    "name": "Aerial Gleam",
+    "requirement": 63,
+    "video": "https://www.youtube.com/watch?v=eyZjKtrGVYw",
+    "thumbnail": "https://i.ytimg.com/vi/fkLIlGDe294/mqdefault.jpg",
+    "publisher": {
+      "id": 31446,
+      "name": "Endlevel",
+      "banned": false
+    },
+    "verifier": {
+      "id": 5223,
+      "name": "[TCD] Doggie",
+      "banned": false
+    },
+    "level_id": 79771070
+  },
+  {
+    "id": 654,
+    "position": 143,
+    "name": "DISCONNECT",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=HxHo-LzwSao",
+    "thumbnail": "https://i.ytimg.com/vi/HxHo-LzwSao/mqdefault.jpg",
+    "publisher": {
+      "id": 57873,
+      "name": "MCres",
+      "banned": false
+    },
+    "verifier": {
+      "id": 57875,
+      "name": "Elinore",
+      "banned": false
+    },
+    "level_id": 127023313
+  },
+  {
+    "id": 631,
+    "position": 144,
+    "name": "VOID",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=kN1FUoucoSc",
+    "thumbnail": "https://i.ytimg.com/vi/kN1FUoucoSc/mqdefault.jpg",
+    "publisher": {
+      "id": 63719,
+      "name": "nikoberry",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 100990392
+  },
+  {
+    "id": 646,
+    "position": 145,
+    "name": "Henken",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=M--2oQKrV68",
+    "thumbnail": "https://i.ytimg.com/vi/M--2oQKrV68/mqdefault.jpg",
+    "publisher": {
+      "id": 64782,
+      "name": "PLoLek",
+      "banned": false
+    },
+    "verifier": {
+      "id": 35407,
+      "name": "Gokill",
+      "banned": false
+    },
+    "level_id": 80714349
+  },
+  {
+    "id": 361,
+    "position": 146,
+    "name": "Trueffet",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=yHESkazVD4Q",
+    "thumbnail": "https://i.ytimg.com/vi/yHESkazVD4Q/mqdefault.jpg",
+    "publisher": {
+      "id": 4410,
+      "name": "SyQual",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36251,
+      "name": "[YAHO] Baeru",
+      "banned": false
+    },
+    "level_id": 71434979
+  },
+  {
+    "id": 641,
+    "position": 147,
+    "name": "azure blast",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=TN0FQ3KBv4w",
+    "thumbnail": "https://i.ytimg.com/vi/TN0FQ3KBv4w/mqdefault.jpg",
+    "publisher": {
+      "id": 37661,
+      "name": "AlbinoSnail",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36994,
+      "name": "[YAHO] DNM121",
+      "banned": false
+    },
+    "level_id": 120060187
+  },
+  {
+    "id": 238,
+    "position": 148,
+    "name": "Kenos",
+    "requirement": 69,
+    "video": "https://www.youtube.com/watch?v=Bs1kVySdUtI",
+    "thumbnail": "https://i.ytimg.com/vi/Bs1kVySdUtI/mqdefault.jpg",
+    "publisher": {
+      "id": 478,
+      "name": "npesta",
+      "banned": false
+    },
+    "verifier": {
+      "id": 478,
+      "name": "npesta",
+      "banned": false
+    },
+    "level_id": 58673581
+  },
+  {
+    "id": 335,
+    "position": 149,
+    "name": "Fragile",
+    "requirement": 64,
+    "video": "https://www.youtube.com/watch?v=XfXzGv0oALw",
+    "thumbnail": "https://i.ytimg.com/vi/XfXzGv0oALw/mqdefault.jpg",
+    "publisher": {
+      "id": 31446,
+      "name": "Endlevel",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37306,
+      "name": "[PRIME] vaen",
+      "banned": false
+    },
+    "level_id": 65588448
+  },
+  {
+    "id": 656,
+    "position": 150,
+    "name": "chrome hearts",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=7o3I45B8-yY",
+    "thumbnail": "https://i.ytimg.com/vi/7o3I45B8-yY/mqdefault.jpg",
+    "publisher": {
+      "id": 823,
+      "name": "Roadbose",
+      "banned": false
+    },
+    "verifier": {
+      "id": 59512,
+      "name": "[YAHO] Sangalchi",
+      "banned": false
+    },
+    "level_id": 128385946
+  }
+]

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>okwidas.github.io — home</title>
+<style>
+  :root{
+    --bg:#100e16;
+    --bg-deep:#0b0911;
+    --panel:#151022;
+    --panel-soft:#120d1c;
+    --border:rgba(201,174,242,.14);
+    --border-strong:rgba(201,174,242,.28);
+    --text:#e7e3ee;
+    --dim:#8d84a3;
+    --faint:#4c445e;
+    --accent:#c9aef2;
+    --accent-soft:rgba(201,174,242,.14);
+    --accent-soft2:rgba(201,174,242,.22);
+    --font:ui-monospace,"SF Mono","Cascadia Mono","Roboto Mono",Consolas,"Liberation Mono",monospace;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html,body{ background:var(--bg); color:var(--text); font-family:var(--font); }
+  body{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding:40px 20px 120px;
+    position:relative;
+    overflow-x:hidden;
+  }
+  @media (prefers-reduced-motion: reduce){ *{ transition:none !important; animation:none !important; } }
+
+  /* soft ambient glow, much subtler than before */
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    background:
+      radial-gradient(700px 300px at 50% -120px, rgba(201,174,242,.07), transparent 70%),
+      radial-gradient(600px 500px at 85% 110%, rgba(201,174,242,.03), transparent 70%);
+    pointer-events:none;
+    z-index:0;
+  }
+
+  .wrap{
+    position:relative;
+    z-index:1;
+    width:100%;
+    max-width:840px;
+    background:linear-gradient(180deg, rgba(201,174,242,.04), transparent 120px), var(--panel);
+    border:1px solid var(--border);
+    border-radius:18px;
+    box-shadow:0 1px 0 rgba(255,255,255,.03) inset, 0 24px 50px -30px rgba(0,0,0,.7);
+    padding:28px 44px 36px;
+  }
+
+  /* ---------- top bar ---------- */
+  .topbar{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px;
+    padding-bottom:26px;
+    margin-bottom:40px;
+    border-bottom:1px solid var(--border);
+  }
+  .wordmark{
+    font-size:17px;
+    letter-spacing:.02em;
+    color:var(--dim);
+    text-decoration:none;
+    display:inline-flex;
+    align-items:center;
+    gap:7px;
+  }
+  .wordmark b{ color:var(--accent); font-weight:600; }
+  .wordmark .carat{
+    width:2.5px; height:15px;
+    background:var(--accent);
+    border-radius:1px;
+    opacity:.9;
+    transition:transform .15s ease, opacity .25s ease;
+  }
+  .topnav{ display:flex; gap:6px; }
+  .topnav a{
+    color:var(--faint);
+    text-decoration:none;
+    font-size:12.5px;
+    padding:6px 11px;
+    border-radius:7px;
+    transition:color .15s ease, background .15s ease;
+  }
+  .topnav a:hover{ color:var(--text); background:var(--accent-soft); }
+  .topnav a.on{ color:var(--accent); background:var(--accent-soft); }
+
+  /* ---------- hero ---------- */
+  .hero{ margin-bottom:44px; }
+  .hero .kicker{
+    font-size:11.5px;
+    letter-spacing:.18em;
+    text-transform:uppercase;
+    color:var(--faint);
+    margin-bottom:16px;
+  }
+  .hero h1{
+    font-size:clamp(30px, 4.5vw, 44px);
+    font-weight:600;
+    line-height:1.08;
+    letter-spacing:-.01em;
+  }
+  .hero h1 .accent-line{ color:var(--accent); }
+  .hero .strap{
+    margin-top:14px;
+    font-size:13.5px;
+    color:var(--dim);
+    line-height:1.6;
+    max-width:52ch;
+  }
+
+  /* ---------- section ---------- */
+  .sec{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    font-size:11px;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    color:var(--dim);
+    margin-bottom:18px;
+  }
+  .sec b{
+    color:var(--accent);
+    font-weight:600;
+    font-variant-numeric:tabular-nums;
+  }
+  .sec::after{
+    content:"";
+    flex:1;
+    height:1px;
+    background:var(--border);
+  }
+
+  /* ---------- project cards ---------- */
+  .grid{ display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:46px; }
+  .proj{
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+    text-decoration:none;
+    color:inherit;
+    background:var(--panel-soft);
+    border:1px solid var(--border);
+    border-radius:12px;
+    padding:22px 22px 18px;
+    transition:border-color .18s ease, transform .18s ease, background .18s ease, box-shadow .18s ease;
+  }
+  .proj:hover{
+    border-color:var(--border-strong);
+    background:var(--panel);
+    transform:translateY(-2px);
+    box-shadow:0 14px 30px -20px rgba(0,0,0,.8), 0 0 0 1px rgba(201,174,242,.04);
+  }
+  .proj-top{ display:flex; align-items:flex-start; justify-content:space-between; }
+  .proj-idx{ font-size:12px; color:var(--faint); font-variant-numeric:tabular-nums; }
+  .proj:hover .proj-idx{ color:var(--accent); }
+  .proj-icon{ width:22px; height:22px; stroke:var(--accent); fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
+  .proj-title{ font-size:18px; font-weight:600; color:var(--accent); }
+  .proj-desc{ font-size:12.5px; color:var(--dim); line-height:1.6; }
+  .proj-go{
+    margin-top:auto;
+    padding-top:12px;
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-size:11.5px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--faint);
+  }
+  .proj-go span{ color:var(--accent); transition:transform .18s ease; }
+  .proj:hover .proj-go span{ transform:translateX(4px); }
+  .proj:hover .proj-go{ color:var(--dim); }
+
+  /* ---------- elsewhere strip ---------- */
+  .elsewhere{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px;
+    border:1px dashed var(--border-strong);
+    border-radius:12px;
+    padding:16px 20px;
+    margin-bottom:40px;
+  }
+  .elsewhere .lead{ font-size:13.5px; color:var(--text); }
+  .elsewhere .lead .muted{ color:var(--dim); }
+  .now{
+    display:inline-flex;
+    align-items:center;
+    gap:9px;
+    color:var(--accent);
+    font-size:12.5px;
+    text-decoration:none;
+    padding:9px 15px;
+    border:1px solid var(--border-strong);
+    border-radius:9px;
+    white-space:nowrap;
+    transition:background .15s ease, color .15s ease;
+  }
+  .now:hover{ background:var(--accent); color:var(--bg); }
+
+  /* ---------- footer ---------- */
+  footer{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    flex-wrap:wrap;
+    padding-top:22px;
+    border-top:1px solid var(--border);
+    font-size:11px;
+    color:var(--faint);
+  }
+  footer .status{ display:inline-flex; align-items:center; gap:8px; }
+  footer .dot{ width:7px; height:7px; border-radius:50%; background:var(--accent); box-shadow:0 0 8px rgba(201,174,242,.6); }
+
+  @media (max-width:640px){
+    body{ padding:20px 12px 110px; }
+    .wrap{ padding:20px 20px 28px; }
+    .grid{ grid-template-columns:1fr; }
+    .topnav a{ font-size:11.5px; padding:5px 8px; }
+    .elsewhere{ flex-direction:column; align-items:flex-start; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="topbar">
+    <a href="./" class="wordmark">okwidas<b>.github.io</b><span class="carat" id="carat"></span></a>
+    <nav class="topnav">
+      <a href="./typewriter/">typewriter</a>
+      <a href="./dlist/">dlist</a>
+      <a href="./links.html">links</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="kicker">personal archive</div>
+      <h1>there's no limit to <span class="accent-line">the larp.</span></h1>
+      <p class="strap">self-hosted, self-contained, unblockable. no fonts, no trackers, no external
+        calls &mdash; just pages that load even when the school proxy gets aggressive.</p>
+    </section>
+
+    <div class="sec"><b>01</b> projects</div>
+
+    <section class="grid">
+
+      <a href="./typewriter/" class="proj">
+        <div class="proj-top">
+          <span class="proj-idx">01</span>
+          <svg class="proj-icon" viewBox="0 0 24 24">
+            <rect x="2" y="4" width="20" height="16" rx="2"/>
+            <path d="M6 8h.01M10 8h.01M14 8h.01M18 8h.01M6 12h.01M10 12h.01M14 12h.01M18 12h.01M8 16h8"/>
+          </svg>
+        </div>
+        <div class="proj-title">typewriter</div>
+        <div class="proj-desc">a minimal typing test with monkeytype-style net/raw wpm and accuracy.
+          15&ndash;120s timers or your own text.</div>
+        <div class="proj-go">open <span>&rarr;</span></div>
+      </a>
+
+      <a href="./dlist/" class="proj">
+        <div class="proj-top">
+          <span class="proj-idx">02</span>
+          <svg class="proj-icon" viewBox="0 0 24 24">
+            <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/>
+            <line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/>
+          </svg>
+        </div>
+        <div class="proj-title">dlist</div>
+        <div class="proj-desc">a working mirror of the pointercrate demonlist, served from here so it
+          can't get flagged as a cult site.</div>
+        <div class="proj-go">open <span>&rarr;</span></div>
+      </a>
+
+    </section>
+
+    <div class="sec"><b>02</b> elsewhere</div>
+
+    <section class="elsewhere">
+      <div class="lead">the rest of me &mdash; <span class="muted">github, email, and this whole site.</span></div>
+      <a href="./links.html" class="now">find me elsewhere <span>&rarr;</span></a>
+    </section>
+  </main>
+
+  <footer>
+    <div class="status"><span class="dot"></span><span>made by me (ai assisted) // okwidas.github.io</span></div>
+    <span>no big brother content here</span>
+  </footer>
+
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(){
+    var carat = document.getElementById('carat');
+    document.addEventListener('mousemove', function(e){
+      // carat leans toward the mouse, like the old one but subtler
+      var lean = (e.clientX / window.innerWidth - 0.5) * 6;
+      carat.style.transform = 'translateX(' + lean.toFixed(1) + 'px)';
+      carat.style.opacity = String(0.65 + (1 - (e.clientX / window.innerWidth)) * 0.35);
+    });
+  });
+</script>
+</body>
+</html>

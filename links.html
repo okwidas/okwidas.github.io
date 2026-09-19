@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>okwidas.github.io — links</title>
+<style>
+  :root{
+    --bg:#100e16;
+    --bg-deep:#0b0911;
+    --panel:#151022;
+    --panel-soft:#120d1c;
+    --border:rgba(201,174,242,.14);
+    --border-strong:rgba(201,174,242,.28);
+    --text:#e7e3ee;
+    --dim:#8d84a3;
+    --faint:#4c445e;
+    --accent:#c9aef2;
+    --accent-soft:rgba(201,174,242,.14);
+    --accent-soft2:rgba(201,174,242,.22);
+    --font:ui-monospace,"SF Mono","Cascadia Mono","Roboto Mono",Consolas,"Liberation Mono",monospace;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html,body{ background:var(--bg); color:var(--text); font-family:var(--font); }
+  body{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding:40px 20px 130px;
+    position:relative;
+    overflow-x:hidden;
+  }
+  @media (prefers-reduced-motion: reduce){ *{ transition:none !important; animation:none !important; } }
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    background:radial-gradient(700px 300px at 50% -120px, rgba(201,174,242,.07), transparent 70%);
+    pointer-events:none;
+    z-index:0;
+  }
+
+  .wrap{
+    position:relative;
+    z-index:1;
+    width:100%;
+    max-width:620px;
+    background:linear-gradient(180deg, rgba(201,174,242,.04), transparent 120px), var(--panel);
+    border:1px solid var(--border);
+    border-radius:18px;
+    box-shadow:0 1px 0 rgba(255,255,255,.03) inset, 0 24px 50px -30px rgba(0,0,0,.7);
+    padding:28px 40px 40px;
+  }
+
+  .topbar{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px;
+    padding-bottom:26px;
+    margin-bottom:36px;
+    border-bottom:1px solid var(--border);
+  }
+  .wordmark{ font-size:17px; letter-spacing:.02em; color:var(--dim); text-decoration:none; }
+  .wordmark b{ color:var(--accent); font-weight:600; }
+  .topnav{ display:flex; gap:6px; }
+  .topnav a{
+    color:var(--faint); text-decoration:none; font-size:12.5px;
+    padding:6px 11px; border-radius:7px;
+    transition:color .15s ease, background .15s ease;
+  }
+  .topnav a:hover{ color:var(--text); background:var(--accent-soft); }
+  .topnav a.on{ color:var(--accent); background:var(--accent-soft); }
+
+  .sec{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    font-size:11px;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    color:var(--dim);
+    margin-bottom:14px;
+  }
+  .sec b{ color:var(--accent); font-weight:600; font-variant-numeric:tabular-nums; }
+  .sec::after{ content:""; flex:1; height:1px; background:var(--border); }
+
+  h1{ font-size:24px; font-weight:600; margin-bottom:10px; }
+  .sub{ font-size:12.5px; color:var(--dim); line-height:1.6; margin-bottom:34px; max-width:46ch; }
+
+  .links{ display:flex; flex-direction:column; gap:10px; }
+  .link-card{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    text-decoration:none;
+    color:var(--text);
+    background:var(--panel-soft);
+    border:1px solid var(--border);
+    border-radius:11px;
+    padding:14px 16px;
+    transition:border-color .16s ease, background .16s ease, transform .16s ease;
+  }
+  .link-card:hover{ border-color:var(--border-strong); background:var(--panel); transform:translateX(3px); }
+  .link-icon{
+    flex:0 0 auto;
+    width:34px; height:34px;
+    display:flex; align-items:center; justify-content:center;
+    border-radius:9px;
+    background:var(--accent-soft);
+    color:var(--accent);
+  }
+  .link-icon svg{ width:18px; height:18px; }
+  .link-text{ display:flex; flex-direction:column; gap:2px; }
+  .link-title{ font-size:13.5px; }
+  .link-sub{ font-size:11px; color:var(--faint); }
+  .link-card .go{ margin-left:auto; color:var(--faint); transition:color .16s ease, transform .16s ease; }
+  .link-card:hover .go{ color:var(--accent); transform:translateX(3px); }
+
+  .bottom-note{ margin-top:36px; font-size:11px; color:var(--faint); text-align:center; line-height:1.8; }
+
+  /* floating back button */
+  .go-home{
+    position:fixed;
+    left:50%;
+    bottom:28px;
+    transform:translateX(-50%);
+    z-index:10;
+    display:inline-flex;
+    align-items:center;
+    gap:10px;
+    background:var(--panel);
+    border:1px solid var(--border-strong);
+    border-radius:14px;
+    color:var(--text);
+    text-decoration:none;
+    font-family:var(--font);
+    font-size:13px;
+    padding:13px 26px;
+    box-shadow:0 14px 30px -18px rgba(0,0,0,.8);
+    transition:background .16s ease, color .16s ease, border-color .16s ease;
+  }
+  .go-home .arrow{ color:var(--accent); transition:transform .16s ease; }
+  .go-home:hover{ background:var(--accent); color:var(--bg); border-color:var(--accent); }
+  .go-home:hover .arrow{ color:var(--bg); transform:translateX(-3px); }
+
+  @media (max-width:560px){
+    body{ padding:20px 12px 120px; }
+    .wrap{ padding:20px 20px 30px; }
+    .topnav a{ font-size:11.5px; padding:5px 8px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="topbar">
+    <a href="./" class="wordmark">okwidas<b>.github.io</b></a>
+    <nav class="topnav">
+      <a href="./typewriter/">typewriter</a>
+      <a href="./dlist/">dlist</a>
+      <a href="./links.html" class="on">links</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="sec"><b>01</b> elsewhere</div>
+
+    <h1>find me around</h1>
+    <p class="sub">vibecoded, self-hosted, and (usually) not blocked by Big Brother.</p>
+
+    <div class="links">
+
+      <a class="link-card" href="https://github.com/okwidas" target="_blank" rel="noopener">
+        <span class="link-icon">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M6 5l-3 3 3 3M14 5l3 3-3 3M11.5 4l-3 12"/>
+          </svg>
+        </span>
+        <span class="link-text">
+          <span class="link-title">github</span>
+          <span class="link-sub">github.com/okwidas</span>
+        </span>
+        <span class="go">&rarr;</span>
+      </a>
+
+      <a class="link-card" href="mailto:okwidas@gmail.com">
+        <span class="link-icon">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2.5" y="4.5" width="15" height="11" rx="2"/>
+            <path d="M3 6l7 5 7-5"/>
+          </svg>
+        </span>
+        <span class="link-text">
+          <span class="link-title">email</span>
+          <span class="link-sub">okwidas@gmail.com</span>
+        </span>
+        <span class="go">&rarr;</span>
+      </a>
+
+      <a class="link-card" href="https://okwidas.github.io" target="_blank" rel="noopener">
+        <span class="link-icon">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="10" cy="10" r="7.2"/>
+            <path d="M2.8 10h14.4M10 2.8c2.2 2 2.2 12.4 0 14.4M10 2.8c-2.2 2-2.2 12.4 0 14.4"/>
+          </svg>
+        </span>
+        <span class="link-text">
+          <span class="link-title">website</span>
+          <span class="link-sub">okwidas.github.io</span>
+        </span>
+        <span class="go">&rarr;</span>
+      </a>
+
+      <a class="link-card" href="https://okwidas.github.io/dlist" target="_blank" rel="noopener">
+        <span class="link-icon">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="4" y1="5" x2="16" y2="5"/><line x1="4" y1="10" x2="16" y2="10"/><line x1="4" y1="15" x2="16" y2="15"/>
+            <line x1="6.5" y1="5" x2="6.5" y2="5.01"/><line x1="6.5" y1="10" x2="6.5" y2="10.01"/><line x1="6.5" y1="15" x2="6.5" y2="15.01"/>
+          </svg>
+        </span>
+        <span class="link-text">
+          <span class="link-title">dlist</span>
+          <span class="link-sub">demonlist mirror, no proxy flags required</span>
+        </span>
+        <span class="go">&rarr;</span>
+      </a>
+
+      <a class="link-card" href="https://okwidas.github.io/typewriter" target="_blank" rel="noopener">
+        <span class="link-icon">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2.5" y="4.5" width="15" height="11" rx="2"/>
+            <path d="M5.5 8h.01M8.5 8h.01M11.5 8h.01M14.5 8h.01"/>
+            <path d="M5.5 11h.01M8.5 11h.01M11.5 11h.01M14.5 11h.01"/>
+            <line x1="6.5" y1="13.5" x2="13.5" y2="13.5"/>
+          </svg>
+        </span>
+        <span class="link-text">
+          <span class="link-title">typing test</span>
+          <span class="link-sub">monkeytype math, zero external calls</span>
+        </span>
+        <span class="go">&rarr;</span>
+      </a>
+
+    </div>
+  </main>
+
+  <p class="bottom-note">okwidas.github.io</p>
+</div>
+
+<a href="./" class="go-home"><span class="arrow">&larr;</span><span>back home</span></a>
+
+</body>
+</html>
