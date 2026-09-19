@@ -57,11 +57,14 @@
     padding:12px 14px;
     border-bottom:1px solid var(--border-strong);
   }
-  tbody td{ padding:11px 14px; border-bottom:1px solid var(--border); vertical-align:middle; }
+  tbody td{ padding:10px 12px; border-bottom:1px solid var(--border); vertical-align:middle; }
   tbody tr:last-child td{ border-bottom:none; }
   tbody tr.row{ cursor:pointer; transition:background .12s ease; }
   tbody tr.row:hover{ background:rgba(201,174,242,.06); }
   tbody tr.row:hover .name{ color:var(--accent); }
+  .tthumb{ width:60px; padding:8px 4px 8px 12px !important; }
+  .tthumb img{ display:block; width:60px; height:37px; object-fit:cover; border-radius:6px; border:1px solid var(--border-strong); background:var(--panel-soft); }
+  .tthumb .ph{ width:60px; height:37px; border-radius:6px; border:1px dashed var(--border-strong); }
   .pos{ color:var(--accent); font-weight:600; width:52px; font-variant-numeric:tabular-nums; }
   .name{ color:var(--text); transition:color .12s ease; }
   .muted{ color:var(--faint); }
@@ -148,6 +151,8 @@
     .topnav a{ font-size:11.5px; padding:5px 8px; }
     thead th{ padding:10px 10px; }
     tbody td{ padding:10px; }
+    .tthumb{ width:46px; padding:8px 2px 8px 9px !important; }
+    .tthumb img, .tthumb .ph{ width:46px; height:28px; }
     .hide-mobile{ display:none; }
     #modal .card{ padding:18px 16px; }
     .m-name{ font-size:16px; }
@@ -420,7 +425,11 @@
       var publisher = esc(nameOf(pick(d, ["publisher"], "")));
       var verifier = esc(nameOf(pick(d, ["verifier"], "")));
       var points = pick(d, ["requirement", "points"], null);
-      return '<tr class="row" data-id="' + esc(String(d.id)) + '">' +
+      var thumb = pick(d, ["thumbnail"], null);
+      var thumbCell = thumb
+        ? '<td class="tthumb"><img src="' + esc(thumb) + '" alt="" loading="lazy"></td>'
+        : '<td class="tthumb"><div class="ph"></div></td>';
+      return '<tr class="row" data-id="' + esc(String(d.id)) + '">' + thumbCell +
         '<td class="pos">' + esc(position) + "</td>" +
         '<td class="name">' + name + "</td>" +
         '<td class="muted hide-mobile">' + publisher + "</td>" +
@@ -432,7 +441,7 @@
     el.innerHTML =
       '<div class="sink"><table>' +
       "<thead><tr>" +
-      "<th>#</th><th>demon</th><th class=\"hide-mobile\">publisher</th><th class=\"hide-mobile\">verifier</th><th>req</th>" +
+      "<th class=\"tthumb\"></th><th>#</th><th>demon</th><th class=\"hide-mobile\">publisher</th><th class=\"hide-mobile\">verifier</th><th>req</th>" +
       "</tr></thead>" +
       "<tbody>" + rows + "</tbody>" +
       "</table></div>";
