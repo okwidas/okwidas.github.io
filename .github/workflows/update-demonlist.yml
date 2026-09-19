@@ -17,11 +17,28 @@ jobs:
 
       - name: Fetch demonlist from pointercrate
         run: |
+          set -euo pipefail
           mkdir -p dlist/data
-          curl -sf -H "Accept: application/json" \
-            "https://pointercrate.com/api/v2/demons/listed/?limit=200" \
-            | jq '[ .[] | select(.position != null and .position <= 150) ] | sort_by(.position)' \
-            > dlist/data/demonlist.json
+          : > /tmp/demons_pages.jsonl
+          after=""
+          while :; do
+            url="https://pointercrate.com/api/v2/demons/?limit=100"
+            [ -n "$after" ] && url="${url}&after=${after}"
+            curl -sf -H "Accept: application/json" "$url" -o /tmp/demons_page.json
+            count="$(jq -r 'length' /tmp/demons_page.json)"
+            [ "$count" -gt 0 ] || break
+            jq -c '.[]' /tmp/demons_page.json >> /tmp/demons_pages.jsonl
+            next="$(jq -r '.[-1].id' /tmp/demons_page.json)"
+            [ "$next" = "$after" ] && break
+            after="$next"
+          done
+          jq -s '[ .[] | select(.position != null and .position <= 150) ] | sort_by(.position)' \
+            /tmp/demons_pages.jsonl > /tmp/demonlist.new.json
+          final="$(jq 'length' /tmp/demonlist.new.json)"
+          echo "entries: $final"
+          # never clobber the good data with an empty/broken list
+          [ "$final" -gt 0 ] || { echo "no entries, keeping last good data"; exit 1; }
+          mv /tmp/demonlist.new.json dlist/data/demonlist.json
           date -u +"%Y-%m-%dT%H:%M:%SZ" > dlist/data/updated_at.txt
 
       - name: Commit changes if the list moved
