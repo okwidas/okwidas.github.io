@@ -55,9 +55,10 @@ async function main() {
     .sort((a, b) => a.position - b.position);
   console.log('list ok:', demons.length, 'demons (position <= 150)');
 
-  // 2. per-demon details for verifier/publisher + completion records
+  // 2. per-demon details for verifier/publisher + completion records + placement history
   const cap = Number(process.argv[2] || 0); // optional limit for testing
   const records = {};
+  const history = {};
   let failures = 0;
   for (let i = 0; i < demons.length; i++) {
     if (cap && i >= cap) break;
@@ -74,6 +75,10 @@ async function main() {
       failures++;
       records[d.id] = [];
     }
+    const movement = await gotoJSON('https://pointercrate.com/api/v2/demons/' + d.id + '/audit/movement/', 2);
+    history[d.id] = Array.isArray(movement)
+      ? movement.map((m) => ({ time: m.time, pos: m.new_position, note: noteFor(m.reason) }))
+      : [];
     await wait(350);
     if ((i + 1) % 25 === 0) console.log('  ...' + (i + 1) + '/' + (cap || demons.length) + ' details');
   }
@@ -90,10 +95,36 @@ async function main() {
     'data/records.json',
     JSON.stringify({ updated_at: new Date().toISOString().replace(/\.\d+Z$/, 'Z'), demons: records }, null, 2) + '\n'
   );
+  fs.writeFileSync(
+    'data/history.json',
+    JSON.stringify({ updated_at: new Date().toISOString().replace(/\.\d+Z$/, 'Z'), demons: history }, null, 2) + '\n'
+  );
   fs.writeFileSync('data/updated_at.txt', new Date().toISOString().replace(/\.\d+Z$/, 'Z'));
 
   await browser.close();
-  console.log('success:', list.length, 'entries, records for', Object.keys(records).length, 'demons');
+  console.log('success:', list.length, 'entries, records for', Object.keys(records).length, 'demons, history for', Object.keys(history).length, 'demons');
+}
+
+function noteFor(reason) {
+  if (typeof reason === 'string') {
+    if (reason === 'Added') return 'placed on the list';
+    if (reason === 'Removed') return 'removed from the list';
+    if (reason === 'Update' || reason === 'Updated') return 'record updated';
+    return reason;
+  }
+  if (reason && typeof reason === 'object') {
+    const key = Object.keys(reason)[0];
+    if (!key) return 'position change';
+    const val = reason[key];
+    const name = val && val.other && val.other.name;
+    if (key === 'OtherAddedAbove') return (name || 'another demon') + ' placed above';
+    if (key === 'OtherRemovedAbove') return (name || 'another demon') + ' no longer above';
+    if (key === 'OtherMoved') return 'passed by ' + (name || 'another demon');
+    if (key === 'OtherInsertedAbove') return (name || 'another demon') + ' inserted above';
+    if (key === 'OtherRemoved') return (name || 'another demon') + ' nearby removed';
+    return (name ? name + ' — ' : '') + key.replace(/([A-Z])/g, ' $1').toLowerCase().trim();
+  }
+  return 'position change';
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

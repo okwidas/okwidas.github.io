@@ -102,6 +102,20 @@
   .m-grid a{ color:var(--accent); text-decoration:none; }
   .m-grid a:hover{ text-decoration:underline; }
 
+  .m-hist{ margin-top:18px; background:var(--panel-soft); border:1px solid var(--border); border-radius:10px; }
+  .m-hist summary{ cursor:pointer; list-style:none; display:flex; align-items:center; justify-content:space-between; padding:10px 12px; font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--dim); user-select:none; }
+  .m-hist summary::-webkit-details-marker{ display:none; }
+  .m-hist summary::before{ content:"\25B8"; margin-right:8px; color:var(--accent); transition:transform .12s ease; }
+  .m-hist[open] summary::before{ transform:rotate(90deg); }
+  .m-hist .peak{ color:var(--accent); font-weight:600; }
+  .m-hist-list{ border-top:1px solid var(--border); max-height:240px; overflow-y:auto; }
+  .m-hist .hentry{ display:flex; align-items:baseline; gap:10px; padding:8px 12px; border-bottom:1px solid var(--border); font-size:12px; }
+  .m-hist .hentry:last-child{ border-bottom:none; }
+  .h-pos{ color:var(--accent); font-weight:600; width:48px; font-variant-numeric:tabular-nums; flex-shrink:0; }
+  .h-date{ color:var(--faint); width:84px; font-size:10.5px; flex-shrink:0; }
+  .h-note{ color:var(--dim); }
+  .m-hist .none{ color:var(--faint); font-size:12px; padding:10px 12px; }
+
   .m-rec{ margin-top:18px; }
   .m-rec .r-head{ display:flex; align-items:center; justify-content:space-between; margin-bottom:10px; }
   .m-rec .r-title{ font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--dim); }
@@ -169,6 +183,7 @@
     </div>
     <div class="m-video" id="mVideo"></div>
     <div class="m-grid" id="mGrid"></div>
+    <details class="m-hist" id="mHist" hidden></details>
     <div class="m-rec" id="mRec"></div>
   </div>
 </div>
@@ -201,6 +216,7 @@
   }
 
   var recordsMap = {};
+  var historyMap = {};
   var byId = {};
 
   function buildModal(d){
@@ -261,8 +277,32 @@
     }
     document.getElementById("mGrid").innerHTML = gridHtml;
 
+    // placement history (dropdown)
+    renderHistory(d);
+
     // completions
     renderRecords(d);
+  }
+
+  function renderHistory(d){
+    var hbox = document.getElementById("mHist");
+    var hist = historyMap[d.id];
+    if (hist === undefined){ hbox.hidden = true; hbox.innerHTML = ""; return; }
+    hbox.hidden = false;
+    if (!hist.length){
+      hbox.innerHTML = '<summary><span>placement history</span><span class="peak">no placement changes</span></summary>' +
+        '<div class="none">no recorded position changes for this one.</div>';
+      return;
+    }
+    var peak = Math.min.apply(null, hist.map(function(h){ return h.pos; }));
+    var rows = hist.map(function(h){
+      return '<div class="hentry"><span class="h-pos">#' + esc(String(h.pos)) + '</span>' +
+        '<span class="h-date">' + esc(String(h.time || "").slice(0, 10)) + '</span>' +
+        '<span class="h-note">' + esc(h.note || "position change") + '</span></div>';
+    }).join("");
+    hbox.innerHTML =
+      '<summary><span>placement history</span><span class="peak">peak #' + esc(String(peak)) + ' &middot; ' + hist.length + ' changes</span></summary>' +
+      '<div class="m-hist-list">' + rows + '</div>';
   }
 
   var page_video = null;
@@ -413,6 +453,13 @@
       recordsMap = (data && data.demons) || {};
     })
     .catch(function(){ recordsMap = {}; });
+
+  fetch("data/history.json", { cache: "no-store" })
+    .then(function(r){ return r.ok ? r.json() : Promise.reject(); })
+    .then(function(data){
+      historyMap = (data && data.demons) || {};
+    })
+    .catch(function(){ historyMap = {}; });
 
   fetch("data/updated_at.txt", { cache: "no-store" })
     .then(function(r){ return r.text(); })

@@ -11,7 +11,7 @@ node fetch.js
 if git diff --quiet -- data/; then
   echo "no changes, nothing to push"
 else
-  git add data/demonlist.json data/records.json data/updated_at.txt
+  git add data/demonlist.json data/records.json data/history.json data/updated_at.txt
   git commit -m "manual: update demonlist"
   git push
   echo "pushed update"
