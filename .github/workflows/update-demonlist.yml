@@ -32,7 +32,7 @@ jobs:
       - name: Fetch demonlist (list + records + placement history)
         run: |
           cd dlist
-          node fetch.js
+          LISTHEADED=1 xvfb-run -a node fetch.js
 
       - name: Commit changes if the data moved
         run: |

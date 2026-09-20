@@ -4,14 +4,49 @@ const fs = require('fs');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 const wait = (ms) => new Promise((r) => setTimeout(r, ms));
 
+async function passChallenge(page) {
+  for (let i = 0; i < 6; i++) {
+    try {
+      await page.goto('https://pointercrate.com/', { waitUntil: 'domcontentloaded', timeout: 60000 });
+      try {
+        await page.waitForFunction(() => {
+          const t = (document.body && document.body.innerText || '').toLowerCase();
+          return t.includes('demonlist') || t.includes('geometry dash');
+        }, { timeout: 25000 });
+        return true;
+      } catch (e) {
+        // still on the challenge interstitial — wait and retry
+      }
+    } catch (e) {
+      // nav failed — retry
+    }
+    console.log('  ...challenge not cleared yet, retrying (' + (i + 1) + '/6)');
+    await wait(5000);
+  }
+  return false;
+}
+
 async function main() {
-  const browser = await chromium.launch();
-  const context = await browser.newContext({ userAgent: UA });
+  const headed = process.env.LISTHEADED === '1';
+  const browser = await chromium.launch({
+    headless: !headed,
+    args: ['--no-sandbox', '--disable-blink-features=AutomationControlled']
+  });
+  const context = await browser.newContext({
+    userAgent: UA,
+    locale: 'en-US',
+    viewport: { width: 1280, height: 800 }
+  });
   const page = await context.newPage();
 
   // pass the cloudflare challenge once on the plain site before hitting the api
-  await page.goto('https://pointercrate.com/', { waitUntil: 'domcontentloaded', timeout: 60000 });
-  await wait(5000);
+  const passed = await passChallenge(page);
+  if (!passed) {
+    console.error('could not pass the cloudflare challenge — keeping last good data');
+    await browser.close();
+    process.exit(1);
+  }
+  console.log('challenge passed, fetching list...');
 
   async function gotoJSON(url, tries) {
     for (let i = 0; i < tries; i++) {
@@ -40,7 +75,7 @@ async function main() {
   while (safety < 30) {
     safety++;
     const url = 'https://pointercrate.com/api/v2/demons/?limit=100' + (after ? '&after=' + after : '');
-    const batch = await gotoJSON(url, 3);
+    const batch = await gotoJSON(url, 5);
     if (!Array.isArray(batch) || batch.length === 0) break;
     all = all.concat(batch);
     if (batch.length < 100) break;
