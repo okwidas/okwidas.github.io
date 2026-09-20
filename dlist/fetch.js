@@ -53,6 +53,11 @@ async function main() {
   const demons = all
     .filter((d) => d && d.position != null && d.position <= 150)
     .sort((a, b) => a.position - b.position);
+  if (demons.length === 0) {
+    console.error('list fetch returned nothing — keeping last good data');
+    await browser.close();
+    process.exit(1);
+  }
   console.log('list ok:', demons.length, 'demons (position <= 150)');
 
   // 2. per-demon details for verifier/publisher + completion records + placement history

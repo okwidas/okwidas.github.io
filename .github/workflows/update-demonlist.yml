@@ -2,8 +2,8 @@ name: Update demonlist
 
 on:
   schedule:
-    # runs at the top of every hour
-    - cron: "0 * * * *"
+    # every 3 hours on the hour (pointercrate rate-limits tight bursts)
+    - cron: "0 */3 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -15,35 +15,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch demonlist from pointercrate
-        run: |
-          set -euo pipefail
-          mkdir -p dlist/data
-          : > /tmp/demons_pages.jsonl
-          after=""
-          while :; do
-            url="https://pointercrate.com/api/v2/demons/?limit=100"
-            [ -n "$after" ] && url="${url}&after=${after}"
-            curl -sf -H "Accept: application/json" "$url" -o /tmp/demons_page.json
-            count="$(jq -r 'length' /tmp/demons_page.json)"
-            [ "$count" -gt 0 ] || break
-            jq -c '.[]' /tmp/demons_page.json >> /tmp/demons_pages.jsonl
-            next="$(jq -r '.[-1].id' /tmp/demons_page.json)"
-            [ "$next" = "$after" ] && break
-            after="$next"
-          done
-          jq -s '[ .[] | select(.position != null and .position <= 150) ] | sort_by(.position)' \
-            /tmp/demons_pages.jsonl > /tmp/demonlist.new.json
-          final="$(jq 'length' /tmp/demonlist.new.json)"
-          echo "entries: $final"
-          # never clobber the good data with an empty/broken list
-          [ "$final" -gt 0 ] || { echo "no entries, keeping last good data"; exit 1; }
-          mv /tmp/demonlist.new.json dlist/data/demonlist.json
-          date -u +"%Y-%m-%dT%H:%M:%SZ" > dlist/data/updated_at.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-      - name: Commit changes if the list moved
+      # pointercrate sits behind a cloudflare challenge that refuses plain curl
+      # from datacenter IPs, so we drive a real (headless) browser instead,
+      # exactly like the local updater does.
+      - name: Install playwright + chromium
+        run: |
+          cd dlist
+          npm init -y > /dev/null
+          npm i playwright > /dev/null 2>&1
+          npx playwright install --with-deps chromium > /dev/null 2>&1
+
+      - name: Fetch demonlist (list + records + placement history)
+        run: |
+          cd dlist
+          node fetch.js
+
+      - name: Commit changes if the data moved
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dlist/data/demonlist.json dlist/data/updated_at.txt
+          git add data/demonlist.json data/records.json data/history.json data/updated_at.txt
           git diff --cached --quiet || (git commit -m "auto: update demonlist" && git push)
