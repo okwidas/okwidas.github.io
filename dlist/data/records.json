@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T06:10:33Z",
+  "updated_at": "2026-09-21T09:09:07Z",
   "demons": {
     "238": [
       {
@@ -57050,6 +57050,15 @@
       },
       {
         "player": {
+          "id": 32595,
+          "name": "Jigun"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fE1yAmzG8R4"
+      },
+      {
+        "player": {
           "id": 59810,
           "name": "Huzaza"
         },
@@ -57101,15 +57110,6 @@
         "progress": 98,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hR3FF11aFtE"
-      },
-      {
-        "player": {
-          "id": 32595,
-          "name": "Jigun"
-        },
-        "progress": 94,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=LeStNwFFDQ4"
       },
       {
         "player": {
@@ -98998,6 +98998,15 @@
       },
       {
         "player": {
+          "id": 53108,
+          "name": "[st] Albert"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MQbM-_f3m_A"
+      },
+      {
+        "player": {
           "id": 61510,
           "name": "[UFA] dovv1n"
         },
@@ -106114,6 +106123,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jhD26Jw409I"
+      },
+      {
+        "player": {
+          "id": 55171,
+          "name": "[HOLA] XaviiiFG"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=B53grJC4bDU"
       },
       {
         "player": {
