@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:08:39Z",
+  "updated_at": "2026-09-21T18:09:26Z",
   "demons": {
     "238": [
       {
@@ -9384,6 +9384,15 @@
       },
       {
         "player": {
+          "id": 33699,
+          "name": "Seadawg"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=DAqSlf1QOds"
+      },
+      {
+        "player": {
           "id": 52428,
           "name": "[FOWL] plazma"
         },
@@ -13266,7 +13275,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -26583,7 +26592,7 @@
       {
         "player": {
           "id": 67301,
-          "name": "rakhwomaninov"
+          "name": "[MOON] rakhwomaninov"
         },
         "progress": 100,
         "status": "approved",
@@ -31267,7 +31276,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -32337,6 +32346,15 @@
       },
       {
         "player": {
+          "id": 63450,
+          "name": "Silver950"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=v4887Dvbxzw"
+      },
+      {
+        "player": {
           "id": 39384,
           "name": "OneAlphaHelix"
         },
@@ -32496,6 +32514,15 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=1N6MbwbSMRA"
+      },
+      {
+        "player": {
+          "id": 72016,
+          "name": "IncredibleEJ"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=l2iEWUVoByY"
       },
       {
         "player": {
@@ -37204,7 +37231,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -44680,7 +44707,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -49366,7 +49393,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -52869,7 +52896,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -56610,7 +56637,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -59470,6 +59497,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=NdfFvdpBmj8"
+      },
+      {
+        "player": {
+          "id": 69944,
+          "name": "NONEROUP"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1inQyGW_yAM"
       },
       {
         "player": {
@@ -66664,7 +66700,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -69829,7 +69865,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -74090,7 +74126,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -75379,7 +75415,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -76605,7 +76641,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 74,
         "status": "approved",
@@ -77581,7 +77617,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -80928,7 +80964,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -86850,7 +86886,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -88172,7 +88208,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -96799,7 +96835,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -99004,6 +99040,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MQbM-_f3m_A"
+      },
+      {
+        "player": {
+          "id": 58485,
+          "name": "[HERVE] Cryostazz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=GB9z989FBS0"
       },
       {
         "player": {
@@ -101757,7 +101802,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -110759,7 +110804,7 @@
       {
         "player": {
           "id": 67301,
-          "name": "rakhwomaninov"
+          "name": "[MOON] rakhwomaninov"
         },
         "progress": 84,
         "status": "approved",
@@ -110811,6 +110856,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=tLfHQQRIxzk"
+      },
+      {
+        "player": {
+          "id": 63085,
+          "name": "Jarmusz"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wOXfUUSXwnE"
       }
     ],
     "678": [
@@ -111573,6 +111627,15 @@
       },
       {
         "player": {
+          "id": 51558,
+          "name": "[SEREK] Felps_2106"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LWBML6wILMM"
+      },
+      {
+        "player": {
           "id": 59219,
           "name": "[CHIL] EmeraldKnight"
         },
@@ -112091,7 +112154,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -112678,7 +112741,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MAOR] ByteLaw"
+          "name": "[MOON] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -113179,7 +113242,26 @@
         "video": "https://www.youtube.com/watch?v=F8A2x4xG-Ys"
       }
     ],
-    "709": [],
+    "709": [
+      {
+        "player": {
+          "id": 57454,
+          "name": "GuitGuit"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=o2ViiZJHoz8"
+      },
+      {
+        "player": {
+          "id": 33446,
+          "name": "1qawsz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=kJLJI_qvhAE"
+      }
+    ],
     "710": [
       {
         "player": {
