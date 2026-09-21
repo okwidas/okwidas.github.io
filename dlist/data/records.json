@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:09:11Z",
+  "updated_at": "2026-09-21T03:08:21Z",
   "demons": {
     "238": [
       {
@@ -9363,6 +9363,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MT8Jh3M39wI"
+      },
+      {
+        "player": {
+          "id": 60829,
+          "name": "maximizee"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JXDOg1TN_C8"
       },
       {
         "player": {
@@ -32604,6 +32613,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ZPMSL2BP7BU"
+      },
+      {
+        "player": {
+          "id": 64642,
+          "name": "[TDH] LotokzBot"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZU-1RXn68eU"
       },
       {
         "player": {
@@ -57047,6 +57065,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=PwK93jdQblc"
+      },
+      {
+        "player": {
+          "id": 61831,
+          "name": "ekleraaa"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OcjovT9f-Ng"
       },
       {
         "player": {
@@ -105033,6 +105060,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=uzNl7WUF9p4"
+      },
+      {
+        "player": {
+          "id": 50569,
+          "name": "pcklkng"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=miFq00t6gow"
       }
     ],
     "648": [
@@ -110263,6 +110299,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Dx_sKZJVQ3w"
+      },
+      {
+        "player": {
+          "id": 72009,
+          "name": "IAmJuanan"
+        },
+        "progress": 73,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Tq7yt6IBF0U"
       }
     ],
     "674": [
@@ -112582,6 +112627,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=oMzZKAF89x4"
+      },
+      {
+        "player": {
+          "id": 54921,
+          "name": "[BLKHL] ZaZa GD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fA1FWiWTeuY"
       },
       {
         "player": {
