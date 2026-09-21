@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:18:29Z",
+  "updated_at": "2026-09-21T00:09:11Z",
   "demons": {
     "238": [
       {
@@ -17330,6 +17330,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MXHPIc1FPH0"
+      },
+      {
+        "player": {
+          "id": 57575,
+          "name": "[LOLER] Lagos"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mL1oeU-D4C0"
+      },
+      {
+        "player": {
+          "id": 71309,
+          "name": "thshaminushif"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7z0dFgFR4WM"
       },
       {
         "player": {
@@ -106054,6 +106072,15 @@
       },
       {
         "player": {
+          "id": 71054,
+          "name": "[RHTE] Dumbeast1451"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uFarLMUCEUE"
+      },
+      {
+        "player": {
           "id": 51582,
           "name": "Napalm04"
         },
@@ -113659,6 +113686,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HB-Ys4I4U7c"
+      },
+      {
+        "player": {
+          "id": 52377,
+          "name": "[HOLA] weyolll3"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qlW4kwpwakE"
       }
     ]
   }
