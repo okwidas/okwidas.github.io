@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:09:26Z",
+  "updated_at": "2026-09-21T21:09:39Z",
   "demons": {
     "238": [
       {
@@ -28942,6 +28942,15 @@
       },
       {
         "player": {
+          "id": 57081,
+          "name": "KJ8ishere"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Pfu7qZDkKfI"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -31788,6 +31797,15 @@
       },
       {
         "player": {
+          "id": 71511,
+          "name": "ainiru"
+        },
+        "progress": 93,
+        "status": "approved",
+        "video": "https://www.twitch.tv/videos/2877104061"
+      },
+      {
+        "player": {
           "id": 53337,
           "name": "dizbro"
         },
@@ -32478,15 +32496,6 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=vwPdbdWT7ro"
-      },
-      {
-        "player": {
-          "id": 71511,
-          "name": "ainiru"
-        },
-        "progress": 79,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=RtJGfWWm2YM"
       },
       {
         "player": {
@@ -55236,6 +55245,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2mxPhMrphW8"
+      },
+      {
+        "player": {
+          "id": 50457,
+          "name": "[ILUV] GDmuno"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5QtFyUCUY9s"
       },
       {
         "player": {
@@ -106213,6 +106231,15 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7Ld3-cC4IJQ"
+      },
+      {
+        "player": {
+          "id": 66407,
+          "name": "maxyop3"
+        },
+        "progress": 88,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RWHXKjeyU4w"
       },
       {
         "player": {

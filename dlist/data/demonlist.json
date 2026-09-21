@@ -570,8 +570,27 @@
     "level_id": 86018142
   },
   {
-    "id": 668,
+    "id": 706,
     "position": 31,
+    "name": "Sacrifice",
+    "requirement": 72,
+    "video": "https://www.youtube.com/watch?v=Sth67PA8XBU",
+    "thumbnail": "https://i.ytimg.com/vi/Sth67PA8XBU/mqdefault.jpg",
+    "publisher": {
+      "id": 32052,
+      "name": "Laniakea",
+      "banned": false
+    },
+    "verifier": {
+      "id": 32052,
+      "name": "Laniakea",
+      "banned": false
+    },
+    "level_id": 141052363
+  },
+  {
+    "id": 668,
+    "position": 32,
     "name": "Based After Based",
     "requirement": 74,
     "video": "https://www.youtube.com/watch?v=yQBFyUvB3lY",
@@ -590,7 +609,7 @@
   },
   {
     "id": 528,
-    "position": 32,
+    "position": 33,
     "name": "The Lightning Rod",
     "requirement": 63,
     "video": "https://www.youtube.com/watch?v=nQDTi077O6M",
@@ -609,7 +628,7 @@
   },
   {
     "id": 380,
-    "position": 33,
+    "position": 34,
     "name": "Slaughterhouse",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
@@ -628,7 +647,7 @@
   },
   {
     "id": 612,
-    "position": 34,
+    "position": 35,
     "name": "Subterminal Point",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=h2wmRMgACH4",
@@ -647,7 +666,7 @@
   },
   {
     "id": 501,
-    "position": 35,
+    "position": 36,
     "name": "KOCMOC",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=2CxE-UWCIG4",
@@ -666,7 +685,7 @@
   },
   {
     "id": 709,
-    "position": 36,
+    "position": 37,
     "name": "cognitohazard",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=T5g0r16X_ZA",
@@ -685,7 +704,7 @@
   },
   {
     "id": 697,
-    "position": 37,
+    "position": 38,
     "name": "Maniacal Chains",
     "requirement": 85,
     "video": "https://www.youtube.com/watch?v=TzeMJeIu6bY",
@@ -704,7 +723,7 @@
   },
   {
     "id": 679,
-    "position": 38,
+    "position": 39,
     "name": "BEING HOME",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=kt7FnUzK8CY",
@@ -723,7 +742,7 @@
   },
   {
     "id": 516,
-    "position": 39,
+    "position": 40,
     "name": "Deimos",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=b2yHaIk5zio",
@@ -739,25 +758,6 @@
       "banned": false
     },
     "level_id": 93091893
-  },
-  {
-    "id": 706,
-    "position": 40,
-    "name": "Sacrifice",
-    "requirement": 72,
-    "video": "https://www.youtube.com/watch?v=Sth67PA8XBU",
-    "thumbnail": "https://i.ytimg.com/vi/Sth67PA8XBU/mqdefault.jpg",
-    "publisher": {
-      "id": 32052,
-      "name": "Laniakea",
-      "banned": false
-    },
-    "verifier": {
-      "id": 32052,
-      "name": "Laniakea",
-      "banned": false
-    },
-    "level_id": 141052363
   },
   {
     "id": 652,

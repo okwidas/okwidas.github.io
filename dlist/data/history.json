@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:09:26Z",
+  "updated_at": "2026-09-21T21:09:39Z",
   "demons": {
     "238": [
       {
@@ -5230,6 +5230,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 33,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 34,
+        "note": "passed by Sacrifice"
       }
     ],
     "383": [
@@ -11380,6 +11385,16 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 30,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 31,
+        "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-09-21T20:29:41.057216",
+        "pos": 30,
+        "note": "passed by Sacrifice"
       }
     ],
     "469": [
@@ -15380,6 +15395,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 35,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 36,
+        "note": "passed by Sacrifice"
       }
     ],
     "511": [
@@ -15959,6 +15979,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 39,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 40,
+        "note": "passed by Sacrifice"
       }
     ],
     "520": [
@@ -17639,6 +17664,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 32,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 33,
+        "note": "passed by Sacrifice"
       }
     ],
     "539": [
@@ -27384,6 +27414,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 34,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 35,
+        "note": "passed by Sacrifice"
       }
     ],
     "613": [
@@ -35714,6 +35749,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 31,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 32,
+        "note": "passed by Sacrifice"
       }
     ],
     "669": [
@@ -36906,6 +36946,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 38,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 39,
+        "note": "passed by Sacrifice"
       }
     ],
     "680": [
@@ -37781,6 +37826,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 37,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 38,
+        "note": "passed by Sacrifice"
       }
     ],
     "698": [
@@ -38094,6 +38144,16 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 40,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 30,
+        "note": "Moved"
+      },
+      {
+        "time": "2026-09-21T20:29:41.057216",
+        "pos": 31,
+        "note": "Moved"
       }
     ],
     "707": [
@@ -38170,6 +38230,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 36,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-21T20:29:30.365930",
+        "pos": 37,
+        "note": "passed by Sacrifice"
       }
     ],
     "710": [
