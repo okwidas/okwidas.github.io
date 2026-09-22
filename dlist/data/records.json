@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T15:09:03Z",
+  "updated_at": "2026-09-22T18:10:22Z",
   "demons": {
     "238": [
       {
@@ -32406,6 +32406,15 @@
         "progress": 80,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=v4887Dvbxzw"
+      },
+      {
+        "player": {
+          "id": 67513,
+          "name": "Krox"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=saTkPLJjkBY"
       },
       {
         "player": {
@@ -111106,6 +111115,15 @@
       },
       {
         "player": {
+          "id": 37748,
+          "name": "[OG] ProudGiraffe311"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5cP5n1gPWZg"
+      },
+      {
+        "player": {
           "id": 58151,
           "name": "Cheese438"
         },
@@ -113380,21 +113398,21 @@
     "709": [
       {
         "player": {
-          "id": 57454,
-          "name": "GuitGuit"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=o2ViiZJHoz8"
-      },
-      {
-        "player": {
           "id": 33446,
           "name": "1qawsz"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=kJLJI_qvhAE"
+      },
+      {
+        "player": {
+          "id": 57454,
+          "name": "GuitGuit"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=o2ViiZJHoz8"
       }
     ],
     "710": [
