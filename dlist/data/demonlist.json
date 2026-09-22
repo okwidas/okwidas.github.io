@@ -2293,7 +2293,7 @@
     },
     "verifier": {
       "id": 50456,
-      "name": "[CHIL] Cookie",
+      "name": "[BHO] Cookie",
       "banned": false
     },
     "level_id": 107238250
@@ -2782,7 +2782,7 @@
     "thumbnail": "https://i.ytimg.com/vi/TN0FQ3KBv4w/mqdefault.jpg",
     "publisher": {
       "id": 37661,
-      "name": "AlbinoSnail",
+      "name": "[tq] AlbinoSnail",
       "banned": false
     },
     "verifier": {

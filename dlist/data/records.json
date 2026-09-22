@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:09:26Z",
+  "updated_at": "2026-09-22T12:08:50Z",
   "demons": {
     "238": [
       {
@@ -833,7 +833,7 @@
       {
         "player": {
           "id": 35784,
-          "name": "[EZ] Sanni"
+          "name": "Sanni"
         },
         "progress": 100,
         "status": "approved",
@@ -1337,7 +1337,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -1436,7 +1436,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -1706,7 +1706,7 @@
       {
         "player": {
           "id": 37468,
-          "name": "[NOODLES] The Rykinator"
+          "name": "[zzz] The Rykinator"
         },
         "progress": 100,
         "status": "approved",
@@ -2039,7 +2039,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -3085,7 +3085,7 @@
       {
         "player": {
           "id": 35784,
-          "name": "[EZ] Sanni"
+          "name": "Sanni"
         },
         "progress": 100,
         "status": "approved",
@@ -4498,7 +4498,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -5164,7 +5164,7 @@
       {
         "player": {
           "id": 37661,
-          "name": "AlbinoSnail"
+          "name": "[tq] AlbinoSnail"
         },
         "progress": 100,
         "status": "approved",
@@ -6451,7 +6451,7 @@
       {
         "player": {
           "id": 62089,
-          "name": "[QUA] Girggg"
+          "name": "[QUA] Girg"
         },
         "progress": 100,
         "status": "approved",
@@ -7315,7 +7315,7 @@
       {
         "player": {
           "id": 66382,
-          "name": "[DF] nqlol"
+          "name": "nqlol"
         },
         "progress": 100,
         "status": "approved",
@@ -7342,7 +7342,7 @@
       {
         "player": {
           "id": 66399,
-          "name": "Ens"
+          "name": "[CHUPA] Ens"
         },
         "progress": 100,
         "status": "approved",
@@ -7513,7 +7513,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -7774,7 +7774,7 @@
       {
         "player": {
           "id": 61075,
-          "name": "Serg"
+          "name": "[KTFL] Serg01"
         },
         "progress": 100,
         "status": "approved",
@@ -7792,7 +7792,7 @@
       {
         "player": {
           "id": 58482,
-          "name": "dogboi320"
+          "name": "[RF] dogboi320"
         },
         "progress": 100,
         "status": "approved",
@@ -7855,7 +7855,7 @@
       {
         "player": {
           "id": 52033,
-          "name": "Zapi4"
+          "name": "zapi"
         },
         "progress": 100,
         "status": "approved",
@@ -8377,7 +8377,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -9313,7 +9313,7 @@
       {
         "player": {
           "id": 38003,
-          "name": "[TeamJ] pohgii"
+          "name": "pohgii"
         },
         "progress": 100,
         "status": "approved",
@@ -9484,7 +9484,7 @@
       {
         "player": {
           "id": 53182,
-          "name": "textureee."
+          "name": "wyrd"
         },
         "progress": 83,
         "status": "approved",
@@ -10422,7 +10422,7 @@
       {
         "player": {
           "id": 38003,
-          "name": "[TeamJ] pohgii"
+          "name": "pohgii"
         },
         "progress": 100,
         "status": "approved",
@@ -11403,7 +11403,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -11943,7 +11943,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -14724,7 +14724,7 @@
       {
         "player": {
           "id": 61055,
-          "name": "[MOAT] Solah"
+          "name": "[NAILS] Solah"
         },
         "progress": 100,
         "status": "approved",
@@ -14823,7 +14823,7 @@
       {
         "player": {
           "id": 58482,
-          "name": "dogboi320"
+          "name": "[RF] dogboi320"
         },
         "progress": 100,
         "status": "approved",
@@ -14949,7 +14949,7 @@
       {
         "player": {
           "id": 65841,
-          "name": "[FLAT] c3qiqimain"
+          "name": "[FLAT] c4qiqimain"
         },
         "progress": 100,
         "status": "approved",
@@ -15759,7 +15759,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -16308,7 +16308,7 @@
       {
         "player": {
           "id": 70402,
-          "name": "GamerAJG2012"
+          "name": "GamerAJG"
         },
         "progress": 100,
         "status": "approved",
@@ -16560,7 +16560,7 @@
       {
         "player": {
           "id": 66127,
-          "name": "luna_gmd"
+          "name": "[RIVER] luna"
         },
         "progress": 100,
         "status": "approved",
@@ -16920,7 +16920,7 @@
       {
         "player": {
           "id": 69815,
-          "name": "QillaqGD"
+          "name": "[CORN] Shatter"
         },
         "progress": 100,
         "status": "approved",
@@ -17010,7 +17010,7 @@
       {
         "player": {
           "id": 45119,
-          "name": "snowballGD"
+          "name": "trikecycleYT"
         },
         "progress": 100,
         "status": "approved",
@@ -17064,7 +17064,7 @@
       {
         "player": {
           "id": 67455,
-          "name": "[PATU] veri"
+          "name": "[PATU] verified"
         },
         "progress": 100,
         "status": "approved",
@@ -17181,7 +17181,7 @@
       {
         "player": {
           "id": 71763,
-          "name": "BFUBaboon"
+          "name": "[GDC] BFUBaboon"
         },
         "progress": 100,
         "status": "approved",
@@ -17262,7 +17262,7 @@
       {
         "player": {
           "id": 69846,
-          "name": "TUEY15"
+          "name": "Primo"
         },
         "progress": 100,
         "status": "approved",
@@ -17357,6 +17357,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MXHPIc1FPH0"
+      },
+      {
+        "player": {
+          "id": 61685,
+          "name": "zimbae"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=3GhpVsGcfps"
       },
       {
         "player": {
@@ -18272,7 +18281,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -18524,7 +18533,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -19154,7 +19163,7 @@
       {
         "player": {
           "id": 50356,
-          "name": "[rr] seth"
+          "name": "seth"
         },
         "progress": 100,
         "status": "approved",
@@ -19262,7 +19271,7 @@
       {
         "player": {
           "id": 65965,
-          "name": "[OX] pacsalinta"
+          "name": "[CREAM] pacsalinta"
         },
         "progress": 100,
         "status": "approved",
@@ -19289,7 +19298,7 @@
       {
         "player": {
           "id": 62551,
-          "name": "Electro"
+          "name": "[MASI] Electro480"
         },
         "progress": 100,
         "status": "approved",
@@ -19460,7 +19469,7 @@
       {
         "player": {
           "id": 52033,
-          "name": "Zapi4"
+          "name": "zapi"
         },
         "progress": 100,
         "status": "approved",
@@ -20218,7 +20227,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -20641,7 +20650,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -20785,7 +20794,7 @@
       {
         "player": {
           "id": 52566,
-          "name": "[YAHO] Chrisuhan"
+          "name": "Chris"
         },
         "progress": 100,
         "status": "approved",
@@ -21046,7 +21055,7 @@
       {
         "player": {
           "id": 58482,
-          "name": "dogboi320"
+          "name": "[RF] dogboi320"
         },
         "progress": 100,
         "status": "approved",
@@ -22353,7 +22362,7 @@
       {
         "player": {
           "id": 38003,
-          "name": "[TeamJ] pohgii"
+          "name": "pohgii"
         },
         "progress": 100,
         "status": "approved",
@@ -23568,7 +23577,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -24045,7 +24054,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -25323,7 +25332,7 @@
       {
         "player": {
           "id": 61862,
-          "name": "nykolol!"
+          "name": "isamaoww"
         },
         "progress": 100,
         "status": "approved",
@@ -25359,7 +25368,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -25773,7 +25782,7 @@
       {
         "player": {
           "id": 67455,
-          "name": "[PATU] veri"
+          "name": "[PATU] verified"
         },
         "progress": 100,
         "status": "approved",
@@ -26907,7 +26916,7 @@
       {
         "player": {
           "id": 71722,
-          "name": "VPR"
+          "name": "[HOLA] VPR"
         },
         "progress": 100,
         "status": "approved",
@@ -26978,8 +26987,17 @@
       },
       {
         "player": {
+          "id": 51813,
+          "name": "[MOON] vAtmo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lzHd3CYtghQ"
+      },
+      {
+        "player": {
           "id": 68234,
-          "name": "graceful"
+          "name": "[MASI] graceful"
         },
         "progress": 100,
         "status": "approved",
@@ -27674,7 +27692,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -28871,7 +28889,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -28997,7 +29015,7 @@
       {
         "player": {
           "id": 66746,
-          "name": "Elphelt"
+          "name": "[tq] Elphelt"
         },
         "progress": 88,
         "status": "approved",
@@ -29386,7 +29404,7 @@
       {
         "player": {
           "id": 38003,
-          "name": "[TeamJ] pohgii"
+          "name": "pohgii"
         },
         "progress": 100,
         "status": "approved",
@@ -29449,7 +29467,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -31195,7 +31213,7 @@
       {
         "player": {
           "id": 63209,
-          "name": "sillygubbycarz"
+          "name": "[didy] david"
         },
         "progress": 100,
         "status": "approved",
@@ -31671,6 +31689,15 @@
       },
       {
         "player": {
+          "id": 59775,
+          "name": "[RHTE] TheFireInside"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BxxH8jGONBs"
+      },
+      {
+        "player": {
           "id": 1318,
           "name": "jaegerdd"
         },
@@ -31860,15 +31887,6 @@
       },
       {
         "player": {
-          "id": 59775,
-          "name": "[RHTE] TheFireInside"
-        },
-        "progress": 92,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=FCvnz2YCiIc"
-      },
-      {
-        "player": {
           "id": 52457,
           "name": "[GEGE] Reapavon"
         },
@@ -31960,7 +31978,7 @@
       {
         "player": {
           "id": 59062,
-          "name": "[HOMMA] sapu"
+          "name": "Subez"
         },
         "progress": 87,
         "status": "approved",
@@ -32302,7 +32320,7 @@
       {
         "player": {
           "id": 66474,
-          "name": "Hereunwillingly"
+          "name": "unwill"
         },
         "progress": 81,
         "status": "approved",
@@ -32707,7 +32725,7 @@
       {
         "player": {
           "id": 62368,
-          "name": "PxlishGMD"
+          "name": "Pxlish"
         },
         "progress": 75,
         "status": "approved",
@@ -33546,7 +33564,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -33942,7 +33960,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -34014,7 +34032,7 @@
       {
         "player": {
           "id": 62153,
-          "name": "Superflitzer123"
+          "name": "[KTFL] Superflitzer123"
         },
         "progress": 100,
         "status": "approved",
@@ -34131,7 +34149,7 @@
       {
         "player": {
           "id": 65841,
-          "name": "[FLAT] c3qiqimain"
+          "name": "[FLAT] c4qiqimain"
         },
         "progress": 100,
         "status": "approved",
@@ -34502,7 +34520,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -35861,7 +35879,7 @@
       {
         "player": {
           "id": 63209,
-          "name": "sillygubbycarz"
+          "name": "[didy] david"
         },
         "progress": 100,
         "status": "approved",
@@ -36086,7 +36104,7 @@
       {
         "player": {
           "id": 69680,
-          "name": "Voiiddd"
+          "name": "[CBFA] zVoid"
         },
         "progress": 70,
         "status": "approved",
@@ -36104,7 +36122,7 @@
       {
         "player": {
           "id": 59062,
-          "name": "[HOMMA] sapu"
+          "name": "Subez"
         },
         "progress": 70,
         "status": "approved",
@@ -36167,7 +36185,7 @@
       {
         "player": {
           "id": 53182,
-          "name": "textureee."
+          "name": "wyrd"
         },
         "progress": 69,
         "status": "approved",
@@ -36221,7 +36239,7 @@
       {
         "player": {
           "id": 66382,
-          "name": "[DF] nqlol"
+          "name": "nqlol"
         },
         "progress": 69,
         "status": "approved",
@@ -36898,7 +36916,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -37483,7 +37501,7 @@
       {
         "player": {
           "id": 61862,
-          "name": "nykolol!"
+          "name": "isamaoww"
         },
         "progress": 100,
         "status": "approved",
@@ -37861,7 +37879,7 @@
       {
         "player": {
           "id": 61436,
-          "name": "[SDF] Nim"
+          "name": "[SLVT] Nim"
         },
         "progress": 100,
         "status": "approved",
@@ -38352,6 +38370,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=V4ttQyieVJk"
+      },
+      {
+        "player": {
+          "id": 51345,
+          "name": "[GLUKE] MayoYoma"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=p3oiW3Vq2JM"
       },
       {
         "player": {
@@ -39096,7 +39123,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -39483,7 +39510,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -40622,6 +40649,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=53uktbkQySQ"
+      },
+      {
+        "player": {
+          "id": 55274,
+          "name": "[K7] misty"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=303JAtpD6t0"
       },
       {
         "player": {
@@ -41827,7 +41863,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -43024,7 +43060,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -44014,7 +44050,7 @@
       {
         "player": {
           "id": 58482,
-          "name": "dogboi320"
+          "name": "[RF] dogboi320"
         },
         "progress": 100,
         "status": "approved",
@@ -44923,7 +44959,7 @@
       {
         "player": {
           "id": 37468,
-          "name": "[NOODLES] The Rykinator"
+          "name": "[zzz] The Rykinator"
         },
         "progress": 100,
         "status": "approved",
@@ -45319,7 +45355,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -45571,7 +45607,7 @@
       {
         "player": {
           "id": 62089,
-          "name": "[QUA] Girggg"
+          "name": "[QUA] Girg"
         },
         "progress": 100,
         "status": "approved",
@@ -46327,7 +46363,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -47841,7 +47877,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -48671,7 +48707,7 @@
       {
         "player": {
           "id": 35784,
-          "name": "[EZ] Sanni"
+          "name": "Sanni"
         },
         "progress": 100,
         "status": "approved",
@@ -48680,7 +48716,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -48743,7 +48779,7 @@
       {
         "player": {
           "id": 62368,
-          "name": "PxlishGMD"
+          "name": "Pxlish"
         },
         "progress": 100,
         "status": "approved",
@@ -49528,7 +49564,7 @@
       {
         "player": {
           "id": 37661,
-          "name": "AlbinoSnail"
+          "name": "[tq] AlbinoSnail"
         },
         "progress": 100,
         "status": "approved",
@@ -49609,7 +49645,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -49690,7 +49726,7 @@
       {
         "player": {
           "id": 58482,
-          "name": "dogboi320"
+          "name": "[RF] dogboi320"
         },
         "progress": 100,
         "status": "approved",
@@ -49951,7 +49987,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -52293,7 +52329,7 @@
       {
         "player": {
           "id": 61862,
-          "name": "nykolol!"
+          "name": "isamaoww"
         },
         "progress": 100,
         "status": "approved",
@@ -53157,7 +53193,7 @@
       {
         "player": {
           "id": 67455,
-          "name": "[PATU] veri"
+          "name": "[PATU] verified"
         },
         "progress": 100,
         "status": "approved",
@@ -53274,7 +53310,7 @@
       {
         "player": {
           "id": 70831,
-          "name": "tabbykitty"
+          "name": "[GOUP] tabbykitty"
         },
         "progress": 100,
         "status": "approved",
@@ -53364,7 +53400,7 @@
       {
         "player": {
           "id": 69815,
-          "name": "QillaqGD"
+          "name": "[CORN] Shatter"
         },
         "progress": 100,
         "status": "approved",
@@ -54898,7 +54934,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -55474,7 +55510,7 @@
       {
         "player": {
           "id": 62368,
-          "name": "PxlishGMD"
+          "name": "Pxlish"
         },
         "progress": 74,
         "status": "approved",
@@ -56412,7 +56448,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -56475,7 +56511,7 @@
       {
         "player": {
           "id": 50356,
-          "name": "[rr] seth"
+          "name": "seth"
         },
         "progress": 100,
         "status": "approved",
@@ -56574,7 +56610,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -57096,7 +57132,7 @@
       {
         "player": {
           "id": 66474,
-          "name": "Hereunwillingly"
+          "name": "unwill"
         },
         "progress": 100,
         "status": "approved",
@@ -58016,7 +58052,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -58196,7 +58232,7 @@
       {
         "player": {
           "id": 37468,
-          "name": "[NOODLES] The Rykinator"
+          "name": "[zzz] The Rykinator"
         },
         "progress": 100,
         "status": "approved",
@@ -58241,7 +58277,7 @@
       {
         "player": {
           "id": 61436,
-          "name": "[SDF] Nim"
+          "name": "[SLVT] Nim"
         },
         "progress": 100,
         "status": "approved",
@@ -58988,7 +59024,7 @@
       {
         "player": {
           "id": 62153,
-          "name": "Superflitzer123"
+          "name": "[KTFL] Superflitzer123"
         },
         "progress": 100,
         "status": "approved",
@@ -59384,7 +59420,7 @@
       {
         "player": {
           "id": 61075,
-          "name": "Serg"
+          "name": "[KTFL] Serg01"
         },
         "progress": 100,
         "status": "approved",
@@ -59420,7 +59456,7 @@
       {
         "player": {
           "id": 71083,
-          "name": "latenightpiss"
+          "name": "[LARP] latenightpiss"
         },
         "progress": 100,
         "status": "approved",
@@ -60196,7 +60232,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -60340,7 +60376,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -60799,7 +60835,7 @@
       {
         "player": {
           "id": 66474,
-          "name": "Hereunwillingly"
+          "name": "unwill"
         },
         "progress": 100,
         "status": "approved",
@@ -60871,7 +60907,7 @@
       {
         "player": {
           "id": 61436,
-          "name": "[SDF] Nim"
+          "name": "[SLVT] Nim"
         },
         "progress": 87,
         "status": "approved",
@@ -61521,7 +61557,7 @@
       {
         "player": {
           "id": 37468,
-          "name": "[NOODLES] The Rykinator"
+          "name": "[zzz] The Rykinator"
         },
         "progress": 100,
         "status": "approved",
@@ -61721,7 +61757,7 @@
       {
         "player": {
           "id": 38003,
-          "name": "[TeamJ] pohgii"
+          "name": "pohgii"
         },
         "progress": 100,
         "status": "approved",
@@ -62279,7 +62315,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -62504,7 +62540,7 @@
       {
         "player": {
           "id": 59062,
-          "name": "[HOMMA] sapu"
+          "name": "Subez"
         },
         "progress": 100,
         "status": "approved",
@@ -63602,7 +63638,7 @@
       {
         "player": {
           "id": 35784,
-          "name": "[EZ] Sanni"
+          "name": "Sanni"
         },
         "progress": 100,
         "status": "approved",
@@ -63935,7 +63971,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -64610,7 +64646,7 @@
       {
         "player": {
           "id": 66474,
-          "name": "Hereunwillingly"
+          "name": "unwill"
         },
         "progress": 100,
         "status": "approved",
@@ -64691,7 +64727,7 @@
       {
         "player": {
           "id": 66382,
-          "name": "[DF] nqlol"
+          "name": "nqlol"
         },
         "progress": 100,
         "status": "approved",
@@ -65051,7 +65087,7 @@
       {
         "player": {
           "id": 63134,
-          "name": "[LJW] CF."
+          "name": "cf"
         },
         "progress": 100,
         "status": "approved",
@@ -65555,7 +65591,7 @@
       {
         "player": {
           "id": 70969,
-          "name": "hamtr"
+          "name": "[CBFA] hamtrr"
         },
         "progress": 100,
         "status": "approved",
@@ -65992,6 +66028,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=1pqUWJZ-1fw"
+      },
+      {
+        "player": {
+          "id": 71928,
+          "name": "noom"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zT-fiO1FfVQ"
       },
       {
         "player": {
@@ -66466,7 +66511,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -66700,7 +66745,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -67674,7 +67719,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -67899,7 +67944,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -69152,7 +69197,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -69388,7 +69433,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -70929,7 +70974,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -71586,7 +71631,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -72801,7 +72846,7 @@
       {
         "player": {
           "id": 58482,
-          "name": "dogboi320"
+          "name": "[RF] dogboi320"
         },
         "progress": 100,
         "status": "approved",
@@ -73874,7 +73919,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -74216,7 +74261,7 @@
       {
         "player": {
           "id": 37661,
-          "name": "AlbinoSnail"
+          "name": "[tq] AlbinoSnail"
         },
         "progress": 100,
         "status": "approved",
@@ -74234,7 +74279,7 @@
       {
         "player": {
           "id": 63085,
-          "name": "Jarmusz"
+          "name": "[didy] Jarmusz"
         },
         "progress": 100,
         "status": "approved",
@@ -74423,7 +74468,7 @@
       {
         "player": {
           "id": 50356,
-          "name": "[rr] seth"
+          "name": "seth"
         },
         "progress": 100,
         "status": "approved",
@@ -74639,7 +74684,7 @@
       {
         "player": {
           "id": 62153,
-          "name": "Superflitzer123"
+          "name": "[KTFL] Superflitzer123"
         },
         "progress": 100,
         "status": "approved",
@@ -74963,7 +75008,7 @@
       {
         "player": {
           "id": 57107,
-          "name": "[PIG] Phase"
+          "name": "[tq] Phase"
         },
         "progress": 100,
         "status": "approved",
@@ -74990,7 +75035,7 @@
       {
         "player": {
           "id": 41252,
-          "name": "[YTG] Lilbro334"
+          "name": "[YTG] fwin"
         },
         "progress": 100,
         "status": "approved",
@@ -75053,7 +75098,7 @@
       {
         "player": {
           "id": 64604,
-          "name": "[CNGA] NasserSparks2"
+          "name": "[CNGA] Lovely556"
         },
         "progress": 77,
         "status": "approved",
@@ -75595,7 +75640,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -75784,7 +75829,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -75820,7 +75865,7 @@
       {
         "player": {
           "id": 68680,
-          "name": "[TDT] ihmr"
+          "name": "[didy] bizzare"
         },
         "progress": 100,
         "status": "approved",
@@ -75892,7 +75937,7 @@
       {
         "player": {
           "id": 67081,
-          "name": "[smd] Altasponeus"
+          "name": "[smd] Altaspooneus"
         },
         "progress": 100,
         "status": "approved",
@@ -76353,7 +76398,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -76668,7 +76713,7 @@
       {
         "player": {
           "id": 66382,
-          "name": "[DF] nqlol"
+          "name": "nqlol"
         },
         "progress": 78,
         "status": "approved",
@@ -77464,7 +77509,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -77527,7 +77572,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -77536,7 +77581,7 @@
       {
         "player": {
           "id": 62089,
-          "name": "[QUA] Girggg"
+          "name": "[QUA] Girg"
         },
         "progress": 100,
         "status": "approved",
@@ -77734,7 +77779,7 @@
       {
         "player": {
           "id": 37468,
-          "name": "[NOODLES] The Rykinator"
+          "name": "[zzz] The Rykinator"
         },
         "progress": 100,
         "status": "approved",
@@ -77824,7 +77869,7 @@
       {
         "player": {
           "id": 50356,
-          "name": "[rr] seth"
+          "name": "seth"
         },
         "progress": 79,
         "status": "approved",
@@ -78602,7 +78647,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -79927,7 +79972,7 @@
       {
         "player": {
           "id": 63085,
-          "name": "Jarmusz"
+          "name": "[didy] Jarmusz"
         },
         "progress": 100,
         "status": "approved",
@@ -79972,7 +80017,7 @@
       {
         "player": {
           "id": 50356,
-          "name": "[rr] seth"
+          "name": "seth"
         },
         "progress": 100,
         "status": "approved",
@@ -80928,7 +80973,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -81162,7 +81207,7 @@
       {
         "player": {
           "id": 59304,
-          "name": "TheReactionRule"
+          "name": "[SR53] TheReactionRule"
         },
         "progress": 100,
         "status": "approved",
@@ -81499,7 +81544,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -81661,7 +81706,7 @@
       {
         "player": {
           "id": 63085,
-          "name": "Jarmusz"
+          "name": "[didy] Jarmusz"
         },
         "progress": 100,
         "status": "approved",
@@ -81877,7 +81922,7 @@
       {
         "player": {
           "id": 37468,
-          "name": "[NOODLES] The Rykinator"
+          "name": "[zzz] The Rykinator"
         },
         "progress": 100,
         "status": "approved",
@@ -82473,7 +82518,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -83294,7 +83339,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -84007,7 +84052,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -84043,7 +84088,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -85116,7 +85161,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -85260,7 +85305,7 @@
       {
         "player": {
           "id": 67455,
-          "name": "[PATU] veri"
+          "name": "[PATU] verified"
         },
         "progress": 100,
         "status": "approved",
@@ -85422,7 +85467,7 @@
       {
         "player": {
           "id": 50356,
-          "name": "[rr] seth"
+          "name": "seth"
         },
         "progress": 100,
         "status": "approved",
@@ -85548,7 +85593,7 @@
       {
         "player": {
           "id": 61862,
-          "name": "nykolol!"
+          "name": "isamaoww"
         },
         "progress": 76,
         "status": "approved",
@@ -85883,7 +85928,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -86470,7 +86515,7 @@
       {
         "player": {
           "id": 62153,
-          "name": "Superflitzer123"
+          "name": "[KTFL] Superflitzer123"
         },
         "progress": 100,
         "status": "approved",
@@ -88595,7 +88640,7 @@
       {
         "player": {
           "id": 59221,
-          "name": "[EZ] bingu"
+          "name": "herbalisti"
         },
         "progress": 100,
         "status": "approved",
@@ -89735,7 +89780,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -89807,7 +89852,7 @@
       {
         "player": {
           "id": 66382,
-          "name": "[DF] nqlol"
+          "name": "nqlol"
         },
         "progress": 100,
         "status": "approved",
@@ -90711,7 +90756,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -91476,7 +91521,7 @@
       {
         "player": {
           "id": 52477,
-          "name": "[YAHO] Heeru"
+          "name": "Heeru"
         },
         "progress": 100,
         "status": "approved",
@@ -92173,7 +92218,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -92805,7 +92850,7 @@
       {
         "player": {
           "id": 61838,
-          "name": "CurrentlyBorde"
+          "name": "Borde"
         },
         "progress": 77,
         "status": "approved",
@@ -92888,7 +92933,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -93221,7 +93266,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -93689,7 +93734,7 @@
       {
         "player": {
           "id": 62153,
-          "name": "Superflitzer123"
+          "name": "[KTFL] Superflitzer123"
         },
         "progress": 100,
         "status": "approved",
@@ -94856,7 +94901,7 @@
       {
         "player": {
           "id": 62153,
-          "name": "Superflitzer123"
+          "name": "[KTFL] Superflitzer123"
         },
         "progress": 100,
         "status": "approved",
@@ -94991,7 +95036,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -95018,7 +95063,7 @@
       {
         "player": {
           "id": 61436,
-          "name": "[SDF] Nim"
+          "name": "[SLVT] Nim"
         },
         "progress": 100,
         "status": "approved",
@@ -95225,7 +95270,7 @@
       {
         "player": {
           "id": 71120,
-          "name": "4cocoya"
+          "name": "4coco"
         },
         "progress": 100,
         "status": "approved",
@@ -95776,7 +95821,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -95830,7 +95875,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -96118,7 +96163,7 @@
       {
         "player": {
           "id": 59062,
-          "name": "[HOMMA] sapu"
+          "name": "Subez"
         },
         "progress": 81,
         "status": "approved",
@@ -96223,7 +96268,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=y3g6xhYwkmg"
+        "video": "https://www.youtube.com/watch?v=r5Vvato8uNU"
       },
       {
         "player": {
@@ -97159,7 +97204,7 @@
       {
         "player": {
           "id": 61055,
-          "name": "[MOAT] Solah"
+          "name": "[NAILS] Solah"
         },
         "progress": 100,
         "status": "approved",
@@ -97440,7 +97485,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -97890,7 +97935,7 @@
       {
         "player": {
           "id": 63085,
-          "name": "Jarmusz"
+          "name": "[didy] Jarmusz"
         },
         "progress": 100,
         "status": "approved",
@@ -98169,7 +98214,7 @@
       {
         "player": {
           "id": 66211,
-          "name": "faazie"
+          "name": "[CHUPA] faazie"
         },
         "progress": 100,
         "status": "approved",
@@ -98403,7 +98448,7 @@
       {
         "player": {
           "id": 65968,
-          "name": "quackdak75"
+          "name": "quackdak"
         },
         "progress": 100,
         "status": "approved",
@@ -99378,6 +99423,15 @@
       },
       {
         "player": {
+          "id": 56852,
+          "name": "Komet01"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Jbaah1nunKI"
+      },
+      {
+        "player": {
           "id": 58174,
           "name": "[JORB] Zephronox"
         },
@@ -100148,7 +100202,7 @@
       {
         "player": {
           "id": 69815,
-          "name": "QillaqGD"
+          "name": "[CORN] Shatter"
         },
         "progress": 100,
         "status": "approved",
@@ -100656,11 +100710,20 @@
       {
         "player": {
           "id": 69815,
-          "name": "QillaqGD"
+          "name": "[CORN] Shatter"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0X7Vx8iUPEU"
+      },
+      {
+        "player": {
+          "id": 64539,
+          "name": "lameben"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=odzdj7e7L5Q"
       }
     ],
     "620": [
@@ -101901,7 +101964,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -102639,7 +102702,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -102720,7 +102783,7 @@
       {
         "player": {
           "id": 37661,
-          "name": "AlbinoSnail"
+          "name": "[tq] AlbinoSnail"
         },
         "progress": 100,
         "status": "approved",
@@ -103089,7 +103152,7 @@
       {
         "player": {
           "id": 50356,
-          "name": "[rr] seth"
+          "name": "seth"
         },
         "progress": 100,
         "status": "approved",
@@ -103197,7 +103260,7 @@
       {
         "player": {
           "id": 41252,
-          "name": "[YTG] Lilbro334"
+          "name": "[YTG] fwin"
         },
         "progress": 79,
         "status": "approved",
@@ -104246,7 +104309,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -104282,7 +104345,7 @@
       {
         "player": {
           "id": 66382,
-          "name": "[DF] nqlol"
+          "name": "nqlol"
         },
         "progress": 100,
         "status": "approved",
@@ -104464,7 +104527,7 @@
       {
         "player": {
           "id": 62153,
-          "name": "Superflitzer123"
+          "name": "[KTFL] Superflitzer123"
         },
         "progress": 100,
         "status": "approved",
@@ -104520,7 +104583,7 @@
       {
         "player": {
           "id": 37661,
-          "name": "AlbinoSnail"
+          "name": "[tq] AlbinoSnail"
         },
         "progress": 100,
         "status": "approved",
@@ -104691,7 +104754,7 @@
       {
         "player": {
           "id": 60529,
-          "name": "[PART] MASTERMIND"
+          "name": "[BORZ] MASTERMIND"
         },
         "progress": 100,
         "status": "approved",
@@ -105666,7 +105729,7 @@
       {
         "player": {
           "id": 63085,
-          "name": "Jarmusz"
+          "name": "[didy] Jarmusz"
         },
         "progress": 100,
         "status": "approved",
@@ -106055,7 +106118,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -106363,7 +106426,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -107246,7 +107309,7 @@
       {
         "player": {
           "id": 68420,
-          "name": "pul_"
+          "name": "[tq] pul_"
         },
         "progress": 100,
         "status": "approved",
@@ -107619,7 +107682,7 @@
       {
         "player": {
           "id": 67455,
-          "name": "[PATU] veri"
+          "name": "[PATU] verified"
         },
         "progress": 100,
         "status": "approved",
@@ -108667,7 +108730,7 @@
       {
         "player": {
           "id": 65965,
-          "name": "[OX] pacsalinta"
+          "name": "[CREAM] pacsalinta"
         },
         "progress": 100,
         "status": "approved",
@@ -108928,7 +108991,7 @@
       {
         "player": {
           "id": 70528,
-          "name": "omri"
+          "name": "Purplex"
         },
         "progress": 100,
         "status": "approved",
@@ -109027,7 +109090,7 @@
       {
         "player": {
           "id": 64410,
-          "name": "[SDF] Minsteur"
+          "name": "[CHRMA] Minsteur"
         },
         "progress": 100,
         "status": "approved",
@@ -109746,7 +109809,7 @@
       {
         "player": {
           "id": 50456,
-          "name": "[CHIL] Cookie"
+          "name": "[BHO] Cookie"
         },
         "progress": 100,
         "status": "approved",
@@ -110611,7 +110674,7 @@
       {
         "player": {
           "id": 65965,
-          "name": "[OX] pacsalinta"
+          "name": "[CREAM] pacsalinta"
         },
         "progress": 100,
         "status": "approved",
@@ -110759,7 +110822,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -110923,7 +110986,7 @@
       {
         "player": {
           "id": 63085,
-          "name": "Jarmusz"
+          "name": "[didy] Jarmusz"
         },
         "progress": 76,
         "status": "approved",
@@ -111828,7 +111891,7 @@
       {
         "player": {
           "id": 51227,
-          "name": "[MEALY] OozerAsaDonkey"
+          "name": "[MEALY] oozerdonkey"
         },
         "progress": 100,
         "status": "approved",
@@ -111920,7 +111983,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "[떡볶이과자] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -112253,7 +112316,7 @@
       {
         "player": {
           "id": 37661,
-          "name": "AlbinoSnail"
+          "name": "[tq] AlbinoSnail"
         },
         "progress": 100,
         "status": "approved",
@@ -112685,7 +112748,7 @@
       {
         "player": {
           "id": 41252,
-          "name": "[YTG] Lilbro334"
+          "name": "[YTG] fwin"
         },
         "progress": 100,
         "status": "approved",
@@ -112775,7 +112838,7 @@
       {
         "player": {
           "id": 65965,
-          "name": "[OX] pacsalinta"
+          "name": "[CREAM] pacsalinta"
         },
         "progress": 100,
         "status": "approved",
@@ -113553,8 +113616,17 @@
       },
       {
         "player": {
+          "id": 5923,
+          "name": "ElTitoGuille"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Oh08PwH9QTo"
+      },
+      {
+        "player": {
           "id": 70831,
-          "name": "tabbykitty"
+          "name": "[GOUP] tabbykitty"
         },
         "progress": 100,
         "status": "approved",
@@ -113724,7 +113796,7 @@
       {
         "player": {
           "id": 63085,
-          "name": "Jarmusz"
+          "name": "[didy] Jarmusz"
         },
         "progress": 100,
         "status": "approved",
@@ -113781,7 +113853,7 @@
       {
         "player": {
           "id": 66382,
-          "name": "[DF] nqlol"
+          "name": "nqlol"
         },
         "progress": 100,
         "status": "approved",
