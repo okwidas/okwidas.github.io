@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T12:08:50Z",
+  "updated_at": "2026-09-22T15:09:03Z",
   "demons": {
     "238": [
       {
@@ -110479,6 +110479,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=zTCLh8of5l8"
+      },
+      {
+        "player": {
+          "id": 37331,
+          "name": "[OG B] Laysah"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1YWlBeQyZi4"
       },
       {
         "player": {
