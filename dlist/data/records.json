@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:09:39Z",
+  "updated_at": "2026-09-22T00:09:51Z",
   "demons": {
     "238": [
       {
@@ -9393,6 +9393,15 @@
       },
       {
         "player": {
+          "id": 72028,
+          "name": "jusachap"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xbgpoGkPe4c"
+      },
+      {
+        "player": {
           "id": 52428,
           "name": "[FOWL] plazma"
         },
@@ -17366,6 +17375,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7z0dFgFR4WM"
+      },
+      {
+        "player": {
+          "id": 69474,
+          "name": "[TWK] Zennix"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=pLpcFlnrmEc"
       },
       {
         "player": {
@@ -47028,6 +47046,15 @@
       },
       {
         "player": {
+          "id": 68757,
+          "name": "CelestialDivine"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=dIKyDstHgXs"
+      },
+      {
+        "player": {
           "id": 42546,
           "name": "iamfinley"
         },
@@ -73022,6 +73049,15 @@
         "progress": 82,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=igmPS_P3niQ"
+      },
+      {
+        "player": {
+          "id": 72034,
+          "name": "MindCant"
+        },
+        "progress": 81,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=P__0UN_ZY38"
       },
       {
         "player": {
@@ -100138,6 +100174,15 @@
       },
       {
         "player": {
+          "id": 58985,
+          "name": "Rostofan4ick"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ImuxFZ47MCY"
+      },
+      {
+        "player": {
           "id": 61187,
           "name": "Shub"
         },
@@ -100189,15 +100234,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=m39AWGd9KIk"
-      },
-      {
-        "player": {
-          "id": 58985,
-          "name": "Rostofan4ick"
-        },
-        "progress": 71,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=gzFF1XkF3Bg"
       },
       {
         "player": {
