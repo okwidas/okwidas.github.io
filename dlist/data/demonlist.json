@@ -608,8 +608,27 @@
     "level_id": 110534288
   },
   {
-    "id": 528,
+    "id": 709,
     "position": 33,
+    "name": "cognitohazard",
+    "requirement": 75,
+    "video": "https://www.youtube.com/watch?v=T5g0r16X_ZA",
+    "thumbnail": "https://i.ytimg.com/vi/T5g0r16X_ZA/mqdefault.jpg",
+    "publisher": {
+      "id": 55758,
+      "name": "MercuryDT",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 130891319
+  },
+  {
+    "id": 528,
+    "position": 34,
     "name": "The Lightning Rod",
     "requirement": 63,
     "video": "https://www.youtube.com/watch?v=nQDTi077O6M",
@@ -628,7 +647,7 @@
   },
   {
     "id": 380,
-    "position": 34,
+    "position": 35,
     "name": "Slaughterhouse",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
@@ -647,7 +666,7 @@
   },
   {
     "id": 612,
-    "position": 35,
+    "position": 36,
     "name": "Subterminal Point",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=h2wmRMgACH4",
@@ -666,7 +685,7 @@
   },
   {
     "id": 501,
-    "position": 36,
+    "position": 37,
     "name": "KOCMOC",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=2CxE-UWCIG4",
@@ -682,25 +701,6 @@
       "banned": false
     },
     "level_id": 87665224
-  },
-  {
-    "id": 709,
-    "position": 37,
-    "name": "cognitohazard",
-    "requirement": 75,
-    "video": "https://www.youtube.com/watch?v=T5g0r16X_ZA",
-    "thumbnail": "https://i.ytimg.com/vi/T5g0r16X_ZA/mqdefault.jpg",
-    "publisher": {
-      "id": 55758,
-      "name": "MercuryDT",
-      "banned": false
-    },
-    "verifier": {
-      "id": 42413,
-      "name": "[IQB7] Whizkid05",
-      "banned": false
-    },
-    "level_id": 130891319
   },
   {
     "id": 697,

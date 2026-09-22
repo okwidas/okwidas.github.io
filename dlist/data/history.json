@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:09:51Z",
+  "updated_at": "2026-09-22T03:08:36Z",
   "demons": {
     "238": [
       {
@@ -5235,6 +5235,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 34,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-09-22T00:40:47.898592",
+        "pos": 35,
+        "note": "passed by cognitohazard"
       }
     ],
     "383": [
@@ -15400,6 +15405,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 36,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-09-22T00:40:47.898592",
+        "pos": 37,
+        "note": "passed by cognitohazard"
       }
     ],
     "511": [
@@ -17669,6 +17679,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 33,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-09-22T00:40:47.898592",
+        "pos": 34,
+        "note": "passed by cognitohazard"
       }
     ],
     "539": [
@@ -27419,6 +27434,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 35,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-09-22T00:40:47.898592",
+        "pos": 36,
+        "note": "passed by cognitohazard"
       }
     ],
     "613": [
@@ -38235,6 +38255,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 37,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-09-22T00:40:47.898592",
+        "pos": 33,
+        "note": "Moved"
       }
     ],
     "710": [
