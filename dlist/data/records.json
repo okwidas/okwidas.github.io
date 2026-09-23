@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T18:09:45Z",
+  "updated_at": "2026-09-23T21:09:33Z",
   "demons": {
     "238": [
       {
@@ -31716,6 +31716,15 @@
       },
       {
         "player": {
+          "id": 56284,
+          "name": "l1nxxd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KoVQgG7znBM"
+      },
+      {
+        "player": {
           "id": 58539,
           "name": "SKYZ-_-"
         },
@@ -32604,6 +32613,15 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ljRCpxf8qck"
+      },
+      {
+        "player": {
+          "id": 71970,
+          "name": "RwandanRhubarb6"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=l_ezXlLC24o"
       },
       {
         "player": {
@@ -53594,6 +53612,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=bp2WkObI_zw"
+      },
+      {
+        "player": {
+          "id": 71972,
+          "name": "suxuna"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=jkJBvbr3jII"
       },
       {
         "player": {
@@ -111283,6 +111310,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HSbbApOgGuQ"
+      },
+      {
+        "player": {
+          "id": 61888,
+          "name": "[CFJ] Havy_jonnyy"
+        },
+        "progress": 73,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_OsMDdyrwCQ"
       }
     ],
     "680": [
