@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T09:08:44Z",
+  "updated_at": "2026-09-23T12:09:49Z",
   "demons": {
     "238": [
       {
@@ -17402,6 +17402,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=pLpcFlnrmEc"
+      },
+      {
+        "player": {
+          "id": 65768,
+          "name": "bob_vi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rF_A2UCYUVo"
       },
       {
         "player": {
@@ -41137,6 +41146,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-29qCe_lFuw"
+      },
+      {
+        "player": {
+          "id": 60732,
+          "name": "[73] SpaceRS"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Swg6v3z_Tfo"
       },
       {
         "player": {
@@ -103809,6 +103827,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=xab5kK0Rshs"
+      },
+      {
+        "player": {
+          "id": 61856,
+          "name": "Xurido"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9iiHu3B4E-I"
       }
     ],
     "635": [
@@ -112022,6 +112049,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Pb20kodDdL8"
+      },
+      {
+        "player": {
+          "id": 56615,
+          "name": "[RF] Matthew"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OH4KQuqAJrw"
       }
     ],
     "687": [
