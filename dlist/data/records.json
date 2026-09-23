@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T03:08:24Z",
+  "updated_at": "2026-09-23T06:09:01Z",
   "demons": {
     "238": [
       {
@@ -17402,6 +17402,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=pLpcFlnrmEc"
+      },
+      {
+        "player": {
+          "id": 54448,
+          "name": "[HOLA] Hacedores"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=jkNJMUr1NvQ"
       },
       {
         "player": {
@@ -66094,6 +66103,24 @@
       },
       {
         "player": {
+          "id": 71213,
+          "name": "[RIVER] Cclixgd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=I_SVfAM3DfI"
+      },
+      {
+        "player": {
+          "id": 69142,
+          "name": "euphoria"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=h7_isnysfzI"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -104607,6 +104634,15 @@
       },
       {
         "player": {
+          "id": 60667,
+          "name": "[FLAT] Lomeno"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zrcc2k-SdUg"
+      },
+      {
+        "player": {
           "id": 67685,
           "name": "exadeci"
         },
@@ -113685,6 +113721,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Oh08PwH9QTo"
+      },
+      {
+        "player": {
+          "id": 71213,
+          "name": "[RIVER] Cclixgd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=gPUvFreJu-w"
       },
       {
         "player": {
