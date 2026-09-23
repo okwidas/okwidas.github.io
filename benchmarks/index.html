@@ -34,6 +34,10 @@
   .topnav a{ color:var(--faint); text-decoration:none; font-size:12.5px; padding:6px 11px; border-radius:7px; transition:color .15s ease, background .15s ease; }
   .topnav a:hover{ color:var(--text); background:var(--accent-soft); }
   .topnav a.on{ color:var(--accent); background:var(--accent-soft); }
+  .snd{ font-family:var(--font); font-size:11.5px; color:var(--faint); background:transparent; border:1px solid var(--border); border-radius:7px; padding:6px 10px; cursor:pointer; transition:color .15s ease, border-color .15s ease, background .15s ease; white-space:nowrap; }
+  .snd:hover{ color:var(--text); border-color:var(--border-strong); background:var(--accent-soft); }
+  .snd.off{ color:var(--faint); opacity:.6; text-decoration:line-through; }
+  .snd.off:hover{ color:var(--bad); }
 
   .sec{ display:flex; align-items:center; gap:12px; font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--dim); margin-bottom:12px; }
   .sec b{ color:var(--accent); font-weight:600; }
@@ -64,7 +68,11 @@
 
   /* stage */
   .stage{ min-height:330px; border:1px solid var(--border); border-radius:14px; background:var(--panel-soft);
-    display:flex; align-items:center; justify-content:center; flex-direction:column; gap:18px; position:relative; overflow:hidden; user-select:none; }
+    display:flex; align-items:center; justify-content:center; flex-direction:column; gap:18px; position:relative; overflow:hidden; user-select:none;
+    transition:background .18s ease, border-color .18s ease; }
+  #rStage.bg-warn{ background:linear-gradient(180deg, rgba(242,200,108,.10), transparent 140px), var(--panel-soft); border-color:rgba(242,200,108,.35); }
+  #rStage.bg-ok{ background:linear-gradient(180deg, rgba(86,200,135,.28), rgba(86,200,135,.10) 60%, transparent), var(--panel-soft); border-color:rgba(127,224,162,.45); }
+  #rStage.bg-bad{ background:linear-gradient(180deg, rgba(235,92,92,.22), transparent 140px), var(--panel-soft); border-color:rgba(242,138,138,.4); }
   .state{ font-size:26px; font-weight:600; text-align:center; padding:0 20px; transition:color .1s ease; }
   .state.ok{ color:var(--ok); } .state.bad{ color:var(--bad); } .state.warn{ color:var(--warn); }
   .state.small{ font-size:15px; color:var(--dim); font-weight:500; }
@@ -89,6 +97,8 @@
   .ncard{ font-size:34px; font-weight:600; letter-spacing:.02em; font-variant-numeric:tabular-nums; }
   .lives{ font-size:12px; color:var(--dim); }
   .lives b{ color:var(--accent); }
+  .nbar{ width:min(280px, 70%); height:7px; border-radius:4px; background:var(--bg); border:1px solid var(--border); overflow:hidden; }
+  .nbar i{ display:block; height:100%; background:var(--accent); box-shadow:0 0 10px rgba(201,174,242,.5); }
 
   /* verbal */
   .word{ font-size:34px; font-weight:600; }
@@ -96,22 +106,29 @@
   .vbtn:hover{ background:var(--accent-soft); }
 
   /* chimp */
-  #chGrid{ width:100%; max-width:480px; display:grid; grid-template-columns:repeat(8,1fr); gap:8px; }
-  #chGrid .c{ aspect-ratio:1; background:var(--panel); border:1px solid var(--border-strong); border-radius:10px; font-size:15px; font-weight:600; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background .1s ease, border-color .1s ease; }
+  #chGrid{ width:100%; max-width:600px; display:grid; grid-template-columns:repeat(8,1fr); gap:10px; }
+  #chGrid .c{ aspect-ratio:1; background:var(--panel); border:1px solid var(--border-strong); border-radius:12px; font-size:22px; font-weight:600; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background .1s ease, border-color .1s ease, visibility 0s; }
   #chGrid .c:not(.on){ background:transparent; border-color:var(--border); color:var(--text); }
   #chGrid .c:hover{ border-color:var(--accent); }
   #chGrid .c.got{ background:var(--ok-soft); border-color:var(--ok); color:var(--ok); }
+  #chGrid .c.gone{ visibility:hidden; pointer-events:none; }
   #chGrid .c.fail{ background:var(--bad-soft); border-color:var(--bad); color:var(--bad); }
   #chGrid .c.ph{ visibility:hidden; }
 
   /* visual memory */
-  #visGrid{ display:grid; grid-template-columns:repeat(3,1fr); gap:14px; width:min(360px,100%); }
+  #visGrid{ display:grid; grid-template-columns:repeat(3,1fr); gap:14px; width:min(360px,100%); transition:grid-template-columns .2s ease; }
   #visGrid .t{ aspect-ratio:1; background:var(--panel); border:1px solid var(--border-strong); border-radius:12px; cursor:pointer; transition:background .12s ease; }
   #visGrid .t.lit{ background:var(--accent); border-color:var(--accent); box-shadow:0 0 18px rgba(201,174,242,.35); }
   #visGrid .t.picked{ background:var(--ok-soft); border-color:var(--ok); }
   #visGrid .t.miss{ background:var(--bad-soft); border-color:var(--bad); }
   #visGrid .t.empty{ background:transparent; border-color:var(--border); }
   #visGrid.phase-flash .t{ cursor:default; }
+
+  /* simon says */
+  #simGrid{ display:grid; grid-template-columns:repeat(3,1fr); gap:12px; width:min(340px,100%); }
+  #simGrid .sm{ aspect-ratio:1; border-radius:12px; border:1px solid var(--border-strong); cursor:pointer; opacity:.8; transition:transform .08s ease, opacity .12s ease, box-shadow .08s ease; }
+  #simGrid .sm.lit{ opacity:1; transform:scale(1.07); box-shadow:0 0 22px rgba(255,255,255,.35) inset, 0 0 18px rgba(255,255,255,.18); }
+  #simGrid.phase-watch .sm{ pointer-events:none; }
 
   .overlay{ position:absolute; inset:0; background:rgba(11,9,17,.88); display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px; z-index:5; text-align:center; padding:20px; backdrop-filter:blur(2px); }
   .overlay .big{ font-size:26px; font-weight:600; }
@@ -144,6 +161,7 @@
       <a href="../benchmarks/" class="on">benchmarks</a>
       <a href="../links.html">links</a>
     </nav>
+    <button class="snd" id="sndBtn" title="toggle sound (m)">sfx on</button>
   </header>
 
   <!-- HUB -->
@@ -208,7 +226,7 @@
       <div class="state">click to start</div>
       <div class="mini">are you smarter than a chimp?</div>
     </div>
-    <p class="hint">numbers hide in a grid. click them in order, 1 → N. each round adds one more number.</p>
+    <p class="hint">numbers scatter across the grid — click them 1 → N. each one vanishes once clicked. each round adds one more number.</p>
   </section>
 
   <!-- VISUAL MEMORY -->
@@ -222,7 +240,21 @@
       <div class="state">click to start</div>
       <div class="mini">3 lives · the squares vanish fast</div>
     </div>
-    <p class="hint">squares light up for a moment. click the lit ones. each level adds a square.</p>
+    <p class="hint">squares light up for a moment. click the lit ones. grid grows as you climb: 3&#215;3 &rarr; 4&#215;4 &rarr; 5&#215;5.</p>
+  </section>
+
+  <!-- SIMON SAYS -->
+  <section class="view" id="view-simon">
+    <div class="gb-head">
+      <button class="back" data-to="hub" aria-label="back">&#8592;</button>
+      <h2>simon says</h2>
+      <div class="chips"><span class="chip" id="mBest"></span><span class="chip" id="mLives"></span></div>
+    </div>
+    <div class="stage" id="mStage">
+      <div class="state">click to start</div>
+      <div class="mini">watch the sequence, then replay it. 3 lives.</div>
+    </div>
+    <p class="hint">nine pads light up in a pattern — click them back in the same order. each round adds one step.</p>
   </section>
 
 </div>
@@ -238,6 +270,59 @@ function load(key){ try{ return JSON.parse(localStorage.getItem("hb." + key)) ||
 function save(key, obj){ try{ localStorage.setItem("hb." + key, JSON.stringify(obj)); }catch(e){} }
 function bestOf(o, k){ return (o && o[k] !== undefined) ? o[k] : null; }
 
+/*=== tiny synth sfx (no assets) ===*/
+var SFX = {
+  ctx: null, muted: false,
+  _ac: function(){
+    if (!this.ctx){ var C = window.AudioContext || window.webkitAudioContext; if (C) this.ctx = new C(); }
+    if (this.ctx && this.ctx.state === "suspended") this.ctx.resume();
+    return this.ctx;
+  },
+  unlock: function(){ this._ac(); },
+  tone: function(freq, dur, type, vol, at){
+    if (this.muted || !this.ctx) return;
+    var t = this.ctx.currentTime + (at || 0);
+    var o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = type || "sine"; o.frequency.value = freq;
+    g.gain.setValueAtTime(0.0001, t);
+    g.gain.exponentialRampToValueAtTime(vol || .12, t + .015);
+    g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+    o.connect(g); g.connect(this.ctx.destination);
+    o.start(t); o.stop(t + dur + .05);
+  },
+  tap:   function(){ this.tone(560, .06, "square", .07); },
+  go:    function(){ this.tone(880, .1, "sine", .16); this.tone(1320, .12, "sine", .1, .06); },
+  tooSoon: function(){ this.tone(220, .18, "sawtooth", .14); },
+  got:   function(){ this.tone(720, .07, "triangle", .13); },
+  ok:    function(){ this.tone(640, .09, "triangle", .13); this.tone(960, .1, "triangle", .11, .08); },
+  bad:   function(){ this.tone(180, .22, "sawtooth", .16); },
+  win:   function(){ var self = this, n = [523,659,784,1047]; n.forEach(function(f,i){ self.tone(f, .12, "triangle", .12, i * .09); }); },
+  lose:  function(){ var self = this, n = [420,330,240]; for (var i = 0; i < n.length; i++) this.tone(n[i], .15, "sawtooth", .12, i * .11); },
+  note:  function(i){ this.tone([523,587,659,698,784,880,988,1047,1175][i] || 523, .12, "triangle", .14); },
+  stepNote: function(i){ this.tone([500,560,630,700,790,880,940,1050,1180][i] || 500, .06, "triangle", .1); }
+};
+function sndInit(){
+  var btn = $("sndBtn");
+  var pref = null;
+  try { pref = localStorage.getItem("hb.sfxmuted"); }catch(e){}
+  SFX.muted = pref === "1";
+  var paint = function(){ btn.textContent = SFX.muted ? "sfx off" : "sfx on"; btn.classList.toggle("off", SFX.muted); };
+  paint();
+  btn.addEventListener("click", function(){
+    SFX.unlock();
+    SFX.muted = !SFX.muted;
+    try { localStorage.setItem("hb.sfxmuted", SFX.muted ? "1" : "0"); }catch(e){}
+    paint();
+    if (!SFX.muted) SFX.tap();
+  });
+  document.addEventListener("pointerdown", function once(){ SFX.unlock(); }, { once:true });
+  document.addEventListener("keydown", function(e){
+    if (String.fromCharCode(e.which || e.keyCode || 0).toLowerCase() === "m"){
+      btn.click();
+    }
+  });
+}
+
 var GAMES = {};
 function view(name){
   var els = document.querySelectorAll(".view");
@@ -252,23 +337,26 @@ document.addEventListener("click", function(e){
 
 /* hub cards */
 (function(){
+  var order = ["reaction", "number", "verbal", "chimp", "visual", "simon"];
   var meta = {
     reaction: ["reaction time", "fastest {1}"],
     number:   ["number memory", "level {1}"],
     verbal:   ["verbal memory", "level {1}"],
     chimp:    ["chimp test", "levels {1}"],
-    visual:   ["visual memory", "level {1}"]
+    visual:   ["visual memory", "level {1}"],
+    simon:    ["simon says", "rounds {1}"]
   };
   var box = $("hubCards");
   var html = "";
-  for (var k in meta){
+  for (var i = 0; i < order.length; i++){
+    var k = order[i];
     var o = load(k);
     var best = bestOf(o, "best");
     var stat = best === null || best === undefined
       ? "no runs yet"
       : meta[k][1].replace("{1}", (k === "reaction" ? best + "ms" : best));
     html += '<div class="hcard" data-view="' + k + '">' +
-      '<div class="n">' + (k === "reaction" ? "01" : k === "number" ? "02" : k === "verbal" ? "03" : k === "chimp" ? "04" : "05") + '</div>' +
+      '<div class="n">0' + (i + 1) + '</div>' +
       '<div class="t">' + meta[k][0] + ' <span class="go">&#8594;</span></div>' +
       '<div class="s">' + esc(stat) + '</div>' +
       '</div>';
@@ -279,13 +367,18 @@ document.addEventListener("click", function(e){
     if (meta[h]) view(h); else view("hub");
   } else view("hub");
 })();
+sndInit();
 
 /*===== games go here =====*/
 GAMES.reaction = {
   state: "idle", t0: 0, attempts: [], tries: 0, timer: null,
+  paint: function(c){
+    $("rStage").className = "stage" + (c ? " bg-" + c : "");
+  },
   enter: function(){
     this.state = "idle"; this.attempts = []; this.tries = 0;
     clearTimeout(this.timer);
+    this.paint("");
     $("rState").textContent = "click anywhere to start";
     $("rState").className = "state";
     $("rList").innerHTML = "";
@@ -307,14 +400,18 @@ GAMES.reaction = {
   },
   startWait: function(){
     this.state = "waiting";
+    this.paint("warn");
     $("rState").textContent = "wait for green…";
     $("rState").className = "state warn";
+    SFX.tap();
     var self = this;
     this.timer = setTimeout(function(){
       self.state = "ready";
       self.t0 = performance.now();
+      self.paint("ok");
       $("rState").textContent = "click!";
       $("rState").className = "state ok";
+      SFX.go();
     }, 1000 + Math.random() * 3000);
   },
   renderList: function(){
@@ -331,8 +428,10 @@ GAMES.reaction = {
     }
     if (this.state === "waiting"){
       this.attempts = []; this.tries = 0;
+      this.paint("bad");
       $("rState").textContent = "too soon! click to retry";
       $("rState").className = "state bad";
+      SFX.tooSoon();
       this.renderList();
       this.state = "idle";
       return;
@@ -340,15 +439,18 @@ GAMES.reaction = {
     if (this.state === "ready"){
       var ms = performance.now() - this.t0;
       this.tries++; this.attempts.push(ms);
+      this.paint("");
       $("rState").textContent = Math.round(ms) + " ms";
       $("rState").className = "state";
       this.renderList();
+      if (ms < 300) SFX.got(); else SFX.tap();
       if (this.tries >= 5){
         for (var i = 0; i < this.attempts.length; i++) this.saveRun(this.attempts[i]);
         this.renderChips();
         var avg = Math.round(this.attempts.reduce(function(a,b){return a+b;},0) / this.attempts.length);
         $("rState").innerHTML = avg + " ms average" + '<span style="display:block;font-size:13px;color:var(--dim);margin-top:8px">click for a new round of 5</span>';
         $("rState").className = "state ok";
+        SFX.win();
         this.attempts = []; this.tries = 0;
         this.state = "done";
         return;
@@ -365,14 +467,14 @@ GAMES.reaction = {
 $("rStage").addEventListener("pointerdown", function(){ GAMES.reaction.click(); });
 $("rHint").textContent = "click the pad. wait for green (random 1–4s), then click as fast as you can. early clicks reset your batch. average of 5 counts.";
 GAMES.number = {
-  lives: 3, round: 1, current: "", state: "intro", timer: null,
+  lives: 3, round: 1, current: "", state: "intro", timer: null, raf: null, ticked: false,
   chips: function(){
     var o = load("number");
     $("nBest").innerHTML = "best <b>" + (o.best !== undefined ? "L" + o.best : "—") + "</b>";
     $("nLives").innerHTML = "lives <b>" + this.lives + "</b>";
   },
   enter: function(){
-    clearTimeout(this.timer);
+    clearTimeout(this.timer); cancelAnimationFrame(this.raf);
     this.lives = 3; this.round = 1; this.current = "";
     $("nStage").innerHTML = '<div class="state">click to start</div><div class="mini">3 lives · the digits hide fast</div>';
     this.chips();
@@ -380,17 +482,30 @@ GAMES.number = {
   },
   startRound: function(){
     var self = this;
-    clearTimeout(this.timer);
+    clearTimeout(this.timer); cancelAnimationFrame(this.raf);
     var len = 4 + Math.floor(this.round / 3);
     this.current = Array.from({ length: len }, function(){ return Math.floor(Math.random() * 10); }).join("");
     $("nStage").innerHTML = '<div class="ncard">' + this.current + "</div>" +
+      '<div class="nbar"><i></i></div>' +
       '<div class="mini">level ' + this.round + " · " + len + " digits</div>" +
       '<div class="lives">lives <b>' + this.lives + "</b></div>";
     this.state = "show";
-    this.timer = setTimeout(function(){ self.showInput(); }, 1000);
+    var dur = Math.min(2000 + (this.round - 1) * 90, 4200);
+    var t0 = performance.now();
+    var fill = $("nStage").querySelector(".nbar i");
+    var tickedAt = false;
+    (function frame(now){
+      var el = (now - t0) / dur;
+      if (el >= 1){ fill.style.width = "0%"; return; }
+      fill.style.width = (100 - el * 100).toFixed(1) + "%";
+      if (!tickedAt && el > .8){ tickedAt = true; SFX.stepNote(self.round); }
+      self.raf = requestAnimationFrame(frame);
+    })(performance.now());
+    this.timer = setTimeout(function(){ self.showInput(); }, dur);
   },
   showInput: function(){
     var self = this;
+    cancelAnimationFrame(this.raf);
     this.state = "input";
     $("nStage").innerHTML =
       '<input class="field" id="nInp" placeholder="enter the number" inputmode="numeric" autocomplete="off">' +
@@ -410,6 +525,7 @@ GAMES.number = {
     if (val === this.current){
       this.round++;
       this.chips();
+      SFX.ok();
       $("nStage").innerHTML = '<div class="state ok">correct</div><div class="mini">level ' + this.round + "</div>";
       this.timer = setTimeout(function(){ self.startRound(); }, 650);
     } else {
@@ -417,6 +533,7 @@ GAMES.number = {
       this.round++;
       if (this.lives > 0){
         this.chips();
+        SFX.bad();
         $("nStage").innerHTML = '<div class="state bad">missed — ' + this.lives + (this.lives === 1 ? " life" : " lives") + " left</div>";
         this.timer = setTimeout(function(){ self.startRound(); }, 900);
       } else {
@@ -430,6 +547,7 @@ GAMES.number = {
     if (o.best === undefined || best > o.best){ o.best = best; save("number", o); }
     this.state = "intro";
     this.chips();
+    SFX.lose();
     $("nStage").innerHTML = '<div class="state">level ' + best + ' reached</div><div class="mini">out of lives · click to try again</div>';
   }
 };
@@ -454,17 +572,32 @@ GAMES.verbal = {
   start: function(){
     this.lives = 3; this.seen = {}; this.correct = 0; this.locked = false;
     this.state = "play";
+    SFX.tap();
     this.next();
   },
   next: function(){
     this.locked = false;
-    var w = VB_WORDS[Math.floor(Math.random() * VB_WORDS.length)];
-    var fromSet = this.seen[w] === true;
+    var self = this;
+    var keys = Object.keys(this.seen);
+    var w, isNew;
+    if (keys.length > 0 && Math.random() < 0.6){
+      w = keys[Math.floor(Math.random() * keys.length)];
+      isNew = false;
+    } else {
+      var unseen = VB_WORDS.filter(function(x){ return !self.seen[x]; });
+      if (unseen.length){
+        w = unseen[Math.floor(Math.random() * unseen.length)];
+        isNew = true;
+      } else {
+        w = VB_WORDS[Math.floor(Math.random() * VB_WORDS.length)];
+        isNew = this.seen[w] !== true;
+      }
+    }
     this.seen[w] = true;
-    this.cur = { word: w, isNew: !fromSet };
+    this.cur = { word: w, isNew: isNew };
     $("vStage").innerHTML = '<div class="word">' + esc(w) + '</div>' +
       '<div class="row"><button class="vbtn" data-ans="new">new</button><button class="vbtn" data-ans="seen">seen</button></div>' +
-      '<div class="mini">' + this.correct + ' correct · ' + Object.keys(this.seen).length + " words shown</div>";
+      '<div class="mini">' + this.correct + ' correct · ' + keys.length + " words shown</div>";
   },
   choose: function(ans){
     if (this.state !== "play" || this.locked) return;
@@ -474,11 +607,13 @@ GAMES.verbal = {
     if (right){
       this.correct++;
       this.chips();
+      SFX.ok();
       $("vStage").innerHTML = '<div class="state ok">correct</div><div class="mini">' + this.correct + " words remembered</div>";
       setTimeout(function(){ if (self.state === "play") self.next(); }, 450);
     } else {
       this.lives--;
       this.chips();
+      SFX.bad();
       if (this.lives > 0){
         $("vStage").innerHTML = '<div class="state bad">wrong — it was ' + (this.cur.isNew ? "new" : "seen") + '</div><div class="mini">' + this.lives + (this.lives === 1 ? " life" : " lives") + " left</div>";
         setTimeout(function(){ if (self.state === "play") self.next(); }, 900);
@@ -492,6 +627,7 @@ GAMES.verbal = {
     var o = load("verbal") || {};
     if (o.best === undefined || this.correct > o.best){ o.best = this.correct; save("verbal", o); }
     this.chips();
+    SFX.lose();
     $("vStage").innerHTML = '<div class="state">' + this.correct + ' words remembered</div><div class="mini">out of lives · click to try again</div>';
   }
 };
@@ -516,6 +652,7 @@ GAMES.chimp = {
   start: function(){
     this.level = 4; this.completed = 0; this.expected = 1; this.locked = false;
     this.state = "play";
+    SFX.tap();
     this.render();
     this.chips();
   },
@@ -553,16 +690,21 @@ GAMES.chimp = {
     if (cell.classList.contains("got")) return;
     if (v === String(this.expected)){
       cell.classList.add("got");
+      SFX.got();
+      var fadeMe = cell;
+      setTimeout(function(){ fadeMe.classList.add("gone"); }, 110);
       this.expected++;
       if (this.expected > this.level){
         this.locked = true;
         this.completed++;
         var self = this;
+        SFX.win();
         $("cStage").innerHTML = '<div class="state ok">cleared round ' + this.level + "</div>";
         setTimeout(function(){ self.level++; self.render(); }, 550);
       }
     } else {
       cell.classList.add("fail");
+      SFX.bad();
       this.end();
     }
   },
@@ -572,6 +714,7 @@ GAMES.chimp = {
     if (o.best === undefined || this.completed > o.best){ o.best = this.completed; save("chimp", o); }
     this.state = "intro";
     this.chips();
+    SFX.lose();
     $("cStage").innerHTML = '<div class="state">you cleared ' + this.completed + (this.completed === 1 ? " level" : " levels") + '</div><div class="mini">wrong click ends a run · click to try again</div>';
   }
 };
@@ -587,6 +730,8 @@ GAMES.visual = {
     $("sBest").innerHTML = "best <b>" + (o.best !== undefined ? o.best : "—") + "</b>";
     $("sLives").innerHTML = "lives <b>" + this.lives + "</b>";
   },
+  gsize: function(){ return Math.min(3 + Math.floor((this.level - 1) / 3), 6); },
+  cells: function(){ return this.gsize() * this.gsize(); },
   enter: function(){
     clearTimeout(this.timer);
     this.level = 3; this.lives = 3; this.completed = 0; this.lit = []; this.found = {}; this.locked = false;
@@ -598,36 +743,43 @@ GAMES.visual = {
     this.lives = 3; this.completed = 0; this.locked = false;
     this.level = 3;
     this.state = "play";
+    SFX.tap();
     this.chips();
     this.flash();
   },
   flash: function(){
     var self = this;
     clearTimeout(this.timer);
-    var ids = [0,1,2,3,4,5,6,7,8];
-    for (var i = ids.length - 1; i > 0; i--){
+    var n = this.cells();
+    var ids = [];
+    for (var i = 0; i < n; i++) ids.push(i);
+    for (i = ids.length - 1; i > 0; i--){
       var k = Math.floor(Math.random() * (i + 1));
       var tmp = ids[i]; ids[i] = ids[k]; ids[k] = tmp;
     }
-    this.lit = ids.slice(0, Math.min(this.level, 9));
+    var size = this.gsize();
+    this.lit = ids.slice(0, Math.min(this.level, n));
     this.found = {};
     this.locked = true;
     var html = "";
-    for (var t = 0; t < 9; t++){
+    for (var t = 0; t < n; t++){
       html += '<div class="t' + (this.lit.indexOf(t) !== -1 ? " lit" : " empty") + '"></div>';
     }
-    $("sStage").innerHTML = '<div class="mini" style="margin-bottom:10px">level ' + this.level + " — memorize</div>" + '<div id="visGrid" class="phase-flash">' + html + "</div>";
-    var ms = Math.min(450 + (this.level - 1) * 50, 900);
+    $("sStage").innerHTML = '<div class="mini" style="margin-bottom:10px">level ' + this.level + " · " + size + "&#215;" + size + " — memorize</div>" +
+      '<div id="visGrid" class="phase-flash" style="grid-template-columns:repeat(' + size + ',1fr); width:min(' + (size * 88) + 'px,100%)">' + html + "</div>";
+    var ms = Math.min(500 + (this.level - 1) * 60, 1200);
     this.state = "flash";
     this.timer = setTimeout(function(){ self.phasePick(); }, ms);
   },
   phasePick: function(){
+    var size = this.gsize(), n = this.cells();
     var html = "";
-    for (var t = 0; t < 9; t++){
+    for (var t = 0; t < n; t++){
       var extra = this.found[t] ? " picked" : (this.lit.indexOf(t) !== -1 ? "" : " empty");
       html += '<div class="t' + extra + '"></div>';
     }
-    $("sStage").innerHTML = '<div class="mini" style="margin-bottom:10px">find the lit squares — ' + this.level + "</div>" + '<div id="visGrid">' + html + "</div>";
+    $("sStage").innerHTML = '<div class="mini" style="margin-bottom:10px">find the lit squares — ' + this.level + " · " + size + "&#215;" + size + "</div>" +
+      '<div id="visGrid" style="grid-template-columns:repeat(' + size + ',1fr); width:min(' + (size * 88) + 'px,100%)">' + html + "</div>";
     this.state = "pick";
     this.locked = false;
   },
@@ -640,10 +792,12 @@ GAMES.visual = {
     if (this.lit.indexOf(t) !== -1){
       this.found[t] = true;
       tile.classList.add("picked");
+      SFX.stepNote(Object.keys(this.found).length);
       if (Object.keys(this.found).length === this.lit.length){
         this.locked = true;
         this.completed++;
         this.chips();
+        SFX.ok();
         $("sStage").innerHTML = '<div class="state ok">cleared level ' + this.level + " — +1 square</div>";
         this.level++;
         this.timer = setTimeout(function(){ self.flash(); }, 700);
@@ -652,12 +806,13 @@ GAMES.visual = {
       this.locked = true;
       this.lives--;
       this.chips();
+      SFX.bad();
       var lit = this.lit;
       for (var i = 0; i < lit.length; i++) tile.parentNode.children[lit[i]].classList.add("lit");
       tile.classList.add("miss");
       if (this.lives > 0){
         $("sStage").innerHTML = '<div class="mini" style="margin-bottom:10px">miss — ' + this.lives + (this.lives === 1 ? " life" : " lives") + " left</div>" + tile.parentNode.outerHTML;
-        this.timer = setTimeout(function(){ self.phasePick(); }, 650);
+        this.timer = setTimeout(function(){ self.phasePick(); }, 700);
       } else {
         this.end();
       }
@@ -669,6 +824,7 @@ GAMES.visual = {
     if (o.best === undefined || this.completed > o.best){ o.best = this.completed; save("visual", o); }
     this.state = "intro";
     this.chips();
+    SFX.lose();
     $("sStage").innerHTML = '<div class="state">you cleared ' + this.completed + (this.completed === 1 ? " level" : " levels") + '</div><div class="mini">out of lives · click to try again</div>';
   }
 };
@@ -676,6 +832,113 @@ $("sStage").addEventListener("click", function(e){
   var tile = e.target.closest(".t");
   if (tile){ GAMES.visual.pickTile(tile); return; }
   if (GAMES.visual.state === "intro") GAMES.visual.start();
+});
+GAMES.simon = {
+  lives: 3, seq: [], step: 0, completed: 0, state: "intro", locked: false, timer: null,
+  chips: function(){
+    var o = load("simon");
+    $("mBest").innerHTML = "best <b>" + (o.best !== undefined ? o.best : "—") + "</b>";
+    $("mLives").innerHTML = "lives <b>" + this.lives + "</b>";
+  },
+  hue: function(i){ return "linear-gradient(160deg, hsl(" + (20 + i * 40) + ",70%,55%), hsl(" + (20 + i * 40) + ",72%,34%))"; },
+  gridHtml: function(){
+    var h = "";
+    for (var i = 0; i < 9; i++) h += '<div class="sm" style="background:' + this.hue(i) + '"></div>';
+    return '<div id="simGrid">' + h + "</div>";
+  },
+  enter: function(){
+    clearTimeout(this.timer);
+    this.lives = 3; this.seq = []; this.step = 0; this.completed = 0; this.locked = false;
+    $("mStage").innerHTML = '<div class="state">click to start</div><div class="mini">watch the sequence, then replay it. 3 lives.</div>';
+    this.chips();
+    this.state = "intro";
+  },
+  start: function(){
+    this.lives = 3; this.seq = []; this.step = 0; this.completed = 0; this.locked = false;
+    this.state = "watch";
+    SFX.tap();
+    this.nextRound();
+  },
+  revealMs: function(){ return Math.max(280, 620 - (this.seq.length - 1) * 18); },
+  nextRound: function(){
+    this.seq.push(Math.floor(Math.random() * 9));
+    this.playback();
+  },
+  playback: function(){
+    var self = this;
+    clearTimeout(this.timer);
+    this.locked = true;
+    this.state = "watch";
+    $("mStage").innerHTML = '<div class="mini" style="margin-bottom:10px">watch — round ' + this.seq.length + " · " + this.seq.length + (this.seq.length === 1 ? " step" : " steps") + "</div>" + this.gridHtml();
+    var grid = $("mStage").querySelector("#simGrid");
+    var rm = this.revealMs(), gap = rm + 150;
+    for (var i = 0; i < this.seq.length; i++){
+      (function(i){
+        setTimeout(function(){
+          var pad = grid.children[self.seq[i]];
+          pad.classList.add("lit");
+          SFX.note(self.seq[i]);
+          setTimeout(function(){ pad.classList.remove("lit"); }, rm * 0.75);
+        }, i * gap);
+      })(i);
+    }
+    this.timer = setTimeout(function(){ self.phaseInput(); }, this.seq.length * gap - 120);
+  },
+  phaseInput: function(){
+    this.state = "input";
+    this.step = 0;
+    this.locked = false;
+    $("mStage").innerHTML = '<div class="mini" style="margin-bottom:10px">your turn — round ' + this.seq.length + "</div>" + this.gridHtml();
+  },
+  padClicked: function(i){
+    if (this.state !== "input" || this.locked) return;
+    var self = this;
+    var pads = $("mStage").querySelectorAll("#simGrid .sm");
+    var pad = pads[i];
+    if (!pad) return;
+    pad.classList.add("lit");
+    SFX.note(i);
+    setTimeout(function(){ if (pad) pad.classList.remove("lit"); }, 150);
+    if (i === this.seq[this.step]){
+      this.step++;
+      if (this.step === this.seq.length){
+        this.completed++;
+        this.locked = true;
+        this.chips();
+        SFX.win();
+        $("mStage").innerHTML = '<div class="state ok">cleared round ' + this.seq.length + "</div><div class=\"mini\">one more step incoming</div>";
+        this.timer = setTimeout(function(){ self.nextRound(); }, 600);
+      }
+    } else {
+      this.locked = true;
+      this.lives--;
+      this.chips();
+      SFX.bad();
+      if (this.lives > 0){
+        $("mStage").innerHTML = '<div class="state bad">miss — ' + this.lives + (this.lives === 1 ? " life" : " lives") + " left</div><div class=\"mini\">replaying the same round</div>";
+        this.timer = setTimeout(function(){ self.playback(); }, 900);
+      } else {
+        this.end();
+      }
+    }
+  },
+  end: function(){
+    var o = load("simon") || {};
+    if (o.best === undefined || this.completed > o.best){ o.best = this.completed; save("simon", o); }
+    this.state = "intro";
+    this.chips();
+    SFX.lose();
+    $("mStage").innerHTML = '<div class="state">you hit ' + this.completed + (this.completed === 1 ? " round" : " rounds") + '</div><div class="mini">out of lives · click to try again</div>';
+  }
+};
+$("mStage").addEventListener("click", function(e){
+  var sm = e.target.closest(".sm");
+  if (sm){
+    var idx = Array.prototype.indexOf.call(sm.parentNode.children, sm);
+    GAMES.simon.padClicked(idx);
+    return;
+  }
+  if (GAMES.simon.state === "intro") GAMES.simon.start();
 });
 </script>
 </body>
