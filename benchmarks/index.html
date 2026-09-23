@@ -68,7 +68,8 @@
 
   /* stage */
   .stage{ min-height:440px; border:1px solid var(--border); border-radius:14px; background:var(--panel-soft);
-    display:flex; align-items:center; justify-content:center; flex-direction:column; gap:20px; position:relative; overflow:hidden; user-select:none;
+    display:flex; align-items:center; justify-content:center; flex-direction:column; gap:18px; position:relative; overflow:hidden; user-select:none;
+    padding:30px 24px;
     transition:background .18s ease, border-color .18s ease; }
   #rStage.bg-warn{ background:linear-gradient(180deg, rgba(242,200,108,.10), transparent 140px), var(--panel-soft); border-color:rgba(242,200,108,.35); }
   #rStage.bg-ok{ background:linear-gradient(180deg, rgba(86,200,135,.28), rgba(86,200,135,.10) 60%, transparent), var(--panel-soft); border-color:rgba(127,224,162,.45); }
@@ -76,7 +77,8 @@
   .state{ font-size:26px; font-weight:600; text-align:center; padding:0 20px; transition:color .1s ease; }
   .state.ok{ color:var(--ok); } .state.bad{ color:var(--bad); } .state.warn{ color:var(--warn); }
   .state.small{ font-size:15px; color:var(--dim); font-weight:500; }
-  .mini{ font-size:11px; color:var(--faint); letter-spacing:.1em; }
+  .mini{ font-size:13.5px; color:var(--dim); letter-spacing:.05em; font-weight:500; }
+  .mini b{ color:var(--accent); font-weight:600; }
   .row{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; justify-content:center; }
 
   .hint{ margin-top:14px; font-size:10.5px; color:var(--faint); line-height:1.7; }
@@ -109,6 +111,7 @@
   #chGrid{ width:100%; max-width:640px; display:grid; grid-template-columns:repeat(8,1fr); gap:10px; }
   #chGrid .c{ aspect-ratio:1; background:var(--panel); border:1px solid var(--border-strong); border-radius:12px; font-size:22px; font-weight:600; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background .1s ease, border-color .1s ease; }
   #chGrid .c:not(.on){ background:transparent; border-color:var(--border); color:var(--text); }
+  #chGrid .c.num{ background:rgba(201,174,242,.14); border-color:rgba(201,174,242,.38); }
   #chGrid .c:hover{ border-color:var(--accent); }
   #chGrid .c.got{ background:var(--ok-soft); border-color:var(--ok); color:var(--ok); }
   #chGrid .c.hide{ color:transparent; }
@@ -119,15 +122,15 @@
   /* visual memory */
   #visGrid{ display:grid; grid-template-columns:repeat(3,1fr); gap:14px; width:min(360px,100%); transition:grid-template-columns .2s ease; }
   #visGrid .t{ aspect-ratio:1; background:var(--panel); border:1px solid var(--border-strong); border-radius:12px; cursor:pointer; transition:background .12s ease; }
-  #visGrid .t.lit{ background:var(--accent); border-color:var(--accent); box-shadow:0 0 18px rgba(201,174,242,.35); }
-  #visGrid .t.picked{ background:var(--ok-soft); border-color:var(--ok); }
-  #visGrid .t.miss{ background:var(--bad-soft); border-color:var(--bad); }
   #visGrid .t.empty{ background:transparent; border-color:var(--border); }
+  #visGrid .t.lit{ background:var(--accent); border-color:var(--accent); box-shadow:0 0 18px rgba(201,174,242,.35); }
+  #visGrid .t.picked{ background:rgba(127,224,162,.55); border-color:var(--ok); box-shadow:0 0 14px rgba(127,224,162,.25); }
+  #visGrid .t.miss{ background:var(--bad-soft); border-color:var(--bad); }
   #visGrid.phase-flash .t{ cursor:default; }
 
   /* simon says */
   #simGrid{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; width:min(420px,100%); }
-  #simGrid .sm{ aspect-ratio:1; border-radius:14px; border:1px solid rgba(201,174,242,.5); cursor:pointer; background:linear-gradient(160deg, #cbbaf2, #a991df); transition:transform .08s ease, background .1s ease, box-shadow .08s ease, border-color .1s ease; }
+  #simGrid .sm{ aspect-ratio:1; border-radius:14px; border:1px solid rgba(201,174,242,.42); cursor:pointer; background:linear-gradient(160deg, #8f77d9, #6c53ba); transition:transform .08s ease, background .1s ease, box-shadow .08s ease, border-color .1s ease; }
   #simGrid .sm:hover{ filter:brightness(1.08); }
   #simGrid .sm.lit{ background:#f7f3ff; border-color:#fff; transform:scale(1.05); box-shadow:0 0 30px rgba(255,255,255,.45); }
   #simGrid.phase-watch .sm{ pointer-events:none; }
@@ -678,7 +681,7 @@ GAMES.chimp = {
     var html = "";
     for (var c = 0; c < 40; c++){
       var v = cells[c];
-      html += '<div class="c" data-v="' + (v || "") + '">' + (v || "") + "</div>";
+      html += '<div class="c' + (v ? " num" : "") + '" data-v="' + (v || "") + '">' + (v || "") + "</div>";
     }
     $("cStage").innerHTML = '<div class="mini" style="margin-bottom:2px">round ' + this.level + " — click 1 to " + this.level + "</div>" + '<div id="chGrid">' + html + "</div>";
     this.expected = 1;
