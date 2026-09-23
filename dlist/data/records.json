@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:08:20Z",
+  "updated_at": "2026-09-23T18:09:45Z",
   "demons": {
     "238": [
       {
@@ -27050,6 +27050,15 @@
       },
       {
         "player": {
+          "id": 6244,
+          "name": "Sevant"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Y9SFAH00zj8"
+      },
+      {
+        "player": {
           "id": 38020,
           "name": "Kyasshukodo"
         },
@@ -31722,6 +31731,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BxxH8jGONBs"
+      },
+      {
+        "player": {
+          "id": 70108,
+          "name": "nkontion"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IxyjWv3Zzxc"
       },
       {
         "player": {
@@ -89309,6 +89327,15 @@
       },
       {
         "player": {
+          "id": 69503,
+          "name": "Thinman"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=V_6DzVBVJSs"
+      },
+      {
+        "player": {
           "id": 65255,
           "name": "Yammez"
         },
@@ -103346,6 +103373,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Gp07xKNyalg"
+      },
+      {
+        "player": {
+          "id": 70295,
+          "name": "leaf_BD"
+        },
+        "progress": 81,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZbWFN97I83Y"
       },
       {
         "player": {
