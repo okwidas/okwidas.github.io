@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T06:09:01Z",
+  "updated_at": "2026-09-23T09:08:44Z",
   "demons": {
     "238": [
       {
@@ -47109,6 +47109,15 @@
       },
       {
         "player": {
+          "id": 53566,
+          "name": "audo;pi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KgihadzTYBA"
+      },
+      {
+        "player": {
           "id": 68757,
           "name": "CelestialDivine"
         },
@@ -47187,15 +47196,6 @@
         "progress": 85,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=6APUB8tuAtE"
-      },
-      {
-        "player": {
-          "id": 53566,
-          "name": "audo;pi"
-        },
-        "progress": 85,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=osNuIs9hhnw"
       },
       {
         "player": {
@@ -83722,6 +83722,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ez7kGyxX9Mk"
+      },
+      {
+        "player": {
+          "id": 60108,
+          "name": "[떡볶이과자] CoJong"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QSbpDvTThog"
       },
       {
         "player": {
