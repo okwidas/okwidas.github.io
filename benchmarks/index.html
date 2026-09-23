@@ -21,11 +21,11 @@
   @media (prefers-reduced-motion: reduce){ *{ transition:none !important; animation:none !important; } }
   body::before{ content:""; position:fixed; inset:0; background:radial-gradient(700px 300px at 50% -120px, rgba(201,174,242,.07), transparent 70%); pointer-events:none; z-index:0; }
 
-  .wrap{ position:relative; z-index:1; width:100%; max-width:760px;
+  .wrap{ position:relative; z-index:1; width:100%; max-width:920px;
     background:linear-gradient(180deg, rgba(201,174,242,.04), transparent 120px), var(--panel);
     border:1px solid var(--border); border-radius:18px;
     box-shadow:0 1px 0 rgba(255,255,255,.03) inset, 0 24px 50px -30px rgba(0,0,0,.7);
-    padding:26px 32px 34px; }
+    padding:30px 40px 40px; }
 
   .topbar{ display:flex; align-items:center; justify-content:space-between; gap:14px; padding-bottom:22px; margin-bottom:24px; border-bottom:1px solid var(--border); }
   .wordmark{ font-size:16px; letter-spacing:.02em; color:var(--dim); text-decoration:none; }
@@ -49,7 +49,7 @@
   .view[hidden]{ display:none; }
 
   /* hub */
-  .hcards{ display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; }
+  .hcards{ display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:14px; }
   .hcard{ display:block; text-align:left; background:var(--panel-soft); border:1px solid var(--border); border-radius:12px; padding:16px 18px 14px; color:var(--text); text-decoration:none; cursor:pointer; transition:border-color .15s ease, transform .15s ease, background .15s ease; }
   .hcard:hover{ border-color:var(--border-strong); background:rgba(201,174,242,.07); transform:translateY(-2px); }
   .hcard .n{ font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint); margin-bottom:7px; }
@@ -67,8 +67,8 @@
   .chip b{ color:var(--accent); font-weight:600; }
 
   /* stage */
-  .stage{ min-height:330px; border:1px solid var(--border); border-radius:14px; background:var(--panel-soft);
-    display:flex; align-items:center; justify-content:center; flex-direction:column; gap:18px; position:relative; overflow:hidden; user-select:none;
+  .stage{ min-height:440px; border:1px solid var(--border); border-radius:14px; background:var(--panel-soft);
+    display:flex; align-items:center; justify-content:center; flex-direction:column; gap:20px; position:relative; overflow:hidden; user-select:none;
     transition:background .18s ease, border-color .18s ease; }
   #rStage.bg-warn{ background:linear-gradient(180deg, rgba(242,200,108,.10), transparent 140px), var(--panel-soft); border-color:rgba(242,200,108,.35); }
   #rStage.bg-ok{ background:linear-gradient(180deg, rgba(86,200,135,.28), rgba(86,200,135,.10) 60%, transparent), var(--panel-soft); border-color:rgba(127,224,162,.45); }
@@ -106,12 +106,13 @@
   .vbtn:hover{ background:var(--accent-soft); }
 
   /* chimp */
-  #chGrid{ width:100%; max-width:600px; display:grid; grid-template-columns:repeat(8,1fr); gap:10px; }
-  #chGrid .c{ aspect-ratio:1; background:var(--panel); border:1px solid var(--border-strong); border-radius:12px; font-size:22px; font-weight:600; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background .1s ease, border-color .1s ease, visibility 0s; }
+  #chGrid{ width:100%; max-width:640px; display:grid; grid-template-columns:repeat(8,1fr); gap:10px; }
+  #chGrid .c{ aspect-ratio:1; background:var(--panel); border:1px solid var(--border-strong); border-radius:12px; font-size:22px; font-weight:600; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background .1s ease, border-color .1s ease; }
   #chGrid .c:not(.on){ background:transparent; border-color:var(--border); color:var(--text); }
   #chGrid .c:hover{ border-color:var(--accent); }
   #chGrid .c.got{ background:var(--ok-soft); border-color:var(--ok); color:var(--ok); }
-  #chGrid .c.gone{ visibility:hidden; pointer-events:none; }
+  #chGrid .c.hide{ color:transparent; }
+  #chGrid .c.hide:hover{ border-color:var(--faint); }
   #chGrid .c.fail{ background:var(--bad-soft); border-color:var(--bad); color:var(--bad); }
   #chGrid .c.ph{ visibility:hidden; }
 
@@ -125,9 +126,10 @@
   #visGrid.phase-flash .t{ cursor:default; }
 
   /* simon says */
-  #simGrid{ display:grid; grid-template-columns:repeat(3,1fr); gap:12px; width:min(340px,100%); }
-  #simGrid .sm{ aspect-ratio:1; border-radius:12px; border:1px solid var(--border-strong); cursor:pointer; opacity:.8; transition:transform .08s ease, opacity .12s ease, box-shadow .08s ease; }
-  #simGrid .sm.lit{ opacity:1; transform:scale(1.07); box-shadow:0 0 22px rgba(255,255,255,.35) inset, 0 0 18px rgba(255,255,255,.18); }
+  #simGrid{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; width:min(420px,100%); }
+  #simGrid .sm{ aspect-ratio:1; border-radius:14px; border:1px solid rgba(201,174,242,.5); cursor:pointer; background:linear-gradient(160deg, #cbbaf2, #a991df); transition:transform .08s ease, background .1s ease, box-shadow .08s ease, border-color .1s ease; }
+  #simGrid .sm:hover{ filter:brightness(1.08); }
+  #simGrid .sm.lit{ background:#f7f3ff; border-color:#fff; transform:scale(1.05); box-shadow:0 0 30px rgba(255,255,255,.45); }
   #simGrid.phase-watch .sm{ pointer-events:none; }
 
   .overlay{ position:absolute; inset:0; background:rgba(11,9,17,.88); display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px; z-index:5; text-align:center; padding:20px; backdrop-filter:blur(2px); }
@@ -226,7 +228,7 @@
       <div class="state">click to start</div>
       <div class="mini">are you smarter than a chimp?</div>
     </div>
-    <p class="hint">numbers scatter across the grid — click them 1 → N. each one vanishes once clicked. each round adds one more number.</p>
+    <p class="hint">numbers scatter across the grid. click 1 — the rest go blank, and you have to remember where every other number is. one wrong pick ends the run.</p>
   </section>
 
   <!-- VISUAL MEMORY -->
@@ -685,15 +687,19 @@ GAMES.chimp = {
   },
   clickCell: function(cell){
     if (this.state !== "play" || this.locked) return;
-    var v = cell.getAttribute("data-v");
-    if (!v) return;
     if (cell.classList.contains("got")) return;
+    var v = cell.getAttribute("data-v");
     if (v === String(this.expected)){
       cell.classList.add("got");
+      cell.classList.remove("hide");
       SFX.got();
-      var fadeMe = cell;
-      setTimeout(function(){ fadeMe.classList.add("gone"); }, 110);
       this.expected++;
+      if (this.expected <= this.level){
+        var kids = cell.parentNode.children;
+        for (var i = 0; i < kids.length; i++){
+          if (!kids[i].classList.contains("got")) kids[i].classList.add("hide");
+        }
+      }
       if (this.expected > this.level){
         this.locked = true;
         this.completed++;
@@ -775,7 +781,7 @@ GAMES.visual = {
     var size = this.gsize(), n = this.cells();
     var html = "";
     for (var t = 0; t < n; t++){
-      var extra = this.found[t] ? " picked" : (this.lit.indexOf(t) !== -1 ? "" : " empty");
+      var extra = this.found[t] ? " picked" : " empty";
       html += '<div class="t' + extra + '"></div>';
     }
     $("sStage").innerHTML = '<div class="mini" style="margin-bottom:10px">find the lit squares — ' + this.level + " · " + size + "&#215;" + size + "</div>" +
@@ -840,10 +846,9 @@ GAMES.simon = {
     $("mBest").innerHTML = "best <b>" + (o.best !== undefined ? o.best : "—") + "</b>";
     $("mLives").innerHTML = "lives <b>" + this.lives + "</b>";
   },
-  hue: function(i){ return "linear-gradient(160deg, hsl(" + (20 + i * 40) + ",70%,55%), hsl(" + (20 + i * 40) + ",72%,34%))"; },
   gridHtml: function(){
     var h = "";
-    for (var i = 0; i < 9; i++) h += '<div class="sm" style="background:' + this.hue(i) + '"></div>';
+    for (var i = 0; i < 9; i++) h += '<div class="sm"></div>';
     return '<div id="simGrid">' + h + "</div>";
   },
   enter: function(){
