@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:10:10Z",
+  "updated_at": "2026-09-23T03:08:24Z",
   "demons": {
     "238": [
       {
@@ -9399,6 +9399,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=xbgpoGkPe4c"
+      },
+      {
+        "player": {
+          "id": 72035,
+          "name": "kanonsik"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TVv8Yqgg7wY"
       },
       {
         "player": {
@@ -70377,6 +70386,15 @@
       },
       {
         "player": {
+          "id": 56419,
+          "name": "[SELL] Harhir"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LoFaa5buSZY"
+      },
+      {
+        "player": {
           "id": 63808,
           "name": "syrisGD"
         },
@@ -73049,6 +73067,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=17BbS7dfl0k"
+      },
+      {
+        "player": {
+          "id": 32164,
+          "name": "s3batr0nic"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xsv3jmHVj4E"
       },
       {
         "player": {
@@ -91718,6 +91745,15 @@
       },
       {
         "player": {
+          "id": 39521,
+          "name": "Lukie"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yuVBV1VlRes"
+      },
+      {
+        "player": {
           "id": 54705,
           "name": "KlimK"
         },
@@ -106333,21 +106369,21 @@
       },
       {
         "player": {
+          "id": 66407,
+          "name": "maxyop3"
+        },
+        "progress": 95,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fp6o9w_MtVA"
+      },
+      {
+        "player": {
           "id": 63663,
           "name": "Exeleb"
         },
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7Ld3-cC4IJQ"
-      },
-      {
-        "player": {
-          "id": 66407,
-          "name": "maxyop3"
-        },
-        "progress": 88,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=RWHXKjeyU4w"
       },
       {
         "player": {
@@ -113658,6 +113694,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=xZlEtPsCl9M"
+      },
+      {
+        "player": {
+          "id": 53566,
+          "name": "audo;pi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cRqkxpkK6-I"
       }
     ],
     "711": [
