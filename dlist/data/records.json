@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:10:08Z",
+  "updated_at": "2026-09-24T15:09:43Z",
   "demons": {
     "238": [
       {
@@ -31977,6 +31977,15 @@
       },
       {
         "player": {
+          "id": 66382,
+          "name": "nqlol"
+        },
+        "progress": 91,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=a34wSxMC2hE"
+      },
+      {
+        "player": {
           "id": 40761,
           "name": "[Ñ] Freikz"
         },
@@ -48425,6 +48434,15 @@
       },
       {
         "player": {
+          "id": 54081,
+          "name": "[IQB7] BlueGMD"
+        },
+        "progress": 67,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qeYKD5N-Vmg"
+      },
+      {
+        "player": {
           "id": 53407,
           "name": "[FLEUR] DraxitIII"
         },
@@ -59785,6 +59803,15 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=zbU5aMnOSxA"
+      },
+      {
+        "player": {
+          "id": 51187,
+          "name": "[JUICE] Silkyy"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QbbLszDc148"
       },
       {
         "player": {
