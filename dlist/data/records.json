@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:09:30Z",
+  "updated_at": "2026-09-24T21:08:25Z",
   "demons": {
     "238": [
       {
@@ -8854,7 +8854,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Washed"
+          "name": "[STACK] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -9408,6 +9408,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=TVv8Yqgg7wY"
+      },
+      {
+        "player": {
+          "id": 72096,
+          "name": "Dygitol!"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AxYP2cZXjBA"
       },
       {
         "player": {
@@ -24873,7 +24882,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Washed"
+          "name": "[STACK] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -31761,12 +31770,30 @@
       },
       {
         "player": {
+          "id": 59758,
+          "name": "Nooobus"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tRfRV4uXYk4"
+      },
+      {
+        "player": {
           "id": 70108,
           "name": "nkontion"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=IxyjWv3Zzxc"
+      },
+      {
+        "player": {
+          "id": 58155,
+          "name": "[YN] SuperCSX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=s_0d7ssHb_E"
       },
       {
         "player": {
@@ -32913,15 +32940,6 @@
       },
       {
         "player": {
-          "id": 58155,
-          "name": "[YN] SuperCSX"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=WoZYsYazvWA"
-      },
-      {
-        "player": {
           "id": 70636,
           "name": "rgaix6fm"
         },
@@ -32964,15 +32982,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_AUAbstJSps"
-      },
-      {
-        "player": {
-          "id": 59758,
-          "name": "Nooobus"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=_xQUW3-rzEA"
       },
       {
         "player": {
@@ -76892,6 +76901,15 @@
       },
       {
         "player": {
+          "id": 63471,
+          "name": "Florned"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=moAeicm4yNs"
+      },
+      {
+        "player": {
           "id": 70654,
           "name": "Orgen"
         },
@@ -76943,15 +76961,6 @@
         "progress": 77,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=oURnaPWcSWg"
-      },
-      {
-        "player": {
-          "id": 63471,
-          "name": "Florned"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=cVp92E9GHSs"
       },
       {
         "player": {
@@ -79252,7 +79261,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Washed"
+          "name": "[STACK] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -85224,7 +85233,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Washed"
+          "name": "[STACK] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -85760,6 +85769,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=K5bP1hjzDKw"
+      },
+      {
+        "player": {
+          "id": 59214,
+          "name": "Local_Happy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=85K_QZ9n00o"
       },
       {
         "player": {
@@ -98870,6 +98888,15 @@
       },
       {
         "player": {
+          "id": 61781,
+          "name": "[HERVE] wSharkiye"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=e0AicIrHATI"
+      },
+      {
+        "player": {
           "id": 62265,
           "name": "choko"
         },
@@ -99687,9 +99714,9 @@
           "id": 58174,
           "name": "[JORB] Zephronox"
         },
-        "progress": 76,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=BtAS8E5pnmw"
+        "video": "https://www.youtube.com/watch?v=yb4yMmxWsgw"
       },
       {
         "player": {
@@ -109545,6 +109572,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Bku6wFAvq3c"
+      },
+      {
+        "player": {
+          "id": 62598,
+          "name": "Cewz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WwRwFLzQriQ"
       }
     ],
     "665": [
@@ -112092,6 +112128,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2TYRXmLQW3k"
+      },
+      {
+        "player": {
+          "id": 39121,
+          "name": "[RF] Johnlikediamond"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6IWiVMSLwDs"
       },
       {
         "player": {
