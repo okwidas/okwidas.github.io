@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:09:33Z",
+  "updated_at": "2026-09-24T00:09:08Z",
   "demons": {
     "238": [
       {
@@ -32130,6 +32130,15 @@
       },
       {
         "player": {
+          "id": 51416,
+          "name": "Acresta"
+        },
+        "progress": 85,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5Is98hKaA7s"
+      },
+      {
+        "player": {
           "id": 39488,
           "name": "[SGD] CookieIsMine"
         },
@@ -32262,6 +32271,15 @@
         "progress": 82,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=AD9nE96M7Tw"
+      },
+      {
+        "player": {
+          "id": 56567,
+          "name": "c4elan"
+        },
+        "progress": 82,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LRD03geJGno"
       },
       {
         "player": {
@@ -32433,15 +32451,6 @@
         "progress": 80,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wSW-7zC2TVQ"
-      },
-      {
-        "player": {
-          "id": 51416,
-          "name": "Acresta"
-        },
-        "progress": 80,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=jYHW-Vl-Xo8"
       },
       {
         "player": {
@@ -32640,6 +32649,15 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=l2iEWUVoByY"
+      },
+      {
+        "player": {
+          "id": 58044,
+          "name": "zepion"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-Si7u8-B7ZU"
       },
       {
         "player": {
@@ -32946,15 +32964,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=y_VwZfKXxQU"
-      },
-      {
-        "player": {
-          "id": 56567,
-          "name": "c4elan"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=mcb10qJDfO0"
       }
     ],
     "383": [
@@ -103816,6 +103825,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=B6b9AZO49GE"
+      },
+      {
+        "player": {
+          "id": 61075,
+          "name": "[KTFL] Serg01"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KttxvH2a318"
       }
     ],
     "633": [
@@ -111969,6 +111987,15 @@
       },
       {
         "player": {
+          "id": 67449,
+          "name": "RuinerUG"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2TYRXmLQW3k"
+      },
+      {
+        "player": {
           "id": 59219,
           "name": "[CHIL] EmeraldKnight"
         },
@@ -111993,15 +112020,6 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=51VuVKKmtSo"
-      },
-      {
-        "player": {
-          "id": 67449,
-          "name": "RuinerUG"
-        },
-        "progress": 68,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=4iZrTYYJkpk"
       },
       {
         "player": {
