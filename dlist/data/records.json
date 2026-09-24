@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:09:16Z",
+  "updated_at": "2026-09-24T09:09:29Z",
   "demons": {
     "238": [
       {
@@ -92350,6 +92350,15 @@
       },
       {
         "player": {
+          "id": 55538,
+          "name": "ChopBlox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IIAckztYuNU"
+      },
+      {
+        "player": {
           "id": 68660,
           "name": "oof my way"
         },
@@ -105447,6 +105456,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=miFq00t6gow"
+      },
+      {
+        "player": {
+          "id": 60568,
+          "name": "N3bulA_"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mGvAnIUsdwQ"
       }
     ],
     "648": [
@@ -108412,6 +108430,15 @@
       },
       {
         "player": {
+          "id": 60043,
+          "name": "Gamingbyte"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Uzb6Y8cf1Eo"
+      },
+      {
+        "player": {
           "id": 62587,
           "name": "Kirious"
         },
@@ -108436,15 +108463,6 @@
         "progress": 96,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=LT6IjfSzBDY"
-      },
-      {
-        "player": {
-          "id": 60043,
-          "name": "Gamingbyte"
-        },
-        "progress": 95,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Ow5MBy5NUM8"
       },
       {
         "player": {
