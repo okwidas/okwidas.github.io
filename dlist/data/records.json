@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:09:29Z",
+  "updated_at": "2026-09-24T12:10:08Z",
   "demons": {
     "238": [
       {
@@ -53633,6 +53633,15 @@
       },
       {
         "player": {
+          "id": 32374,
+          "name": "Deados35"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Wc6ButrmRJA"
+      },
+      {
+        "player": {
           "id": 55347,
           "name": "feisaran"
         },
@@ -55422,9 +55431,9 @@
           "id": 33726,
           "name": "yolomodeboom"
         },
-        "progress": 98,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=qC6xtNtzoVw"
+        "video": "https://www.youtube.com/watch?v=vDiq0502kK0"
       },
       {
         "player": {
@@ -113567,6 +113576,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hqiwzfLdzhY"
+      },
+      {
+        "player": {
+          "id": 39738,
+          "name": "vulcanium4"
+        },
+        "progress": 66,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ILaZaqPInRw"
       }
     ],
     "706": [
