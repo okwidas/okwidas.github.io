@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:09:49Z",
+  "updated_at": "2026-09-25T18:08:47Z",
   "demons": {
     "238": [
       {
@@ -8854,7 +8854,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Gnamolor"
+          "name": "[SWOON] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -24900,7 +24900,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Gnamolor"
+          "name": "[SWOON] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -32652,6 +32652,15 @@
       },
       {
         "player": {
+          "id": 71263,
+          "name": "sorrysilas"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5SRnbfzYk48"
+      },
+      {
+        "player": {
           "id": 69610,
           "name": "Emrauld"
         },
@@ -38523,6 +38532,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=p3oiW3Vq2JM"
+      },
+      {
+        "player": {
+          "id": 72024,
+          "name": "鸽者啊QwQ"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.bilibili.com/video/BV16RYk63EWU"
       },
       {
         "player": {
@@ -59617,6 +59635,15 @@
       },
       {
         "player": {
+          "id": 71183,
+          "name": "Emerald_Gamer57"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fHex0sBxG4s"
+      },
+      {
+        "player": {
           "id": 54010,
           "name": "[KSZ] hibachidefect"
         },
@@ -73430,6 +73457,15 @@
       },
       {
         "player": {
+          "id": 66623,
+          "name": "Vibrant"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=An9RoLFI4nY"
+      },
+      {
+        "player": {
           "id": 63529,
           "name": "choof"
         },
@@ -79342,7 +79378,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Gnamolor"
+          "name": "[SWOON] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -85323,7 +85359,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Gnamolor"
+          "name": "[SWOON] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
@@ -103583,6 +103619,15 @@
       },
       {
         "player": {
+          "id": 68659,
+          "name": "Hels"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YNniPQ0GDtc"
+      },
+      {
+        "player": {
           "id": 58385,
           "name": "JabkaGD"
         },
@@ -110176,9 +110221,9 @@
           "id": 52013,
           "name": "[GDYU] Mixasuspa"
         },
-        "progress": 64,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=jokhat3GOe0"
+        "video": "https://www.youtube.com/watch?v=PF6Uk1Iksxw"
       },
       {
         "player": {
@@ -111833,7 +111878,7 @@
       {
         "player": {
           "id": 50960,
-          "name": "[STACK] Gnamolor"
+          "name": "[SWOON] Gnamolor"
         },
         "progress": 100,
         "status": "approved",
