@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:09:52Z",
+  "updated_at": "2026-09-25T03:08:42Z",
   "demons": {
     "238": [
       {
@@ -31806,6 +31806,15 @@
       },
       {
         "player": {
+          "id": 60699,
+          "name": "WinterSnow"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Pjzu4t1qvHE"
+      },
+      {
+        "player": {
           "id": 58155,
           "name": "[YN] SuperCSX"
         },
@@ -47268,6 +47277,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=EqLQ0bzzLFk"
+      },
+      {
+        "player": {
+          "id": 72074,
+          "name": "Jaku42"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Uf_ejb3GjxY"
       },
       {
         "player": {
@@ -101302,6 +101320,15 @@
         "progress": 72,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lufe4A5KnRE"
+      },
+      {
+        "player": {
+          "id": 72073,
+          "name": "Masuke"
+        },
+        "progress": 69,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=D8RySYZcWNU"
       }
     ],
     "622": [
@@ -111802,6 +111829,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=rvPosbBo4v0"
+      },
+      {
+        "player": {
+          "id": 50960,
+          "name": "[STACK] Gnamolor"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=e8n8ael2hLw"
       }
     ],
     "683": [
@@ -113338,6 +113374,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=GWxBZhV_dKA"
+      },
+      {
+        "player": {
+          "id": 65969,
+          "name": "Fexty"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=gmySF4abACs"
       }
     ],
     "690": [

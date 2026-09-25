@@ -646,8 +646,27 @@
     "level_id": 93917076
   },
   {
-    "id": 380,
+    "id": 697,
     "position": 35,
+    "name": "Maniacal Chains",
+    "requirement": 85,
+    "video": "https://www.youtube.com/watch?v=TzeMJeIu6bY",
+    "thumbnail": "https://i.ytimg.com/vi/TzeMJeIu6bY/mqdefault.jpg",
+    "publisher": {
+      "id": 70124,
+      "name": "LordDivinity",
+      "banned": false
+    },
+    "verifier": {
+      "id": 41404,
+      "name": "spcreat",
+      "banned": false
+    },
+    "level_id": 48991380
+  },
+  {
+    "id": 380,
+    "position": 36,
     "name": "Slaughterhouse",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
@@ -666,7 +685,7 @@
   },
   {
     "id": 612,
-    "position": 36,
+    "position": 37,
     "name": "Subterminal Point",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=h2wmRMgACH4",
@@ -685,7 +704,7 @@
   },
   {
     "id": 501,
-    "position": 37,
+    "position": 38,
     "name": "KOCMOC",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=2CxE-UWCIG4",
@@ -701,25 +720,6 @@
       "banned": false
     },
     "level_id": 87665224
-  },
-  {
-    "id": 697,
-    "position": 38,
-    "name": "Maniacal Chains",
-    "requirement": 85,
-    "video": "https://www.youtube.com/watch?v=TzeMJeIu6bY",
-    "thumbnail": "https://i.ytimg.com/vi/TzeMJeIu6bY/mqdefault.jpg",
-    "publisher": {
-      "id": 70124,
-      "name": "LordDivinity",
-      "banned": false
-    },
-    "verifier": {
-      "id": 41404,
-      "name": "spcreat",
-      "banned": false
-    },
-    "level_id": 48991380
   },
   {
     "id": 679,
@@ -1577,8 +1577,27 @@
     "level_id": 99703915
   },
   {
-    "id": 429,
+    "id": 650,
     "position": 84,
+    "name": "Wavterminal",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=dlvsCE3xYkQ",
+    "thumbnail": "https://i.ytimg.com/vi/dlvsCE3xYkQ/mqdefault.jpg",
+    "publisher": {
+      "id": 63982,
+      "name": "Skyavoxii",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39617,
+      "name": "Frice",
+      "banned": false
+    },
+    "level_id": 128093374
+  },
+  {
+    "id": 429,
+    "position": 85,
     "name": "walter white",
     "requirement": 65,
     "video": "https://www.youtube.com/watch?v=KzK62PkWOJ0",
@@ -1597,7 +1616,7 @@
   },
   {
     "id": 653,
-    "position": 85,
+    "position": 86,
     "name": "Infinite Chaos",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=wOMVERxU5IA",
@@ -1616,7 +1635,7 @@
   },
   {
     "id": 684,
-    "position": 86,
+    "position": 87,
     "name": "BRITNEY NO SCLEARS",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=ff_mQSXwjhU",
@@ -1635,7 +1654,7 @@
   },
   {
     "id": 627,
-    "position": 87,
+    "position": 88,
     "name": "Operation Evolution",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=WsVF-ayipvY",
@@ -1654,7 +1673,7 @@
   },
   {
     "id": 521,
-    "position": 88,
+    "position": 89,
     "name": "Damascus",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=MWQyCUGt76Y",
@@ -1673,7 +1692,7 @@
   },
   {
     "id": 659,
-    "position": 89,
+    "position": 90,
     "name": "Decks Dark",
     "requirement": 77,
     "video": "https://www.youtube.com/watch?v=l52ApE4HWkY",
@@ -1692,7 +1711,7 @@
   },
   {
     "id": 547,
-    "position": 90,
+    "position": 91,
     "name": "SARYYX NEVER CLEAR",
     "requirement": 74,
     "video": "https://www.youtube.com/watch?v=rRlyvmjcz_4",
@@ -1711,7 +1730,7 @@
   },
   {
     "id": 590,
-    "position": 91,
+    "position": 92,
     "name": "The Yangire",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=V3FjIorIfWg",
@@ -1730,7 +1749,7 @@
   },
   {
     "id": 540,
-    "position": 92,
+    "position": 93,
     "name": "Climax",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=E4ppq2WeAAs",
@@ -1749,7 +1768,7 @@
   },
   {
     "id": 579,
-    "position": 93,
+    "position": 94,
     "name": "ORDINARY",
     "requirement": 74,
     "video": "https://www.youtube.com/watch?v=4QiHP3jpGnk",
@@ -1768,7 +1787,7 @@
   },
   {
     "id": 676,
-    "position": 94,
+    "position": 95,
     "name": "TrakineS",
     "requirement": 77,
     "video": "https://www.youtube.com/watch?v=oKuoI-_JzKU",
@@ -1784,25 +1803,6 @@
       "banned": false
     },
     "level_id": 125788781
-  },
-  {
-    "id": 650,
-    "position": 95,
-    "name": "Wavterminal",
-    "requirement": 73,
-    "video": "https://www.youtube.com/watch?v=dlvsCE3xYkQ",
-    "thumbnail": "https://i.ytimg.com/vi/dlvsCE3xYkQ/mqdefault.jpg",
-    "publisher": {
-      "id": 63982,
-      "name": "Skyavoxii",
-      "banned": false
-    },
-    "verifier": {
-      "id": 39617,
-      "name": "Frice",
-      "banned": false
-    },
-    "level_id": 128093374
   },
   {
     "id": 469,
