@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T03:08:10Z",
+  "updated_at": "2026-09-26T06:09:18Z",
   "demons": {
     "238": [
       {
@@ -47349,6 +47349,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Uf_ejb3GjxY"
+      },
+      {
+        "player": {
+          "id": 66876,
+          "name": "Wtubi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=oSYF6EWpBjk"
       },
       {
         "player": {
@@ -99140,6 +99149,15 @@
       },
       {
         "player": {
+          "id": 65901,
+          "name": "Soloun1"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=PppfOCZok8w"
+      },
+      {
+        "player": {
           "id": 62265,
           "name": "choko"
         },
@@ -110159,6 +110177,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=H8jSQZ8ieB4"
+      },
+      {
+        "player": {
+          "id": 72097,
+          "name": "undercode"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aNUC6T27PzE"
       }
     ],
     "667": [
