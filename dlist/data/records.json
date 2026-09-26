@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T15:08:56Z",
+  "updated_at": "2026-09-26T18:08:43Z",
   "demons": {
     "238": [
       {
@@ -2575,6 +2575,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Vof6BVPI4gc"
+      },
+      {
+        "player": {
+          "id": 70533,
+          "name": "ninshu18"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=l8zRjs7zCkw"
       },
       {
         "player": {
@@ -17486,6 +17495,15 @@
       },
       {
         "player": {
+          "id": 35581,
+          "name": "Inquired"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OdOMroNHqYs"
+      },
+      {
+        "player": {
           "id": 55753,
           "name": "[999] Thisisfcp"
         },
@@ -32292,6 +32310,15 @@
       },
       {
         "player": {
+          "id": 51129,
+          "name": "[SARK] Timy"
+        },
+        "progress": 86,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=v-U6vI991nE"
+      },
+      {
+        "player": {
           "id": 51416,
           "name": "Acresta"
         },
@@ -36265,6 +36292,24 @@
       },
       {
         "player": {
+          "id": 71292,
+          "name": "Versuis"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mdIVfRn_8lI"
+      },
+      {
+        "player": {
+          "id": 71213,
+          "name": "[RIVER] Cclixgd"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=DAXqgGGSHrk"
+      },
+      {
+        "player": {
           "id": 67147,
           "name": "[POIKA] unkka"
         },
@@ -36541,15 +36586,6 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iEEFvO06ry0"
-      },
-      {
-        "player": {
-          "id": 71213,
-          "name": "[RIVER] Cclixgd"
-        },
-        "progress": 69,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=XlVkhMsPjvg"
       }
     ],
     "393": [
@@ -47430,6 +47466,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=oSYF6EWpBjk"
+      },
+      {
+        "player": {
+          "id": 34939,
+          "name": "[ABA] Lucidium"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=50SwhoHK8_Y"
       },
       {
         "player": {
@@ -75544,6 +75589,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CDBpaKTxNaY"
+      },
+      {
+        "player": {
+          "id": 60002,
+          "name": "Alexinho"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=J2zUnLISmYg"
       },
       {
         "player": {
@@ -107104,6 +107158,15 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7Ld3-cC4IJQ"
+      },
+      {
+        "player": {
+          "id": 55954,
+          "name": "fxpusphire"
+        },
+        "progress": 89,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fdZz7eSmkgI"
       }
     ],
     "653": [
@@ -108994,6 +109057,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Uzb6Y8cf1Eo"
+      },
+      {
+        "player": {
+          "id": 61941,
+          "name": "[HERVE] niwox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0pGhOj3dzRc"
       },
       {
         "player": {
@@ -112635,6 +112707,15 @@
       },
       {
         "player": {
+          "id": 61207,
+          "name": "[CBFA] ejgpsyched"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IVOIrJbK3nA"
+      },
+      {
+        "player": {
           "id": 59219,
           "name": "[CHIL] EmeraldKnight"
         },
@@ -113743,6 +113824,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YGjrYFsy9qA"
+      },
+      {
+        "player": {
+          "id": 56381,
+          "name": "[IQB7] envyixy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=gTW73Y_IJ1w"
       }
     ],
     "690": [
