@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:08:36Z",
+  "updated_at": "2026-09-27T18:09:34Z",
   "demons": {
     "238": [
       {
@@ -9453,6 +9453,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=rkUViTkiEqE"
+      },
+      {
+        "player": {
+          "id": 68758,
+          "name": "Oaky"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=exghg5a8DSo"
       },
       {
         "player": {
@@ -22422,6 +22431,15 @@
       },
       {
         "player": {
+          "id": 52477,
+          "name": "Heeru"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=K9m7R174Hk4"
+      },
+      {
+        "player": {
           "id": 36510,
           "name": "Plutz"
         },
@@ -31959,6 +31977,15 @@
       },
       {
         "player": {
+          "id": 64135,
+          "name": "santiricca"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_xGknGA_nTM"
+      },
+      {
+        "player": {
           "id": 71511,
           "name": "ainiru"
         },
@@ -32019,15 +32046,6 @@
         "progress": 95,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=qu7Sw-95n18"
-      },
-      {
-        "player": {
-          "id": 64135,
-          "name": "santiricca"
-        },
-        "progress": 95,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=zhDJ_o4rC4s"
       },
       {
         "player": {
@@ -57716,6 +57734,15 @@
       },
       {
         "player": {
+          "id": 59529,
+          "name": "[ID] naraoka"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lht5sB0kh-Q"
+      },
+      {
+        "player": {
           "id": 62089,
           "name": "[QUA] Girg"
         },
@@ -57884,15 +57911,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7TdNnrtnCEU"
-      },
-      {
-        "player": {
-          "id": 59529,
-          "name": "[ID] naraoka"
-        },
-        "progress": 70,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=rG9uYFmiJ-c"
       },
       {
         "player": {
@@ -86285,6 +86303,15 @@
       },
       {
         "player": {
+          "id": 35034,
+          "name": "[24hs] 金艮"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=evOijrEwyzY"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -105740,6 +105767,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=p3WfEMAZj3Y"
+      },
+      {
+        "player": {
+          "id": 65068,
+          "name": "Udfae"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=EbsPDwcmzjQ"
       }
     ],
     "642": [
@@ -106578,6 +106614,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ysu18MgKgqA"
+      },
+      {
+        "player": {
+          "id": 54729,
+          "name": "[ARMED] Trunki"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=y_39y1cZDUk"
       }
     ],
     "651": [
@@ -107329,6 +107374,15 @@
         "progress": 89,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=fdZz7eSmkgI"
+      },
+      {
+        "player": {
+          "id": 69463,
+          "name": "Lidlinmikro"
+        },
+        "progress": 85,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=P4jus2JHHqY"
       }
     ],
     "653": [
@@ -112168,6 +112222,15 @@
       },
       {
         "player": {
+          "id": 56437,
+          "name": "[YAHO] Pumben"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qzYYlMgxBZc"
+      },
+      {
+        "player": {
           "id": 58151,
           "name": "Cheese438"
         },
@@ -114237,6 +114300,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ot7EJqIMzL0"
+      },
+      {
+        "player": {
+          "id": 58160,
+          "name": "[MOON] ByteLaw"
+        },
+        "progress": 87,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=R5cSrUbKfX0"
       }
     ],
     "698": [
@@ -114874,6 +114946,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=dpPf0v9gBuI"
+      },
+      {
+        "player": {
+          "id": 59211,
+          "name": "[MKL] ennea"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=gdYg7upWBGM"
       }
     ],
     "711": [
