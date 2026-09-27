@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T03:08:40Z",
+  "updated_at": "2026-09-27T06:09:57Z",
   "demons": {
     "238": [
       {
@@ -22422,6 +22422,15 @@
       },
       {
         "player": {
+          "id": 36510,
+          "name": "Plutz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TIRjSV-BEFE"
+      },
+      {
+        "player": {
           "id": 65277,
           "name": "DAST"
         },
@@ -27182,6 +27191,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Y9SFAH00zj8"
+      },
+      {
+        "player": {
+          "id": 63731,
+          "name": "Bakrumen"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WX5nljQcoyU"
       },
       {
         "player": {
@@ -32433,6 +32451,15 @@
         "progress": 83,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9wJ86v9W450"
+      },
+      {
+        "player": {
+          "id": 68618,
+          "name": "Time"
+        },
+        "progress": 83,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lS5jAH08Bag"
       },
       {
         "player": {
@@ -57653,6 +57680,15 @@
       },
       {
         "player": {
+          "id": 62089,
+          "name": "[QUA] Girg"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JFePV1JCBzk"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -60076,6 +60112,15 @@
       },
       {
         "player": {
+          "id": 70253,
+          "name": "OxygenSE"
+        },
+        "progress": 90,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=l8835NMpdS8"
+      },
+      {
+        "player": {
           "id": 65139,
           "name": "Jomey"
         },
@@ -60175,6 +60220,15 @@
       },
       {
         "player": {
+          "id": 41554,
+          "name": "OdysseyGG"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xRsBcz0w7mo"
+      },
+      {
+        "player": {
           "id": 4886,
           "name": "Nimbus"
         },
@@ -60226,15 +60280,6 @@
         "progress": 72,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=v1SjDtj6MdU"
-      },
-      {
-        "player": {
-          "id": 70253,
-          "name": "OxygenSE"
-        },
-        "progress": 72,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=EguP2WhGa0Q"
       },
       {
         "player": {
@@ -66577,6 +66622,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=NKJLCioC33k"
+      },
+      {
+        "player": {
+          "id": 59926,
+          "name": "[CARL] Staticon"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HLZkWjPRN-Y"
       },
       {
         "player": {
@@ -111909,6 +111963,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=tLfHQQRIxzk"
+      },
+      {
+        "player": {
+          "id": 70379,
+          "name": "[didy] monodynamics"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QPUmWOoCgao"
       },
       {
         "player": {
