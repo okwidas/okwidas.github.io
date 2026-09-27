@@ -950,8 +950,27 @@
     "level_id": 109439644
   },
   {
-    "id": 663,
+    "id": 640,
     "position": 51,
+    "name": "CONVULSION",
+    "requirement": 64,
+    "video": "https://www.youtube.com/watch?v=qeRKuyU3eGI",
+    "thumbnail": "https://i.ytimg.com/vi/qeRKuyU3eGI/mqdefault.jpg",
+    "publisher": {
+      "id": 41470,
+      "name": "stellar",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 113322063
+  },
+  {
+    "id": 663,
+    "position": 52,
     "name": "Through The Gates",
     "requirement": 90,
     "video": "https://www.youtube.com/watch?v=4yHA6jux5UI",
@@ -970,7 +989,7 @@
   },
   {
     "id": 379,
-    "position": 52,
+    "position": 53,
     "name": "Firework",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=QBe5x2o9v2w",
@@ -989,7 +1008,7 @@
   },
   {
     "id": 673,
-    "position": 53,
+    "position": 54,
     "name": "NOMAD",
     "requirement": 72,
     "video": "https://www.youtube.com/watch?v=H2TkHbEX__A",
@@ -1008,7 +1027,7 @@
   },
   {
     "id": 658,
-    "position": 54,
+    "position": 55,
     "name": "Snowbound",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=cjHwgbtAkXU",
@@ -1024,25 +1043,6 @@
       "banned": false
     },
     "level_id": 120289520
-  },
-  {
-    "id": 640,
-    "position": 55,
-    "name": "CONVULSION",
-    "requirement": 64,
-    "video": "https://www.youtube.com/watch?v=qeRKuyU3eGI",
-    "thumbnail": "https://i.ytimg.com/vi/qeRKuyU3eGI/mqdefault.jpg",
-    "publisher": {
-      "id": 41470,
-      "name": "stellar",
-      "banned": false
-    },
-    "verifier": {
-      "id": 42413,
-      "name": "[IQB7] Whizkid05",
-      "banned": false
-    },
-    "level_id": 113322063
   },
   {
     "id": 705,

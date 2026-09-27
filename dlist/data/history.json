@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T18:09:34Z",
+  "updated_at": "2026-09-27T21:09:57Z",
   "demons": {
     "238": [
       {
@@ -5018,6 +5018,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 52,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T21:02:49.053123",
+        "pos": 53,
+        "note": "passed by CONVULSION"
       }
     ],
     "380": [
@@ -31772,6 +31777,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 55,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T21:02:49.053123",
+        "pos": 51,
+        "note": "Moved"
       }
     ],
     "641": [
@@ -34598,6 +34608,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 54,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T21:02:49.053123",
+        "pos": 55,
+        "note": "passed by CONVULSION"
       }
     ],
     "659": [
@@ -35181,6 +35196,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 51,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T21:02:49.053123",
+        "pos": 52,
+        "note": "passed by CONVULSION"
       }
     ],
     "664": [
@@ -36304,6 +36324,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 53,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T21:02:49.053123",
+        "pos": 54,
+        "note": "passed by CONVULSION"
       }
     ],
     "674": [
