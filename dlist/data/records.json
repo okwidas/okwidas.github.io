@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T21:08:58Z",
+  "updated_at": "2026-09-27T00:09:24Z",
   "demons": {
     "238": [
       {
@@ -2566,6 +2566,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=WhFofh97yzk"
+      },
+      {
+        "player": {
+          "id": 58683,
+          "name": "[RHTE] Phantomm"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JsicskBL1NA"
       },
       {
         "player": {
@@ -31920,6 +31929,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HCALL0PFbf0"
+      },
+      {
+        "player": {
+          "id": 55830,
+          "name": "LuckyL4"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HG4US4ltFnk"
       },
       {
         "player": {
@@ -84274,6 +84292,15 @@
       },
       {
         "player": {
+          "id": 67685,
+          "name": "exadeci"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iOFG4NPRb8g"
+      },
+      {
+        "player": {
           "id": 55521,
           "name": "NitkaGD"
         },
@@ -115083,6 +115110,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=oJcUB6w0BzQ"
+      },
+      {
+        "player": {
+          "id": 54697,
+          "name": "[RF] MaruiG"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=p-ZUMeIHZrk"
       }
     ]
   }
