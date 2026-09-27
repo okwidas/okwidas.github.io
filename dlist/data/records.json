@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T06:09:57Z",
+  "updated_at": "2026-09-27T09:08:38Z",
   "demons": {
     "238": [
       {
@@ -38748,6 +38748,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=xR2zTcMIS8U"
+      },
+      {
+        "player": {
+          "id": 72124,
+          "name": "Crazywhw"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LlYfV9w5EOc"
       },
       {
         "player": {
@@ -108062,6 +108071,15 @@
       },
       {
         "player": {
+          "id": 38685,
+          "name": "[SPQR] Paliermu"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IJZTeWInwvs"
+      },
+      {
+        "player": {
           "id": 63573,
           "name": "zizo"
         },
@@ -109174,15 +109192,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0pGhOj3dzRc"
-      },
-      {
-        "player": {
-          "id": 62587,
-          "name": "Kirious"
-        },
-        "progress": 96,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=LbdHXD_8QRg"
       },
       {
         "player": {
@@ -111116,6 +111125,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=v1jdYGYvHj0"
+      },
+      {
+        "player": {
+          "id": 71208,
+          "name": "4lanterns"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Wm6XAB7JyS4"
       }
     ],
     "673": [
