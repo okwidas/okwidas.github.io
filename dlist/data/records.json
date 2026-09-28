@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:12:35Z",
+  "updated_at": "2026-09-28T18:11:23Z",
   "demons": {
     "238": [
       {
@@ -41093,6 +41093,15 @@
       },
       {
         "player": {
+          "id": 70171,
+          "name": "Calleitalia"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FsWQiII7XpI"
+      },
+      {
+        "player": {
           "id": 54037,
           "name": "[SGG] infin1ty111"
         },
@@ -68244,6 +68253,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Hx8tzANokX4"
+      },
+      {
+        "player": {
+          "id": 70171,
+          "name": "Calleitalia"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-kQWeLyzkiA"
       },
       {
         "player": {
