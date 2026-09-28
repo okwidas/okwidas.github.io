@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T09:10:53Z",
+  "updated_at": "2026-09-28T12:09:45Z",
   "demons": {
     "238": [
       {
@@ -111811,6 +111811,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=cxNqazvUkCM"
+      },
+      {
+        "player": {
+          "id": 58174,
+          "name": "[JORB] Zephronox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=pH7_1wDkHjs"
       },
       {
         "player": {
