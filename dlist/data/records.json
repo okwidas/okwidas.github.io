@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T00:09:33Z",
+  "updated_at": "2026-09-28T03:09:04Z",
   "demons": {
     "238": [
       {
@@ -29194,6 +29194,15 @@
       },
       {
         "player": {
+          "id": 60940,
+          "name": "[ARBH] VinniboyGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-hmJ-CwHDoc"
+      },
+      {
+        "player": {
           "id": 56749,
           "name": "manuelmeep"
         },
@@ -29245,15 +29254,6 @@
         "progress": 88,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hp2GNyvAW_E"
-      },
-      {
-        "player": {
-          "id": 60940,
-          "name": "[ARBH] VinniboyGD"
-        },
-        "progress": 87,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=3rsUhKE3d9M"
       },
       {
         "player": {
@@ -50526,6 +50526,15 @@
       },
       {
         "player": {
+          "id": 51084,
+          "name": "[OG] Sharkified"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aTk8kFgMBXM"
+      },
+      {
+        "player": {
           "id": 54705,
           "name": "KlimK"
         },
@@ -66724,6 +66733,15 @@
       },
       {
         "player": {
+          "id": 57632,
+          "name": "[SARK] CookedPugs"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=oXv1mFW6zgI"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -75781,6 +75799,15 @@
       },
       {
         "player": {
+          "id": 59059,
+          "name": "[SR53] InterestedValde"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XTNPaVRj0ao"
+      },
+      {
+        "player": {
           "id": 50522,
           "name": "[SEREK] gotsmile"
         },
@@ -80853,6 +80880,15 @@
       },
       {
         "player": {
+          "id": 61635,
+          "name": "wi11ixd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JBB4KWBR91k"
+      },
+      {
+        "player": {
           "id": 57057,
           "name": "[YAHO] Polar Bear on the Bingak"
         },
@@ -80886,15 +80922,6 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=XO8ctU350ks"
-      },
-      {
-        "player": {
-          "id": 61635,
-          "name": "wi11ixd"
-        },
-        "progress": 77,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=b-b61vra58I"
       },
       {
         "player": {
@@ -91057,6 +91084,15 @@
       },
       {
         "player": {
+          "id": 64152,
+          "name": "cats1077"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lpuxrijgxs0"
+      },
+      {
+        "player": {
           "id": 53557,
           "name": "[USSR] Внибрачьная Систренка Эйриле"
         },
@@ -97331,6 +97367,15 @@
         "progress": 93,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9kBjGCemkWc"
+      },
+      {
+        "player": {
+          "id": 41531,
+          "name": "[UCH] pizi"
+        },
+        "progress": 85,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YQQu--aafPs"
       }
     ],
     "605": [
