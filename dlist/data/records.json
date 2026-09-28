@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:09:57Z",
+  "updated_at": "2026-09-28T00:09:33Z",
   "demons": {
     "238": [
       {
@@ -17513,6 +17513,15 @@
       },
       {
         "player": {
+          "id": 50883,
+          "name": "[s84] kerosene"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Ozn--HXAZu8"
+      },
+      {
+        "player": {
           "id": 35581,
           "name": "Inquired"
         },
@@ -31977,6 +31986,15 @@
       },
       {
         "player": {
+          "id": 71549,
+          "name": "screenz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=X9tq8JrQB7s"
+      },
+      {
+        "player": {
           "id": 64135,
           "name": "santiricca"
         },
@@ -32055,6 +32073,15 @@
         "progress": 95,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hTpkSwkaBts"
+      },
+      {
+        "player": {
+          "id": 72125,
+          "name": "boje"
+        },
+        "progress": 95,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=GBXcynIZL5o"
       },
       {
         "player": {
@@ -32532,15 +32559,6 @@
         "progress": 82,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=GniCGQO3ea0"
-      },
-      {
-        "player": {
-          "id": 71549,
-          "name": "screenz"
-        },
-        "progress": 82,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=IFUKMnF5w_s"
       },
       {
         "player": {
@@ -99503,9 +99521,9 @@
           "id": 62265,
           "name": "choko"
         },
-        "progress": 85,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=6qCjEm4JZ9w"
+        "video": "https://www.youtube.com/watch?v=ASOlrA_F_P4"
       },
       {
         "player": {

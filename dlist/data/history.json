@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:09:57Z",
+  "updated_at": "2026-09-28T00:09:33Z",
   "demons": {
     "238": [
       {
@@ -5023,6 +5023,11 @@
         "time": "2026-09-27T21:02:49.053123",
         "pos": 53,
         "note": "passed by CONVULSION"
+      },
+      {
+        "time": "2026-09-27T22:40:02.234926",
+        "pos": 52,
+        "note": "passed by Voltage"
       }
     ],
     "380": [
@@ -6751,6 +6756,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 124,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-27T22:09:21.673758",
+        "pos": 125,
+        "note": "passed by ATOMIC CANNON Mk III"
       }
     ],
     "412": [
@@ -8694,6 +8704,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 63,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:17:58.939331",
+        "pos": 62,
+        "note": "passed by Sevvend Clubstep"
       }
     ],
     "428": [
@@ -12484,6 +12499,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 127,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-09-27T22:09:21.673758",
+        "pos": 128,
+        "note": "passed by ATOMIC CANNON Mk III"
       }
     ],
     "478": [
@@ -15238,6 +15258,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 123,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-27T22:09:21.673758",
+        "pos": 124,
+        "note": "passed by ATOMIC CANNON Mk III"
       }
     ],
     "501": [
@@ -17502,6 +17527,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 65,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:17:58.939331",
+        "pos": 64,
+        "note": "passed by Sevvend Clubstep"
       }
     ],
     "528": [
@@ -21000,6 +21030,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 68,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:17:58.939331",
+        "pos": 67,
+        "note": "passed by Sevvend Clubstep"
       }
     ],
     "562": [
@@ -21534,6 +21569,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 128,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-09-27T22:09:21.673758",
+        "pos": 123,
+        "note": "Moved"
       }
     ],
     "570": [
@@ -24540,6 +24580,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 50,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:40:02.234926",
+        "pos": 49,
+        "note": "passed by Voltage"
       }
     ],
     "588": [
@@ -30081,6 +30126,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 62,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:17:58.939331",
+        "pos": 68,
+        "note": "Moved"
       }
     ],
     "631": [
@@ -31782,6 +31832,11 @@
         "time": "2026-09-27T21:02:49.053123",
         "pos": 51,
         "note": "Moved"
+      },
+      {
+        "time": "2026-09-27T22:40:02.234926",
+        "pos": 50,
+        "note": "passed by Voltage"
       }
     ],
     "641": [
@@ -32371,6 +32426,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 67,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:17:58.939331",
+        "pos": 66,
+        "note": "passed by Sevvend Clubstep"
       }
     ],
     "646": [
@@ -35201,6 +35261,11 @@
         "time": "2026-09-27T21:02:49.053123",
         "pos": 52,
         "note": "passed by CONVULSION"
+      },
+      {
+        "time": "2026-09-27T22:40:02.234926",
+        "pos": 51,
+        "note": "passed by Voltage"
       }
     ],
     "664": [
@@ -35665,6 +35730,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 125,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-27T22:09:21.673758",
+        "pos": 126,
+        "note": "passed by ATOMIC CANNON Mk III"
       }
     ],
     "667": [
@@ -35782,6 +35852,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 49,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:40:02.234926",
+        "pos": 53,
+        "note": "Moved"
       }
     ],
     "668": [
@@ -38306,6 +38381,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 64,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:17:58.939331",
+        "pos": 63,
+        "note": "passed by Sevvend Clubstep"
       }
     ],
     "708": [
@@ -38433,6 +38513,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 66,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-27T22:17:58.939331",
+        "pos": 65,
+        "note": "passed by Sevvend Clubstep"
       }
     ],
     "714": [
@@ -38464,6 +38549,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 126,
         "note": "placed on the list"
+      },
+      {
+        "time": "2026-09-27T22:09:21.673758",
+        "pos": 127,
+        "note": "passed by ATOMIC CANNON Mk III"
       }
     ]
   }

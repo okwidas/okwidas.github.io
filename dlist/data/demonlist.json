@@ -912,27 +912,8 @@
     "level_id": 95851008
   },
   {
-    "id": 667,
-    "position": 49,
-    "name": "Voltage",
-    "requirement": 57,
-    "video": "https://www.youtube.com/watch?v=wBRvBN9tmlc",
-    "thumbnail": "https://i.ytimg.com/vi/wBRvBN9tmlc/mqdefault.jpg",
-    "publisher": {
-      "id": 65429,
-      "name": "ThePurgatory",
-      "banned": false
-    },
-    "verifier": {
-      "id": 31978,
-      "name": "[OG B] maybee",
-      "banned": true
-    },
-    "level_id": 131599104
-  },
-  {
     "id": 587,
-    "position": 50,
+    "position": 49,
     "name": "KOSETSU",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=hZ8vFX8z_BU",
@@ -951,7 +932,7 @@
   },
   {
     "id": 640,
-    "position": 51,
+    "position": 50,
     "name": "CONVULSION",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=qeRKuyU3eGI",
@@ -970,7 +951,7 @@
   },
   {
     "id": 663,
-    "position": 52,
+    "position": 51,
     "name": "Through The Gates",
     "requirement": 90,
     "video": "https://www.youtube.com/watch?v=4yHA6jux5UI",
@@ -989,7 +970,7 @@
   },
   {
     "id": 379,
-    "position": 53,
+    "position": 52,
     "name": "Firework",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=QBe5x2o9v2w",
@@ -1005,6 +986,25 @@
       "banned": false
     },
     "level_id": 75206202
+  },
+  {
+    "id": 667,
+    "position": 53,
+    "name": "Voltage",
+    "requirement": 57,
+    "video": "https://www.youtube.com/watch?v=wBRvBN9tmlc",
+    "thumbnail": "https://i.ytimg.com/vi/wBRvBN9tmlc/mqdefault.jpg",
+    "publisher": {
+      "id": 65429,
+      "name": "ThePurgatory",
+      "banned": false
+    },
+    "verifier": {
+      "id": 31978,
+      "name": "[OG B] maybee",
+      "banned": true
+    },
+    "level_id": 131599104
   },
   {
     "id": 673,
@@ -1159,27 +1159,8 @@
     "level_id": 113443235
   },
   {
-    "id": 630,
-    "position": 62,
-    "name": "Sevvend Clubstep",
-    "requirement": 66,
-    "video": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
-    "thumbnail": "https://i.ytimg.com/vi/TvA8EJTJFCc/mqdefault.jpg",
-    "publisher": {
-      "id": 40446,
-      "name": "cherryteam",
-      "banned": false
-    },
-    "verifier": {
-      "id": 57014,
-      "name": "[UFA] Vorten",
-      "banned": true
-    },
-    "level_id": 120255728
-  },
-  {
     "id": 427,
-    "position": 63,
+    "position": 62,
     "name": "The Hallucination",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=tYbXsNkO9HE",
@@ -1198,7 +1179,7 @@
   },
   {
     "id": 707,
-    "position": 64,
+    "position": 63,
     "name": "Pinnacle of Life",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=gQl5iY1ekyE",
@@ -1217,7 +1198,7 @@
   },
   {
     "id": 526,
-    "position": 65,
+    "position": 64,
     "name": "COMBUSTION",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=3cTR4XUcA28",
@@ -1236,7 +1217,7 @@
   },
   {
     "id": 713,
-    "position": 66,
+    "position": 65,
     "name": "Haunted Ship",
     "requirement": 61,
     "video": "https://www.youtube.com/watch?v=22l59QGmL48",
@@ -1255,7 +1236,7 @@
   },
   {
     "id": 642,
-    "position": 67,
+    "position": 66,
     "name": "Loops of Fury",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=9HBG3i5zbw8",
@@ -1274,7 +1255,7 @@
   },
   {
     "id": 558,
-    "position": 68,
+    "position": 67,
     "name": "Deadlier Clubstep",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=eRhgaF0r5Q0",
@@ -1290,6 +1271,25 @@
       "banned": false
     },
     "level_id": 96314787
+  },
+  {
+    "id": 630,
+    "position": 68,
+    "name": "Sevvend Clubstep",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
+    "thumbnail": "https://i.ytimg.com/vi/TvA8EJTJFCc/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 57014,
+      "name": "[UFA] Vorten",
+      "banned": true
+    },
+    "level_id": 120255728
   },
   {
     "id": 674,
@@ -2318,8 +2318,27 @@
     "level_id": 95176417
   },
   {
-    "id": 497,
+    "id": 568,
     "position": 123,
+    "name": "ATOMIC CANNON Mk III",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=xlAI_wVvnx8",
+    "thumbnail": "https://i.ytimg.com/vi/5nM4hlnLDyM/mqdefault.jpg",
+    "publisher": {
+      "id": 34993,
+      "name": "Lieb",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6238,
+      "name": "Zeronium",
+      "banned": false
+    },
+    "level_id": 104672501
+  },
+  {
+    "id": 497,
+    "position": 124,
     "name": "Terminal Rampancy",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=29hRhhqQTLc",
@@ -2338,7 +2357,7 @@
   },
   {
     "id": 393,
-    "position": 124,
+    "position": 125,
     "name": "Verdant Landscape",
     "requirement": 63,
     "video": "https://www.youtube.com/watch?v=wjZxkS5KC0A",
@@ -2357,7 +2376,7 @@
   },
   {
     "id": 665,
-    "position": 125,
+    "position": 126,
     "name": "Levigo",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=AROmUo7DNkE",
@@ -2376,7 +2395,7 @@
   },
   {
     "id": 716,
-    "position": 126,
+    "position": 127,
     "name": "Heavenly Sakupen",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=4uwSVZBrtfg",
@@ -2395,7 +2414,7 @@
   },
   {
     "id": 475,
-    "position": 127,
+    "position": 128,
     "name": "UNKNOWN",
     "requirement": 83,
     "video": "https://www.youtube.com/watch?v=a1sQxQqU6EM",
@@ -2411,25 +2430,6 @@
       "banned": false
     },
     "level_id": 88203501
-  },
-  {
-    "id": 568,
-    "position": 128,
-    "name": "ATOMIC CANNON Mk III",
-    "requirement": 66,
-    "video": "https://www.youtube.com/watch?v=xlAI_wVvnx8",
-    "thumbnail": "https://i.ytimg.com/vi/5nM4hlnLDyM/mqdefault.jpg",
-    "publisher": {
-      "id": 34993,
-      "name": "Lieb",
-      "banned": false
-    },
-    "verifier": {
-      "id": 6238,
-      "name": "Zeronium",
-      "banned": false
-    },
-    "level_id": 104672501
   },
   {
     "id": 714,
