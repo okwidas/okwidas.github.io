@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T18:11:23Z",
+  "updated_at": "2026-09-28T21:09:15Z",
   "demons": {
     "238": [
       {
@@ -11258,6 +11258,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 74,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 75,
+        "note": "passed by Gaggatrondra"
       }
     ],
     "468": [
@@ -13548,6 +13553,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 70,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 71,
+        "note": "passed by Gaggatrondra"
       }
     ],
     "486": [
@@ -14349,6 +14359,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 72,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 73,
+        "note": "passed by Gaggatrondra"
       }
     ],
     "496": [
@@ -28120,6 +28135,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 75,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 68,
+        "note": "Moved"
       }
     ],
     "617": [
@@ -30131,6 +30151,11 @@
         "time": "2026-09-27T22:17:58.939331",
         "pos": 68,
         "note": "Moved"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 69,
+        "note": "passed by Gaggatrondra"
       }
     ],
     "631": [
@@ -36133,6 +36158,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 73,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 74,
+        "note": "passed by Gaggatrondra"
       }
     ],
     "671": [
@@ -36521,6 +36551,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 69,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 70,
+        "note": "passed by Gaggatrondra"
       }
     ],
     "675": [
@@ -38115,6 +38150,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 71,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-09-28T20:33:55.736884",
+        "pos": 72,
+        "note": "passed by Gaggatrondra"
       }
     ],
     "700": [

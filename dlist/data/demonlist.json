@@ -1273,8 +1273,27 @@
     "level_id": 96314787
   },
   {
-    "id": 630,
+    "id": 615,
     "position": 68,
+    "name": "Gaggatrondra",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=A4G41vw6Cf0",
+    "thumbnail": "https://i.ytimg.com/vi/A4G41vw6Cf0/mqdefault.jpg",
+    "publisher": {
+      "id": 54026,
+      "name": "JCMoon",
+      "banned": false
+    },
+    "verifier": {
+      "id": 6238,
+      "name": "Zeronium",
+      "banned": false
+    },
+    "level_id": 114990369
+  },
+  {
+    "id": 630,
+    "position": 69,
     "name": "Sevvend Clubstep",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
@@ -1293,7 +1312,7 @@
   },
   {
     "id": 674,
-    "position": 69,
+    "position": 70,
     "name": "Stellar Night",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=XpBY-eMYZTE",
@@ -1312,7 +1331,7 @@
   },
   {
     "id": 485,
-    "position": 70,
+    "position": 71,
     "name": "Edge of Destiny",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=rUphe3H59yU",
@@ -1331,7 +1350,7 @@
   },
   {
     "id": 699,
-    "position": 71,
+    "position": 72,
     "name": "Losing Your Mind",
     "requirement": 67,
     "video": "https://www.youtube.com/watch?v=LXp7t5gjyX8",
@@ -1350,7 +1369,7 @@
   },
   {
     "id": 495,
-    "position": 72,
+    "position": 73,
     "name": "Solar Flare",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=eHQNgty8ypY",
@@ -1369,7 +1388,7 @@
   },
   {
     "id": 670,
-    "position": 73,
+    "position": 74,
     "name": "The Catacombs",
     "requirement": 60,
     "video": "https://www.youtube.com/watch?v=T9-75lfKVQg",
@@ -1388,7 +1407,7 @@
   },
   {
     "id": 467,
-    "position": 74,
+    "position": 75,
     "name": "LIMBO",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=kXYMbaMVOZg",
@@ -1404,25 +1423,6 @@
       "banned": false
     },
     "level_id": 86084399
-  },
-  {
-    "id": 615,
-    "position": 75,
-    "name": "Gaggatrondra",
-    "requirement": 68,
-    "video": "https://www.youtube.com/watch?v=A4G41vw6Cf0",
-    "thumbnail": "https://i.ytimg.com/vi/A4G41vw6Cf0/mqdefault.jpg",
-    "publisher": {
-      "id": 54026,
-      "name": "JCMoon",
-      "banned": false
-    },
-    "verifier": {
-      "id": 6238,
-      "name": "Zeronium",
-      "banned": false
-    },
-    "level_id": 114990369
   },
   {
     "id": 712,
