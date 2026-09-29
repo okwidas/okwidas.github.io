@@ -1273,8 +1273,27 @@
     "level_id": 96314787
   },
   {
-    "id": 615,
+    "id": 684,
     "position": 68,
+    "name": "BRITNEY NO SCLEARS",
+    "requirement": 76,
+    "video": "https://www.youtube.com/watch?v=ff_mQSXwjhU",
+    "thumbnail": "https://i.ytimg.com/vi/ff_mQSXwjhU/mqdefault.jpg",
+    "publisher": {
+      "id": 69092,
+      "name": "wabas",
+      "banned": false
+    },
+    "verifier": {
+      "id": 38612,
+      "name": "[TMG] Scotchtape",
+      "banned": false
+    },
+    "level_id": 125317359
+  },
+  {
+    "id": 615,
+    "position": 69,
     "name": "Gaggatrondra",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=A4G41vw6Cf0",
@@ -1293,7 +1312,7 @@
   },
   {
     "id": 630,
-    "position": 69,
+    "position": 70,
     "name": "Sevvend Clubstep",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
@@ -1312,7 +1331,7 @@
   },
   {
     "id": 674,
-    "position": 70,
+    "position": 71,
     "name": "Stellar Night",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=XpBY-eMYZTE",
@@ -1331,7 +1350,7 @@
   },
   {
     "id": 485,
-    "position": 71,
+    "position": 72,
     "name": "Edge of Destiny",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=rUphe3H59yU",
@@ -1350,7 +1369,7 @@
   },
   {
     "id": 699,
-    "position": 72,
+    "position": 73,
     "name": "Losing Your Mind",
     "requirement": 67,
     "video": "https://www.youtube.com/watch?v=LXp7t5gjyX8",
@@ -1369,7 +1388,7 @@
   },
   {
     "id": 495,
-    "position": 73,
+    "position": 74,
     "name": "Solar Flare",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=eHQNgty8ypY",
@@ -1388,7 +1407,7 @@
   },
   {
     "id": 670,
-    "position": 74,
+    "position": 75,
     "name": "The Catacombs",
     "requirement": 60,
     "video": "https://www.youtube.com/watch?v=T9-75lfKVQg",
@@ -1407,7 +1426,7 @@
   },
   {
     "id": 467,
-    "position": 75,
+    "position": 76,
     "name": "LIMBO",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=kXYMbaMVOZg",
@@ -1426,7 +1445,7 @@
   },
   {
     "id": 712,
-    "position": 76,
+    "position": 77,
     "name": "Make Paul Dance",
     "requirement": 57,
     "video": "https://www.youtube.com/watch?v=XQoF35hNKpg",
@@ -1445,7 +1464,7 @@
   },
   {
     "id": 551,
-    "position": 77,
+    "position": 78,
     "name": "Belladonna",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=saHSgoU1JQQ",
@@ -1464,7 +1483,7 @@
   },
   {
     "id": 511,
-    "position": 78,
+    "position": 79,
     "name": "Codependence",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=IKGk41hSnDo",
@@ -1483,7 +1502,7 @@
   },
   {
     "id": 606,
-    "position": 79,
+    "position": 80,
     "name": "Collapse",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=RCFpXyf6bn0",
@@ -1502,7 +1521,7 @@
   },
   {
     "id": 439,
-    "position": 80,
+    "position": 81,
     "name": "Mayhem",
     "requirement": 57,
     "video": "https://www.youtube.com/watch?v=U6e6DD32noM",
@@ -1521,7 +1540,7 @@
   },
   {
     "id": 672,
-    "position": 81,
+    "position": 82,
     "name": "CHROMACAVE",
     "requirement": 82,
     "video": "https://www.youtube.com/watch?v=tfpsMZI6z-o",
@@ -1540,7 +1559,7 @@
   },
   {
     "id": 610,
-    "position": 82,
+    "position": 83,
     "name": "The Plunge",
     "requirement": 67,
     "video": "https://www.youtube.com/watch?v=8gW1-_u1K0Y",
@@ -1559,7 +1578,7 @@
   },
   {
     "id": 681,
-    "position": 83,
+    "position": 84,
     "name": "Fracture",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=R_-chk3SRFI",
@@ -1578,7 +1597,7 @@
   },
   {
     "id": 650,
-    "position": 84,
+    "position": 85,
     "name": "Wavterminal",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=dlvsCE3xYkQ",
@@ -1597,7 +1616,7 @@
   },
   {
     "id": 429,
-    "position": 85,
+    "position": 86,
     "name": "walter white",
     "requirement": 65,
     "video": "https://www.youtube.com/watch?v=KzK62PkWOJ0",
@@ -1616,7 +1635,7 @@
   },
   {
     "id": 653,
-    "position": 86,
+    "position": 87,
     "name": "Infinite Chaos",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=wOMVERxU5IA",
@@ -1632,25 +1651,6 @@
       "banned": false
     },
     "level_id": 119689515
-  },
-  {
-    "id": 684,
-    "position": 87,
-    "name": "BRITNEY NO SCLEARS",
-    "requirement": 76,
-    "video": "https://www.youtube.com/watch?v=ff_mQSXwjhU",
-    "thumbnail": "https://i.ytimg.com/vi/ff_mQSXwjhU/mqdefault.jpg",
-    "publisher": {
-      "id": 69092,
-      "name": "wabas",
-      "banned": false
-    },
-    "verifier": {
-      "id": 38612,
-      "name": "[TMG] Scotchtape",
-      "banned": false
-    },
-    "level_id": 125317359
   },
   {
     "id": 627,
