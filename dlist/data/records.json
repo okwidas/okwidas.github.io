@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:12:48Z",
+  "updated_at": "2026-09-29T18:14:03Z",
   "demons": {
     "238": [
       {
@@ -17567,6 +17567,15 @@
       },
       {
         "player": {
+          "id": 72184,
+          "name": "Chartab"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ubvB3M53PXQ"
+      },
+      {
+        "player": {
           "id": 55753,
           "name": "[999] Thisisfcp"
         },
@@ -19690,6 +19699,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=cfPkQTJ9ga4"
+      },
+      {
+        "player": {
+          "id": 50833,
+          "name": "[HOLA] leña al moro"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0eGdvVUSwRo"
       },
       {
         "player": {
@@ -70069,6 +70087,15 @@
       },
       {
         "player": {
+          "id": 59722,
+          "name": "Korppu"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JO8PPgr7fy0"
+      },
+      {
+        "player": {
           "id": 61699,
           "name": "[러닝장애인] SunKen"
         },
@@ -93283,6 +93310,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=w570DLvawjc"
+      },
+      {
+        "player": {
+          "id": 50457,
+          "name": "[ILUV] GDmuno"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IK4Gdj5eGfs"
       },
       {
         "player": {
