@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T18:14:03Z",
+  "updated_at": "2026-09-29T21:09:05Z",
   "demons": {
     "238": [
       {
@@ -104483,6 +104483,15 @@
       },
       {
         "player": {
+          "id": 58927,
+          "name": "anibalplkz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2eUTByfMlRY"
+      },
+      {
+        "player": {
           "id": 58385,
           "name": "JabkaGD"
         },
@@ -108336,6 +108345,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9yjCv5Pqdks"
+      },
+      {
+        "player": {
+          "id": 51975,
+          "name": "[ETPS] Xplode"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FgGiFQ8-prk"
       }
     ],
     "658": [
