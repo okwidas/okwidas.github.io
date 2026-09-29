@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:10:07Z",
+  "updated_at": "2026-09-29T03:09:13Z",
   "demons": {
     "238": [
       {
@@ -2575,6 +2575,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=JsicskBL1NA"
+      },
+      {
+        "player": {
+          "id": 72116,
+          "name": "JJSloth"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QsE0G3enIzY"
       },
       {
         "player": {
@@ -56292,6 +56301,15 @@
       },
       {
         "player": {
+          "id": 60915,
+          "name": "clubflocked"
+        },
+        "progress": 72,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ESvUf_AP-_8"
+      },
+      {
+        "player": {
           "id": 40419,
           "name": "[PRIME] exsii"
         },
@@ -96439,6 +96457,15 @@
       },
       {
         "player": {
+          "id": 72118,
+          "name": "peggledeluxe"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1AGCGc8_hvg"
+      },
+      {
+        "player": {
           "id": 62173,
           "name": "[HERVE] BBQDash"
         },
@@ -102723,6 +102750,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=kQAKN1l1JlY"
+      },
+      {
+        "player": {
+          "id": 68427,
+          "name": "Fragile"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aI3xBVFb7cc"
       },
       {
         "player": {
