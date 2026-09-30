@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:11:47Z",
+  "updated_at": "2026-09-30T03:09:07Z",
   "demons": {
     "238": [
       {
@@ -9489,6 +9489,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BX8QrPHbOMQ"
+      },
+      {
+        "player": {
+          "id": 52499,
+          "name": "MrMauster"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Ur_ZSTyLggQ"
       },
       {
         "player": {
@@ -66895,6 +66904,15 @@
       },
       {
         "player": {
+          "id": 71522,
+          "name": "[143] Hydraniac"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=oFWSKEaVmws"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -73943,6 +73961,15 @@
       },
       {
         "player": {
+          "id": 68661,
+          "name": "worstplayer4"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KEZyaDC8GNE"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -77663,6 +77690,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=4wck8N8FUx8"
+      },
+      {
+        "player": {
+          "id": 59831,
+          "name": "YeldA"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6GsZ3lz_v7k"
       },
       {
         "player": {
