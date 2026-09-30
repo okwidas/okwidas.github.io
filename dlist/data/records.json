@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T03:09:07Z",
+  "updated_at": "2026-09-30T06:09:43Z",
   "demons": {
     "238": [
       {
@@ -47721,6 +47721,15 @@
       },
       {
         "player": {
+          "id": 72126,
+          "name": "Samosa"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xaInreB9Mxc"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -69716,6 +69725,15 @@
       },
       {
         "player": {
+          "id": 51584,
+          "name": "[TCC] TheButcher"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VyANqkq-JxY"
+      },
+      {
+        "player": {
           "id": 63310,
           "name": "Quantium"
         },
@@ -86645,6 +86663,15 @@
       },
       {
         "player": {
+          "id": 58735,
+          "name": "[CHUD] strayW"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-RUvrAQ80LM"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -88160,6 +88187,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=sCivauC_uR0"
+      },
+      {
+        "player": {
+          "id": 65969,
+          "name": "Fexty"
+        },
+        "progress": 71,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Rl4Dsaam8KY"
       }
     ],
     "562": [
@@ -115513,6 +115549,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=gdYg7upWBGM"
+      },
+      {
+        "player": {
+          "id": 66831,
+          "name": "[YOK] dennisgd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=twNzIarzbp4"
       }
     ],
     "711": [
