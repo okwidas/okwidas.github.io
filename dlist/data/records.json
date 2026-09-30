@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:10:41Z",
+  "updated_at": "2026-09-30T15:14:03Z",
   "demons": {
     "238": [
       {
@@ -9453,6 +9453,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=AxYP2cZXjBA"
+      },
+      {
+        "player": {
+          "id": 58044,
+          "name": "zepion"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-k0nDPiJP0M"
       },
       {
         "player": {
@@ -36427,6 +36436,15 @@
       },
       {
         "player": {
+          "id": 72190,
+          "name": "cardy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TZeMxcpHCgs"
+      },
+      {
+        "player": {
           "id": 45028,
           "name": "[BUDDY] tricklength"
         },
@@ -52599,7 +52617,7 @@
       {
         "player": {
           "id": 58254,
-          "name": "[COMET] queerslop"
+          "name": "[COMET] 4everwithering"
         },
         "progress": 100,
         "status": "approved",
@@ -54946,6 +54964,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=OxTSu7fmOXk"
+      },
+      {
+        "player": {
+          "id": 59124,
+          "name": "[TCC] Enfur"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zuxO27u11wE"
       },
       {
         "player": {
@@ -70150,6 +70177,15 @@
       },
       {
         "player": {
+          "id": 53286,
+          "name": "[MEALY] LAMINGTON"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rwfxtJTkuqg"
+      },
+      {
+        "player": {
           "id": 51435,
           "name": "[USSR] Light"
         },
@@ -76081,9 +76117,9 @@
           "id": 64323,
           "name": "peekingurangle"
         },
-        "progress": 92,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=9mwWTmWE0EA"
+        "video": "https://www.youtube.com/watch?v=DCNygjljSW8"
       },
       {
         "player": {
@@ -86124,7 +86160,7 @@
       {
         "player": {
           "id": 58254,
-          "name": "[COMET] queerslop"
+          "name": "[COMET] 4everwithering"
         },
         "progress": 100,
         "status": "approved",
@@ -106119,6 +106155,15 @@
       },
       {
         "player": {
+          "id": 51606,
+          "name": "[RF] It keeps your hands clean"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=3oPefwEFbCM"
+      },
+      {
+        "player": {
           "id": 67685,
           "name": "exadeci"
         },
@@ -107908,6 +107953,15 @@
       },
       {
         "player": {
+          "id": 69463,
+          "name": "Lidlinmikro"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lW16tpyLBZE"
+      },
+      {
+        "player": {
           "id": 51582,
           "name": "Napalm04"
         },
@@ -107941,15 +107995,6 @@
         "progress": 89,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=fdZz7eSmkgI"
-      },
-      {
-        "player": {
-          "id": 69463,
-          "name": "Lidlinmikro"
-        },
-        "progress": 85,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=P4jus2JHHqY"
       }
     ],
     "653": [
@@ -112404,9 +112449,9 @@
           "id": 64240,
           "name": "Neotak"
         },
-        "progress": 82,
+        "progress": 97,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=mXlvQkdpze0"
+        "video": "https://www.youtube.com/watch?v=WJsD2pMP7rg"
       }
     ],
     "675": [
@@ -113580,6 +113625,15 @@
       },
       {
         "player": {
+          "id": 59224,
+          "name": "[KAN] Hypa"
+        },
+        "progress": 94,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=e_-4n7Xim6E"
+      },
+      {
+        "player": {
           "id": 59219,
           "name": "[CHIL] EmeraldKnight"
         },
@@ -113732,6 +113786,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=USHKgC3nmP4"
+      },
+      {
+        "player": {
+          "id": 57839,
+          "name": "[SALAA] AvainPortti"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2bVuT606ksw"
       }
     ],
     "687": [
@@ -115630,6 +115693,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=twNzIarzbp4"
+      },
+      {
+        "player": {
+          "id": 58919,
+          "name": "strderrr"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=pRazqT-ulOQ"
       }
     ],
     "711": [
