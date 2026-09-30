@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:09:05Z",
+  "updated_at": "2026-09-30T00:11:47Z",
   "demons": {
     "238": [
       {
@@ -17567,6 +17567,15 @@
       },
       {
         "player": {
+          "id": 61619,
+          "name": "[ir0n] ZebraPlayz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IjAFeeSY-d8"
+      },
+      {
+        "player": {
           "id": 72184,
           "name": "Chartab"
         },
@@ -34640,6 +34649,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=6ibGjsL6xqc"
+      },
+      {
+        "player": {
+          "id": 67230,
+          "name": "AustinGDash"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=asm6Kj43BVo"
       },
       {
         "player": {
@@ -68319,6 +68337,15 @@
       },
       {
         "player": {
+          "id": 52767,
+          "name": "[BHO] ItzMira"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LWpE_dzXYrI"
+      },
+      {
+        "player": {
           "id": 57992,
           "name": "Arouvis"
         },
@@ -92816,6 +92843,15 @@
       },
       {
         "player": {
+          "id": 64786,
+          "name": "Lomane"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WCF5vC7LnjE"
+      },
+      {
+        "player": {
           "id": 54705,
           "name": "KlimK"
         },
@@ -101458,6 +101494,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ImuxFZ47MCY"
+      },
+      {
+        "player": {
+          "id": 1918,
+          "name": "[MAOR] TGM05"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=heXuWalAtm4"
       },
       {
         "player": {
