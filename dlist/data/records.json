@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:11:03Z",
+  "updated_at": "2026-09-30T21:09:28Z",
   "demons": {
     "238": [
       {
@@ -49489,6 +49489,15 @@
       },
       {
         "player": {
+          "id": 68387,
+          "name": "[RENT] Snale Lorde"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=K8XdE6WR7Mo"
+      },
+      {
+        "player": {
           "id": 33937,
           "name": "parker"
         },
@@ -49504,15 +49513,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ZgXFWc4E35c"
-      },
-      {
-        "player": {
-          "id": 68387,
-          "name": "[RENT] Snale Lorde"
-        },
-        "progress": 71,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=ySA9GBHxwYI"
       },
       {
         "player": {
@@ -78930,6 +78930,15 @@
       },
       {
         "player": {
+          "id": 53735,
+          "name": "Tortric"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=epqWGiFxcgc"
+      },
+      {
+        "player": {
           "id": 52491,
           "name": "RaizingGD"
         },
@@ -107953,6 +107962,15 @@
       },
       {
         "player": {
+          "id": 55009,
+          "name": "[ARMED] zRickyy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XXINKZznyMQ"
+      },
+      {
+        "player": {
           "id": 69463,
           "name": "Lidlinmikro"
         },
@@ -109015,6 +109033,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0rk7MkqhlSY"
+      },
+      {
+        "player": {
+          "id": 51070,
+          "name": "[MEALY] zLevii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ywZ0LNMi7EE"
       }
     ],
     "660": [
@@ -111691,6 +111718,15 @@
       },
       {
         "player": {
+          "id": 51070,
+          "name": "[MEALY] zLevii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MKBMe8-qga8"
+      },
+      {
+        "player": {
           "id": 52141,
           "name": "[SARK] Bamvie"
         },
@@ -112443,6 +112479,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_yXOSz_jyQY"
+      },
+      {
+        "player": {
+          "id": 51070,
+          "name": "[MEALY] zLevii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AEubmH8UYVo"
       },
       {
         "player": {
@@ -116137,6 +116182,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=DhiWDIFqpjw"
+      },
+      {
+        "player": {
+          "id": 960,
+          "name": "Timebomb"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Aoq10NVtLo8"
       }
     ]
   }
