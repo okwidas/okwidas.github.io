@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:09:43Z",
+  "updated_at": "2026-09-30T09:09:58Z",
   "demons": {
     "238": [
       {
@@ -66913,6 +66913,24 @@
       },
       {
         "player": {
+          "id": 68831,
+          "name": "ifartalot69"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=estQArJ_Dvg"
+      },
+      {
+        "player": {
+          "id": 65629,
+          "name": "z1oki"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=vA5waPKdTe4"
+      },
+      {
+        "player": {
           "id": 71522,
           "name": "[143] Hydraniac"
         },
@@ -81168,6 +81186,15 @@
       },
       {
         "player": {
+          "id": 53566,
+          "name": "audo;pi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_wH-ULmlNLc"
+      },
+      {
+        "player": {
           "id": 57057,
           "name": "[YAHO] Polar Bear on the Bingak"
         },
@@ -85326,6 +85353,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=a1ZQURpKA2w"
+      },
+      {
+        "player": {
+          "id": 51070,
+          "name": "[MEALY] zLevii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VgboQb3JImY"
       },
       {
         "player": {
@@ -91704,6 +91740,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=zmD88aH5Wkg"
+      },
+      {
+        "player": {
+          "id": 68831,
+          "name": "ifartalot69"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UM8BTY6wlK8"
       }
     ],
     "583": [
@@ -104609,6 +104654,15 @@
       },
       {
         "player": {
+          "id": 65190,
+          "name": "an4rchh"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UcS5lx90v-U"
+      },
+      {
+        "player": {
           "id": 58385,
           "name": "JabkaGD"
         },
@@ -115984,6 +116038,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_Yrfg4uRMuM"
+      },
+      {
+        "player": {
+          "id": 51070,
+          "name": "[MEALY] zLevii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=DhiWDIFqpjw"
       }
     ]
   }
