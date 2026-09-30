@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:14:03Z",
+  "updated_at": "2026-09-30T18:11:03Z",
   "demons": {
     "238": [
       {
@@ -32094,6 +32094,15 @@
       },
       {
         "player": {
+          "id": 52493,
+          "name": "Juls"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zgBE2jmyhcY"
+      },
+      {
+        "player": {
           "id": 71511,
           "name": "ainiru"
         },
@@ -32226,15 +32235,6 @@
         "progress": 93,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Z7yGQioLAFI"
-      },
-      {
-        "player": {
-          "id": 52493,
-          "name": "Juls"
-        },
-        "progress": 93,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=x_0vn-t8qKY"
       },
       {
         "player": {
@@ -56063,7 +56063,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=XMdbnPnCY4o"
+        "video": "https://www.youtube.com/watch?v=vWkKAZEdkVA"
       },
       {
         "player": {
@@ -115849,9 +115849,9 @@
           "id": 44888,
           "name": "[DOUD] DeadlockRC"
         },
-        "progress": 85,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=sxZybnbYolw"
+        "video": "https://www.youtube.com/watch?v=I8YEFkK9Fvk"
       },
       {
         "player": {
