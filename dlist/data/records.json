@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T15:15:16Z",
+  "updated_at": "2026-10-01T18:11:40Z",
   "demons": {
     "238": [
       {
@@ -71394,6 +71394,15 @@
       },
       {
         "player": {
+          "id": 57531,
+          "name": "[SELL] EdwardUKraine"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qZKYlIVhVy0"
+      },
+      {
+        "player": {
           "id": 63808,
           "name": "syrisGD"
         },
@@ -88950,6 +88959,15 @@
       },
       {
         "player": {
+          "id": 34536,
+          "name": "[Ñ] RaeveZ"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BsunpVe552w"
+      },
+      {
+        "player": {
           "id": 53731,
           "name": "[COMET] sock"
         },
@@ -94140,6 +94158,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iB1wAJ5_UhY"
+      },
+      {
+        "player": {
+          "id": 737,
+          "name": "Zenith"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Ms52mUwRLPk"
       },
       {
         "player": {
@@ -108723,6 +108750,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=FgGiFQ8-prk"
+      },
+      {
+        "player": {
+          "id": 67313,
+          "name": "DeimCGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ozFSIfeb6Pw"
       }
     ],
     "658": [
@@ -111640,21 +111676,21 @@
       },
       {
         "player": {
+          "id": 69334,
+          "name": "Wheflie"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_XLOZAxAhTQ"
+      },
+      {
+        "player": {
           "id": 57417,
           "name": "[RF] Trixsm"
         },
         "progress": 63,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=a6r3NAIRuy0"
-      },
-      {
-        "player": {
-          "id": 69334,
-          "name": "Wheflie"
-        },
-        "progress": 62,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=nMNGHiHKRqE"
       },
       {
         "player": {
@@ -112950,9 +112986,9 @@
           "id": 63085,
           "name": "[didy] Jarmusz"
         },
-        "progress": 76,
+        "progress": 92,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=wOXfUUSXwnE"
+        "video": "https://www.youtube.com/watch?v=LgP07TNWWiI"
       }
     ],
     "678": [
