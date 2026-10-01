@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T18:11:40Z",
+  "updated_at": "2026-10-01T21:09:33Z",
   "demons": {
     "238": [
       {
@@ -29320,6 +29320,15 @@
       },
       {
         "player": {
+          "id": 67828,
+          "name": "Tordion"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=20OXb3VYWz4"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -29425,15 +29434,6 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CUMVvHoq_mk"
-      },
-      {
-        "player": {
-          "id": 67828,
-          "name": "Tordion"
-        },
-        "progress": 81,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=W2nBUWwB34s"
       },
       {
         "player": {
@@ -69842,6 +69842,15 @@
       },
       {
         "player": {
+          "id": 42409,
+          "name": "[OG] Slaughter"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wgS4sHniBOI"
+      },
+      {
+        "player": {
           "id": 63310,
           "name": "Quantium"
         },
@@ -74111,6 +74120,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=KEZyaDC8GNE"
+      },
+      {
+        "player": {
+          "id": 54037,
+          "name": "[SGG] infin1ty111"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=55_6Xtz-jbw"
       },
       {
         "player": {
@@ -112980,6 +112998,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=QPUmWOoCgao"
+      },
+      {
+        "player": {
+          "id": 41075,
+          "name": "Tunax"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KW4LK0q10Io"
       },
       {
         "player": {
