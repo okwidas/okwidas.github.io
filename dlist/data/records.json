@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:12:11Z",
+  "updated_at": "2026-10-01T15:15:16Z",
   "demons": {
     "238": [
       {
@@ -36490,6 +36490,15 @@
       },
       {
         "player": {
+          "id": 70861,
+          "name": "Axo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LQMRWufaR3U"
+      },
+      {
+        "player": {
           "id": 45028,
           "name": "[BUDDY] tricklength"
         },
@@ -36838,15 +36847,6 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=K8x0da3u3mY"
-      },
-      {
-        "player": {
-          "id": 70861,
-          "name": "Axo"
-        },
-        "progress": 69,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=J83gokZOOlc"
       },
       {
         "player": {
@@ -58127,6 +58127,15 @@
         "progress": 77,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=m8Zio2tZdaw"
+      },
+      {
+        "player": {
+          "id": 40761,
+          "name": "[Ñ] Freikz"
+        },
+        "progress": 77,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iFOPTeLW1Oo"
       },
       {
         "player": {
@@ -87250,6 +87259,15 @@
       },
       {
         "player": {
+          "id": 34641,
+          "name": "cobrablitz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=a869if-F3pQ"
+      },
+      {
+        "player": {
           "id": 53189,
           "name": "[SARK] 1ssky"
         },
@@ -100274,6 +100292,15 @@
       },
       {
         "player": {
+          "id": 53569,
+          "name": "ian"
+        },
+        "progress": 72,
+        "status": "approved",
+        "video": "https://vimeo.com/1218300207"
+      },
+      {
+        "player": {
           "id": 60420,
           "name": "Rylanmmb"
         },
@@ -101758,6 +101785,15 @@
       },
       {
         "player": {
+          "id": 67421,
+          "name": "Loogs"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=CH7CvFnnh84"
+      },
+      {
+        "player": {
           "id": 1918,
           "name": "[MAOR] TGM05"
         },
@@ -101836,15 +101872,6 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=3xyCuoWXwu4"
-      },
-      {
-        "player": {
-          "id": 67421,
-          "name": "Loogs"
-        },
-        "progress": 68,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=vO95TqipSg0"
       }
     ],
     "617": [
@@ -108923,6 +108950,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=IJZTeWInwvs"
+      },
+      {
+        "player": {
+          "id": 40736,
+          "name": "[STACK] CHOOONK"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fuN1n_Fszzs"
       },
       {
         "player": {
