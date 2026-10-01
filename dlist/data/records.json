@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T21:09:28Z",
+  "updated_at": "2026-10-01T00:10:26Z",
   "demons": {
     "238": [
       {
@@ -32013,6 +32013,15 @@
       },
       {
         "player": {
+          "id": 63878,
+          "name": "EvanOrSmth"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FwJT4EUvCsY"
+      },
+      {
+        "player": {
           "id": 59758,
           "name": "Nooobus"
         },
@@ -32100,6 +32109,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=zgBE2jmyhcY"
+      },
+      {
+        "player": {
+          "id": 40825,
+          "name": "sonnyjim1234"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ILc6Zr0hB-s"
       },
       {
         "player": {
@@ -32613,6 +32631,15 @@
         "progress": 83,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lS5jAH08Bag"
+      },
+      {
+        "player": {
+          "id": 61137,
+          "name": "JACthulhu"
+        },
+        "progress": 83,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Cg47q2ccwdc"
       },
       {
         "player": {
@@ -68418,6 +68445,15 @@
       },
       {
         "player": {
+          "id": 61155,
+          "name": "pallas"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=nWDW4NcXFsI"
+      },
+      {
+        "player": {
           "id": 57992,
           "name": "Arouvis"
         },
@@ -78945,6 +78981,15 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=D1yYVTCRzD8"
+      },
+      {
+        "player": {
+          "id": 51458,
+          "name": "[TCC] Waffle12"
+        },
+        "progress": 92,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7Foq9AH7H44"
       },
       {
         "player": {
@@ -109042,6 +109087,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ywZ0LNMi7EE"
+      },
+      {
+        "player": {
+          "id": 53296,
+          "name": "[SEREK] Manugrk"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=j8-Sz8BiciI"
       }
     ],
     "660": [
