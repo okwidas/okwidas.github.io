@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:10:27Z",
+  "updated_at": "2026-10-02T12:10:39Z",
   "demons": {
     "238": [
       {
@@ -85692,9 +85692,9 @@
           "id": 59152,
           "name": "(SWEDEN) LOL123"
         },
-        "progress": 79,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=u8UntWPisDQ"
+        "video": "https://www.youtube.com/watch?v=mKhu0sZ-h38"
       }
     ],
     "549": [
@@ -105281,6 +105281,15 @@
         "progress": 67,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Xy5Yf2H8BOU"
+      },
+      {
+        "player": {
+          "id": 72195,
+          "name": "HickyZack"
+        },
+        "progress": 67,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1zM6igFzeqs"
       }
     ],
     "631": [
