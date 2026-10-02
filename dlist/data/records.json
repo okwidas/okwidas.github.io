@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:10:39Z",
+  "updated_at": "2026-10-02T15:11:03Z",
   "demons": {
     "238": [
       {
@@ -33156,6 +33156,15 @@
       },
       {
         "player": {
+          "id": 69124,
+          "name": "maciussigma5"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WlgQ9LZC5P0"
+      },
+      {
+        "player": {
           "id": 38021,
           "name": "Eclipse"
         },
@@ -58175,6 +58184,15 @@
       },
       {
         "player": {
+          "id": 65422,
+          "name": "Kroks"
+        },
+        "progress": 92,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iZnb4eU6qtQ"
+      },
+      {
+        "player": {
           "id": 67334,
           "name": "[APPLE] Batthumbs"
         },
@@ -58244,15 +58262,6 @@
         "progress": 77,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=u9qKoFnySZ0"
-      },
-      {
-        "player": {
-          "id": 65422,
-          "name": "Kroks"
-        },
-        "progress": 77,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=a53P5M32yk0"
       },
       {
         "player": {
@@ -67144,6 +67153,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=vA5waPKdTe4"
+      },
+      {
+        "player": {
+          "id": 66714,
+          "name": "Aeryn"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=f8VSFmIt_sY"
       },
       {
         "player": {
@@ -79667,6 +79685,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=3CtPHgLJjkM"
+      },
+      {
+        "player": {
+          "id": 65061,
+          "name": "W1nda"
+        },
+        "progress": 96,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ix8Jds51YY0"
       },
       {
         "player": {
@@ -108313,6 +108340,15 @@
       },
       {
         "player": {
+          "id": 55954,
+          "name": "fxpusphire"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iVOEn-9EKmY"
+      },
+      {
+        "player": {
           "id": 51582,
           "name": "Napalm04"
         },
@@ -108337,15 +108373,6 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7Ld3-cC4IJQ"
-      },
-      {
-        "player": {
-          "id": 55954,
-          "name": "fxpusphire"
-        },
-        "progress": 89,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=fdZz7eSmkgI"
       }
     ],
     "653": [
@@ -116623,6 +116650,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-8_vlqJr048"
+      },
+      {
+        "player": {
+          "id": 61711,
+          "name": "Kyy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yfE_3JO1oNU"
+      },
+      {
+        "player": {
+          "id": 59690,
+          "name": "ZtxGMD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fQ5dkUCUTOo"
       }
     ]
   }
