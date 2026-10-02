@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T18:11:54Z",
+  "updated_at": "2026-10-02T21:09:14Z",
   "demons": {
     "238": [
       {
@@ -33225,6 +33225,15 @@
         "progress": 78,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=O2EUu-N9ios"
+      },
+      {
+        "player": {
+          "id": 71400,
+          "name": "zxydGD"
+        },
+        "progress": 77,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=GUFWnHqwGQc"
       },
       {
         "player": {
@@ -74330,6 +74339,15 @@
       },
       {
         "player": {
+          "id": 60887,
+          "name": "okaysobasically797"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xH3ZZIGzqtY"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -74453,6 +74471,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=An9RoLFI4nY"
+      },
+      {
+        "player": {
+          "id": 70350,
+          "name": "yoTylr"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UO6cSpO4u_U"
       },
       {
         "player": {
@@ -110398,6 +110425,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Uzb6Y8cf1Eo"
+      },
+      {
+        "player": {
+          "id": 62587,
+          "name": "Kirious"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8ioWa0jbdNE"
       },
       {
         "player": {
