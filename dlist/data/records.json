@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:11:03Z",
+  "updated_at": "2026-10-02T18:11:54Z",
   "demons": {
     "238": [
       {
@@ -9510,6 +9510,24 @@
       },
       {
         "player": {
+          "id": 50825,
+          "name": "YeetersonGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lIldZVxfE_8"
+      },
+      {
+        "player": {
+          "id": 63295,
+          "name": "[didy] Egg Salad Sandwich"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=DuxTd7Iq1bQ"
+      },
+      {
+        "player": {
           "id": 72174,
           "name": "0PON"
         },
@@ -9804,15 +9822,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Pw9B2wmcbLw"
-      },
-      {
-        "player": {
-          "id": 50825,
-          "name": "YeetersonGD"
-        },
-        "progress": 71,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=5doGmP499KM"
       },
       {
         "player": {
@@ -58148,6 +58157,15 @@
       },
       {
         "player": {
+          "id": 64081,
+          "name": "salv"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bQI1nblvigE"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -68634,6 +68652,15 @@
       },
       {
         "player": {
+          "id": 61309,
+          "name": "Dusk;"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SNGJjngI2jU"
+      },
+      {
+        "player": {
           "id": 57992,
           "name": "Arouvis"
         },
@@ -70417,6 +70444,15 @@
         "progress": 98,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jBiI9dbn-cg"
+      },
+      {
+        "player": {
+          "id": 41863,
+          "name": "[SEREK] vicente"
+        },
+        "progress": 87,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=z_j6ORfOYpA"
       },
       {
         "player": {
@@ -79691,7 +79727,7 @@
           "id": 65061,
           "name": "W1nda"
         },
-        "progress": 96,
+        "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ix8Jds51YY0"
       },
@@ -93850,6 +93886,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=IK4Gdj5eGfs"
+      },
+      {
+        "player": {
+          "id": 67378,
+          "name": "Eric"
+        },
+        "progress": 84,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=hsasZC64a8M"
       },
       {
         "player": {
@@ -113143,6 +113188,15 @@
       },
       {
         "player": {
+          "id": 40966,
+          "name": "PotatoFaris"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=G-c1O6Bnejw"
+      },
+      {
+        "player": {
           "id": 67301,
           "name": "[MOON] rakhwomaninov"
         },
@@ -115410,6 +115464,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=s_HqSTYQ-tQ"
+      },
+      {
+        "player": {
+          "id": 66516,
+          "name": "lWavel"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=659Y5XXeDqs"
       }
     ],
     "695": [
