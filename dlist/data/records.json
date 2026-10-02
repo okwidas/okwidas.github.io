@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:09:56Z",
+  "updated_at": "2026-10-02T09:10:27Z",
   "demons": {
     "238": [
       {
@@ -9507,6 +9507,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ur_ZSTyLggQ"
+      },
+      {
+        "player": {
+          "id": 72174,
+          "name": "0PON"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=m_8BLuPqpU4"
       },
       {
         "player": {
