@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T21:09:14Z",
+  "updated_at": "2026-10-03T00:10:30Z",
   "demons": {
     "238": [
       {
@@ -109301,6 +109301,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YwOcD6RVG8M"
+      },
+      {
+        "player": {
+          "id": 61130,
+          "name": "[SEREK] strikk"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Ncm7QblzRPg"
       }
     ],
     "659": [
