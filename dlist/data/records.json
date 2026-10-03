@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T06:16:03Z",
+  "updated_at": "2026-10-03T09:11:23Z",
   "demons": {
     "238": [
       {
@@ -34838,6 +34838,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_vV7507raeU"
+      },
+      {
+        "player": {
+          "id": 62058,
+          "name": "GameChief"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yAzV7NK8zMg"
       },
       {
         "player": {
@@ -100544,6 +100553,15 @@
       },
       {
         "player": {
+          "id": 58431,
+          "name": "[SARK] kane"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HX19WrTOjjg"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -109394,21 +109412,21 @@
       },
       {
         "player": {
+          "id": 61552,
+          "name": "Hudcrafter"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mFMGzP3uOjs"
+      },
+      {
+        "player": {
           "id": 63573,
           "name": "zizo"
         },
         "progress": 87,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=TYQgHC1fTuM"
-      },
-      {
-        "player": {
-          "id": 61552,
-          "name": "Hudcrafter"
-        },
-        "progress": 81,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=YwOcD6RVG8M"
       },
       {
         "player": {
@@ -114351,6 +114369,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=51VuVKKmtSo"
+      },
+      {
+        "player": {
+          "id": 66407,
+          "name": "maxyop3"
+        },
+        "progress": 69,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VL8dIaR_Fwo"
       },
       {
         "player": {
