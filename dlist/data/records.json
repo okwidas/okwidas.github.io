@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T14:57:35Z",
+  "updated_at": "2026-10-03T18:53:01Z",
   "demons": {
     "238": [
       {
@@ -9516,6 +9516,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lIldZVxfE_8"
+      },
+      {
+        "player": {
+          "id": 72197,
+          "name": "xVari"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cDZe4W3xLZI"
       },
       {
         "player": {
@@ -67039,6 +67048,15 @@
       },
       {
         "player": {
+          "id": 71718,
+          "name": "Ohmee"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=W8-2ECsAi8Y"
+      },
+      {
+        "player": {
           "id": 51440,
           "name": "[HOLA] agatha"
         },
@@ -70037,6 +70055,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BhpLXqqsqy8"
+      },
+      {
+        "player": {
+          "id": 60730,
+          "name": "Alexander8732"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=X2BHxFDNa-0"
       },
       {
         "player": {
