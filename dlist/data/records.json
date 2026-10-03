@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T09:11:23Z",
+  "updated_at": "2026-10-03T14:57:35Z",
   "demons": {
     "238": [
       {
@@ -32928,6 +32928,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BADWtF7fpVY"
+      },
+      {
+        "player": {
+          "id": 68307,
+          "name": "BigZacian"
+        },
+        "progress": 81,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9KkvyPUP5j0"
       },
       {
         "player": {
@@ -97141,6 +97150,15 @@
       },
       {
         "player": {
+          "id": 71232,
+          "name": "Laximbo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RJvBsYaEUZQ"
+      },
+      {
+        "player": {
           "id": 54081,
           "name": "[IQB7] BlueGMD"
         },
@@ -105266,6 +105284,15 @@
       },
       {
         "player": {
+          "id": 64379,
+          "name": "[j] Chaos"
+        },
+        "progress": 89,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ReBwehdfNZk"
+      },
+      {
+        "player": {
           "id": 58385,
           "name": "JabkaGD"
         },
@@ -107020,6 +107047,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=c_03zYB120s"
+      },
+      {
+        "player": {
+          "id": 72169,
+          "name": "[UK] CrystalGD"
+        },
+        "progress": 78,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IFBEoeCn4no"
       }
     ],
     "646": [
@@ -108020,6 +108056,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Nzo3GlsU62g"
+      },
+      {
+        "player": {
+          "id": 72188,
+          "name": "Xarvint"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-xzsojBPwXQ"
       }
     ],
     "652": [
@@ -116911,6 +116956,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_Yrfg4uRMuM"
+      },
+      {
+        "player": {
+          "id": 61199,
+          "name": "Noella"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6OqCXZRPwc0"
       },
       {
         "player": {
