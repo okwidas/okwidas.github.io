@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T02:51:46Z",
+  "updated_at": "2026-10-04T04:37:46Z",
   "demons": {
     "238": [
       {
@@ -36688,6 +36688,15 @@
       },
       {
         "player": {
+          "id": 71843,
+          "name": "EstebanGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZfqNzFz2hls"
+      },
+      {
+        "player": {
           "id": 45028,
           "name": "[BUDDY] tricklength"
         },
@@ -37054,15 +37063,6 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=JGW9RbbFIlE"
-      },
-      {
-        "player": {
-          "id": 71843,
-          "name": "EstebanGD"
-        },
-        "progress": 69,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=iEEFvO06ry0"
       }
     ],
     "393": [
@@ -60733,6 +60733,15 @@
       },
       {
         "player": {
+          "id": 70419,
+          "name": "Acquaintance"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Pp5jhgXazgc"
+      },
+      {
+        "player": {
           "id": 42010,
           "name": "[SEREK] Kramujo"
         },
@@ -82886,6 +82895,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=gPp1yuMUq7g"
+      },
+      {
+        "player": {
+          "id": 54697,
+          "name": "[RF] MaruiG"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Q2s3nJ5K3EA"
       },
       {
         "player": {
