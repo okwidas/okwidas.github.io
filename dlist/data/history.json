@@ -1,888 +1,6 @@
 {
-  "updated_at": "2026-10-05T00:10:41Z",
+  "updated_at": "2026-10-05T08:46:45Z",
   "demons": {
-    "238": [
-      {
-        "time": "2019-12-26T21:50:25.056552",
-        "pos": 2,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2020-02-11T01:07:17.842925",
-        "pos": 3,
-        "note": "Tartarus placed above"
-      },
-      {
-        "time": "2020-05-30T20:10:27.311899",
-        "pos": 4,
-        "note": "The Golden placed above"
-      },
-      {
-        "time": "2021-06-29T22:57:11.985074",
-        "pos": 5,
-        "note": "Sonic Wave Infinity placed above"
-      },
-      {
-        "time": "2021-09-16T04:30:08.655400",
-        "pos": 6,
-        "note": "Trueffet placed above"
-      },
-      {
-        "time": "2021-10-02T21:53:57.996702",
-        "pos": 7,
-        "note": "Hard Machine placed above"
-      },
-      {
-        "time": "2021-11-04T01:47:36.292844",
-        "pos": 8,
-        "note": "Firework placed above"
-      },
-      {
-        "time": "2021-11-04T01:48:29.906285",
-        "pos": 9,
-        "note": "Slaughterhouse placed above"
-      },
-      {
-        "time": "2021-11-14T03:56:04.596351",
-        "pos": 10,
-        "note": "arcturus placed above"
-      },
-      {
-        "time": "2022-01-05T23:36:34.869862",
-        "pos": 11,
-        "note": "Sakupen Circles placed above"
-      },
-      {
-        "time": "2022-01-18T03:15:49.997179",
-        "pos": 12,
-        "note": "Verdant Landscape placed above"
-      },
-      {
-        "time": "2022-01-18T03:17:01.512525",
-        "pos": 11,
-        "note": "passed by Verdant Landscape"
-      },
-      {
-        "time": "2022-01-18T03:20:37.854922",
-        "pos": 12,
-        "note": "passed by Verdant Landscape"
-      },
-      {
-        "time": "2022-05-27T17:01:08.056115",
-        "pos": 13,
-        "note": "passed by Arctic Lights"
-      },
-      {
-        "time": "2022-05-27T17:01:22.181918",
-        "pos": 12,
-        "note": "passed by Arctic Lights"
-      },
-      {
-        "time": "2022-06-12T19:28:32.946563",
-        "pos": 13,
-        "note": "Abyss of Darkness placed above"
-      },
-      {
-        "time": "2022-07-31T04:34:02.564253",
-        "pos": 14,
-        "note": "Oblivion placed above"
-      },
-      {
-        "time": "2022-08-05T04:39:07.937884",
-        "pos": 15,
-        "note": "The Hallucination placed above"
-      },
-      {
-        "time": "2022-08-07T19:10:09.676710",
-        "pos": 16,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-08-07T19:11:10.474714",
-        "pos": 15,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-08-07T19:14:45.882251",
-        "pos": 16,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-08-11T18:03:34.478556",
-        "pos": 17,
-        "note": "Silent clubstep placed above"
-      },
-      {
-        "time": "2022-08-12T22:25:08.656385",
-        "pos": 18,
-        "note": "walter white placed above"
-      },
-      {
-        "time": "2022-09-16T23:12:03.800155",
-        "pos": 19,
-        "note": "Mayhem placed above"
-      },
-      {
-        "time": "2022-09-27T03:44:28.099768",
-        "pos": 20,
-        "note": "Acheron placed above"
-      },
-      {
-        "time": "2022-12-25T19:56:06.233434",
-        "pos": 21,
-        "note": "poocubed placed above"
-      },
-      {
-        "time": "2022-12-27T04:53:05.190442",
-        "pos": 22,
-        "note": "RUTHLESS placed above"
-      },
-      {
-        "time": "2023-01-01T04:09:35.570621",
-        "pos": 23,
-        "note": "LIMBO placed above"
-      },
-      {
-        "time": "2023-01-02T04:41:31.136050",
-        "pos": 24,
-        "note": "Kyouki placed above"
-      },
-      {
-        "time": "2023-01-14T00:20:08.034922",
-        "pos": 25,
-        "note": "Sinister Silence placed above"
-      },
-      {
-        "time": "2023-03-05T22:14:37.787563",
-        "pos": 26,
-        "note": "UNKNOWN placed above"
-      },
-      {
-        "time": "2023-04-20T01:28:38.255219",
-        "pos": 27,
-        "note": "Edge of Destiny placed above"
-      },
-      {
-        "time": "2023-04-23T00:30:46.953566",
-        "pos": 28,
-        "note": "Avernus placed above"
-      },
-      {
-        "time": "2023-04-23T05:01:54.351181",
-        "pos": 29,
-        "note": "MINUSdry placed above"
-      },
-      {
-        "time": "2023-05-01T14:42:11.429598",
-        "pos": 28,
-        "note": "passed by RUTHLESS"
-      },
-      {
-        "time": "2023-06-10T04:08:49.871965",
-        "pos": 29,
-        "note": "Solar Flare placed above"
-      },
-      {
-        "time": "2023-06-11T01:10:49.701963",
-        "pos": 30,
-        "note": "Saul Goodman placed above"
-      },
-      {
-        "time": "2023-06-16T14:36:27.124592",
-        "pos": 31,
-        "note": "KOCMOC placed above"
-      },
-      {
-        "time": "2023-07-30T01:59:27.905321",
-        "pos": 32,
-        "note": "passed by Shukketsu"
-      },
-      {
-        "time": "2023-08-15T00:51:20.685348",
-        "pos": 33,
-        "note": "Codependence placed above"
-      },
-      {
-        "time": "2023-09-22T21:21:17.903385",
-        "pos": 34,
-        "note": "Deimos placed above"
-      },
-      {
-        "time": "2023-10-01T00:56:43.985808",
-        "pos": 35,
-        "note": "Tunnel of Despair placed above"
-      },
-      {
-        "time": "2023-10-03T00:34:09.863476",
-        "pos": 36,
-        "note": "Damascus placed above"
-      },
-      {
-        "time": "2023-10-17T23:19:02.415513",
-        "pos": 37,
-        "note": "COMBUSTION placed above"
-      },
-      {
-        "time": "2023-10-19T02:45:16.192419",
-        "pos": 38,
-        "note": "The Lightning Rod placed above"
-      },
-      {
-        "time": "2023-11-17T02:57:33.831526",
-        "pos": 39,
-        "note": "NETWORK placed above"
-      },
-      {
-        "time": "2023-11-30T04:35:16.295856",
-        "pos": 40,
-        "note": "passed by Delta"
-      },
-      {
-        "time": "2023-12-06T00:31:40.093873",
-        "pos": 41,
-        "note": "Eyes in the Water placed above"
-      },
-      {
-        "time": "2023-12-11T21:54:54.161329",
-        "pos": 42,
-        "note": "SARYYX NEVER CLEAR placed above"
-      },
-      {
-        "time": "2023-12-16T23:00:01.994098",
-        "pos": 43,
-        "note": "Midnight placed above"
-      },
-      {
-        "time": "2023-12-19T03:07:40.372879",
-        "pos": 44,
-        "note": "passed by Critical Heat"
-      },
-      {
-        "time": "2024-01-03T03:26:32.665955",
-        "pos": 45,
-        "note": "passed by Esfera"
-      },
-      {
-        "time": "2024-01-04T16:33:57.636243",
-        "pos": 46,
-        "note": "Jigsaw placed above"
-      },
-      {
-        "time": "2024-01-21T09:06:42.403552",
-        "pos": 47,
-        "note": "Deadlier Clubstep placed above"
-      },
-      {
-        "time": "2024-02-10T05:37:26.458467",
-        "pos": 48,
-        "note": "passed by Belladonna"
-      },
-      {
-        "time": "2024-02-15T20:50:04.905578",
-        "pos": 47,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-16T21:45:59.031596",
-        "pos": 48,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-18T22:15:49.645241",
-        "pos": 49,
-        "note": "Tidal Wave placed above"
-      },
-      {
-        "time": "2024-03-21T06:42:51.718004",
-        "pos": 50,
-        "note": "passed by Terminal Rampancy"
-      },
-      {
-        "time": "2024-05-05T22:03:06.201186",
-        "pos": 51,
-        "note": "passed by Climax"
-      },
-      {
-        "time": "2024-05-31T15:22:59.680847",
-        "pos": 52,
-        "note": "ATOMIC CANNON Mk III placed above"
-      },
-      {
-        "time": "2024-06-14T20:18:17.297592",
-        "pos": 53,
-        "note": "PSYCHOPATH placed above"
-      },
-      {
-        "time": "2024-06-22T19:57:17.755918",
-        "pos": 54,
-        "note": "The Paroxysm of Rage placed above"
-      },
-      {
-        "time": "2024-08-15T20:23:16.197914",
-        "pos": 55,
-        "note": "Menace placed above"
-      },
-      {
-        "time": "2024-08-17T21:32:59.150466",
-        "pos": 56,
-        "note": "Viprin UFO placed above"
-      },
-      {
-        "time": "2024-08-21T22:24:57.699747",
-        "pos": 57,
-        "note": "ORDINARY placed above"
-      },
-      {
-        "time": "2024-08-25T21:23:08.291354",
-        "pos": 58,
-        "note": "Natural Disaster placed above"
-      },
-      {
-        "time": "2024-09-18T16:41:59.080721",
-        "pos": 56,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-09-29T22:20:38.224134",
-        "pos": 57,
-        "note": "KOSETSU placed above"
-      },
-      {
-        "time": "2024-10-02T18:25:46.058862",
-        "pos": 58,
-        "note": "Coalescence placed above"
-      },
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 59,
-        "note": "Nullscapes placed above"
-      },
-      {
-        "time": "2024-10-30T02:26:55.892361",
-        "pos": 60,
-        "note": "The Yangire placed above"
-      },
-      {
-        "time": "2024-11-11T19:06:03.696426",
-        "pos": 61,
-        "note": "Spectre placed above"
-      },
-      {
-        "time": "2024-11-12T20:35:17.207600",
-        "pos": 62,
-        "note": "BOOBAWAMBA placed above"
-      },
-      {
-        "time": "2024-11-19T01:19:23.586427",
-        "pos": 63,
-        "note": "Waterfall placed above"
-      },
-      {
-        "time": "2024-11-20T22:42:09.483620",
-        "pos": 64,
-        "note": "Judgement Knights placed above"
-      },
-      {
-        "time": "2024-11-29T20:36:19.283078",
-        "pos": 65,
-        "note": "BPATA MPAKA placed above"
-      },
-      {
-        "time": "2024-12-23T17:23:52.057033",
-        "pos": 66,
-        "note": "Anathema placed above"
-      },
-      {
-        "time": "2025-01-05T19:33:19.303323",
-        "pos": 67,
-        "note": "BEELINE placed above"
-      },
-      {
-        "time": "2025-01-22T22:09:36.642699",
-        "pos": 68,
-        "note": "Collapse placed above"
-      },
-      {
-        "time": "2025-02-16T19:55:24.607596",
-        "pos": 69,
-        "note": "The Plunge placed above"
-      },
-      {
-        "time": "2025-02-23T16:48:54.480468",
-        "pos": 70,
-        "note": "Subterminal Point placed above"
-      },
-      {
-        "time": "2025-03-07T22:05:04.338503",
-        "pos": 69,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-03-13T19:27:02.274395",
-        "pos": 70,
-        "note": "andromeda placed above"
-      },
-      {
-        "time": "2025-03-13T20:49:18.677760",
-        "pos": 71,
-        "note": "Apocalyptic Trilogy placed above"
-      },
-      {
-        "time": "2025-03-13T21:33:34.896411",
-        "pos": 72,
-        "note": "Gaggatrondra placed above"
-      },
-      {
-        "time": "2025-04-04T23:48:09.392989",
-        "pos": 73,
-        "note": "Crystal Crusher placed above"
-      },
-      {
-        "time": "2025-04-11T17:19:55.721602",
-        "pos": 74,
-        "note": "passed by Destruction 19"
-      },
-      {
-        "time": "2025-04-20T20:07:47.909124",
-        "pos": 75,
-        "note": "Every End placed above"
-      },
-      {
-        "time": "2025-04-20T23:33:41.291801",
-        "pos": 76,
-        "note": "passed by Checked Steam"
-      },
-      {
-        "time": "2025-05-25T19:06:34.683504",
-        "pos": 77,
-        "note": "Cimmerian Shade placed above"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 78,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-07-11T16:05:30.978462",
-        "pos": 79,
-        "note": "limbo but uwu ig idk placed above"
-      },
-      {
-        "time": "2025-08-01T23:09:57.755169",
-        "pos": 80,
-        "note": "Operation Evolution placed above"
-      },
-      {
-        "time": "2025-08-01T23:57:05.203576",
-        "pos": 81,
-        "note": "Starlight Summit placed above"
-      },
-      {
-        "time": "2025-08-02T01:19:37.670108",
-        "pos": 82,
-        "note": "Swing Swing placed above"
-      },
-      {
-        "time": "2025-08-06T12:03:08.956771",
-        "pos": 83,
-        "note": "Sevvend Clubstep placed above"
-      },
-      {
-        "time": "2025-08-07T18:33:39.403821",
-        "pos": 84,
-        "note": "passed by Starlit Stroll"
-      },
-      {
-        "time": "2025-08-13T17:37:37.164466",
-        "pos": 85,
-        "note": "VOID placed above"
-      },
-      {
-        "time": "2025-09-06T14:07:45.007328",
-        "pos": 86,
-        "note": "IRIS placed above"
-      },
-      {
-        "time": "2025-09-06T21:21:15.858938",
-        "pos": 87,
-        "note": "THE JET ENGINE placed above"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 88,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-09-23T16:21:03.927854",
-        "pos": 87,
-        "note": "passed by Swing Swing"
-      },
-      {
-        "time": "2025-09-27T12:49:37.463489",
-        "pos": 88,
-        "note": "Blood Echo placed above"
-      },
-      {
-        "time": "2025-10-19T00:01:44.456973",
-        "pos": 83,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 84,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-10-26T22:11:24.736078",
-        "pos": 85,
-        "note": "Defeated Circles placed above"
-      },
-      {
-        "time": "2025-10-28T15:24:58.898085",
-        "pos": 86,
-        "note": "CONVULSION placed above"
-      },
-      {
-        "time": "2025-11-12T04:06:14.473392",
-        "pos": 87,
-        "note": "Loops of Fury placed above"
-      },
-      {
-        "time": "2025-12-07T20:42:21.258923",
-        "pos": 88,
-        "note": "Henken placed above"
-      },
-      {
-        "time": "2025-12-13T19:09:33.271153",
-        "pos": 89,
-        "note": "Silentlocked placed above"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 90,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2025-12-19T17:51:44.890516",
-        "pos": 91,
-        "note": "Wavterminal placed above"
-      },
-      {
-        "time": "2025-12-23T22:59:36.470036",
-        "pos": 92,
-        "note": "Graceful placed above"
-      },
-      {
-        "time": "2025-12-26T16:59:28.007493",
-        "pos": 93,
-        "note": "CHIL placed above"
-      },
-      {
-        "time": "2026-01-02T17:25:12.238151",
-        "pos": 94,
-        "note": "Infinite Chaos placed above"
-      },
-      {
-        "time": "2026-01-03T06:07:18.888951",
-        "pos": 95,
-        "note": "DISCONNECT placed above"
-      },
-      {
-        "time": "2026-01-08T19:19:16.431758",
-        "pos": 96,
-        "note": "The Salt Factory placed above"
-      },
-      {
-        "time": "2026-01-13T04:38:23.324082",
-        "pos": 97,
-        "note": "Time Lapse placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 98,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-16T06:37:35.265165",
-        "pos": 99,
-        "note": "Decks Dark placed above"
-      },
-      {
-        "time": "2026-01-18T21:21:08.913248",
-        "pos": 100,
-        "note": "passed by azure blast"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 101,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-10T04:05:52.293479",
-        "pos": 102,
-        "note": "The Wonder of You placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:00.661288",
-        "pos": 103,
-        "note": "Through The Gates placed above"
-      },
-      {
-        "time": "2026-02-24T21:41:58.991549",
-        "pos": 104,
-        "note": "paranoia placed above"
-      },
-      {
-        "time": "2026-02-25T18:35:32.193796",
-        "pos": 105,
-        "note": "Levigo placed above"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 106,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 107,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 108,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 109,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 110,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 111,
-        "note": "CHROMACAVE placed above"
-      },
-      {
-        "time": "2026-03-19T17:31:32.116022",
-        "pos": 112,
-        "note": "passed by VOID"
-      },
-      {
-        "time": "2026-03-20T01:18:12.792602",
-        "pos": 111,
-        "note": "passed by Time Lapse"
-      },
-      {
-        "time": "2026-03-24T02:21:06.400900",
-        "pos": 112,
-        "note": "passed by WOBBLING MACHINE"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 113,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 114,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-02T23:52:19.095725",
-        "pos": 115,
-        "note": "Diabolic ClubStep placed above"
-      },
-      {
-        "time": "2026-04-03T12:39:29.557649",
-        "pos": 116,
-        "note": "TrakineS placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 117,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-21T00:06:16.273498",
-        "pos": 118,
-        "note": "Dualist placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 119,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 120,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 121,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-04-30T19:25:15.033824",
-        "pos": 122,
-        "note": "DreamStep placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 123,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-05-08T00:51:58.827418",
-        "pos": 124,
-        "note": "BRITNEY NO SCLEARS placed above"
-      },
-      {
-        "time": "2026-06-03T23:12:32.744265",
-        "pos": 125,
-        "note": "ROCKBOTTOM placed above"
-      },
-      {
-        "time": "2026-06-09T01:40:51.753480",
-        "pos": 126,
-        "note": "Trickshot placed above"
-      },
-      {
-        "time": "2026-06-13T22:51:46.934121",
-        "pos": 127,
-        "note": "Between Duality placed above"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 128,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 129,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 130,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 131,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 130,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 131,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 132,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 133,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-24T19:41:35.749964",
-        "pos": 134,
-        "note": "Doppler placed above"
-      },
-      {
-        "time": "2026-07-25T20:59:07.388535",
-        "pos": 133,
-        "note": "passed by ROCKBOTTOM"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 134,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-07-29T21:44:44.747982",
-        "pos": 135,
-        "note": "idontknowwhatthisis placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 136,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 137,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 138,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 139,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 140,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 141,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-21T20:35:19.901106",
-        "pos": 142,
-        "note": "Sanctity placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 143,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 144,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 145,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-08-29T16:11:00.023739",
-        "pos": 146,
-        "note": "SPIRIT OVERCLOCK placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 147,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-12T22:00:35.784974",
-        "pos": 148,
-        "note": "Heavenly Sakupen placed above"
-      }
-    ],
     "250": [
       {
         "time": "2020-02-11T01:07:17.842925",
@@ -1528,6 +646,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 108,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 109,
+        "note": "GRIEF placed above"
       }
     ],
     "274": [
@@ -2265,1018 +1388,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 119,
         "note": "FOREST OF SPIKES placed above"
-      }
-    ],
-    "335": [
-      {
-        "time": "2021-05-11T20:33:00.262763",
-        "pos": 6,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2021-06-29T22:57:11.985074",
-        "pos": 7,
-        "note": "Sonic Wave Infinity placed above"
-      },
-      {
-        "time": "2021-07-23T22:58:01.309021",
-        "pos": 8,
-        "note": "passed by Renevant"
-      },
-      {
-        "time": "2021-08-24T19:44:42.941919",
-        "pos": 7,
-        "note": "passed by Crimson Planet"
-      },
-      {
-        "time": "2021-08-24T19:44:50.777766",
-        "pos": 8,
-        "note": "passed by SARY NEVER CLEAR"
-      },
-      {
-        "time": "2021-09-16T04:30:08.655400",
-        "pos": 9,
-        "note": "Trueffet placed above"
-      },
-      {
-        "time": "2021-10-02T21:53:57.996702",
-        "pos": 10,
-        "note": "Hard Machine placed above"
-      },
-      {
-        "time": "2021-11-04T01:47:36.292844",
-        "pos": 11,
-        "note": "Firework placed above"
-      },
-      {
-        "time": "2021-11-04T01:48:29.906285",
-        "pos": 12,
-        "note": "Slaughterhouse placed above"
-      },
-      {
-        "time": "2021-11-14T03:56:04.596351",
-        "pos": 13,
-        "note": "arcturus placed above"
-      },
-      {
-        "time": "2022-01-05T23:36:34.869862",
-        "pos": 14,
-        "note": "Sakupen Circles placed above"
-      },
-      {
-        "time": "2022-01-17T02:30:54.481525",
-        "pos": 15,
-        "note": "passed by Promethean"
-      },
-      {
-        "time": "2022-01-17T02:31:05.681073",
-        "pos": 16,
-        "note": "passed by Keres"
-      },
-      {
-        "time": "2022-01-18T03:15:49.997179",
-        "pos": 17,
-        "note": "Verdant Landscape placed above"
-      },
-      {
-        "time": "2022-01-18T03:17:01.512525",
-        "pos": 16,
-        "note": "passed by Verdant Landscape"
-      },
-      {
-        "time": "2022-01-18T03:20:37.854922",
-        "pos": 17,
-        "note": "passed by Verdant Landscape"
-      },
-      {
-        "time": "2022-04-05T22:59:15.770484",
-        "pos": 18,
-        "note": "passed by Crimson Planet"
-      },
-      {
-        "time": "2022-05-27T17:01:08.056115",
-        "pos": 19,
-        "note": "passed by Arctic Lights"
-      },
-      {
-        "time": "2022-05-27T17:01:22.181918",
-        "pos": 18,
-        "note": "passed by Arctic Lights"
-      },
-      {
-        "time": "2022-05-30T01:34:04.742514",
-        "pos": 19,
-        "note": "passed by Thinking Space"
-      },
-      {
-        "time": "2022-06-11T15:52:52.685049",
-        "pos": 20,
-        "note": "Aerial Gleam placed above"
-      },
-      {
-        "time": "2022-06-12T19:28:32.946563",
-        "pos": 21,
-        "note": "Abyss of Darkness placed above"
-      },
-      {
-        "time": "2022-07-28T15:59:15.884070",
-        "pos": 22,
-        "note": "passed by Lotus Flower"
-      },
-      {
-        "time": "2022-07-31T04:34:02.564253",
-        "pos": 23,
-        "note": "Oblivion placed above"
-      },
-      {
-        "time": "2022-08-05T04:39:07.937884",
-        "pos": 24,
-        "note": "The Hallucination placed above"
-      },
-      {
-        "time": "2022-08-11T18:03:34.478556",
-        "pos": 25,
-        "note": "Silent clubstep placed above"
-      },
-      {
-        "time": "2022-08-12T22:25:08.656385",
-        "pos": 26,
-        "note": "walter white placed above"
-      },
-      {
-        "time": "2022-08-27T17:26:12.555407",
-        "pos": 27,
-        "note": "Shukketsu placed above"
-      },
-      {
-        "time": "2022-09-16T23:12:03.800155",
-        "pos": 28,
-        "note": "Mayhem placed above"
-      },
-      {
-        "time": "2022-09-23T16:05:34.993011",
-        "pos": 29,
-        "note": "passed by Esfera"
-      },
-      {
-        "time": "2022-09-27T03:44:28.099768",
-        "pos": 30,
-        "note": "Acheron placed above"
-      },
-      {
-        "time": "2022-11-13T02:18:25.863764",
-        "pos": 31,
-        "note": "SUPERHATEMEWORLD placed above"
-      },
-      {
-        "time": "2022-11-15T00:55:22.879367",
-        "pos": 32,
-        "note": "qoUEO placed above"
-      },
-      {
-        "time": "2022-11-30T16:21:36.901015",
-        "pos": 31,
-        "note": "passed by Crimson Planet"
-      },
-      {
-        "time": "2022-12-25T19:56:06.233434",
-        "pos": 32,
-        "note": "poocubed placed above"
-      },
-      {
-        "time": "2022-12-27T04:53:05.190442",
-        "pos": 33,
-        "note": "RUTHLESS placed above"
-      },
-      {
-        "time": "2023-01-01T04:09:35.570621",
-        "pos": 34,
-        "note": "LIMBO placed above"
-      },
-      {
-        "time": "2023-01-02T04:41:31.136050",
-        "pos": 35,
-        "note": "Kyouki placed above"
-      },
-      {
-        "time": "2023-01-14T00:20:08.034922",
-        "pos": 36,
-        "note": "Sinister Silence placed above"
-      },
-      {
-        "time": "2023-03-05T22:14:37.787563",
-        "pos": 37,
-        "note": "UNKNOWN placed above"
-      },
-      {
-        "time": "2023-03-18T23:27:28.228388",
-        "pos": 38,
-        "note": "Critical Heat placed above"
-      },
-      {
-        "time": "2023-03-26T12:57:29.949889",
-        "pos": 39,
-        "note": "NEUTRA placed above"
-      },
-      {
-        "time": "2023-04-20T01:28:38.255219",
-        "pos": 40,
-        "note": "Edge of Destiny placed above"
-      },
-      {
-        "time": "2023-04-23T00:30:46.953566",
-        "pos": 41,
-        "note": "Avernus placed above"
-      },
-      {
-        "time": "2023-04-23T05:01:54.351181",
-        "pos": 42,
-        "note": "MINUSdry placed above"
-      },
-      {
-        "time": "2023-04-28T02:39:48.296233",
-        "pos": 41,
-        "note": "passed by SARY NEVER CLEAR"
-      },
-      {
-        "time": "2023-04-28T02:40:01.537100",
-        "pos": 40,
-        "note": "passed by Renevant"
-      },
-      {
-        "time": "2023-05-01T14:42:11.429598",
-        "pos": 39,
-        "note": "passed by RUTHLESS"
-      },
-      {
-        "time": "2023-06-10T04:08:49.871965",
-        "pos": 40,
-        "note": "Solar Flare placed above"
-      },
-      {
-        "time": "2023-06-11T01:10:49.701963",
-        "pos": 41,
-        "note": "Saul Goodman placed above"
-      },
-      {
-        "time": "2023-06-11T01:15:10.591302",
-        "pos": 42,
-        "note": "Terminal Rampancy placed above"
-      },
-      {
-        "time": "2023-06-16T14:36:27.124592",
-        "pos": 43,
-        "note": "KOCMOC placed above"
-      },
-      {
-        "time": "2023-07-30T23:37:57.584522",
-        "pos": 42,
-        "note": "passed by Lotus Flower"
-      },
-      {
-        "time": "2023-08-03T08:08:02.490954",
-        "pos": 39,
-        "note": "Moved"
-      },
-      {
-        "time": "2023-08-15T00:51:20.685348",
-        "pos": 40,
-        "note": "Codependence placed above"
-      },
-      {
-        "time": "2023-09-22T21:21:17.903385",
-        "pos": 41,
-        "note": "Deimos placed above"
-      },
-      {
-        "time": "2023-10-01T00:56:43.985808",
-        "pos": 42,
-        "note": "Tunnel of Despair placed above"
-      },
-      {
-        "time": "2023-10-03T00:34:09.863476",
-        "pos": 43,
-        "note": "Damascus placed above"
-      },
-      {
-        "time": "2023-10-08T17:15:13.982029",
-        "pos": 44,
-        "note": "Delta placed above"
-      },
-      {
-        "time": "2023-10-17T23:19:02.415513",
-        "pos": 45,
-        "note": "COMBUSTION placed above"
-      },
-      {
-        "time": "2023-10-19T02:45:16.192419",
-        "pos": 46,
-        "note": "The Lightning Rod placed above"
-      },
-      {
-        "time": "2023-11-17T02:57:33.831526",
-        "pos": 47,
-        "note": "NETWORK placed above"
-      },
-      {
-        "time": "2023-11-29T22:38:25.897771",
-        "pos": 48,
-        "note": "Frost Spirit placed above"
-      },
-      {
-        "time": "2023-12-06T00:31:40.093873",
-        "pos": 49,
-        "note": "Eyes in the Water placed above"
-      },
-      {
-        "time": "2023-12-11T21:54:54.161329",
-        "pos": 50,
-        "note": "SARYYX NEVER CLEAR placed above"
-      },
-      {
-        "time": "2023-12-16T23:00:01.994098",
-        "pos": 51,
-        "note": "Midnight placed above"
-      },
-      {
-        "time": "2023-12-22T20:13:18.456420",
-        "pos": 52,
-        "note": "Belladonna placed above"
-      },
-      {
-        "time": "2024-01-04T16:33:57.636243",
-        "pos": 53,
-        "note": "Jigsaw placed above"
-      },
-      {
-        "time": "2024-01-21T09:06:42.403552",
-        "pos": 54,
-        "note": "Deadlier Clubstep placed above"
-      },
-      {
-        "time": "2024-02-02T19:03:53.354569",
-        "pos": 55,
-        "note": "passed by Crackhead Circles"
-      },
-      {
-        "time": "2024-02-15T20:50:04.905578",
-        "pos": 54,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-16T21:45:59.031596",
-        "pos": 55,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-18T22:15:49.645241",
-        "pos": 56,
-        "note": "Tidal Wave placed above"
-      },
-      {
-        "time": "2024-04-15T21:28:04.005453",
-        "pos": 52,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-05-05T22:03:06.201186",
-        "pos": 53,
-        "note": "passed by Climax"
-      },
-      {
-        "time": "2024-05-31T15:22:59.680847",
-        "pos": 54,
-        "note": "ATOMIC CANNON Mk III placed above"
-      },
-      {
-        "time": "2024-06-14T20:18:17.297592",
-        "pos": 55,
-        "note": "PSYCHOPATH placed above"
-      },
-      {
-        "time": "2024-06-22T19:57:17.755918",
-        "pos": 56,
-        "note": "The Paroxysm of Rage placed above"
-      },
-      {
-        "time": "2024-06-25T21:40:38.813656",
-        "pos": 57,
-        "note": "Destruction 19 placed above"
-      },
-      {
-        "time": "2024-07-02T18:47:52.911269",
-        "pos": 58,
-        "note": "passed by NEUTRA"
-      },
-      {
-        "time": "2024-07-08T00:59:08.076386",
-        "pos": 59,
-        "note": "Dry Out Copyable 2 placed above"
-      },
-      {
-        "time": "2024-08-15T20:23:16.197914",
-        "pos": 60,
-        "note": "Menace placed above"
-      },
-      {
-        "time": "2024-08-17T21:32:59.150466",
-        "pos": 61,
-        "note": "Viprin UFO placed above"
-      },
-      {
-        "time": "2024-08-21T22:24:57.699747",
-        "pos": 62,
-        "note": "ORDINARY placed above"
-      },
-      {
-        "time": "2024-08-25T21:23:08.291354",
-        "pos": 63,
-        "note": "Natural Disaster placed above"
-      },
-      {
-        "time": "2024-08-27T01:49:27.411484",
-        "pos": 64,
-        "note": "DISSONANCE placed above"
-      },
-      {
-        "time": "2024-08-29T03:03:31.835013",
-        "pos": 63,
-        "note": "passed by Dry Out Copyable 2"
-      },
-      {
-        "time": "2024-09-29T22:20:38.224134",
-        "pos": 64,
-        "note": "KOSETSU placed above"
-      },
-      {
-        "time": "2024-10-02T18:25:46.058862",
-        "pos": 65,
-        "note": "Coalescence placed above"
-      },
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 66,
-        "note": "Nullscapes placed above"
-      },
-      {
-        "time": "2024-10-26T20:23:19.397365",
-        "pos": 67,
-        "note": "passed by Checked Steam"
-      },
-      {
-        "time": "2024-10-30T02:26:55.892361",
-        "pos": 68,
-        "note": "The Yangire placed above"
-      },
-      {
-        "time": "2024-11-11T19:06:03.696426",
-        "pos": 69,
-        "note": "Spectre placed above"
-      },
-      {
-        "time": "2024-11-12T20:35:17.207600",
-        "pos": 70,
-        "note": "BOOBAWAMBA placed above"
-      },
-      {
-        "time": "2024-11-19T01:19:23.586427",
-        "pos": 71,
-        "note": "Waterfall placed above"
-      },
-      {
-        "time": "2024-11-20T00:39:55.270271",
-        "pos": 72,
-        "note": "passed by Scream Machine"
-      },
-      {
-        "time": "2024-11-20T22:42:09.483620",
-        "pos": 73,
-        "note": "Judgement Knights placed above"
-      },
-      {
-        "time": "2024-11-29T20:36:19.283078",
-        "pos": 74,
-        "note": "BPATA MPAKA placed above"
-      },
-      {
-        "time": "2024-12-14T18:02:39.880494",
-        "pos": 75,
-        "note": "Ascent placed above"
-      },
-      {
-        "time": "2024-12-23T17:23:52.057033",
-        "pos": 76,
-        "note": "Anathema placed above"
-      },
-      {
-        "time": "2025-01-05T19:33:19.303323",
-        "pos": 77,
-        "note": "BEELINE placed above"
-      },
-      {
-        "time": "2025-01-22T22:09:36.642699",
-        "pos": 78,
-        "note": "Collapse placed above"
-      },
-      {
-        "time": "2025-02-16T19:55:24.607596",
-        "pos": 79,
-        "note": "The Plunge placed above"
-      },
-      {
-        "time": "2025-02-21T18:12:12.487570",
-        "pos": 80,
-        "note": "passed by Axinie"
-      },
-      {
-        "time": "2025-02-23T16:48:54.480468",
-        "pos": 81,
-        "note": "Subterminal Point placed above"
-      },
-      {
-        "time": "2025-03-02T03:03:48.082400",
-        "pos": 82,
-        "note": "passed by Lithium"
-      },
-      {
-        "time": "2025-03-13T19:27:02.274395",
-        "pos": 83,
-        "note": "andromeda placed above"
-      },
-      {
-        "time": "2025-03-13T20:49:18.677760",
-        "pos": 84,
-        "note": "Apocalyptic Trilogy placed above"
-      },
-      {
-        "time": "2025-03-13T21:33:34.896411",
-        "pos": 85,
-        "note": "Gaggatrondra placed above"
-      },
-      {
-        "time": "2025-03-13T23:53:32.276040",
-        "pos": 84,
-        "note": "passed by Keres"
-      },
-      {
-        "time": "2025-03-17T21:53:05.862206",
-        "pos": 83,
-        "note": "passed by Hard Machine"
-      },
-      {
-        "time": "2025-04-03T22:33:19.899902",
-        "pos": 84,
-        "note": "passed by Guideless Goobering"
-      },
-      {
-        "time": "2025-04-04T23:48:09.392989",
-        "pos": 85,
-        "note": "Crystal Crusher placed above"
-      },
-      {
-        "time": "2025-04-20T20:07:47.909124",
-        "pos": 86,
-        "note": "Every End placed above"
-      },
-      {
-        "time": "2025-05-12T19:26:40.138884",
-        "pos": 85,
-        "note": "passed by Ascent"
-      },
-      {
-        "time": "2025-05-25T19:06:34.683504",
-        "pos": 86,
-        "note": "Cimmerian Shade placed above"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 87,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-07-11T16:05:30.978462",
-        "pos": 88,
-        "note": "limbo but uwu ig idk placed above"
-      },
-      {
-        "time": "2025-08-01T23:09:57.755169",
-        "pos": 89,
-        "note": "Operation Evolution placed above"
-      },
-      {
-        "time": "2025-08-01T23:57:05.203576",
-        "pos": 90,
-        "note": "Starlight Summit placed above"
-      },
-      {
-        "time": "2025-08-02T01:19:37.670108",
-        "pos": 91,
-        "note": "Swing Swing placed above"
-      },
-      {
-        "time": "2025-08-06T12:03:08.956771",
-        "pos": 92,
-        "note": "Sevvend Clubstep placed above"
-      },
-      {
-        "time": "2025-08-07T18:33:39.403821",
-        "pos": 93,
-        "note": "passed by Starlit Stroll"
-      },
-      {
-        "time": "2025-08-13T17:37:37.164466",
-        "pos": 94,
-        "note": "VOID placed above"
-      },
-      {
-        "time": "2025-09-06T14:07:45.007328",
-        "pos": 95,
-        "note": "IRIS placed above"
-      },
-      {
-        "time": "2025-09-06T21:21:15.858938",
-        "pos": 96,
-        "note": "THE JET ENGINE placed above"
-      },
-      {
-        "time": "2025-09-07T18:57:35.588276",
-        "pos": 95,
-        "note": "passed by Scream Machine"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 96,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-09-27T12:49:37.463489",
-        "pos": 97,
-        "note": "Blood Echo placed above"
-      },
-      {
-        "time": "2025-10-03T01:40:37.355345",
-        "pos": 98,
-        "note": "WOBBLING MACHINE placed above"
-      },
-      {
-        "time": "2025-10-19T00:06:57.263600",
-        "pos": 84,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 85,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-10-26T22:11:24.736078",
-        "pos": 86,
-        "note": "Defeated Circles placed above"
-      },
-      {
-        "time": "2025-10-28T15:24:58.898085",
-        "pos": 87,
-        "note": "CONVULSION placed above"
-      },
-      {
-        "time": "2025-11-12T04:06:14.473392",
-        "pos": 88,
-        "note": "Loops of Fury placed above"
-      },
-      {
-        "time": "2025-12-07T20:42:21.258923",
-        "pos": 89,
-        "note": "Henken placed above"
-      },
-      {
-        "time": "2025-12-13T19:09:33.271153",
-        "pos": 90,
-        "note": "Silentlocked placed above"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 91,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2025-12-19T17:51:44.890516",
-        "pos": 92,
-        "note": "Wavterminal placed above"
-      },
-      {
-        "time": "2025-12-23T22:59:36.470036",
-        "pos": 93,
-        "note": "Graceful placed above"
-      },
-      {
-        "time": "2025-12-26T16:59:28.007493",
-        "pos": 94,
-        "note": "CHIL placed above"
-      },
-      {
-        "time": "2026-01-02T17:25:12.238151",
-        "pos": 95,
-        "note": "Infinite Chaos placed above"
-      },
-      {
-        "time": "2026-01-03T06:07:18.888951",
-        "pos": 96,
-        "note": "DISCONNECT placed above"
-      },
-      {
-        "time": "2026-01-08T19:19:16.431758",
-        "pos": 97,
-        "note": "The Salt Factory placed above"
-      },
-      {
-        "time": "2026-01-13T04:38:23.324082",
-        "pos": 98,
-        "note": "Time Lapse placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 99,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-16T06:37:35.265165",
-        "pos": 100,
-        "note": "Decks Dark placed above"
-      },
-      {
-        "time": "2026-01-18T21:21:08.913248",
-        "pos": 101,
-        "note": "passed by azure blast"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 102,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-10T04:05:52.293479",
-        "pos": 103,
-        "note": "The Wonder of You placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:00.661288",
-        "pos": 104,
-        "note": "Through The Gates placed above"
-      },
-      {
-        "time": "2026-02-24T21:41:58.991549",
-        "pos": 105,
-        "note": "paranoia placed above"
-      },
-      {
-        "time": "2026-02-25T18:35:32.193796",
-        "pos": 106,
-        "note": "Levigo placed above"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 107,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 108,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 109,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 110,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 111,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 112,
-        "note": "CHROMACAVE placed above"
-      },
-      {
-        "time": "2026-03-19T17:31:32.116022",
-        "pos": 113,
-        "note": "passed by VOID"
-      },
-      {
-        "time": "2026-03-20T01:18:12.792602",
-        "pos": 112,
-        "note": "passed by Time Lapse"
-      },
-      {
-        "time": "2026-03-24T02:21:06.400900",
-        "pos": 113,
-        "note": "passed by WOBBLING MACHINE"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 114,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 115,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-02T23:52:19.095725",
-        "pos": 116,
-        "note": "Diabolic ClubStep placed above"
-      },
-      {
-        "time": "2026-04-03T12:39:29.557649",
-        "pos": 117,
-        "note": "TrakineS placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 118,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-21T00:06:16.273498",
-        "pos": 119,
-        "note": "Dualist placed above"
       },
       {
-        "time": "2026-04-27T22:56:13.985455",
+        "time": "2026-10-05T03:55:51.046657",
         "pos": 120,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 121,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 122,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-04-30T19:25:15.033824",
-        "pos": 123,
-        "note": "DreamStep placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 124,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-05-08T00:51:58.827418",
-        "pos": 125,
-        "note": "BRITNEY NO SCLEARS placed above"
-      },
-      {
-        "time": "2026-06-03T23:12:32.744265",
-        "pos": 126,
-        "note": "ROCKBOTTOM placed above"
-      },
-      {
-        "time": "2026-06-09T01:40:51.753480",
-        "pos": 127,
-        "note": "Trickshot placed above"
-      },
-      {
-        "time": "2026-06-13T22:51:46.934121",
-        "pos": 128,
-        "note": "Between Duality placed above"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 129,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 130,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 131,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 132,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 131,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 132,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 133,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 134,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-24T19:41:35.749964",
-        "pos": 135,
-        "note": "Doppler placed above"
-      },
-      {
-        "time": "2026-07-25T20:59:07.388535",
-        "pos": 134,
-        "note": "passed by ROCKBOTTOM"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 135,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-07-29T21:44:44.747982",
-        "pos": 136,
-        "note": "idontknowwhatthisis placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 137,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 138,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 139,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 140,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 141,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 142,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-21T20:35:19.901106",
-        "pos": 143,
-        "note": "Sanctity placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 144,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 145,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 146,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-08-29T16:11:00.023739",
-        "pos": 147,
-        "note": "SPIRIT OVERCLOCK placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 148,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-12T22:00:35.784974",
-        "pos": 149,
-        "note": "Heavenly Sakupen placed above"
+        "note": "GRIEF placed above"
       }
     ],
     "349": [
@@ -3904,6 +2020,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 107,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 108,
+        "note": "GRIEF placed above"
       }
     ],
     "361": [
@@ -4731,6 +2852,21 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 146,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:26:24.707729",
+        "pos": 147,
+        "note": "passed by Starlight Summit"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 148,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 149,
+        "note": "GRIEF placed above"
       }
     ],
     "379": [
@@ -5028,6 +3164,11 @@
         "time": "2026-09-27T22:40:02.234926",
         "pos": 52,
         "note": "passed by Voltage"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 53,
+        "note": "GRIEF placed above"
       }
     ],
     "380": [
@@ -5255,6 +3396,11 @@
         "time": "2026-09-25T02:43:28.529255",
         "pos": 36,
         "note": "passed by Maniacal Chains"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 37,
+        "note": "GRIEF placed above"
       }
     ],
     "383": [
@@ -5812,6 +3958,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 103,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 104,
+        "note": "GRIEF placed above"
       }
     ],
     "391": [
@@ -6054,6 +4205,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 44,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 45,
+        "note": "GRIEF placed above"
       }
     ],
     "393": [
@@ -6761,6 +4917,11 @@
         "time": "2026-09-27T22:09:21.673758",
         "pos": 125,
         "note": "passed by ATOMIC CANNON Mk III"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 126,
+        "note": "GRIEF placed above"
       }
     ],
     "412": [
@@ -7523,180 +5684,19 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 142,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 143,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 144,
+        "note": "GRIEF placed above"
       }
     ],
-    "413": [
-      {
-        "time": "2022-06-12T19:28:32.946563",
-        "pos": 1,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2022-07-27T01:27:56.181365",
-        "pos": 2,
-        "note": "passed by Slaughterhouse"
-      },
-      {
-        "time": "2022-09-27T03:44:28.099768",
-        "pos": 3,
-        "note": "Acheron placed above"
-      },
-      {
-        "time": "2023-01-02T04:41:31.136050",
-        "pos": 4,
-        "note": "Kyouki placed above"
-      },
-      {
-        "time": "2023-04-23T00:30:46.953566",
-        "pos": 5,
-        "note": "Avernus placed above"
-      },
-      {
-        "time": "2023-04-23T00:31:05.622433",
-        "pos": 6,
-        "note": "passed by Silent clubstep"
-      },
-      {
-        "time": "2023-11-19T22:57:32.087993",
-        "pos": 5,
-        "note": "Moved"
-      },
-      {
-        "time": "2023-12-19T00:34:07.122818",
-        "pos": 4,
-        "note": "passed by Slaughterhouse"
-      },
-      {
-        "time": "2024-02-18T22:15:49.645241",
-        "pos": 5,
-        "note": "Tidal Wave placed above"
-      },
-      {
-        "time": "2024-08-23T02:56:25.541562",
-        "pos": 6,
-        "note": "passed by Tunnel of Despair"
-      },
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 7,
-        "note": "Nullscapes placed above"
-      },
-      {
-        "time": "2024-11-11T19:06:03.696426",
-        "pos": 8,
-        "note": "Spectre placed above"
-      },
-      {
-        "time": "2024-12-23T17:23:52.057033",
-        "pos": 9,
-        "note": "Anathema placed above"
-      },
-      {
-        "time": "2025-03-13T19:27:02.274395",
-        "pos": 10,
-        "note": "andromeda placed above"
-      },
-      {
-        "time": "2025-04-02T17:28:42.717180",
-        "pos": 11,
-        "note": "passed by BOOBAWAMBA"
-      },
-      {
-        "time": "2025-04-20T20:07:47.909124",
-        "pos": 12,
-        "note": "Every End placed above"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 13,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-09-18T23:44:46.732595",
-        "pos": 14,
-        "note": "passed by Menace"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 15,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 16,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-11-02T22:14:33.068773",
-        "pos": 15,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 16,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 17,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 18,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 19,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 20,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 21,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 22,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 21,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 22,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 23,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 24,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 25,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 26,
-        "note": "Antarctic Lights placed above"
-      }
-    ],
+    "413": [],
     "425": [
       {
         "time": "2022-07-31T04:34:02.564253",
@@ -8292,6 +6292,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 120,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 121,
+        "note": "GRIEF placed above"
       }
     ],
     "427": [
@@ -8709,6 +6714,11 @@
         "time": "2026-09-27T22:17:58.939331",
         "pos": 62,
         "note": "passed by Sevvend Clubstep"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 63,
+        "note": "GRIEF placed above"
       }
     ],
     "428": [
@@ -8866,500 +6876,14 @@
         "time": "2026-09-17T03:51:54.220980",
         "pos": 15,
         "note": "passed by Ashley Wave Trials"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 16,
+        "note": "GRIEF placed above"
       }
     ],
-    "429": [
-      {
-        "time": "2022-08-12T22:25:08.656385",
-        "pos": 16,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2022-09-06T22:38:46.243546",
-        "pos": 15,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-09-16T23:12:03.800155",
-        "pos": 16,
-        "note": "Mayhem placed above"
-      },
-      {
-        "time": "2022-09-27T03:44:28.099768",
-        "pos": 17,
-        "note": "Acheron placed above"
-      },
-      {
-        "time": "2022-10-12T00:31:01.368428",
-        "pos": 16,
-        "note": "Moved"
-      },
-      {
-        "time": "2022-12-25T19:56:06.233434",
-        "pos": 17,
-        "note": "poocubed placed above"
-      },
-      {
-        "time": "2023-01-01T04:09:35.570621",
-        "pos": 18,
-        "note": "LIMBO placed above"
-      },
-      {
-        "time": "2023-01-02T04:41:31.136050",
-        "pos": 19,
-        "note": "Kyouki placed above"
-      },
-      {
-        "time": "2023-03-05T22:14:37.787563",
-        "pos": 20,
-        "note": "UNKNOWN placed above"
-      },
-      {
-        "time": "2023-04-20T01:28:38.255219",
-        "pos": 21,
-        "note": "Edge of Destiny placed above"
-      },
-      {
-        "time": "2023-04-23T00:30:46.953566",
-        "pos": 22,
-        "note": "Avernus placed above"
-      },
-      {
-        "time": "2023-04-23T05:01:54.351181",
-        "pos": 23,
-        "note": "MINUSdry placed above"
-      },
-      {
-        "time": "2023-06-10T04:08:49.871965",
-        "pos": 24,
-        "note": "Solar Flare placed above"
-      },
-      {
-        "time": "2023-06-11T01:10:49.701963",
-        "pos": 25,
-        "note": "Saul Goodman placed above"
-      },
-      {
-        "time": "2023-06-16T14:36:27.124592",
-        "pos": 26,
-        "note": "KOCMOC placed above"
-      },
-      {
-        "time": "2023-07-29T19:58:52.197982",
-        "pos": 24,
-        "note": "Moved"
-      },
-      {
-        "time": "2023-08-15T00:51:20.685348",
-        "pos": 25,
-        "note": "Codependence placed above"
-      },
-      {
-        "time": "2023-09-22T21:21:17.903385",
-        "pos": 26,
-        "note": "Deimos placed above"
-      },
-      {
-        "time": "2023-10-01T00:56:43.985808",
-        "pos": 27,
-        "note": "Tunnel of Despair placed above"
-      },
-      {
-        "time": "2023-10-17T23:19:02.415513",
-        "pos": 28,
-        "note": "COMBUSTION placed above"
-      },
-      {
-        "time": "2023-10-19T02:45:16.192419",
-        "pos": 29,
-        "note": "The Lightning Rod placed above"
-      },
-      {
-        "time": "2023-10-28T21:39:11.057981",
-        "pos": 30,
-        "note": "passed by Sinister Silence"
-      },
-      {
-        "time": "2023-12-06T00:31:40.093873",
-        "pos": 31,
-        "note": "Eyes in the Water placed above"
-      },
-      {
-        "time": "2024-01-04T16:44:16.603699",
-        "pos": 32,
-        "note": "passed by SARYYX NEVER CLEAR"
-      },
-      {
-        "time": "2024-01-21T09:06:42.403552",
-        "pos": 33,
-        "note": "Deadlier Clubstep placed above"
-      },
-      {
-        "time": "2024-02-10T05:37:26.458467",
-        "pos": 34,
-        "note": "passed by Belladonna"
-      },
-      {
-        "time": "2024-02-15T20:50:04.905578",
-        "pos": 33,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-16T21:25:00.347068",
-        "pos": 34,
-        "note": "passed by Damascus"
-      },
-      {
-        "time": "2024-02-16T21:45:59.031596",
-        "pos": 35,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-18T22:15:49.645241",
-        "pos": 36,
-        "note": "Tidal Wave placed above"
-      },
-      {
-        "time": "2024-02-20T01:51:32.453131",
-        "pos": 35,
-        "note": "passed by Hard Machine"
-      },
-      {
-        "time": "2024-02-25T16:33:57.266035",
-        "pos": 36,
-        "note": "passed by Midnight"
-      },
-      {
-        "time": "2024-03-22T18:17:20.262970",
-        "pos": 37,
-        "note": "passed by Jigsaw"
-      },
-      {
-        "time": "2024-05-28T09:53:26.587586",
-        "pos": 26,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-08-15T20:23:16.197914",
-        "pos": 27,
-        "note": "Menace placed above"
-      },
-      {
-        "time": "2024-09-29T22:20:38.224134",
-        "pos": 28,
-        "note": "KOSETSU placed above"
-      },
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 29,
-        "note": "Nullscapes placed above"
-      },
-      {
-        "time": "2024-11-11T19:06:03.696426",
-        "pos": 30,
-        "note": "Spectre placed above"
-      },
-      {
-        "time": "2024-11-12T20:35:17.207600",
-        "pos": 31,
-        "note": "BOOBAWAMBA placed above"
-      },
-      {
-        "time": "2024-12-23T17:23:52.057033",
-        "pos": 32,
-        "note": "Anathema placed above"
-      },
-      {
-        "time": "2025-02-23T16:48:54.480468",
-        "pos": 33,
-        "note": "Subterminal Point placed above"
-      },
-      {
-        "time": "2025-03-13T19:27:02.274395",
-        "pos": 34,
-        "note": "andromeda placed above"
-      },
-      {
-        "time": "2025-03-13T21:33:34.896411",
-        "pos": 35,
-        "note": "Gaggatrondra placed above"
-      },
-      {
-        "time": "2025-04-20T20:07:47.909124",
-        "pos": 36,
-        "note": "Every End placed above"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 37,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-07-09T16:58:37.712360",
-        "pos": 38,
-        "note": "passed by Apocalyptic Trilogy"
-      },
-      {
-        "time": "2025-08-01T23:09:57.755169",
-        "pos": 39,
-        "note": "Operation Evolution placed above"
-      },
-      {
-        "time": "2025-08-06T12:03:08.956771",
-        "pos": 40,
-        "note": "Sevvend Clubstep placed above"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 41,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-09-22T16:10:35.188580",
-        "pos": 42,
-        "note": "passed by Deadlier Clubstep"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 43,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-10-25T20:06:05.648296",
-        "pos": 42,
-        "note": "passed by Operation Evolution"
-      },
-      {
-        "time": "2025-10-26T22:11:24.736078",
-        "pos": 43,
-        "note": "Defeated Circles placed above"
-      },
-      {
-        "time": "2025-10-28T15:24:58.898085",
-        "pos": 44,
-        "note": "CONVULSION placed above"
-      },
-      {
-        "time": "2025-12-13T19:09:33.271153",
-        "pos": 45,
-        "note": "Silentlocked placed above"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 46,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2025-12-26T16:59:28.007493",
-        "pos": 47,
-        "note": "CHIL placed above"
-      },
-      {
-        "time": "2026-01-08T19:19:16.431758",
-        "pos": 48,
-        "note": "The Salt Factory placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 49,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 50,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:29.136454",
-        "pos": 51,
-        "note": "passed by Through The Gates"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 52,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 53,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 54,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 55,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 56,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 57,
-        "note": "CHROMACAVE placed above"
-      },
-      {
-        "time": "2026-03-14T22:08:43.222744",
-        "pos": 58,
-        "note": "passed by Collapse"
-      },
-      {
-        "time": "2026-03-15T23:02:07.490857",
-        "pos": 59,
-        "note": "passed by The Plunge"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 60,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 61,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 62,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 63,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 64,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 65,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 66,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-06-15T03:33:08.311811",
-        "pos": 67,
-        "note": "passed by Loops of Fury"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 68,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 69,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 70,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 71,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 70,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 71,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 72,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 73,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 74,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 75,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 76,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 77,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 78,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 79,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 80,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 81,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 82,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 83,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 84,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-25T02:58:05.273866",
-        "pos": 85,
-        "note": "passed by Wavterminal"
-      },
-      {
-        "time": "2026-09-28T22:59:53.253722",
-        "pos": 86,
-        "note": "passed by BRITNEY NO SCLEARS"
-      }
-    ],
+    "429": [],
     "435": [
       {
         "time": "2022-08-27T17:26:12.555407",
@@ -10020,6 +7544,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 130,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 131,
+        "note": "GRIEF placed above"
       }
     ],
     "439": [
@@ -10452,6 +7981,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 81,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 82,
+        "note": "GRIEF placed above"
       }
     ],
     "442": [
@@ -10604,6 +8138,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 23,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 24,
+        "note": "GRIEF placed above"
       }
     ],
     "464": [
@@ -10911,6 +8450,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 57,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 58,
+        "note": "GRIEF placed above"
       }
     ],
     "467": [
@@ -11278,6 +8822,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 76,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 77,
+        "note": "GRIEF placed above"
       }
     ],
     "468": [
@@ -11450,6 +8999,11 @@
         "time": "2026-09-21T20:29:41.057216",
         "pos": 30,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 31,
+        "note": "GRIEF placed above"
       }
     ],
     "469": [
@@ -11967,6 +9521,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 96,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 97,
+        "note": "GRIEF placed above"
       }
     ],
     "475": [
@@ -12524,6 +10083,11 @@
         "time": "2026-09-27T22:09:21.673758",
         "pos": 128,
         "note": "passed by ATOMIC CANNON Mk III"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 129,
+        "note": "GRIEF placed above"
       }
     ],
     "478": [
@@ -13186,6 +10750,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 133,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 134,
+        "note": "GRIEF placed above"
       }
     ],
     "485": [
@@ -13578,6 +11147,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 72,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 73,
+        "note": "GRIEF placed above"
       }
     ],
     "486": [
@@ -13730,6 +11304,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 22,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 23,
+        "note": "GRIEF placed above"
       }
     ],
     "487": [
@@ -14002,6 +11581,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 59,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 60,
+        "note": "GRIEF placed above"
       }
     ],
     "495": [
@@ -14389,6 +11973,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 74,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 75,
+        "note": "GRIEF placed above"
       }
     ],
     "496": [
@@ -14676,6 +12265,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 60,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 61,
+        "note": "GRIEF placed above"
       }
     ],
     "497": [
@@ -15303,6 +12897,11 @@
         "time": "2026-09-27T22:09:21.673758",
         "pos": 124,
         "note": "passed by ATOMIC CANNON Mk III"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 125,
+        "note": "GRIEF placed above"
       }
     ],
     "501": [
@@ -15495,6 +13094,11 @@
         "time": "2026-09-25T02:43:28.529255",
         "pos": 38,
         "note": "passed by Maniacal Chains"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 39,
+        "note": "GRIEF placed above"
       }
     ],
     "511": [
@@ -15852,6 +13456,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 79,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 80,
+        "note": "GRIEF placed above"
       }
     ],
     "516": [
@@ -16084,6 +13693,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 40,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 41,
+        "note": "GRIEF placed above"
       }
     ],
     "520": [
@@ -16266,465 +13880,14 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 29,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 30,
+        "note": "GRIEF placed above"
       }
     ],
-    "521": [
-      {
-        "time": "2023-10-03T00:34:09.863476",
-        "pos": 33,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2023-10-17T23:19:02.415513",
-        "pos": 34,
-        "note": "COMBUSTION placed above"
-      },
-      {
-        "time": "2023-10-19T02:45:16.192419",
-        "pos": 35,
-        "note": "The Lightning Rod placed above"
-      },
-      {
-        "time": "2023-11-30T04:35:16.295856",
-        "pos": 36,
-        "note": "passed by Delta"
-      },
-      {
-        "time": "2023-12-06T00:31:40.093873",
-        "pos": 37,
-        "note": "Eyes in the Water placed above"
-      },
-      {
-        "time": "2023-12-11T21:54:54.161329",
-        "pos": 38,
-        "note": "SARYYX NEVER CLEAR placed above"
-      },
-      {
-        "time": "2023-12-16T23:00:01.994098",
-        "pos": 39,
-        "note": "Midnight placed above"
-      },
-      {
-        "time": "2024-01-04T16:36:25.264291",
-        "pos": 36,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-01-21T09:06:42.403552",
-        "pos": 37,
-        "note": "Deadlier Clubstep placed above"
-      },
-      {
-        "time": "2024-02-10T05:37:26.458467",
-        "pos": 38,
-        "note": "passed by Belladonna"
-      },
-      {
-        "time": "2024-02-15T20:50:04.905578",
-        "pos": 37,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-16T21:25:00.347068",
-        "pos": 31,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-02-16T21:45:59.031596",
-        "pos": 32,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-18T22:15:49.645241",
-        "pos": 33,
-        "note": "Tidal Wave placed above"
-      },
-      {
-        "time": "2024-02-20T01:51:32.453131",
-        "pos": 32,
-        "note": "passed by Hard Machine"
-      },
-      {
-        "time": "2024-03-07T19:52:29.362534",
-        "pos": 31,
-        "note": "passed by Oblivion"
-      },
-      {
-        "time": "2024-05-28T09:53:26.587586",
-        "pos": 32,
-        "note": "passed by walter white"
-      },
-      {
-        "time": "2024-06-01T17:17:43.351693",
-        "pos": 33,
-        "note": "passed by Deadlier Clubstep"
-      },
-      {
-        "time": "2024-06-14T20:18:17.297592",
-        "pos": 34,
-        "note": "PSYCHOPATH placed above"
-      },
-      {
-        "time": "2024-08-15T20:23:16.197914",
-        "pos": 35,
-        "note": "Menace placed above"
-      },
-      {
-        "time": "2024-09-29T22:20:38.224134",
-        "pos": 36,
-        "note": "KOSETSU placed above"
-      },
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 37,
-        "note": "Nullscapes placed above"
-      },
-      {
-        "time": "2024-10-30T02:26:55.892361",
-        "pos": 38,
-        "note": "The Yangire placed above"
-      },
-      {
-        "time": "2024-11-11T19:06:03.696426",
-        "pos": 39,
-        "note": "Spectre placed above"
-      },
-      {
-        "time": "2024-11-12T20:35:17.207600",
-        "pos": 40,
-        "note": "BOOBAWAMBA placed above"
-      },
-      {
-        "time": "2024-11-24T21:47:13.911892",
-        "pos": 41,
-        "note": "passed by Midnight"
-      },
-      {
-        "time": "2024-12-23T17:23:52.057033",
-        "pos": 42,
-        "note": "Anathema placed above"
-      },
-      {
-        "time": "2025-01-05T19:33:19.303323",
-        "pos": 43,
-        "note": "BEELINE placed above"
-      },
-      {
-        "time": "2025-01-22T22:09:36.642699",
-        "pos": 44,
-        "note": "Collapse placed above"
-      },
-      {
-        "time": "2025-02-16T19:55:24.607596",
-        "pos": 45,
-        "note": "The Plunge placed above"
-      },
-      {
-        "time": "2025-02-23T16:48:54.480468",
-        "pos": 46,
-        "note": "Subterminal Point placed above"
-      },
-      {
-        "time": "2025-03-13T19:27:02.274395",
-        "pos": 47,
-        "note": "andromeda placed above"
-      },
-      {
-        "time": "2025-03-13T20:49:18.677760",
-        "pos": 48,
-        "note": "Apocalyptic Trilogy placed above"
-      },
-      {
-        "time": "2025-03-13T21:33:34.896411",
-        "pos": 49,
-        "note": "Gaggatrondra placed above"
-      },
-      {
-        "time": "2025-04-11T01:28:42.880976",
-        "pos": 48,
-        "note": "passed by UNKNOWN"
-      },
-      {
-        "time": "2025-04-20T20:07:47.909124",
-        "pos": 49,
-        "note": "Every End placed above"
-      },
-      {
-        "time": "2025-04-27T23:12:24.992399",
-        "pos": 50,
-        "note": "passed by ORDINARY"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 51,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-07-26T16:58:17.713715",
-        "pos": 52,
-        "note": "passed by Climax"
-      },
-      {
-        "time": "2025-08-01T23:09:57.755169",
-        "pos": 53,
-        "note": "Operation Evolution placed above"
-      },
-      {
-        "time": "2025-08-06T12:03:08.956771",
-        "pos": 54,
-        "note": "Sevvend Clubstep placed above"
-      },
-      {
-        "time": "2025-09-11T20:01:08.045347",
-        "pos": 42,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 43,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 44,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-10-26T22:11:24.736078",
-        "pos": 45,
-        "note": "Defeated Circles placed above"
-      },
-      {
-        "time": "2025-10-28T15:24:58.898085",
-        "pos": 46,
-        "note": "CONVULSION placed above"
-      },
-      {
-        "time": "2025-12-13T19:09:33.271153",
-        "pos": 47,
-        "note": "Silentlocked placed above"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 48,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2025-12-26T16:59:28.007493",
-        "pos": 49,
-        "note": "CHIL placed above"
-      },
-      {
-        "time": "2026-01-02T17:25:12.238151",
-        "pos": 50,
-        "note": "Infinite Chaos placed above"
-      },
-      {
-        "time": "2026-01-08T19:19:16.431758",
-        "pos": 51,
-        "note": "The Salt Factory placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 52,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 53,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:29.136454",
-        "pos": 54,
-        "note": "passed by Through The Gates"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 55,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 56,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 57,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 58,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 59,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 60,
-        "note": "CHROMACAVE placed above"
-      },
-      {
-        "time": "2026-03-14T22:08:43.222744",
-        "pos": 61,
-        "note": "passed by Collapse"
-      },
-      {
-        "time": "2026-03-15T23:02:07.490857",
-        "pos": 62,
-        "note": "passed by The Plunge"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 63,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 64,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 65,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 66,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 67,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 68,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 69,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-05-08T00:51:58.827418",
-        "pos": 70,
-        "note": "BRITNEY NO SCLEARS placed above"
-      },
-      {
-        "time": "2026-06-15T03:33:08.311811",
-        "pos": 71,
-        "note": "passed by Loops of Fury"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 72,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 73,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 74,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 75,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 74,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 75,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 76,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 77,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 78,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 79,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 80,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 81,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 82,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 83,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 84,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 85,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 86,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 87,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 88,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-25T02:58:05.273866",
-        "pos": 89,
-        "note": "passed by Wavterminal"
-      }
-    ],
+    "521": [],
     "525": [
       {
         "time": "2023-10-08T17:15:13.982029",
@@ -17255,6 +14418,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 112,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 113,
+        "note": "GRIEF placed above"
       }
     ],
     "526": [
@@ -17577,6 +14745,11 @@
         "time": "2026-09-27T22:17:58.939331",
         "pos": 64,
         "note": "passed by Sevvend Clubstep"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 65,
+        "note": "GRIEF placed above"
       }
     ],
     "528": [
@@ -17784,6 +14957,11 @@
         "time": "2026-09-22T00:40:47.898592",
         "pos": 34,
         "note": "passed by cognitohazard"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 35,
+        "note": "GRIEF placed above"
       }
     ],
     "539": [
@@ -18326,530 +15504,14 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 122,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 123,
+        "note": "GRIEF placed above"
       }
     ],
-    "540": [
-      {
-        "time": "2023-11-19T23:56:33.170871",
-        "pos": 50,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2023-11-29T22:38:25.897771",
-        "pos": 51,
-        "note": "Frost Spirit placed above"
-      },
-      {
-        "time": "2023-12-06T00:31:40.093873",
-        "pos": 52,
-        "note": "Eyes in the Water placed above"
-      },
-      {
-        "time": "2023-12-11T21:54:54.161329",
-        "pos": 53,
-        "note": "SARYYX NEVER CLEAR placed above"
-      },
-      {
-        "time": "2023-12-16T23:00:01.994098",
-        "pos": 54,
-        "note": "Midnight placed above"
-      },
-      {
-        "time": "2023-12-22T20:13:18.456420",
-        "pos": 55,
-        "note": "Belladonna placed above"
-      },
-      {
-        "time": "2023-12-28T00:16:31.552736",
-        "pos": 56,
-        "note": "Crackhead Circles placed above"
-      },
-      {
-        "time": "2024-01-04T16:33:57.636243",
-        "pos": 57,
-        "note": "Jigsaw placed above"
-      },
-      {
-        "time": "2024-01-21T09:06:42.403552",
-        "pos": 58,
-        "note": "Deadlier Clubstep placed above"
-      },
-      {
-        "time": "2024-02-15T20:50:04.905578",
-        "pos": 57,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-16T21:45:59.031596",
-        "pos": 58,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-18T22:15:49.645241",
-        "pos": 59,
-        "note": "Tidal Wave placed above"
-      },
-      {
-        "time": "2024-04-08T23:23:07.776063",
-        "pos": 60,
-        "note": "passed by Lotus Flower"
-      },
-      {
-        "time": "2024-05-05T22:03:06.201186",
-        "pos": 45,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-05-24T17:03:33.671929",
-        "pos": 42,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-05-31T15:22:59.680847",
-        "pos": 43,
-        "note": "ATOMIC CANNON Mk III placed above"
-      },
-      {
-        "time": "2024-06-14T20:18:17.297592",
-        "pos": 44,
-        "note": "PSYCHOPATH placed above"
-      },
-      {
-        "time": "2024-06-30T23:20:30.410482",
-        "pos": 45,
-        "note": "passed by Terminal Rampancy"
-      },
-      {
-        "time": "2024-07-23T19:53:42.666502",
-        "pos": 46,
-        "note": "passed by NETWORK"
-      },
-      {
-        "time": "2024-08-15T20:23:16.197914",
-        "pos": 47,
-        "note": "Menace placed above"
-      },
-      {
-        "time": "2024-08-17T21:32:59.150466",
-        "pos": 48,
-        "note": "Viprin UFO placed above"
-      },
-      {
-        "time": "2024-08-25T21:23:08.291354",
-        "pos": 49,
-        "note": "Natural Disaster placed above"
-      },
-      {
-        "time": "2024-09-25T00:03:16.423974",
-        "pos": 50,
-        "note": "passed by ORDINARY"
-      },
-      {
-        "time": "2024-09-29T22:20:38.224134",
-        "pos": 51,
-        "note": "KOSETSU placed above"
-      },
-      {
-        "time": "2024-10-02T18:25:46.058862",
-        "pos": 52,
-        "note": "Coalescence placed above"
-      },
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 53,
-        "note": "Nullscapes placed above"
-      },
-      {
-        "time": "2024-10-30T02:26:55.892361",
-        "pos": 54,
-        "note": "The Yangire placed above"
-      },
-      {
-        "time": "2024-11-07T07:25:07.066233",
-        "pos": 47,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-11-11T19:06:03.696426",
-        "pos": 48,
-        "note": "Spectre placed above"
-      },
-      {
-        "time": "2024-11-12T20:35:17.207600",
-        "pos": 49,
-        "note": "BOOBAWAMBA placed above"
-      },
-      {
-        "time": "2024-11-19T01:19:23.586427",
-        "pos": 50,
-        "note": "Waterfall placed above"
-      },
-      {
-        "time": "2024-11-29T20:36:19.283078",
-        "pos": 51,
-        "note": "BPATA MPAKA placed above"
-      },
-      {
-        "time": "2024-12-23T17:23:52.057033",
-        "pos": 52,
-        "note": "Anathema placed above"
-      },
-      {
-        "time": "2024-12-24T19:29:26.183504",
-        "pos": 53,
-        "note": "passed by Coalescence"
-      },
-      {
-        "time": "2024-12-27T21:26:37.442328",
-        "pos": 54,
-        "note": "passed by ATOMIC CANNON Mk III"
-      },
-      {
-        "time": "2025-01-05T19:33:19.303323",
-        "pos": 55,
-        "note": "BEELINE placed above"
-      },
-      {
-        "time": "2025-01-22T22:09:36.642699",
-        "pos": 56,
-        "note": "Collapse placed above"
-      },
-      {
-        "time": "2025-02-16T19:55:24.607596",
-        "pos": 57,
-        "note": "The Plunge placed above"
-      },
-      {
-        "time": "2025-02-23T16:48:54.480468",
-        "pos": 58,
-        "note": "Subterminal Point placed above"
-      },
-      {
-        "time": "2025-03-13T19:27:02.274395",
-        "pos": 59,
-        "note": "andromeda placed above"
-      },
-      {
-        "time": "2025-03-13T20:49:18.677760",
-        "pos": 60,
-        "note": "Apocalyptic Trilogy placed above"
-      },
-      {
-        "time": "2025-03-13T21:33:34.896411",
-        "pos": 61,
-        "note": "Gaggatrondra placed above"
-      },
-      {
-        "time": "2025-04-04T23:48:09.392989",
-        "pos": 62,
-        "note": "Crystal Crusher placed above"
-      },
-      {
-        "time": "2025-04-20T20:07:47.909124",
-        "pos": 63,
-        "note": "Every End placed above"
-      },
-      {
-        "time": "2025-04-24T23:02:01.309912",
-        "pos": 54,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-04-27T23:12:24.992399",
-        "pos": 55,
-        "note": "passed by ORDINARY"
-      },
-      {
-        "time": "2025-05-21T20:42:52.276035",
-        "pos": 56,
-        "note": "passed by Coalescence"
-      },
-      {
-        "time": "2025-06-02T17:14:49.856218",
-        "pos": 55,
-        "note": "passed by BPATA MPAKA"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 56,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-07-26T16:58:17.713715",
-        "pos": 50,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-08-01T23:09:57.755169",
-        "pos": 51,
-        "note": "Operation Evolution placed above"
-      },
-      {
-        "time": "2025-08-06T12:03:08.956771",
-        "pos": 52,
-        "note": "Sevvend Clubstep placed above"
-      },
-      {
-        "time": "2025-09-11T20:01:08.045347",
-        "pos": 53,
-        "note": "passed by Damascus"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 54,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 55,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-10-26T22:11:24.736078",
-        "pos": 56,
-        "note": "Defeated Circles placed above"
-      },
-      {
-        "time": "2025-10-28T15:24:58.898085",
-        "pos": 57,
-        "note": "CONVULSION placed above"
-      },
-      {
-        "time": "2025-11-12T04:06:14.473392",
-        "pos": 58,
-        "note": "Loops of Fury placed above"
-      },
-      {
-        "time": "2025-11-13T21:00:15.686796",
-        "pos": 52,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-11-16T18:41:51.703292",
-        "pos": 51,
-        "note": "passed by PSYCHOPATH"
-      },
-      {
-        "time": "2025-12-13T19:09:33.271153",
-        "pos": 52,
-        "note": "Silentlocked placed above"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 53,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2025-12-26T16:59:28.007493",
-        "pos": 54,
-        "note": "CHIL placed above"
-      },
-      {
-        "time": "2026-01-02T17:25:12.238151",
-        "pos": 55,
-        "note": "Infinite Chaos placed above"
-      },
-      {
-        "time": "2026-01-08T19:19:16.431758",
-        "pos": 56,
-        "note": "The Salt Factory placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 57,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-16T06:37:35.265165",
-        "pos": 58,
-        "note": "Decks Dark placed above"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 59,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:29.136454",
-        "pos": 60,
-        "note": "passed by Through The Gates"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 61,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 62,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 63,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 64,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 65,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 66,
-        "note": "CHROMACAVE placed above"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 67,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 68,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 69,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 70,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 71,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 72,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 73,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-05-08T00:51:58.827418",
-        "pos": 74,
-        "note": "BRITNEY NO SCLEARS placed above"
-      },
-      {
-        "time": "2026-06-15T03:33:08.311811",
-        "pos": 75,
-        "note": "passed by Loops of Fury"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 76,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 77,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 78,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 79,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 78,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 79,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 80,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 81,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 82,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 83,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 84,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 85,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 86,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 87,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 88,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 89,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 90,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 91,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 92,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-25T02:58:05.273866",
-        "pos": 93,
-        "note": "passed by Wavterminal"
-      }
-    ],
+    "540": [],
     "545": [
       {
         "time": "2023-12-06T00:31:40.093873",
@@ -19095,6 +15757,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 48,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 49,
+        "note": "GRIEF placed above"
       }
     ],
     "547": [
@@ -19502,6 +16169,11 @@
         "time": "2026-09-25T02:58:05.273866",
         "pos": 91,
         "note": "passed by Wavterminal"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 92,
+        "note": "GRIEF placed above"
       }
     ],
     "549": [
@@ -19929,6 +16601,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 99,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 100,
+        "note": "GRIEF placed above"
       }
     ],
     "551": [
@@ -20271,6 +16948,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 78,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 79,
+        "note": "GRIEF placed above"
       }
     ],
     "555": [
@@ -20743,6 +17425,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 111,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 112,
+        "note": "GRIEF placed above"
       }
     ],
     "558": [
@@ -21085,6 +17772,11 @@
         "time": "2026-09-27T22:17:58.939331",
         "pos": 67,
         "note": "passed by Sevvend Clubstep"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 68,
+        "note": "GRIEF placed above"
       }
     ],
     "562": [
@@ -21122,6 +17814,11 @@
         "time": "2026-06-24T13:59:41.442142",
         "pos": 5,
         "note": "passed by Society"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 6,
+        "note": "GRIEF placed above"
       }
     ],
     "568": [
@@ -21624,6 +18321,11 @@
         "time": "2026-09-27T22:09:21.673758",
         "pos": 123,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 124,
+        "note": "GRIEF placed above"
       }
     ],
     "570": [
@@ -21976,6 +18678,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 102,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 103,
+        "note": "GRIEF placed above"
       }
     ],
     "572": [
@@ -22508,6 +19215,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 140,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 141,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 142,
+        "note": "GRIEF placed above"
       }
     ],
     "577": [
@@ -22640,6 +19357,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 25,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 26,
+        "note": "GRIEF placed above"
       }
     ],
     "578": [
@@ -23087,6 +19809,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 121,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 122,
+        "note": "GRIEF placed above"
       }
     ],
     "579": [
@@ -23479,6 +20206,11 @@
         "time": "2026-09-25T02:58:05.273866",
         "pos": 94,
         "note": "passed by Wavterminal"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 95,
+        "note": "GRIEF placed above"
       }
     ],
     "582": [
@@ -23966,6 +20698,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 132,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 133,
+        "note": "GRIEF placed above"
       }
     ],
     "583": [
@@ -24413,6 +21150,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 116,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 117,
+        "note": "GRIEF placed above"
       }
     ],
     "587": [
@@ -24635,6 +21377,11 @@
         "time": "2026-09-27T22:40:02.234926",
         "pos": 49,
         "note": "passed by Voltage"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 50,
+        "note": "GRIEF placed above"
       }
     ],
     "588": [
@@ -25052,70 +21799,14 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 109,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 110,
+        "note": "GRIEF placed above"
       }
     ],
-    "589": [
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 3,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2024-12-23T05:52:39.804599",
-        "pos": 4,
-        "note": "passed by Avernus"
-      },
-      {
-        "time": "2025-02-06T17:45:21.075511",
-        "pos": 2,
-        "note": "Moved"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 3,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 4,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 5,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 6,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 7,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 6,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 7,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 8,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 9,
-        "note": "Antarctic Lights placed above"
-      }
-    ],
+    "589": [],
     "590": [
       {
         "time": "2024-10-30T02:26:55.892361",
@@ -25441,6 +22132,11 @@
         "time": "2026-09-25T02:58:05.273866",
         "pos": 92,
         "note": "passed by Wavterminal"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 93,
+        "note": "GRIEF placed above"
       }
     ],
     "592": [
@@ -25548,6 +22244,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 24,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 25,
+        "note": "GRIEF placed above"
       }
     ],
     "594": [
@@ -25630,6 +22331,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 11,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 12,
+        "note": "GRIEF placed above"
       }
     ],
     "595": [
@@ -25997,6 +22703,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 110,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 111,
+        "note": "GRIEF placed above"
       }
     ],
     "599": [
@@ -26384,6 +23095,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 114,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 115,
+        "note": "GRIEF placed above"
       }
     ],
     "602": [
@@ -26501,6 +23217,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 21,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 22,
+        "note": "GRIEF placed above"
       }
     ],
     "605": [
@@ -26848,6 +23569,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 105,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 106,
+        "note": "GRIEF placed above"
       }
     ],
     "606": [
@@ -27140,6 +23866,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 80,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 81,
+        "note": "GRIEF placed above"
       }
     ],
     "610": [
@@ -27452,6 +24183,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 83,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 84,
+        "note": "GRIEF placed above"
       }
     ],
     "612": [
@@ -27594,6 +24330,11 @@
         "time": "2026-09-25T02:43:28.529255",
         "pos": 37,
         "note": "passed by Maniacal Chains"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 38,
+        "note": "GRIEF placed above"
       }
     ],
     "613": [
@@ -27691,6 +24432,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 18,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 19,
+        "note": "GRIEF placed above"
       }
     ],
     "614": [
@@ -27923,6 +24669,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 61,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 62,
+        "note": "GRIEF placed above"
       }
     ],
     "615": [
@@ -28190,6 +24941,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 69,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 70,
+        "note": "GRIEF placed above"
       }
     ],
     "617": [
@@ -28567,6 +25323,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 135,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 136,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 137,
+        "note": "GRIEF placed above"
       }
     ],
     "618": [
@@ -28984,6 +25750,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 139,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 140,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 141,
+        "note": "GRIEF placed above"
       }
     ],
     "620": [
@@ -29046,6 +25822,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 13,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 14,
+        "note": "GRIEF placed above"
       }
     ],
     "622": [
@@ -29353,6 +26134,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 101,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 102,
+        "note": "GRIEF placed above"
       }
     ],
     "623": [
@@ -29390,360 +26176,14 @@
         "time": "2026-08-23T17:13:05.534926",
         "pos": 3,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 4,
+        "note": "GRIEF placed above"
       }
     ],
-    "625": [
-      {
-        "time": "2025-07-11T16:05:30.978462",
-        "pos": 73,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2025-08-01T23:09:57.755169",
-        "pos": 74,
-        "note": "Operation Evolution placed above"
-      },
-      {
-        "time": "2025-08-02T01:19:37.670108",
-        "pos": 75,
-        "note": "Swing Swing placed above"
-      },
-      {
-        "time": "2025-08-06T12:03:08.956771",
-        "pos": 76,
-        "note": "Sevvend Clubstep placed above"
-      },
-      {
-        "time": "2025-09-06T21:21:15.858938",
-        "pos": 77,
-        "note": "THE JET ENGINE placed above"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 78,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-09-23T16:21:03.927854",
-        "pos": 77,
-        "note": "passed by Swing Swing"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 78,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-10-26T22:11:24.736078",
-        "pos": 79,
-        "note": "Defeated Circles placed above"
-      },
-      {
-        "time": "2025-10-28T15:24:58.898085",
-        "pos": 80,
-        "note": "CONVULSION placed above"
-      },
-      {
-        "time": "2025-11-12T04:06:14.473392",
-        "pos": 81,
-        "note": "Loops of Fury placed above"
-      },
-      {
-        "time": "2025-12-13T19:09:33.271153",
-        "pos": 82,
-        "note": "Silentlocked placed above"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 83,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2025-12-19T17:51:44.890516",
-        "pos": 84,
-        "note": "Wavterminal placed above"
-      },
-      {
-        "time": "2025-12-26T16:59:28.007493",
-        "pos": 85,
-        "note": "CHIL placed above"
-      },
-      {
-        "time": "2026-01-02T17:25:12.238151",
-        "pos": 86,
-        "note": "Infinite Chaos placed above"
-      },
-      {
-        "time": "2026-01-08T19:19:16.431758",
-        "pos": 87,
-        "note": "The Salt Factory placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 88,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-16T06:37:35.265165",
-        "pos": 89,
-        "note": "Decks Dark placed above"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 90,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-10T04:05:52.293479",
-        "pos": 91,
-        "note": "The Wonder of You placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:29.136454",
-        "pos": 92,
-        "note": "passed by Through The Gates"
-      },
-      {
-        "time": "2026-02-25T18:35:32.193796",
-        "pos": 93,
-        "note": "Levigo placed above"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 94,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 95,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 96,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 97,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 98,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 99,
-        "note": "CHROMACAVE placed above"
-      },
-      {
-        "time": "2026-03-24T02:21:06.400900",
-        "pos": 100,
-        "note": "passed by WOBBLING MACHINE"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 101,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 102,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-02T23:52:19.095725",
-        "pos": 103,
-        "note": "Diabolic ClubStep placed above"
-      },
-      {
-        "time": "2026-04-03T12:39:29.557649",
-        "pos": 104,
-        "note": "TrakineS placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 105,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-21T00:06:16.273498",
-        "pos": 106,
-        "note": "Dualist placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 107,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 108,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 109,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-04-30T19:25:15.033824",
-        "pos": 110,
-        "note": "DreamStep placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 111,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-05-08T00:51:58.827418",
-        "pos": 112,
-        "note": "BRITNEY NO SCLEARS placed above"
-      },
-      {
-        "time": "2026-06-03T23:12:32.744265",
-        "pos": 113,
-        "note": "ROCKBOTTOM placed above"
-      },
-      {
-        "time": "2026-06-09T01:40:51.753480",
-        "pos": 114,
-        "note": "Trickshot placed above"
-      },
-      {
-        "time": "2026-06-13T22:51:46.934121",
-        "pos": 115,
-        "note": "Between Duality placed above"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 116,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 117,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 118,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 119,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 118,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 119,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 120,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 121,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-24T19:41:35.749964",
-        "pos": 122,
-        "note": "Doppler placed above"
-      },
-      {
-        "time": "2026-07-25T20:59:07.388535",
-        "pos": 121,
-        "note": "passed by ROCKBOTTOM"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 122,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-07-29T21:44:44.747982",
-        "pos": 123,
-        "note": "idontknowwhatthisis placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 124,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 125,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 126,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 127,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 128,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 129,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-21T20:35:19.901106",
-        "pos": 130,
-        "note": "Sanctity placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 131,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 132,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 133,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-08-29T16:11:00.023739",
-        "pos": 134,
-        "note": "SPIRIT OVERCLOCK placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 135,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-12T22:00:35.784974",
-        "pos": 136,
-        "note": "Heavenly Sakupen placed above"
-      }
-    ],
+    "625": [],
     "627": [
       {
         "time": "2025-08-01T23:09:57.755169",
@@ -29999,8 +26439,14 @@
         "time": "2026-09-25T02:58:05.273866",
         "pos": 88,
         "note": "passed by Wavterminal"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 89,
+        "note": "GRIEF placed above"
       }
     ],
+    "628": [],
     "630": [
       {
         "time": "2025-08-06T12:03:08.956771",
@@ -30211,6 +26657,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 70,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 71,
+        "note": "GRIEF placed above"
       }
     ],
     "631": [
@@ -30613,6 +27064,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 144,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 145,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 146,
+        "note": "GRIEF placed above"
       }
     ],
     "633": [
@@ -30890,6 +27351,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 97,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 98,
+        "note": "GRIEF placed above"
       }
     ],
     "635": [
@@ -30912,6 +27378,11 @@
         "time": "2026-06-24T13:59:41.442142",
         "pos": 2,
         "note": "passed by Society"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 3,
+        "note": "GRIEF placed above"
       }
     ],
     "636": [
@@ -31254,6 +27725,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 141,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 142,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 143,
+        "note": "GRIEF placed above"
       }
     ],
     "637": [
@@ -31636,6 +28117,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 134,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 135,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 136,
+        "note": "GRIEF placed above"
       }
     ],
     "638": [
@@ -31668,6 +28159,11 @@
         "time": "2026-08-23T17:13:05.534926",
         "pos": 4,
         "note": "passed by Amethyst"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 5,
+        "note": "GRIEF placed above"
       }
     ],
     "639": [
@@ -31745,6 +28241,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 27,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 28,
+        "note": "GRIEF placed above"
       }
     ],
     "640": [
@@ -31917,6 +28418,11 @@
         "time": "2026-09-27T22:40:02.234926",
         "pos": 50,
         "note": "passed by Voltage"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 51,
+        "note": "GRIEF placed above"
       }
     ],
     "641": [
@@ -32279,6 +28785,21 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 147,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:26:24.707729",
+        "pos": 148,
+        "note": "passed by Starlight Summit"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 149,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 150,
+        "note": "GRIEF placed above"
       }
     ],
     "642": [
@@ -32511,6 +29032,11 @@
         "time": "2026-09-27T22:17:58.939331",
         "pos": 66,
         "note": "passed by Sevvend Clubstep"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 67,
+        "note": "GRIEF placed above"
       }
     ],
     "646": [
@@ -32843,6 +29369,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 145,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 146,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 147,
+        "note": "GRIEF placed above"
       }
     ],
     "648": [
@@ -32985,6 +29521,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 47,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 48,
+        "note": "GRIEF placed above"
       }
     ],
     "649": [
@@ -33057,6 +29598,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 20,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 21,
+        "note": "GRIEF placed above"
       }
     ],
     "650": [
@@ -33289,6 +29835,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 85,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 86,
+        "note": "GRIEF placed above"
       }
     ],
     "651": [
@@ -33576,6 +30127,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 137,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 138,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 139,
+        "note": "GRIEF placed above"
       }
     ],
     "652": [
@@ -33678,6 +30239,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 41,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 42,
+        "note": "GRIEF placed above"
       }
     ],
     "653": [
@@ -33890,6 +30456,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 87,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 88,
+        "note": "GRIEF placed above"
       }
     ],
     "654": [
@@ -34177,6 +30748,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 143,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 144,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 145,
+        "note": "GRIEF placed above"
       }
     ],
     "655": [
@@ -34324,303 +30905,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 45,
         "note": "passed by Prismline"
-      }
-    ],
-    "656": [
-      {
-        "time": "2026-01-12T15:01:13.565424",
-        "pos": 98,
-        "note": "placed on the list"
       },
       {
-        "time": "2026-01-13T04:38:23.324082",
-        "pos": 99,
-        "note": "Time Lapse placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 100,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-16T06:37:35.265165",
-        "pos": 101,
-        "note": "Decks Dark placed above"
-      },
-      {
-        "time": "2026-01-18T21:21:08.913248",
-        "pos": 102,
-        "note": "passed by azure blast"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 103,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-10T04:05:52.293479",
-        "pos": 104,
-        "note": "The Wonder of You placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:00.661288",
-        "pos": 105,
-        "note": "Through The Gates placed above"
-      },
-      {
-        "time": "2026-02-24T21:41:58.991549",
-        "pos": 106,
-        "note": "paranoia placed above"
-      },
-      {
-        "time": "2026-02-25T18:35:32.193796",
-        "pos": 107,
-        "note": "Levigo placed above"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 108,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 109,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 110,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 111,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 112,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 113,
-        "note": "CHROMACAVE placed above"
-      },
-      {
-        "time": "2026-03-19T17:31:32.116022",
-        "pos": 114,
-        "note": "passed by VOID"
-      },
-      {
-        "time": "2026-03-20T01:18:12.792602",
-        "pos": 113,
-        "note": "passed by Time Lapse"
-      },
-      {
-        "time": "2026-03-24T02:21:06.400900",
-        "pos": 114,
-        "note": "passed by WOBBLING MACHINE"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 115,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 116,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-02T23:52:19.095725",
-        "pos": 117,
-        "note": "Diabolic ClubStep placed above"
-      },
-      {
-        "time": "2026-04-03T12:39:29.557649",
-        "pos": 118,
-        "note": "TrakineS placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 119,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-21T00:06:16.273498",
-        "pos": 120,
-        "note": "Dualist placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 121,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 122,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 123,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-04-30T19:25:15.033824",
-        "pos": 124,
-        "note": "DreamStep placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 125,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-05-08T00:51:58.827418",
-        "pos": 126,
-        "note": "BRITNEY NO SCLEARS placed above"
-      },
-      {
-        "time": "2026-06-03T23:12:32.744265",
-        "pos": 127,
-        "note": "ROCKBOTTOM placed above"
-      },
-      {
-        "time": "2026-06-09T01:40:51.753480",
-        "pos": 128,
-        "note": "Trickshot placed above"
-      },
-      {
-        "time": "2026-06-13T22:51:46.934121",
-        "pos": 129,
-        "note": "Between Duality placed above"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 130,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 131,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 132,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 133,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 132,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 133,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 134,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 135,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-24T19:41:35.749964",
-        "pos": 136,
-        "note": "Doppler placed above"
-      },
-      {
-        "time": "2026-07-25T20:59:07.388535",
-        "pos": 135,
-        "note": "passed by ROCKBOTTOM"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 136,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-07-29T21:44:44.747982",
-        "pos": 137,
-        "note": "idontknowwhatthisis placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 138,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 139,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 140,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 141,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 142,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 143,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-21T20:35:19.901106",
-        "pos": 144,
-        "note": "Sanctity placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 145,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 146,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 147,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-08-29T16:11:00.023739",
-        "pos": 148,
-        "note": "SPIRIT OVERCLOCK placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 149,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-12T22:00:35.784974",
-        "pos": 150,
-        "note": "Heavenly Sakupen placed above"
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 46,
+        "note": "GRIEF placed above"
       }
     ],
     "658": [
@@ -34763,6 +31052,11 @@
         "time": "2026-09-27T21:02:49.053123",
         "pos": 55,
         "note": "passed by CONVULSION"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 56,
+        "note": "GRIEF placed above"
       }
     ],
     "659": [
@@ -34960,45 +31254,14 @@
         "time": "2026-09-25T02:58:05.273866",
         "pos": 90,
         "note": "passed by Wavterminal"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 91,
+        "note": "GRIEF placed above"
       }
     ],
-    "660": [
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 6,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 7,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 8,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 7,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 8,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 9,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 10,
-        "note": "Antarctic Lights placed above"
-      }
-    ],
+    "660": [],
     "662": [
       {
         "time": "2026-02-10T04:05:52.293479",
@@ -35219,6 +31482,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 115,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 116,
+        "note": "GRIEF placed above"
       }
     ],
     "663": [
@@ -35356,6 +31624,11 @@
         "time": "2026-09-27T22:40:02.234926",
         "pos": 51,
         "note": "passed by Voltage"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 52,
+        "note": "GRIEF placed above"
       }
     ],
     "664": [
@@ -35603,6 +31876,16 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 138,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 139,
+        "note": "adjunto adnominal placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 140,
+        "note": "GRIEF placed above"
       }
     ],
     "665": [
@@ -35825,6 +32108,11 @@
         "time": "2026-09-27T22:09:21.673758",
         "pos": 126,
         "note": "passed by ATOMIC CANNON Mk III"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 127,
+        "note": "GRIEF placed above"
       }
     ],
     "667": [
@@ -35947,6 +32235,11 @@
         "time": "2026-09-27T22:40:02.234926",
         "pos": 53,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 54,
+        "note": "GRIEF placed above"
       }
     ],
     "668": [
@@ -36024,6 +32317,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 32,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 33,
+        "note": "GRIEF placed above"
       }
     ],
     "669": [
@@ -36086,6 +32384,11 @@
         "time": "2026-09-17T03:51:54.220980",
         "pos": 14,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 15,
+        "note": "GRIEF placed above"
       }
     ],
     "670": [
@@ -36233,6 +32536,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 75,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 76,
+        "note": "GRIEF placed above"
       }
     ],
     "671": [
@@ -36260,6 +32568,11 @@
         "time": "2026-07-26T20:32:20.322484",
         "pos": 7,
         "note": "Green Bullet placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 8,
+        "note": "GRIEF placed above"
       }
     ],
     "672": [
@@ -36407,6 +32720,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 82,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 83,
+        "note": "GRIEF placed above"
       }
     ],
     "673": [
@@ -36509,135 +32827,14 @@
         "time": "2026-09-27T21:02:49.053123",
         "pos": 54,
         "note": "passed by CONVULSION"
-      }
-    ],
-    "674": [
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 49,
-        "note": "placed on the list"
       },
       {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 50,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 51,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 52,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 53,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-06-15T03:33:08.311811",
-        "pos": 54,
-        "note": "passed by Loops of Fury"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
+        "time": "2026-10-05T03:55:51.046657",
         "pos": 55,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 56,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 57,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 58,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 57,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 58,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 59,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 60,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 61,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 62,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 63,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 64,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 65,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 66,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 67,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 68,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-20T20:57:14.463489",
-        "pos": 69,
-        "note": "passed by Prismline"
-      },
-      {
-        "time": "2026-09-28T20:33:55.736884",
-        "pos": 70,
-        "note": "passed by Gaggatrondra"
-      },
-      {
-        "time": "2026-09-28T22:59:53.253722",
-        "pos": 71,
-        "note": "passed by BRITNEY NO SCLEARS"
+        "note": "GRIEF placed above"
       }
     ],
+    "674": [],
     "675": [
       {
         "time": "2026-04-02T23:52:19.095725",
@@ -36788,6 +32985,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 104,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 105,
+        "note": "GRIEF placed above"
       }
     ],
     "676": [
@@ -36930,6 +33132,11 @@
         "time": "2026-09-25T02:58:05.273866",
         "pos": 95,
         "note": "passed by Wavterminal"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 96,
+        "note": "GRIEF placed above"
       }
     ],
     "677": [
@@ -37012,6 +33219,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 42,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 43,
+        "note": "GRIEF placed above"
       }
     ],
     "678": [
@@ -37164,6 +33376,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 117,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 118,
+        "note": "GRIEF placed above"
       }
     ],
     "679": [
@@ -37256,6 +33473,11 @@
         "time": "2026-09-21T20:29:30.365930",
         "pos": 39,
         "note": "passed by Sacrifice"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 40,
+        "note": "GRIEF placed above"
       }
     ],
     "680": [
@@ -37298,6 +33520,11 @@
         "time": "2026-09-17T03:51:41.063567",
         "pos": 17,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 18,
+        "note": "GRIEF placed above"
       }
     ],
     "681": [
@@ -37415,6 +33642,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 84,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 85,
+        "note": "GRIEF placed above"
       }
     ],
     "682": [
@@ -37552,6 +33784,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 106,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 107,
+        "note": "GRIEF placed above"
       }
     ],
     "683": [
@@ -37634,6 +33871,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 58,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 59,
+        "note": "GRIEF placed above"
       }
     ],
     "684": [
@@ -37751,6 +33993,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 68,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 69,
+        "note": "GRIEF placed above"
       }
     ],
     "687": [
@@ -37853,6 +34100,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 98,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 99,
+        "note": "GRIEF placed above"
       }
     ],
     "690": [
@@ -37965,6 +34217,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 113,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 114,
+        "note": "GRIEF placed above"
       }
     ],
     "695": [
@@ -38052,6 +34309,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 46,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 47,
+        "note": "GRIEF placed above"
       }
     ],
     "696": [
@@ -38094,6 +34356,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 19,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 20,
+        "note": "GRIEF placed above"
       }
     ],
     "697": [
@@ -38156,6 +34423,11 @@
         "time": "2026-09-25T02:43:28.529255",
         "pos": 35,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 36,
+        "note": "GRIEF placed above"
       }
     ],
     "698": [
@@ -38178,6 +34450,11 @@
         "time": "2026-06-24T13:59:41.442142",
         "pos": 1,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 2,
+        "note": "GRIEF placed above"
       }
     ],
     "699": [
@@ -38250,6 +34527,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 73,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 74,
+        "note": "GRIEF placed above"
       }
     ],
     "700": [
@@ -38267,6 +34549,11 @@
         "time": "2026-08-22T19:08:14.006020",
         "pos": 12,
         "note": "Antarctic Lights placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 13,
+        "note": "GRIEF placed above"
       }
     ],
     "701": [
@@ -38329,6 +34616,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 100,
         "note": "FOREST OF SPIKES placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 101,
+        "note": "GRIEF placed above"
       }
     ],
     "702": [
@@ -38336,6 +34628,11 @@
         "time": "2026-07-26T20:32:20.322484",
         "pos": 6,
         "note": "placed on the list"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 7,
+        "note": "GRIEF placed above"
       }
     ],
     "703": [
@@ -38408,6 +34705,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 131,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 132,
+        "note": "GRIEF placed above"
       }
     ],
     "704": [
@@ -38425,6 +34727,11 @@
         "time": "2026-09-17T03:51:41.063567",
         "pos": 16,
         "note": "passed by Penumbral"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 17,
+        "note": "GRIEF placed above"
       }
     ],
     "705": [
@@ -38457,6 +34764,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 56,
         "note": "passed by Prismline"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 57,
+        "note": "GRIEF placed above"
       }
     ],
     "706": [
@@ -38489,6 +34801,11 @@
         "time": "2026-09-21T20:29:41.057216",
         "pos": 31,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 32,
+        "note": "GRIEF placed above"
       }
     ],
     "707": [
@@ -38521,6 +34838,11 @@
         "time": "2026-09-27T22:17:58.939331",
         "pos": 63,
         "note": "passed by Sevvend Clubstep"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 64,
+        "note": "GRIEF placed above"
       }
     ],
     "708": [
@@ -38553,6 +34875,11 @@
         "time": "2026-09-20T20:57:14.463489",
         "pos": 43,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 44,
+        "note": "GRIEF placed above"
       }
     ],
     "709": [
@@ -38580,6 +34907,11 @@
         "time": "2026-09-22T00:40:47.898592",
         "pos": 33,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 34,
+        "note": "GRIEF placed above"
       }
     ],
     "710": [
@@ -38607,15 +34939,14 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 118,
         "note": "FOREST OF SPIKES placed above"
-      }
-    ],
-    "711": [
+      },
       {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 8,
-        "note": "placed on the list"
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 119,
+        "note": "GRIEF placed above"
       }
     ],
+    "711": [],
     "712": [
       {
         "time": "2026-08-23T13:58:25.810329",
@@ -38636,6 +34967,11 @@
         "time": "2026-09-28T22:59:53.253722",
         "pos": 77,
         "note": "passed by BRITNEY NO SCLEARS"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 78,
+        "note": "GRIEF placed above"
       }
     ],
     "713": [
@@ -38658,6 +34994,11 @@
         "time": "2026-09-27T22:17:58.939331",
         "pos": 65,
         "note": "passed by Sevvend Clubstep"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 66,
+        "note": "GRIEF placed above"
       }
     ],
     "714": [
@@ -38675,6 +35016,11 @@
         "time": "2026-09-12T22:00:35.784974",
         "pos": 129,
         "note": "Heavenly Sakupen placed above"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 130,
+        "note": "GRIEF placed above"
       }
     ],
     "715": [
@@ -38682,6 +35028,11 @@
         "time": "2026-09-02T21:28:58.958576",
         "pos": 28,
         "note": "placed on the list"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 29,
+        "note": "GRIEF placed above"
       }
     ],
     "716": [
@@ -38694,6 +35045,30 @@
         "time": "2026-09-27T22:09:21.673758",
         "pos": 127,
         "note": "passed by ATOMIC CANNON Mk III"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 128,
+        "note": "GRIEF placed above"
+      }
+    ],
+    "723": [
+      {
+        "time": "2026-10-05T03:42:39.529414",
+        "pos": 134,
+        "note": "placed on the list"
+      },
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 135,
+        "note": "GRIEF placed above"
+      }
+    ],
+    "728": [
+      {
+        "time": "2026-10-05T03:55:51.046657",
+        "pos": 1,
+        "note": "placed on the list"
       }
     ]
   }
