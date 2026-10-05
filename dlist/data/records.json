@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T12:11:43Z",
+  "updated_at": "2026-10-05T15:12:54Z",
   "demons": {
     "250": [
       {
@@ -6922,6 +6922,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=IbD9LwQ9bS0"
+      },
+      {
+        "player": {
+          "id": 53270,
+          "name": "Hazel_"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MfbIBThdn7o"
       },
       {
         "player": {
@@ -82906,6 +82915,15 @@
       },
       {
         "player": {
+          "id": 57417,
+          "name": "[RF] Trixsm"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7olYESIqPlQ"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -92958,6 +92976,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=FBBlp82RYUk"
+      },
+      {
+        "player": {
+          "id": 72149,
+          "name": "Scabba"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=P0W1B7up0Ro"
       },
       {
         "player": {
@@ -107824,6 +107851,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=aNUC6T27PzE"
+      },
+      {
+        "player": {
+          "id": 51345,
+          "name": "[GLUKE] MayoYoma"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VYYWvNWDxQI"
       }
     ],
     "667": [
@@ -110324,6 +110360,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=4rjCApNnFn8"
+      },
+      {
+        "player": {
+          "id": 36994,
+          "name": "[YAHO] DNM121"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uhm9DeG36B8"
       },
       {
         "player": {
