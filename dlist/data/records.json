@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:37:33Z",
+  "updated_at": "2026-10-05T00:10:41Z",
   "demons": {
     "238": [
       {
@@ -67489,6 +67489,15 @@
       },
       {
         "player": {
+          "id": 65945,
+          "name": "PurpleCloud5"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VUTUDqAIQcI"
+      },
+      {
+        "player": {
           "id": 58663,
           "name": "[SALAA] Vallufinland"
         },
@@ -71931,6 +71940,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=qZKYlIVhVy0"
+      },
+      {
+        "player": {
+          "id": 50457,
+          "name": "[ILUV] GDmuno"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8d3OOoXnXCk"
       },
       {
         "player": {
@@ -103058,6 +103076,15 @@
       },
       {
         "player": {
+          "id": 41808,
+          "name": "Kenarium"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0Lq1DksP9p8"
+      },
+      {
+        "player": {
           "id": 72242,
           "name": "Hotdoggs"
         },
@@ -112961,6 +112988,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Wm6XAB7JyS4"
+      },
+      {
+        "player": {
+          "id": 45049,
+          "name": "Avifa"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wQnQzOT_iWA"
       }
     ],
     "673": [
@@ -116401,6 +116437,15 @@
         "progress": 50,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=fA2E2kZRa2M"
+      },
+      {
+        "player": {
+          "id": 60733,
+          "name": "[MAOR] Beto"
+        },
+        "progress": 43,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ESzoMGHduks"
       },
       {
         "player": {
