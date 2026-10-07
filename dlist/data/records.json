@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T09:11:23Z",
+  "updated_at": "2026-10-07T12:12:04Z",
   "demons": {
     "250": [
       {
@@ -111935,15 +111935,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=D6me0bTK3LA"
-      },
-      {
-        "player": {
-          "id": 60441,
-          "name": "[TSC] destr"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=xbj9SbgCB-o"
       },
       {
         "player": {
