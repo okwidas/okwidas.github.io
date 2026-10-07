@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T21:09:10Z",
+  "updated_at": "2026-10-07T00:10:14Z",
   "demons": {
     "250": [
       {
@@ -24843,21 +24843,21 @@
       },
       {
         "player": {
+          "id": 53407,
+          "name": "[FLEUR] DraxitIII"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_ks90hxKcu0"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
         "progress": 97,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=NC6zxgVHR6M"
-      },
-      {
-        "player": {
-          "id": 53407,
-          "name": "[FLEUR] DraxitIII"
-        },
-        "progress": 95,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=du2nfl_l9wA"
       },
       {
         "player": {
@@ -28802,6 +28802,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Fs_Qlft1QWQ"
+      },
+      {
+        "player": {
+          "id": 70599,
+          "name": "larrythecarry"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MRCWEI0TSJE"
       },
       {
         "player": {
@@ -50760,21 +50769,30 @@
       },
       {
         "player": {
+          "id": 58872,
+          "name": "lisyteam1230"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=oAJmhTu-2-0"
+      },
+      {
+        "player": {
+          "id": 61768,
+          "name": "SkyReox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0iPA0bNZmhQ"
+      },
+      {
+        "player": {
           "id": 55204,
           "name": "xXMasterXxRedux"
         },
         "progress": 84,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=W49ETqZN-hA"
-      },
-      {
-        "player": {
-          "id": 58872,
-          "name": "lisyteam1230"
-        },
-        "progress": 84,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=i4TP5Ld9Dcc"
       },
       {
         "player": {
@@ -89754,6 +89772,24 @@
       },
       {
         "player": {
+          "id": 51906,
+          "name": "[ILUV] funfire34"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Mxw7xZ8stZo"
+      },
+      {
+        "player": {
+          "id": 57454,
+          "name": "GuitGuit"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mbBqyyrylSk"
+      },
+      {
+        "player": {
           "id": 54737,
           "name": "[ILUV] hanni"
         },
@@ -104816,6 +104852,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=po3KmLdMhuE"
+      },
+      {
+        "player": {
+          "id": 51906,
+          "name": "[ILUV] funfire34"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qHflS8Kh4SA"
       },
       {
         "player": {
