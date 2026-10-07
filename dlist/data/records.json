@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T12:12:04Z",
+  "updated_at": "2026-10-07T18:12:52Z",
   "demons": {
     "250": [
       {
@@ -13179,15 +13179,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=LovS3NgcY_4"
-      },
-      {
-        "player": {
-          "id": 58393,
-          "name": "TheOblivionGD"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=nSXjUH_0cq0"
       },
       {
         "player": {
@@ -33806,15 +33797,6 @@
       },
       {
         "player": {
-          "id": 58393,
-          "name": "TheOblivionGD"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=r-RK5seivmA"
-      },
-      {
-        "player": {
           "id": 58334,
           "name": "[OX] CursedCat"
         },
@@ -39461,15 +39443,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nQzc1OP6nyI"
-      },
-      {
-        "player": {
-          "id": 58393,
-          "name": "TheOblivionGD"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=9HTtSkPFogk"
       },
       {
         "player": {
@@ -48463,15 +48436,6 @@
       },
       {
         "player": {
-          "id": 58393,
-          "name": "TheOblivionGD"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=_UhBYfe1NE0"
-      },
-      {
-        "player": {
           "id": 56437,
           "name": "[YAHO] Pumben"
         },
@@ -50712,15 +50676,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=snVo5kN496Q"
-      },
-      {
-        "player": {
-          "id": 58393,
-          "name": "TheOblivionGD"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=NlNvSLPNbnQ"
       },
       {
         "player": {
@@ -65275,15 +65230,6 @@
       },
       {
         "player": {
-          "id": 58393,
-          "name": "TheOblivionGD"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=NEYsS3GYIJ8"
-      },
-      {
-        "player": {
           "id": 64902,
           "name": "Soletti"
         },
@@ -69269,7 +69215,7 @@
       {
         "player": {
           "id": 69274,
-          "name": "[YOK] Schlomp"
+          "name": "Schlomp"
         },
         "progress": 100,
         "status": "approved",
@@ -101314,7 +101260,7 @@
       {
         "player": {
           "id": 69274,
-          "name": "[YOK] Schlomp"
+          "name": "Schlomp"
         },
         "progress": 100,
         "status": "approved",
