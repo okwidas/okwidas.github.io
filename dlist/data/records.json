@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T03:13:56Z",
+  "updated_at": "2026-10-07T06:10:23Z",
   "demons": {
     "250": [
       {
@@ -67367,6 +67367,15 @@
       },
       {
         "player": {
+          "id": 62084,
+          "name": "iruseu"
+        },
+        "progress": 81,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MOt_Mxk1J_c"
+      },
+      {
+        "player": {
           "id": 60043,
           "name": "Gamingbyte"
         },
@@ -110444,6 +110453,15 @@
       },
       {
         "player": {
+          "id": 65801,
+          "name": "Senko"
+        },
+        "progress": 87,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LMiH4xGaQOk"
+      },
+      {
+        "player": {
           "id": 59219,
           "name": "[CHIL] EmeraldKnight"
         },
@@ -110468,15 +110486,6 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=VL8dIaR_Fwo"
-      },
-      {
-        "player": {
-          "id": 65801,
-          "name": "Senko"
-        },
-        "progress": 67,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=eMjwSjhNqlg"
       },
       {
         "player": {
