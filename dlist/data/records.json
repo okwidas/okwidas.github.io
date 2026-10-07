@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T06:10:23Z",
+  "updated_at": "2026-10-07T09:11:23Z",
   "demons": {
     "250": [
       {
@@ -24151,7 +24151,7 @@
       {
         "player": {
           "id": 63392,
-          "name": "caillou"
+          "name": "Bennu"
         },
         "progress": 100,
         "status": "approved",
@@ -50653,7 +50653,7 @@
       {
         "player": {
           "id": 63392,
-          "name": "caillou"
+          "name": "Bennu"
         },
         "progress": 100,
         "status": "approved",
@@ -62895,6 +62895,15 @@
       },
       {
         "player": {
+          "id": 69450,
+          "name": "L3S"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6NdO9OftpBg"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -66936,7 +66945,7 @@
       {
         "player": {
           "id": 63392,
-          "name": "caillou"
+          "name": "Bennu"
         },
         "progress": 100,
         "status": "approved",
@@ -107974,7 +107983,7 @@
       {
         "player": {
           "id": 63392,
-          "name": "caillou"
+          "name": "Bennu"
         },
         "progress": 100,
         "status": "approved",
@@ -111929,6 +111938,15 @@
       },
       {
         "player": {
+          "id": 60441,
+          "name": "[TSC] destr"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xbj9SbgCB-o"
+      },
+      {
+        "player": {
           "id": 57818,
           "name": "Laban"
         },
@@ -112859,7 +112877,7 @@
       {
         "player": {
           "id": 63392,
-          "name": "caillou"
+          "name": "Bennu"
         },
         "progress": 73,
         "status": "approved",
@@ -113172,6 +113190,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YbWrZSFtuIM"
+      },
+      {
+        "player": {
+          "id": 58686,
+          "name": "Ares"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZReH5kuB4H0"
       }
     ],
     "723": [],
