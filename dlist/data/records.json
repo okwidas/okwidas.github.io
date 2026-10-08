@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:12:09Z",
+  "updated_at": "2026-10-08T12:11:31Z",
   "demons": {
     "250": [
       {
@@ -113165,7 +113165,17 @@
         "video": "https://www.youtube.com/watch?v=ZReH5kuB4H0"
       }
     ],
-    "723": [],
+    "723": [
+      {
+        "player": {
+          "id": 61696,
+          "name": "[j] Rilso"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lr4uZXr0buk"
+      }
+    ],
     "728": []
   }
 }
