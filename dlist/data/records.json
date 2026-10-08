@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T15:11:57Z",
+  "updated_at": "2026-10-08T18:11:31Z",
   "demons": {
     "250": [
       {
@@ -15090,6 +15090,15 @@
       },
       {
         "player": {
+          "id": 67492,
+          "name": "Switch"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=30Jfhj1ZOjU"
+      },
+      {
+        "player": {
           "id": 55753,
           "name": "[999] Thisisfcp"
         },
@@ -28973,6 +28982,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0xqzdlGfhzU"
+      },
+      {
+        "player": {
+          "id": 72322,
+          "name": "orbPT"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=f3W9mdVCdYg"
       }
     ],
     "383": [
@@ -43451,6 +43469,15 @@
       },
       {
         "player": {
+          "id": 58193,
+          "name": "[JORB] JoRayBeast11"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Iec7eBu7R3Y"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -49999,6 +50026,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=b6RRzTET4ak"
+      },
+      {
+        "player": {
+          "id": 72272,
+          "name": "[GBLUD] Zahgee"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=dWArZHTf79k"
       },
       {
         "player": {
@@ -73909,6 +73945,15 @@
       },
       {
         "player": {
+          "id": 70418,
+          "name": "[didy] taro"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UdvRHNj0MVc"
+      },
+      {
+        "player": {
           "id": 59690,
           "name": "ZtxGMD"
         },
@@ -87723,6 +87768,15 @@
       },
       {
         "player": {
+          "id": 61077,
+          "name": "ImCax"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yM7FGsN4AlI"
+      },
+      {
+        "player": {
           "id": 53557,
           "name": "[USSR] Внибрачьная Систренка Эйриле"
         },
@@ -99356,6 +99410,15 @@
       },
       {
         "player": {
+          "id": 58844,
+          "name": "J0NTAN"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=vDPTgzQxoII"
+      },
+      {
+        "player": {
           "id": 61544,
           "name": "almond"
         },
@@ -108144,6 +108207,15 @@
       },
       {
         "player": {
+          "id": 66050,
+          "name": "Henrooskis"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=3t6f9gmCU9w"
+      },
+      {
+        "player": {
           "id": 57417,
           "name": "[RF] Trixsm"
         },
@@ -112687,6 +112759,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hzGT6mZT5w8"
+      },
+      {
+        "player": {
+          "id": 61856,
+          "name": "Xurido"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QD16hdDzk8Y"
       },
       {
         "player": {
