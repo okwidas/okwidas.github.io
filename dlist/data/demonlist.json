@@ -1805,27 +1805,8 @@
     "level_id": 105593215
   },
   {
-    "id": 676,
-    "position": 96,
-    "name": "TrakineS",
-    "requirement": 77,
-    "video": "https://www.youtube.com/watch?v=oKuoI-_JzKU",
-    "thumbnail": "https://i.ytimg.com/vi/oKuoI-_JzKU/mqdefault.jpg",
-    "publisher": {
-      "id": 68364,
-      "name": "Laranjoo",
-      "banned": false
-    },
-    "verifier": {
-      "id": 53180,
-      "name": "[WBT] mariner",
-      "banned": false
-    },
-    "level_id": 125788781
-  },
-  {
     "id": 469,
-    "position": 97,
+    "position": 96,
     "name": "Sinister Silence",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=dJCdTMQxHMo",
@@ -1844,7 +1825,7 @@
   },
   {
     "id": 633,
-    "position": 98,
+    "position": 97,
     "name": "THE JET ENGINE",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=8Q20XU__LoQ",
@@ -1863,7 +1844,7 @@
   },
   {
     "id": 687,
-    "position": 99,
+    "position": 98,
     "name": "Trickshot",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=IMLjnmnIWRc",
@@ -1882,7 +1863,7 @@
   },
   {
     "id": 549,
-    "position": 100,
+    "position": 99,
     "name": "Midnight",
     "requirement": 74,
     "video": "https://www.youtube.com/watch?v=NhkN_a9cNi8",
@@ -1901,7 +1882,7 @@
   },
   {
     "id": 701,
-    "position": 101,
+    "position": 100,
     "name": "Doppler",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=xSP43i61SLM",
@@ -1920,7 +1901,7 @@
   },
   {
     "id": 622,
-    "position": 102,
+    "position": 101,
     "name": "Cimmerian Shade",
     "requirement": 81,
     "video": "https://www.youtube.com/watch?v=lUNvV1k19HA",
@@ -1939,7 +1920,7 @@
   },
   {
     "id": 570,
-    "position": 103,
+    "position": 102,
     "name": "PSYCHOPATH",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=1luL7tTE8p8",
@@ -1955,6 +1936,25 @@
       "banned": true
     },
     "level_id": 103925676
+  },
+  {
+    "id": 676,
+    "position": 103,
+    "name": "TrakineS",
+    "requirement": 77,
+    "video": "https://www.youtube.com/watch?v=oKuoI-_JzKU",
+    "thumbnail": "https://i.ytimg.com/vi/oKuoI-_JzKU/mqdefault.jpg",
+    "publisher": {
+      "id": 68364,
+      "name": "Laranjoo",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53180,
+      "name": "[WBT] mariner",
+      "banned": false
+    },
+    "level_id": 125788781
   },
   {
     "id": 383,

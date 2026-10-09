@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:11:48Z",
+  "updated_at": "2026-10-09T12:11:37Z",
   "demons": {
     "250": [
       {
@@ -77525,6 +77525,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7qJWhe9XJmo"
+      },
+      {
+        "player": {
+          "id": 61529,
+          "name": "Jorvan765"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IppHzJcSLYM"
       },
       {
         "player": {
