@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T03:10:01Z",
+  "updated_at": "2026-10-09T06:12:35Z",
   "demons": {
     "250": [
       {
@@ -32238,6 +32238,15 @@
       },
       {
         "player": {
+          "id": 64020,
+          "name": "[CBFA] Kiysa"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yrJpiCXWACs"
+      },
+      {
+        "player": {
           "id": 60705,
           "name": "Floccu"
         },
@@ -32298,15 +32307,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ekwbs5qTkc0"
-      },
-      {
-        "player": {
-          "id": 64020,
-          "name": "[CBFA] Kiysa"
-        },
-        "progress": 71,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=cdkYvudfzfc"
       },
       {
         "player": {
@@ -45309,6 +45309,15 @@
       },
       {
         "player": {
+          "id": 69618,
+          "name": "[NCSC] MPGD610"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AI92-S3uqrY"
+      },
+      {
+        "player": {
           "id": 33937,
           "name": "parker"
         },
@@ -45378,15 +45387,6 @@
         "progress": 65,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hmkQJ-LQ5Jg"
-      },
-      {
-        "player": {
-          "id": 69618,
-          "name": "[NCSC] MPGD610"
-        },
-        "progress": 65,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=4pSlNdcJc3Q"
       },
       {
         "player": {
@@ -53938,6 +53938,15 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iZnb4eU6qtQ"
+      },
+      {
+        "player": {
+          "id": 50666,
+          "name": "Nightmarri"
+        },
+        "progress": 91,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=e7XI27SWQn0"
       },
       {
         "player": {
@@ -109215,6 +109224,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9dWFrlcw0MI"
+      },
+      {
+        "player": {
+          "id": 61934,
+          "name": "[STACK] Jyvl01"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=CJXSEkiBh3s"
       },
       {
         "player": {
