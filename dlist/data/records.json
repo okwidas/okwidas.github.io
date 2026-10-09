@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:11:37Z",
+  "updated_at": "2026-10-09T18:11:06Z",
   "demons": {
     "250": [
       {
@@ -27815,6 +27815,15 @@
       },
       {
         "player": {
+          "id": 40850,
+          "name": "[ZOBRO] Doubley123"
+        },
+        "progress": 95,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=N5wXKgmNrGs"
+      },
+      {
+        "player": {
           "id": 57123,
           "name": "[BLKHL] CruxxGMD"
         },
@@ -27839,15 +27848,6 @@
         "progress": 93,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jjgM2D42EWE"
-      },
-      {
-        "player": {
-          "id": 40850,
-          "name": "[ZOBRO] Doubley123"
-        },
-        "progress": 93,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=xMDd-wZe97g"
       },
       {
         "player": {
@@ -63021,6 +63021,15 @@
       },
       {
         "player": {
+          "id": 63878,
+          "name": "EvanOrSmth"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=EyyHAsH7394"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -86322,6 +86331,15 @@
       },
       {
         "player": {
+          "id": 64031,
+          "name": "ItzRomulad"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=p8ICcJOL7fk"
+      },
+      {
+        "player": {
           "id": 54615,
           "name": "[COMET] chickenborgorr"
         },
@@ -87936,6 +87954,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lpuxrijgxs0"
+      },
+      {
+        "player": {
+          "id": 68041,
+          "name": "CochoGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IWKGyHDWhG8"
       },
       {
         "player": {
@@ -101940,6 +101967,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=73TFg0JKsrQ"
+      },
+      {
+        "player": {
+          "id": 63809,
+          "name": "Elapsed"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=R-i9SfqR8EQ"
       },
       {
         "player": {
