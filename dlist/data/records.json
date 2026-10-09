@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T00:11:39Z",
+  "updated_at": "2026-10-09T03:10:01Z",
   "demons": {
     "250": [
       {
@@ -62994,6 +62994,15 @@
       },
       {
         "player": {
+          "id": 72360,
+          "name": "pitbull"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wVJ0afSPS7Q"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -103025,6 +103034,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=PdEiP7VN58E"
+      },
+      {
+        "player": {
+          "id": 71703,
+          "name": "Striker"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xZ3x3gdiYuI"
       },
       {
         "player": {
