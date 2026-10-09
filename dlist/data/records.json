@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T21:10:35Z",
+  "updated_at": "2026-10-09T00:11:39Z",
   "demons": {
     "250": [
       {
@@ -6940,6 +6940,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MfbIBThdn7o"
+      },
+      {
+        "player": {
+          "id": 41219,
+          "name": "[BUDDY] JoshuaEightyThree"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rW3yxpMccM4"
       },
       {
         "player": {
@@ -32175,6 +32184,15 @@
       },
       {
         "player": {
+          "id": 67147,
+          "name": "[POIKA] unkka"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=d2Qhno_sY1Q"
+      },
+      {
+        "player": {
           "id": 45028,
           "name": "[BUDDY] tricklength"
         },
@@ -32271,15 +32289,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=DAXqgGGSHrk"
-      },
-      {
-        "player": {
-          "id": 67147,
-          "name": "[POIKA] unkka"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=XOdwI_7IE0I"
       },
       {
         "player": {
@@ -65833,6 +65842,15 @@
       },
       {
         "player": {
+          "id": 67106,
+          "name": "SajmonYep"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=jjoRDFAR9ic"
+      },
+      {
+        "player": {
           "id": 63310,
           "name": "Quantium"
         },
@@ -67409,6 +67427,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=8d3OOoXnXCk"
+      },
+      {
+        "player": {
+          "id": 51411,
+          "name": "[EZ] Jerpaa"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZMpEO3-ArdU"
       },
       {
         "player": {
@@ -96532,6 +96559,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HX19WrTOjjg"
+      },
+      {
+        "player": {
+          "id": 58525,
+          "name": "XoanoN65"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VD3AIAzbhaY"
       },
       {
         "player": {
