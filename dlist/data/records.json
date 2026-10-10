@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:09:22Z",
+  "updated_at": "2026-10-10T15:08:32Z",
   "demons": {
     "250": [
       {
@@ -28004,6 +28004,15 @@
       },
       {
         "player": {
+          "id": 65629,
+          "name": "z1oki"
+        },
+        "progress": 92,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0ED0Qcjk0Sg"
+      },
+      {
+        "player": {
           "id": 39872,
           "name": "[YAGA] soley"
         },
@@ -28442,15 +28451,6 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=t0douLWcrJA"
-      },
-      {
-        "player": {
-          "id": 65629,
-          "name": "z1oki"
-        },
-        "progress": 81,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=U4VbqVdPvUg"
       },
       {
         "player": {
