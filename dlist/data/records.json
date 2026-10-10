@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T09:09:37Z",
+  "updated_at": "2026-10-10T12:09:22Z",
   "demons": {
     "250": [
       {
@@ -24948,6 +24948,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_ks90hxKcu0"
+      },
+      {
+        "player": {
+          "id": 62146,
+          "name": "[TSH] Delta42"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ooQfjFSPCc4"
+      },
+      {
+        "player": {
+          "id": 72368,
+          "name": "SlowksGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UKzkCs6zq20"
       },
       {
         "player": {
@@ -54013,6 +54031,15 @@
       },
       {
         "player": {
+          "id": 71969,
+          "name": "Xerahh"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UWY8z2jSBmM"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -70384,6 +70411,15 @@
       },
       {
         "player": {
+          "id": 72024,
+          "name": "鸽者啊QwQ"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.bilibili.com/video/BV1NBpb6JEwK"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -80908,6 +80944,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=r_v7l8G3bLI"
+      },
+      {
+        "player": {
+          "id": 65801,
+          "name": "Senko"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=C40hwZck4io"
       },
       {
         "player": {
