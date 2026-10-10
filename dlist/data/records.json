@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T06:10:27Z",
+  "updated_at": "2026-10-10T09:09:37Z",
   "demons": {
     "250": [
       {
@@ -32247,6 +32247,15 @@
       },
       {
         "player": {
+          "id": 62545,
+          "name": "[DLRS] nextcountionalyfree"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=jm20OO0TYQ8"
+      },
+      {
+        "player": {
           "id": 67147,
           "name": "[POIKA] unkka"
         },
@@ -52379,6 +52388,15 @@
         "progress": 72,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=scVtuRoblRU"
+      },
+      {
+        "player": {
+          "id": 63471,
+          "name": "Florned"
+        },
+        "progress": 72,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=X4idS_N1V9A"
       },
       {
         "player": {
@@ -110703,6 +110721,15 @@
       },
       {
         "player": {
+          "id": 67520,
+          "name": "F1sss"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zx7T-3iegKU"
+      },
+      {
+        "player": {
           "id": 41863,
           "name": "[SEREK] vicente"
         },
@@ -112942,6 +112969,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=uibxavLF63A"
+      },
+      {
+        "player": {
+          "id": 72247,
+          "name": "bufet"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=PEK1MrTYi_8"
       },
       {
         "player": {
