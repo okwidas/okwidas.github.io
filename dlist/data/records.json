@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T18:09:15Z",
+  "updated_at": "2026-10-10T21:08:43Z",
   "demons": {
     "250": [
       {
@@ -22951,6 +22951,15 @@
       },
       {
         "player": {
+          "id": 64382,
+          "name": "Cooge"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aG_jTcZKtq0"
+      },
+      {
+        "player": {
           "id": 38020,
           "name": "Kyasshukodo"
         },
@@ -34757,6 +34766,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=5Rh8c8YCuok"
+      },
+      {
+        "player": {
+          "id": 66781,
+          "name": "[GD] CrystalDash"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZcGq2CWlNhA"
       },
       {
         "player": {
@@ -63174,6 +63192,15 @@
       },
       {
         "player": {
+          "id": 63670,
+          "name": "marcix"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=S6YZmK4vohA"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -79086,6 +79113,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=8kOX01N3fUU"
+      },
+      {
+        "player": {
+          "id": 60988,
+          "name": "Arial"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Fx80vti-64g"
       },
       {
         "player": {
@@ -113108,6 +113144,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7p_qeBrh7R0"
+      },
+      {
+        "player": {
+          "id": 71236,
+          "name": "bobcob"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Q_WQ8-apWJM"
       },
       {
         "player": {
