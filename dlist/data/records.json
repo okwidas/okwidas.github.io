@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T06:10:44Z",
+  "updated_at": "2026-10-11T09:09:44Z",
   "demons": {
     "250": [
       {
@@ -11725,7 +11725,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -19892,7 +19892,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -22969,6 +22969,15 @@
       },
       {
         "player": {
+          "id": 69804,
+          "name": "Floatin"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AkHePnO2Xdw"
+      },
+      {
+        "player": {
           "id": 64382,
           "name": "Cooge"
         },
@@ -24529,7 +24538,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -28652,6 +28661,15 @@
       },
       {
         "player": {
+          "id": 67355,
+          "name": "Antonn26"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LiM7CIBKgA4"
+      },
+      {
+        "player": {
           "id": 39384,
           "name": "OneAlphaHelix"
         },
@@ -29717,7 +29735,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -33699,7 +33717,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -34820,6 +34838,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ZcGq2CWlNhA"
+      },
+      {
+        "player": {
+          "id": 38031,
+          "name": "[FC] UnliMiteR"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=K2LlLcyQnYg"
       },
       {
         "player": {
@@ -38061,7 +38088,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -43730,6 +43757,15 @@
       },
       {
         "player": {
+          "id": 55988,
+          "name": "Gyrocynical"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-UZPBTjJoco"
+      },
+      {
+        "player": {
           "id": 72398,
           "name": "blub"
         },
@@ -44147,7 +44183,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -46023,7 +46059,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -47006,7 +47042,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -50842,7 +50878,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -53528,7 +53564,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -54094,6 +54130,15 @@
       },
       {
         "player": {
+          "id": 65422,
+          "name": "Kroks"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=t7iEEk9u-xU"
+      },
+      {
+        "player": {
           "id": 40761,
           "name": "[Ñ] Freikz"
         },
@@ -54145,15 +54190,6 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=diFDOI18cWM"
-      },
-      {
-        "player": {
-          "id": 65422,
-          "name": "Kroks"
-        },
-        "progress": 92,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=iZnb4eU6qtQ"
       },
       {
         "player": {
@@ -63273,6 +63309,24 @@
       },
       {
         "player": {
+          "id": 72396,
+          "name": "banecane"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=17iqEwkX2BI"
+      },
+      {
+        "player": {
+          "id": 65810,
+          "name": "Moonl1ght"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2Vl3OM5_TJo"
+      },
+      {
+        "player": {
           "id": 72411,
           "name": "Cabe"
         },
@@ -63555,7 +63609,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -66846,7 +66900,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -68693,7 +68747,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -71620,7 +71674,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -73044,7 +73098,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -74054,7 +74108,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -76647,7 +76701,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -78296,7 +78350,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -79281,7 +79335,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -80687,7 +80741,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -82250,7 +82304,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -83782,7 +83836,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -84216,7 +84270,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -85194,7 +85248,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -88988,7 +89042,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -90495,7 +90549,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -93801,7 +93855,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -95726,7 +95780,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -96976,6 +97030,15 @@
       },
       {
         "player": {
+          "id": 60735,
+          "name": "GDLNB"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YcuJC8FoPj4"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -98119,7 +98182,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -100531,7 +100594,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -104418,7 +104481,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -104962,7 +105025,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -105663,7 +105726,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -106353,7 +106416,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -107113,7 +107176,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -109624,7 +109687,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -112168,7 +112231,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -112505,6 +112568,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=O35bfCHtW-0"
+      },
+      {
+        "player": {
+          "id": 54481,
+          "name": "Chayok"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QYAXXxC7j7w"
       }
     ],
     "704": [
@@ -112964,7 +113036,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[COMET] Nexel"
+          "name": "[Hi] Nexel"
         },
         "progress": 100,
         "status": "approved",
