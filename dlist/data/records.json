@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T03:10:24Z",
+  "updated_at": "2026-10-11T06:10:44Z",
   "demons": {
     "250": [
       {
@@ -25002,6 +25002,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=aFcsYxBA3EM"
+      },
+      {
+        "player": {
+          "id": 67395,
+          "name": "macaronyte"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SuBgCHY1JBo"
       },
       {
         "player": {
