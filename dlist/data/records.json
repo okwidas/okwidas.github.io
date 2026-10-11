@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T00:10:14Z",
+  "updated_at": "2026-10-11T03:10:24Z",
   "demons": {
     "250": [
       {
@@ -1454,7 +1454,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -3209,7 +3209,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -4892,7 +4892,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -6314,7 +6314,7 @@
       {
         "player": {
           "id": 32629,
-          "name": "[PROX] fakeblast"
+          "name": "[FEBE] fakeblast"
         },
         "progress": 100,
         "status": "approved",
@@ -6386,7 +6386,7 @@
       {
         "player": {
           "id": 50833,
-          "name": "[HOLA] leña al moro"
+          "name": "[HOLA] hijos de puta"
         },
         "progress": 100,
         "status": "approved",
@@ -6845,7 +6845,7 @@
       {
         "player": {
           "id": 68617,
-          "name": "[ZZZ] Exenity"
+          "name": "[zzz] Exenity"
         },
         "progress": 100,
         "status": "approved",
@@ -6863,7 +6863,7 @@
       {
         "player": {
           "id": 50825,
-          "name": "YeetersonGD"
+          "name": "Exquisite"
         },
         "progress": 100,
         "status": "approved",
@@ -8467,7 +8467,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -13993,7 +13993,7 @@
       {
         "player": {
           "id": 70607,
-          "name": "sheng"
+          "name": "ShengGMD"
         },
         "progress": 100,
         "status": "approved",
@@ -14713,7 +14713,7 @@
       {
         "player": {
           "id": 62263,
-          "name": "[POB2P] Cornpyn"
+          "name": "Cornpyn"
         },
         "progress": 100,
         "status": "approved",
@@ -14920,7 +14920,7 @@
       {
         "player": {
           "id": 71969,
-          "name": "Xerahh"
+          "name": "[tq] Xerahh"
         },
         "progress": 100,
         "status": "approved",
@@ -15150,6 +15150,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=30Jfhj1ZOjU"
+      },
+      {
+        "player": {
+          "id": 63022,
+          "name": "Tyreek Bigs"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BDxLL79auMk"
+      },
+      {
+        "player": {
+          "id": 72324,
+          "name": "Novayic"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9vIr1ywOkF4"
       },
       {
         "player": {
@@ -15867,7 +15885,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -17982,7 +18000,7 @@
       {
         "player": {
           "id": 32629,
-          "name": "[PROX] fakeblast"
+          "name": "[FEBE] fakeblast"
         },
         "progress": 100,
         "status": "approved",
@@ -19136,7 +19154,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -21242,7 +21260,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -22061,7 +22079,7 @@
       {
         "player": {
           "id": 61696,
-          "name": "[j] Rilso"
+          "name": "[TSC] Rilso"
         },
         "progress": 100,
         "status": "approved",
@@ -23602,7 +23620,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -24439,7 +24457,7 @@
       {
         "player": {
           "id": 42037,
-          "name": "theos"
+          "name": "[GTS] theos"
         },
         "progress": 100,
         "status": "approved",
@@ -24978,6 +24996,15 @@
       },
       {
         "player": {
+          "id": 59529,
+          "name": "[ID] naraoka"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aFcsYxBA3EM"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -25110,15 +25137,6 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iYWoKShxXC4"
-      },
-      {
-        "player": {
-          "id": 59529,
-          "name": "[ID] naraoka"
-        },
-        "progress": 76,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=QkcRuQ8Cw8E"
       },
       {
         "player": {
@@ -26016,7 +26034,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -26529,7 +26547,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -29609,7 +29627,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -31843,7 +31861,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -33888,7 +33906,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -36167,7 +36185,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -38664,7 +38682,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -41706,7 +41724,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -41832,7 +41850,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -43703,6 +43721,15 @@
       },
       {
         "player": {
+          "id": 72398,
+          "name": "blub"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=l9y__2lBYYA"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -44300,7 +44327,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -45480,6 +45507,15 @@
       },
       {
         "player": {
+          "id": 34448,
+          "name": "Muffy450"
+        },
+        "progress": 72,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RorOk034IrA"
+      },
+      {
+        "player": {
           "id": 59696,
           "name": "dewbbs"
         },
@@ -45504,15 +45540,6 @@
         "progress": 67,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_KqH50Zwn-o"
-      },
-      {
-        "player": {
-          "id": 34448,
-          "name": "Muffy450"
-        },
-        "progress": 66,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=qZTlB3WUeNw"
       },
       {
         "player": {
@@ -46284,7 +46311,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -46653,7 +46680,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -48041,7 +48068,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -50192,7 +50219,7 @@
       {
         "player": {
           "id": 71969,
-          "name": "Xerahh"
+          "name": "[tq] Xerahh"
         },
         "progress": 100,
         "status": "approved",
@@ -51393,7 +51420,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -52880,7 +52907,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -54068,7 +54095,7 @@
       {
         "player": {
           "id": 71969,
-          "name": "Xerahh"
+          "name": "[tq] Xerahh"
         },
         "progress": 100,
         "status": "approved",
@@ -57357,7 +57384,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -57869,6 +57896,15 @@
       },
       {
         "player": {
+          "id": 54081,
+          "name": "[IQB7] BlueGMD"
+        },
+        "progress": 84,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=I8FmUgxsSNM"
+      },
+      {
+        "player": {
           "id": 41756,
           "name": "NotNickOk"
         },
@@ -57938,15 +57974,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lonDnpa1994"
-      },
-      {
-        "player": {
-          "id": 54081,
-          "name": "[IQB7] BlueGMD"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=cGGLmsKH_z8"
       },
       {
         "player": {
@@ -59206,7 +59233,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -60070,7 +60097,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -60925,7 +60952,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -63237,6 +63264,15 @@
       },
       {
         "player": {
+          "id": 72411,
+          "name": "Cabe"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=sZxYBi-ZQOA"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -63391,7 +63427,7 @@
       {
         "player": {
           "id": 59105,
-          "name": "fuuturisticfire"
+          "name": "Slaylarius"
         },
         "progress": 86,
         "status": "approved",
@@ -64077,7 +64113,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -65447,7 +65483,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -66166,6 +66202,15 @@
       },
       {
         "player": {
+          "id": 68362,
+          "name": "honeyspud"
+        },
+        "progress": 77,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7LoCl6ll4dQ"
+      },
+      {
+        "player": {
           "id": 61046,
           "name": "Kensty Likovich"
         },
@@ -66457,7 +66502,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -66945,7 +66990,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -67701,7 +67746,7 @@
       {
         "player": {
           "id": 71702,
-          "name": "Petalite"
+          "name": "[FEBE] Petalite"
         },
         "progress": 87,
         "status": "approved",
@@ -67728,7 +67773,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 80,
         "status": "approved",
@@ -67901,7 +67946,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -69071,7 +69116,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -70555,6 +70600,15 @@
       },
       {
         "player": {
+          "id": 71011,
+          "name": "yteclipse"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Mbau39qO7DA"
+      },
+      {
+        "player": {
           "id": 68798,
           "name": "xrqh"
         },
@@ -71350,7 +71404,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -73017,7 +73071,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -73395,7 +73449,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -73937,7 +73991,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -74036,7 +74090,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -75111,7 +75165,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -75752,7 +75806,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -77178,7 +77232,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -78125,7 +78179,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -79834,7 +79888,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=_s_nNQfTebM"
+        "video": "https://www.youtube.com/watch?v=ToJ4qy76K8E"
       },
       {
         "player": {
@@ -80183,7 +80237,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -81427,7 +81481,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -81472,7 +81526,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -81924,7 +81978,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -82808,7 +82862,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -83755,7 +83809,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -86703,7 +86757,7 @@
       {
         "player": {
           "id": 59105,
-          "name": "fuuturisticfire"
+          "name": "Slaylarius"
         },
         "progress": 100,
         "status": "approved",
@@ -87454,7 +87508,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -87886,7 +87940,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -89132,7 +89186,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -90016,7 +90070,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -91768,7 +91822,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -92196,6 +92250,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7tqYxdpbEuw"
+      },
+      {
+        "player": {
+          "id": 51746,
+          "name": "Iva"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SffMICn530g"
       },
       {
         "player": {
@@ -93196,7 +93259,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -94089,7 +94152,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -94795,7 +94858,7 @@
       {
         "player": {
           "id": 61696,
-          "name": "[j] Rilso"
+          "name": "[TSC] Rilso"
         },
         "progress": 100,
         "status": "approved",
@@ -96221,7 +96284,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -96644,7 +96707,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -97438,7 +97501,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -97656,7 +97719,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -98688,7 +98751,7 @@
       {
         "player": {
           "id": 61696,
-          "name": "[j] Rilso"
+          "name": "[TSC] Rilso"
         },
         "progress": 100,
         "status": "approved",
@@ -98987,7 +99050,7 @@
       {
         "player": {
           "id": 61696,
-          "name": "[j] Rilso"
+          "name": "[TSC] Rilso"
         },
         "progress": 100,
         "status": "approved",
@@ -101053,7 +101116,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -101089,7 +101152,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -101521,7 +101584,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -102594,7 +102657,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -103142,7 +103205,7 @@
       {
         "player": {
           "id": 61696,
-          "name": "[j] Rilso"
+          "name": "[TSC] Rilso"
         },
         "progress": 100,
         "status": "approved",
@@ -103299,7 +103362,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -104899,7 +104962,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -105333,7 +105396,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -106895,7 +106958,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -106940,7 +107003,7 @@
       {
         "player": {
           "id": 60043,
-          "name": "GTS] Gamingbyte"
+          "name": "[GTS] Gamingbyte"
         },
         "progress": 100,
         "status": "approved",
@@ -109736,7 +109799,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -110131,7 +110194,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -110169,7 +110232,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -110659,7 +110722,7 @@
       {
         "player": {
           "id": 51084,
-          "name": "[OG] Sharkified"
+          "name": "[GTS] Sharkified"
         },
         "progress": 100,
         "status": "approved",
@@ -111047,6 +111110,15 @@
       },
       {
         "player": {
+          "id": 50637,
+          "name": "Samot"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lpbzqy60Ir4"
+      },
+      {
+        "player": {
           "id": 45136,
           "name": "Luclahgd"
         },
@@ -111140,7 +111212,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[떡볶이과자] CoJong"
+          "name": "[ILUV] CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -111833,7 +111905,7 @@
       {
         "player": {
           "id": 70607,
-          "name": "sheng"
+          "name": "ShengGMD"
         },
         "progress": 100,
         "status": "approved",
@@ -112380,7 +112452,7 @@
       {
         "player": {
           "id": 61696,
-          "name": "[j] Rilso"
+          "name": "[TSC] Rilso"
         },
         "progress": 100,
         "status": "approved",
@@ -113698,11 +113770,20 @@
       {
         "player": {
           "id": 61696,
-          "name": "[j] Rilso"
+          "name": "[TSC] Rilso"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lr4uZXr0buk"
+      },
+      {
+        "player": {
+          "id": 42413,
+          "name": "[IQB7] Whizkid05"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=W55M1Xpdp6o"
       }
     ],
     "728": [],
