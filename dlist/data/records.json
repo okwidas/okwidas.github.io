@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:09:21Z",
+  "updated_at": "2026-10-11T21:13:41Z",
   "demons": {
     "250": [
       {
@@ -18158,6 +18158,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ZTzLOaiVwFw"
+      },
+      {
+        "player": {
+          "id": 60829,
+          "name": "maximizee"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YyurZr1Z42Q"
       },
       {
         "player": {
@@ -106142,9 +106151,9 @@
           "id": 63573,
           "name": "zizo"
         },
-        "progress": 87,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=TYQgHC1fTuM"
+        "video": "https://www.youtube.com/watch?v=erPuswC3J50"
       },
       {
         "player": {
@@ -112450,6 +112459,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0w6r-XwVdws"
+      },
+      {
+        "player": {
+          "id": 52767,
+          "name": "[BHO] ItzMira"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=v_4xA7DQiBI"
       }
     ],
     "690": [
