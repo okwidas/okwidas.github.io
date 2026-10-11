@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T09:09:44Z",
+  "updated_at": "2026-10-11T12:10:27Z",
   "demons": {
     "250": [
       {
@@ -43766,6 +43766,15 @@
       },
       {
         "player": {
+          "id": 71309,
+          "name": "thshaminushif"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7iQOb2oHbhc"
+      },
+      {
+        "player": {
           "id": 72398,
           "name": "blub"
         },
@@ -54136,6 +54145,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=t7iEEk9u-xU"
+      },
+      {
+        "player": {
+          "id": 59758,
+          "name": "Nooobus"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iXLFpPtlcbY"
       },
       {
         "player": {
@@ -102240,6 +102258,15 @@
       },
       {
         "player": {
+          "id": 55830,
+          "name": "LuckyL4"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=vIL05QSPcd0"
+      },
+      {
+        "player": {
           "id": 64379,
           "name": "[j] Chaos"
         },
@@ -113836,6 +113863,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=tCzrugM0ftA"
+      },
+      {
+        "player": {
+          "id": 60714,
+          "name": "Zekidash [PR]"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=i5CFwrNDEYA"
       }
     ],
     "723": [
