@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T12:16:49Z",
+  "updated_at": "2026-10-12T15:16:46Z",
   "demons": {
     "250": [
       {
@@ -29234,6 +29234,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9vW1FbJuH_Y"
+      },
+      {
+        "player": {
+          "id": 65279,
+          "name": "seeryanplay"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=H_ZuhNRJy2I"
       }
     ],
     "383": [
@@ -43835,6 +43844,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=l9y__2lBYYA"
+      },
+      {
+        "player": {
+          "id": 66193,
+          "name": "TheIdiotNick"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_cHsrn8nirQ"
       },
       {
         "player": {
@@ -73805,6 +73823,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jQSqm1DfDlc"
+      },
+      {
+        "player": {
+          "id": 65763,
+          "name": "Blinkkous"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Q8VO6AOvzBQ"
       },
       {
         "player": {
@@ -105678,6 +105705,15 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7Ld3-cC4IJQ"
+      },
+      {
+        "player": {
+          "id": 71236,
+          "name": "bobcob"
+        },
+        "progress": 87,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QtpWCy0ae54"
       }
     ],
     "653": [
@@ -106453,6 +106489,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=j8-Sz8BiciI"
+      },
+      {
+        "player": {
+          "id": 60621,
+          "name": "tanner"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7xdWIBeRpsQ"
       }
     ],
     "660": [
@@ -111321,6 +111366,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=FeOz7K9Ui3w"
+      },
+      {
+        "player": {
+          "id": 53189,
+          "name": "[SARK] 1ssky"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Nnk3sHjRp7c"
       },
       {
         "player": {
