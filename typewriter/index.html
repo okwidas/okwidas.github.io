@@ -3,134 +3,167 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" id="metaTheme" content="#100e16">
 <title>trust me, its schoolwork</title>
 <style>
   :root{
-    --bg:#100e16; --bg-deep:#0b0911; --panel:#151022; --panel-soft:#120d1c;
-    --border:rgba(201,174,242,.14); --border-strong:rgba(201,174,242,.28);
-    --text:#e7e3ee; --dim:#8d84a3; --faint:#4c445e;
-    --accent:#c9aef2; --accent-soft:rgba(201,174,242,.14); --accent-soft2:rgba(201,174,242,.22);
-    --error:#f0879a; --error-soft:rgba(240,135,154,.16);
+    --bg:#100e16; --sub:#6a6182; --sub-alt:#18122a; --text:#e7e3ee;
+    --accent:#c9aef2; --caret:#c9aef2; --error:#f0879a;
+    --border:rgba(201,174,242,.16); --border-strong:rgba(201,174,242,.3);
+    --accent-soft:rgba(201,174,242,.12); --accent-soft2:rgba(201,174,242,.22);
+    --error-soft:rgba(240,135,154,.16);
     --font:ui-monospace,"SF Mono","Cascadia Mono","Roboto Mono",Consolas,"Liberation Mono",monospace;
   }
   *{ box-sizing:border-box; margin:0; padding:0; }
   html,body{ background:var(--bg); color:var(--text); font-family:var(--font); }
-  body{ min-height:100vh; display:flex; flex-direction:column; align-items:center; padding:40px 20px 130px; position:relative; overflow-x:hidden; }
+  body{ min-height:100vh; display:flex; flex-direction:column; padding:0 22px; overflow-x:hidden;
+    transition:background .18s ease, color .18s ease; }
   @media (prefers-reduced-motion: reduce){ *{ transition:none !important; animation:none !important; } }
-  body::before{ content:""; position:fixed; inset:0; background:radial-gradient(700px 300px at 50% -120px, rgba(201,174,242,.07), transparent 70%); pointer-events:none; z-index:0; }
 
-  .wrap{ position:relative; z-index:1; width:100%; max-width:820px;
-    background:linear-gradient(180deg, rgba(201,174,242,.04), transparent 120px), var(--panel);
-    border:1px solid var(--border); border-radius:18px;
-    box-shadow:0 1px 0 rgba(255,255,255,.03) inset, 0 24px 50px -30px rgba(0,0,0,.7);
-    padding:28px 44px 44px; }
-
-  .topbar{ display:flex; align-items:center; justify-content:space-between; gap:16px; padding-bottom:26px; margin-bottom:30px; border-bottom:1px solid var(--border); }
-  .wordmark{ font-size:17px; letter-spacing:.02em; color:var(--dim); text-decoration:none; }
+  .topbar{ display:flex; align-items:center; justify-content:space-between; gap:14px; width:100%; max-width:1100px;
+    margin:0 auto; padding:22px 0; }
+  .wordmark{ font-size:15px; letter-spacing:.02em; color:var(--sub); text-decoration:none; white-space:nowrap; }
   .wordmark b{ color:var(--accent); font-weight:600; }
-  .topnav{ display:flex; gap:6px; }
-  .topnav a{ color:var(--faint); text-decoration:none; font-size:12.5px; padding:6px 11px; border-radius:7px; transition:color .15s ease, background .15s ease; }
+  .topnav{ display:flex; gap:4px; flex:1; justify-content:center; flex-wrap:wrap; }
+  .topnav a{ color:var(--sub); text-decoration:none; font-size:12.5px; padding:6px 11px; border-radius:8px;
+    transition:color .15s ease, background .15s ease; }
   .topnav a:hover{ color:var(--text); background:var(--accent-soft); }
-  .topnav a.on{ color:var(--accent); background:var(--accent-soft); }
+  .topnav a.on{ color:var(--accent); }
+  .theme-btn{ display:inline-flex; align-items:center; gap:8px; background:transparent; border:1px solid var(--border);
+    color:var(--sub); font-family:var(--font); font-size:12.5px; padding:7px 12px; border-radius:9px; cursor:pointer;
+    white-space:nowrap; transition:color .15s ease, border-color .15s ease, background .15s ease; }
+  .theme-btn:hover{ color:var(--text); border-color:var(--border-strong); background:var(--accent-soft); }
+  .theme-btn .swatch-mini{ width:11px; height:11px; border-radius:3px; background:var(--accent); flex:none; }
+  .theme-btn:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
 
-  .sec{ display:flex; align-items:center; gap:12px; font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--dim); margin-bottom:20px; }
-  .sec b{ color:var(--accent); font-weight:600; font-variant-numeric:tabular-nums; }
-  .sec::after{ content:""; flex:1; height:1px; background:var(--border); }
+  .stage{ flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center;
+    width:100%; max-width:1000px; margin:0 auto; padding:20px 0 90px; }
 
-  .controls{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; background:var(--panel-soft); border:1px solid var(--border); border-radius:11px; padding:9px 13px; margin-bottom:26px; font-size:13px; }
-  .control-group{ display:flex; align-items:center; gap:3px; }
-  .control-group .sep{ width:1px; height:15px; background:var(--border-strong); margin:0 9px; }
-  .chip{ background:transparent; border:none; color:var(--faint); font-family:var(--font); font-size:12.5px; padding:6px 10px; border-radius:7px; cursor:pointer; transition:color .14s ease, background .14s ease; }
-  .chip:hover{ color:var(--text); }
+  .controls{ display:flex; align-items:center; gap:6px; flex-wrap:wrap; justify-content:center; margin-bottom:30px; }
+  .chip{ background:transparent; border:none; color:var(--sub); font-family:var(--font); font-size:13px;
+    padding:6px 12px; border-radius:8px; cursor:pointer; transition:color .14s ease, background .14s ease; }
+  .chip:hover{ color:var(--text); background:var(--accent-soft); }
   .chip.active{ color:var(--accent); background:var(--accent-soft); }
   .chip:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+  .sep{ width:1px; height:15px; background:var(--border-strong); margin:0 8px; }
 
-  .custom-panel{ display:none; background:var(--panel-soft); border:1px solid var(--border); border-radius:11px; padding:14px 16px; margin:-10px 0 24px; }
+  .custom-panel{ display:none; width:100%; max-width:640px; margin:-14px auto 26px; }
   .custom-panel.open{ display:block; }
-  .custom-panel textarea{ width:100%; min-height:90px; resize:vertical; background:var(--bg-deep); border:1px solid var(--border); border-radius:8px; color:var(--text); font-family:var(--font); font-size:13.5px; padding:10px 12px; }
+  .custom-panel textarea{ width:100%; min-height:88px; resize:vertical; background:var(--sub-alt); border:1px solid var(--border);
+    border-radius:8px; color:var(--text); font-family:var(--font); font-size:13.5px; padding:10px 12px; }
   .custom-panel textarea:focus-visible{ outline:2px solid var(--accent); }
   .custom-panel .row{ display:flex; justify-content:space-between; align-items:center; margin-top:10px; gap:10px; }
-  .custom-panel .note{ font-size:11px; color:var(--faint); }
-  .btn{ background:var(--accent-soft); color:var(--accent); border:1px solid transparent; font-family:var(--font); font-size:12.5px; padding:7px 14px; border-radius:7px; cursor:pointer; }
+  .custom-panel .note{ font-size:11px; color:var(--sub); }
+  .btn{ background:var(--accent-soft); color:var(--accent); border:1px solid transparent; font-family:var(--font);
+    font-size:12.5px; padding:7px 14px; border-radius:7px; cursor:pointer; }
   .btn:hover{ background:var(--accent-soft2); }
   .btn:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
 
-  .status-row{ display:flex; justify-content:space-between; align-items:center; height:28px; margin-bottom:14px; color:var(--accent); font-size:22px; font-variant-numeric:tabular-nums; }
-  .status-row .live-wpm{ color:var(--faint); font-size:13px; }
+  .status-row{ display:flex; justify-content:space-between; align-items:center; gap:16px; height:30px; margin-bottom:14px;
+    color:var(--accent); font-size:30px; font-variant-numeric:tabular-nums; line-height:1; }
+  .status-row .live-wpm{ color:var(--sub); font-size:14px; }
 
-  .type-area{ position:relative; cursor:text; }
-  #words{ font-size:25px; line-height:1.7; letter-spacing:.01em; color:var(--faint); max-height:calc(1.7em * 3); overflow:hidden; transition:filter .15s ease; }
+  .type-area{ position:relative; cursor:text; width:100%; }
+  #words{ font-size:clamp(27px,3.1vw,38px); line-height:1.7; letter-spacing:.01em; color:var(--sub);
+    max-height:calc(1.7em * 3); overflow:hidden; transition:filter .15s ease; user-select:none; }
   .type-area.blurred #words{ filter:blur(5px); }
-  .type-area.blurred::after{ content:"click to focus"; position:absolute; inset:0; display:flex; align-items:center; justify-content:center; font-size:13px; color:var(--dim); }
+  .type-area.blurred::after{ content:"click to focus"; position:absolute; inset:0; display:flex; align-items:center;
+    justify-content:center; font-size:14px; color:var(--sub); }
   .word{ display:inline-block; margin:0 10px 6px 0; }
-  .letter{ color:var(--faint); }
+  .letter{ color:var(--sub); }
   .letter.correct{ color:var(--text); }
   .letter.incorrect{ color:var(--error); background:var(--error-soft); border-radius:2px; }
   .letter.extra{ color:var(--error); opacity:.7; }
   .word.wrong-space{ background:var(--error-soft); border-radius:3px; }
 
-  .flow-caret{ position:absolute; width:2.5px; border-radius:2px; background:var(--accent); top:0; left:0; pointer-events:none; transition:left .085s cubic-bezier(.4,0,.2,1), top .085s cubic-bezier(.4,0,.2,1), height .085s ease; box-shadow:0 0 6px rgba(201,174,242,.35); }
+  .flow-caret{ position:absolute; width:2.5px; border-radius:2px; background:var(--caret); top:0; left:0; pointer-events:none;
+    transition:left .085s cubic-bezier(.4,0,.2,1), top .085s cubic-bezier(.4,0,.2,1), height .085s ease; }
   .flow-caret.hidden{ display:none; }
   #hiddenInput{ position:absolute; opacity:0; pointer-events:none; height:1px; width:1px; }
 
-  .restart-row{ display:flex; justify-content:center; margin-top:32px; }
-  .restart-btn{ background:none; border:none; color:var(--faint); font-size:20px; cursor:pointer; padding:8px 14px; border-radius:8px; line-height:1; }
+  .restart-row{ display:flex; justify-content:center; margin-top:34px; }
+  .restart-btn{ background:none; border:none; color:var(--sub); font-size:22px; cursor:pointer; padding:8px 14px;
+    border-radius:8px; line-height:1; }
   .restart-btn:hover{ color:var(--accent); background:var(--accent-soft); }
   .restart-btn:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
 
-  .results{ display:none; }
+  .results{ display:none; width:100%; }
   .results.show{ display:block; }
-  .results .big{ display:flex; gap:52px; margin-bottom:28px; flex-wrap:wrap; }
-  .stat .num{ font-size:52px; color:var(--accent); line-height:1; font-variant-numeric:tabular-nums; }
-  .stat .label{ font-size:11px; color:var(--dim); margin-top:8px; letter-spacing:.05em; }
-  .results .secondary{ display:grid; grid-template-columns:repeat(4, auto); gap:26px; }
+  .results .big{ display:flex; gap:52px; margin-bottom:28px; flex-wrap:wrap; justify-content:center; }
+  .stat .num{ font-size:56px; color:var(--accent); line-height:1; font-variant-numeric:tabular-nums; }
+  .stat .label{ font-size:11px; color:var(--sub); margin-top:8px; letter-spacing:.05em; }
+  .results .secondary{ display:grid; grid-template-columns:repeat(4,auto); gap:26px; justify-content:center; }
   .results .secondary .stat .num{ font-size:21px; color:var(--text); }
-  .results .method{ margin-top:22px; font-size:11px; color:var(--faint); line-height:1.7; }
+  .results .method{ margin-top:24px; font-size:11px; color:var(--sub); line-height:1.7; text-align:center; }
 
-  footer{ margin-top:48px; padding-top:20px; border-top:1px solid var(--border); font-size:10.5px; color:var(--faint); text-align:center; }
+  footer{ width:100%; max-width:1100px; margin:0 auto; padding:18px 0 26px; font-size:10.5px; color:var(--sub); text-align:center; }
 
-  .go-home{ position:fixed; left:50%; bottom:28px; transform:translateX(-50%); z-index:10; display:inline-flex; align-items:center; gap:10px; background:var(--panel); border:1px solid var(--border-strong); border-radius:14px; color:var(--text); text-decoration:none; font-family:var(--font); font-size:13px; padding:13px 26px; box-shadow:0 14px 30px -18px rgba(0,0,0,.8); transition:background .16s ease, color .16s ease, border-color .16s ease; }
-  .go-home .arrow{ color:var(--accent); transition:transform .16s ease; }
-  .go-home:hover{ background:var(--accent); color:var(--bg); border-color:var(--accent); }
-  .go-home:hover .arrow{ color:var(--bg); transform:translateX(-3px); }
+  .picker-overlay{ position:fixed; inset:0; z-index:50; display:none; align-items:flex-start; justify-content:center;
+    padding:7vh 16px; background:rgba(0,0,0,.55); overflow-y:auto; }
+  .picker-overlay.open{ display:flex; }
+  .picker{ width:100%; max-width:940px; background:var(--bg); border:1px solid var(--border-strong); border-radius:14px;
+    padding:20px 22px 24px; box-shadow:0 30px 70px -30px rgba(0,0,0,.85); }
+  .picker-head{ display:flex; align-items:center; justify-content:space-between; gap:14px; margin-bottom:14px; }
+  .picker-head h2{ font-size:15px; font-weight:600; color:var(--text); }
+  .picker-head h2 b{ color:var(--accent); }
+  .picker-head .count{ font-size:11px; color:var(--sub); }
+  .picker-close{ background:none; border:none; color:var(--sub); font-size:20px; cursor:pointer; line-height:1; padding:4px 8px; border-radius:7px; }
+  .picker-close:hover{ color:var(--text); background:var(--accent-soft); }
+  .picker input{ width:100%; background:var(--sub-alt); border:1px solid var(--border); border-radius:9px; color:var(--text);
+    font-family:var(--font); font-size:14px; padding:11px 14px; }
+  .picker input:focus-visible{ outline:2px solid var(--accent); }
+  .picker .grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:10px; margin-top:16px;
+    max-height:58vh; overflow-y:auto; padding-right:4px; }
+  .theme-card{ display:flex; flex-direction:column; gap:7px; background:transparent; border:1px solid var(--border);
+    border-radius:10px; padding:8px; cursor:pointer; text-align:left; transition:border-color .14s ease, background .14s ease; }
+  .theme-card:hover{ background:var(--accent-soft); border-color:var(--border-strong); }
+  .theme-card.active{ border-color:var(--accent); background:var(--accent-soft); }
+  .theme-card .swatch{ height:46px; border-radius:7px; display:flex; align-items:center; justify-content:center;
+    font-size:15px; font-weight:600; border:1px solid rgba(0,0,0,.18); }
+  .theme-card .tname{ font-size:11.5px; color:var(--sub); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .theme-card.active .tname{ color:var(--accent); }
+  .theme-card.hide{ display:none; }
 
   @media (max-width:640px){
-    body{ padding:20px 12px 120px; }
-    .wrap{ padding:20px 22px 32px; }
-    #words{ font-size:20px; max-height:calc(1.7em * 4); }
-    .topnav a{ font-size:11.5px; padding:5px 8px; }
-    .results .big{ gap:28px; }
-    .stat .num{ font-size:40px; }
+    body{ padding:0 14px; }
+    .topbar{ flex-wrap:wrap; padding:16px 0; }
+    .topnav{ order:3; flex-basis:100%; justify-content:flex-start; margin-top:4px; }
+    .theme-btn span.lbl{ display:none; }
+    #words{ max-height:calc(1.7em * 4); }
+    .status-row{ font-size:26px; }
+    .results .big{ gap:30px; }
+    .stat .num{ font-size:42px; }
     .results .secondary{ gap:18px; }
+    .picker .grid{ grid-template-columns:repeat(auto-fill,minmax(120px,1fr)); max-height:50vh; }
   }
 </style>
 </head>
 <body>
-<div class="wrap">
 
-  <header class="topbar">
-    <a href="../" class="wordmark">okwidas<b>.github.io</b></a>
-    <nav class="topnav">
-      <a href="../typewriter/" class="on">typewriter</a>
-      <a href="../dlist/">dlist</a>
-      <a href="../benchmarks/">benchmarks</a>
-      <a href="../links.html">links</a>
-    </nav>
-  </header>
+<header class="topbar">
+  <a href="../" class="wordmark">okwidas<b>.github.io</b></a>
+  <nav class="topnav">
+    <a href="../typewriter/" class="on">typewriter</a>
+    <a href="../dlist/">dlist</a>
+    <a href="../benchmarks/">benchmarks</a>
+    <a href="../links.html">links</a>
+  </nav>
+  <button class="theme-btn" id="themeBtn" title="choose a theme">
+    <span class="swatch-mini" id="themeSwatch"></span><span class="lbl" id="themeName">default</span>
+  </button>
+</header>
 
-  <div class="sec"><b>01</b> typing test</div>
+<main class="stage" id="stage">
 
   <div class="controls" id="controls">
     <div class="control-group" id="timeGroup">
-      <button class="chip" data-time="15">15s</button>
-      <button class="chip active" data-time="30">30s</button>
-      <button class="chip" data-time="60">60s</button>
-      <button class="chip" data-time="120">120s</button>
+      <button class="chip" data-time="15">15</button>
+      <button class="chip active" data-time="30">30</button>
+      <button class="chip" data-time="60">60</button>
+      <button class="chip" data-time="120">120</button>
     </div>
     <div class="sep"></div>
-    <div class="control-group">
-      <button class="chip" id="customToggle">custom text</button>
-    </div>
+    <button class="chip" id="customToggle">custom text</button>
   </div>
 
   <div class="custom-panel" id="customPanel">
@@ -141,7 +174,7 @@
     </div>
   </div>
 
-  <div class="status-row">
+  <div class="status-row" id="statusRow">
     <div id="statusLeft">30</div>
     <div class="live-wpm" id="liveWpm"></div>
   </div>
@@ -152,7 +185,7 @@
     <input id="hiddenInput" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
   </div>
 
-  <div class="restart-row">
+  <div class="restart-row" id="restartRow">
     <button class="restart-btn" id="restartBtn" title="Restart (Esc)">&#8635;</button>
   </div>
 
@@ -170,116 +203,218 @@
     <p class="method">wpm = correct (fully-correct words) &divide; 5 per minute &middot; raw counts every char typed &middot; accuracy excludes untyped letters. monkeytype math.</p>
   </div>
 
-  <footer>click the text to focus &middot; type to begin &middot; esc to restart &middot; made for myself</footer>
-</div>
+</main>
 
-<a href="../" class="go-home"><span class="arrow">&larr;</span><span>back home</span></a>
+<footer>click the text to focus &middot; type to begin &middot; esc to restart &middot; made for myself</footer>
+
+<div class="picker-overlay" id="pickerOverlay">
+  <div class="picker" role="dialog" aria-label="theme picker">
+    <div class="picker-head">
+      <h2>themes <b id="pickerCount"></b></h2>
+      <button class="picker-close" id="pickerClose" title="close">&#10005;</button>
+    </div>
+    <input id="pickerSearch" type="text" placeholder="search themes..." autocomplete="off" spellcheck="false">
+    <div class="grid" id="themeGrid"></div>
+  </div>
+</div>
 
 <script>
 "use strict";
-var WORDS = (
-    "the be to of and a in that have i it for "+
-    "not on with he as you do at this but his by "+
-    "from they we say her she or an will my one all "+
-    "would there their what so up out if about who get which "+
-    "go me when make can like time no just him know take "+
-    "people into year your good some could them see other than then "+
-    "now look only come its over think also back after use two "+
-    "how our work first well way even new want because any these "+
-    "give day most us is water long find here thing great man "+
-    "world life still hand part child eye woman place week case point "+
-    "government company number group problem fact down side always show try turn "+
-    "move right same ask why help through much before line kind hold "+
-    "system each between should never last call keep seem under thought head "+
-    "far run play talk city book eat song feel high old area "+
-    "develop story fish walk market road speak animal power office door health "+
-    "stand school country plant learn parent friend light word grow open write "+
-    "easy sea morning music color paper style clean order sense image sound "+
-    "video signal bright quiet river forest mountain island bridge garden window kitchen "+
-    "coffee travel letter simple silent focus energy pencil laptop wallet planet orange "+
-    "purple silver golden shadow winter summer spring autumn cloud storm breeze gentle "+
-    "strong quick slow apple banana lemon grape cherry peach plum melon mango "+
-    "kiwi coconut walnut almond pepper onion garlic potato carrot tomato lettuce spinach "+
-    "cabbage pumpkin squash broccoli radish celery cucumber parsley basil thyme rosemary sugar "+
-    "salt butter cream cheese bread rice pasta noodle soup salad sandwich burger "+
-    "pizza pancake waffle cereal yogurt honey syrup vinegar oil flour dough batter "+
-    "oven stove grill pan pot bowl plate cup glass fork spoon knife "+
-    "napkin table chair couch sofa lamp shelf drawer closet mirror curtain blanket "+
-    "pillow sheet mattress carpet rug tile floor ceiling roof wall fence gate "+
-    "porch balcony stair elevator hallway lobby entrance exit corridor tunnel highway street "+
-    "avenue lane alley path trail track railway station airport harbor dock port "+
-    "ship boat canoe kayak sailboat ferry train subway bus taxi bicycle scooter "+
-    "motorcycle engine wheel brake pedal handle steering wing propeller rocket satellite orbit "+
-    "gravity comet meteor galaxy universe atom molecule element metal iron steel copper "+
-    "bronze aluminum plastic rubber wood stone brick cement concrete fabric cotton wool "+
-    "silk leather denim velvet linen thread needle button zipper pocket collar sleeve "+
-    "pattern design fashion trend model runway makeup lipstick perfume shampoo soap towel "+
-    "brush comb razor scale clock watch calendar diary journal notebook pen marker "+
-    "eraser ruler scissors glue tape stapler folder envelope stamp postcard package parcel "+
-    "delivery courier mailbox address state continent ocean lake stream valley canyon desert "+
-    "jungle meadow field farm barn tractor plow seed harvest crop grain wheat "+
-    "corn barley oat soybean cattle sheep goat pig chicken duck goose turkey "+
-    "horse donkey rabbit squirrel deer fox wolf bear lion tiger elephant giraffe "+
-    "zebra monkey gorilla panda koala kangaroo penguin dolphin whale shark octopus jellyfish "+
-    "crab lobster shrimp turtle frog snake lizard spider ant bee wasp butterfly "+
-    "moth beetle dragonfly cricket grasshopper snail worm owl eagle hawk sparrow robin "+
-    "pigeon crow raven parrot peacock swan flamingo pelican stork heron nest feather "+
-    "beak claw fur tail paw hoof horn antler gill fin shell hive "+
-    "web burrow cave den hatch breed migrate hibernate predator prey herd flock "+
-    "pack swarm colony habitat ecosystem environment climate weather rain snow hail sleet "+
-    "fog mist dew frost ice ash smoke fire flame spark ember coal "+
-    "fuel gas solar wind battery charge circuit wire cable plug socket switch "+
-    "screen keyboard mouse monitor speaker microphone camera lens photo picture film movie "+
-    "theater stage actor actress director producer script scene costume audience ticket concert "+
-    "band singer guitar piano drum violin trumpet flute harp cello saxophone orchestra "+
-    "choir melody rhythm harmony lyric verse chorus album podcast radio broadcast channel "+
-    "network antenna internet website browser server database code program software hardware device "+
-    "gadget robot artificial intelligence algorithm data file document spreadsheet slide chart graph "+
-    "diagram map compass globe atlas history science math physics chemistry biology geography "+
-    "astronomy geology philosophy psychology economics politics religion culture language grammar vocabulary sentence "+
-    "paragraph essay novel poem chapter title author editor publisher library bookstore museum "+
-    "gallery exhibit sculpture painting drawing sketch canvas palette easel frame portrait landscape "+
-    "abstract texture shape circle square triangle rectangle diamond oval sphere cube cylinder "+
-    "pyramid cone angle curve axis grid ratio percent fraction decimal equation formula "+
-    "theorem proof variable constant function slope zero infinity negative positive average total "+
-    "sum difference product quotient remainder measure length width height depth distance speed "+
-    "velocity acceleration mass weight volume density pressure temperature heat cold force motion "+
-    "friction magnet electric current voltage resistance frequency wave particle nucleus electron proton "+
-    "neutron compound mixture solution reaction catalyst enzyme cell tissue organ muscle bone "+
-    "blood heart lung brain nerve vein artery skin hair nail tooth tongue "+
-    "lip ear nose eyebrow eyelash cheek chin forehead shoulder elbow wrist finger "+
-    "thumb knee ankle toe heel spine rib skull liver kidney stomach intestine "+
-    "bladder throat chest waist hip thigh calf palm fist grip grasp reach "+
-    "stretch bend twist spin roll jump leap hop skip crawl climb swim "+
-    "dive float sink drown breathe inhale exhale cough sneeze yawn blink wink "+
-    "smile frown laugh cry shout whisper mumble scream sing hum whistle chatter "+
-    "argue debate discuss negotiate agree disagree compromise decide choose select pick prefer "+
-    "suggest recommend advise warn remind forget remember recall memorize teach explain describe "+
-    "define clarify confuse mistake correct error fault blame apologize forgive excuse thank "+
-    "appreciate praise criticize complain compliment insult tease joke amuse entertain bore excite "+
-    "thrill scare frighten worry stress relax calm soothe comfort console encourage motivate "+
-    "inspire discourage disappoint frustrate annoy irritate anger upset sadden please satisfy delight "+
-    "surprise shock astonish amaze impress admire respect trust doubt suspect believe assume "+
-    "guess predict expect anticipate hope wish dream imagine create invent build construct "+
-    "assemble repair fix break destroy demolish remove replace install upgrade update download "+
-    "upload save delete copy paste cut edit revise draft outline summarize analyze "+
-    "evaluate assess calculate compute estimate approximate round convert translate transform transfer transport "+
-    "carry deliver send receive collect gather organize arrange sort classify categorize label "+
-    "tag mark highlight underline box list rank sequence schedule plan prepare manage "+
-    "supervise oversee lead guide direct instruct command control regulate govern rule enforce "+
-    "obey follow comply violate adjust adapt modify customize personalize simplify complicate expand "+
-    "reduce increase decrease shrink contract compress squeeze release extend shorten lengthen widen "+
-    "narrow deepen flatten raise lower lift drop push pull drag let catch "+
-    "throw toss kick punch slap tap pat rub scratch pinch knock hit "+
-    "strike bounce vibrate shake tremble rattle crack snap shatter crumble crush smash "+
-    "grind chop slice dice mince peel grate blend mix stir whisk beat "+
-    "fold knead mold carve engrave etch paint dye stain polish shine wax "+
-    "buff sand scrub wipe rinse wash dry hang stack pile display showcase "+
-    "present introduce announce declare reveal disclose expose hide conceal cover uncover discover "+
-    "explore investigate research study examine inspect test experiment observe trace chase pursue "+
-    "escape flee avoid dodge evade seek search locate identify recognize notice detect "+
-    "computational ayanokoji iterational butler okwidas ding dong blackberry pickle butt "+
-    "touch smell taste hear view glance stare gaze peek glimpse spot").split(/\s+/);
+var THEMES={
+  "8008":{bg:"#333a45",sub:"#939eae",subAlt:"#2e343d",text:"#e9ecf0",main:"#f44c7f",caret:"#f44c7f",error:"#da3333"},
+  "9009":{bg:"#eeebe2",sub:"#99947f",subAlt:"#d3cfc1",text:"#080909",main:"#080909",caret:"#7fa480",error:"#c87e74"},
+  "default":{bg:"#100e16",sub:"#6a6182",subAlt:"#18122a",text:"#e7e3ee",main:"#c9aef2",caret:"#c9aef2",error:"#f0879a"},
+  "catppuccin_latte":{bg:"#eff1f5",sub:"#9ca0b0",subAlt:"#e6e9ef",text:"#4c4f69",main:"#8839ef",caret:"#dc8a78",error:"#d20f39"},
+  "catppuccin_frappe":{bg:"#303446",sub:"#838ba7",subAlt:"#292c3c",text:"#c6d0f5",main:"#ca9ee6",caret:"#f4dbd6",error:"#e78284"},
+  "catppuccin_macchiato":{bg:"#24273a",sub:"#8087a2",subAlt:"#1e2030",text:"#cad3f5",main:"#c6a0f6",caret:"#f4dbd6",error:"#ed8796"},
+  "catppuccin_mocha":{bg:"#1e1e2e",sub:"#7f849c",subAlt:"#181825",text:"#cdd6f4",main:"#cba6f7",caret:"#f5e0dc",error:"#f38ba8"},
+  "80s_after_dark":{bg:"#1b1d36",sub:"#99d6ea",subAlt:"#17182c",text:"#e1e7ec",main:"#fca6d1",caret:"#99d6ea",error:"#fffb85"},
+  "aether":{bg:"#101820",sub:"#cf6bdd",subAlt:"#292136",text:"#eedaea",main:"#eedaea",caret:"#eedaea",error:"#ff5253"},
+  "alduin":{bg:"#1c1c1c",sub:"#444444",subAlt:"#242424",text:"#f5f3ed",main:"#dfd7af",caret:"#e3e3e3",error:"#af5f5f"},
+  "alpine":{bg:"#6c687f",sub:"#9994b8",subAlt:"#77738c",text:"#ffffff",main:"#ffffff",caret:"#585568",error:"#e32b2b"},
+  "anti_hero":{bg:"#00002e",sub:"#ff3d8b",subAlt:"#060548",text:"#f1deef",main:"#ffadad",caret:"#ffffff",error:"#8fecff"},
+  "arch":{bg:"#0c0d11",sub:"#454864",subAlt:"#171a25",text:"#f6f5f5",main:"#7ebab5",caret:"#7ebab5",error:"#ff4754"},
+  "aurora":{bg:"#011926",sub:"#245c69",subAlt:"#000c13",text:"#fff",main:"#00e980",caret:"#00e980",error:"#b94da1"},
+  "beach":{bg:"#ffeead",sub:"#ffcc5c",subAlt:"#f7dc8f",text:"#5b7869",main:"#96ceb4",caret:"#ffcc5c",error:"#ff6f69"},
+  "bento":{bg:"#2d394d",sub:"#4a768d",subAlt:"#263041",text:"#fffaf8",main:"#ff7a90",caret:"#ff7a90",error:"#ee2a3a"},
+  "bingsu":{bg:"#b8a7aa",sub:"#48373d",subAlt:"#ab989e",text:"#ebe6ea",main:"#83616e",caret:"#ebe6ea",error:"#921341"},
+  "bliss":{bg:"#262727",sub:"#665957",subAlt:"#343231",text:"#fff",main:"#f0d3c9",caret:"#f0d3c9",error:"#bd4141"},
+  "blue_dolphin":{bg:"#003950",sub:"#00e4ff",subAlt:"#014961",text:"#82eaff",main:"#ffcefb",caret:"#00bcd4",error:"#ffbde6"},
+  "blueberry_dark":{bg:"#212b42",sub:"#5c7da5",subAlt:"#1b2334",text:"#91b4d5",main:"#add7ff",caret:"#962f7e",error:"#df4576"},
+  "blueberry_light":{bg:"#dae0f5",sub:"#92a4be",subAlt:"#c1c7df",text:"#678198",main:"#506477",caret:"#df4576",error:"#df4576"},
+  "botanical":{bg:"#7b9c98",sub:"#495755",subAlt:"#72908d",text:"#eaf1f3",main:"#eaf1f3",caret:"#abc6c4",error:"#f6c9b4"},
+  "bouquet":{bg:"#173f35",sub:"#408e7b",subAlt:"#1f4e43",text:"#e9e0d2",main:"#eaa09c",caret:"#eaa09c",error:"#d44729"},
+  "breeze":{bg:"#e8d5c4",sub:"#3a98b9",subAlt:"#f6e6da",text:"#1b4c5e",main:"#7d67a9",caret:"#7d67a9",error:"#7d67a9"},
+  "bushido":{bg:"#242933",sub:"#596172",subAlt:"#1c222d",text:"#f6f0e9",main:"#ec4c56",caret:"#ec4c56",error:"#ec4c56"},
+  "cafe":{bg:"#ceb18d",sub:"#d4d2d1",subAlt:"#bba180",text:"#14120f",main:"#14120f",caret:"#14120f",error:"#c82931"},
+  "camping":{bg:"#faf1e4",sub:"#c2b8aa",subAlt:"#e7dccb",text:"#3c403b",main:"#618c56",caret:"#618c56",error:"#ad4f4e"},
+  "carbon":{bg:"#313131",sub:"#616161",subAlt:"#2b2b2b",text:"#f5e6c8",main:"#f66e0d",caret:"#f66e0d",error:"#e72d2d"},
+  "catppuccin":{bg:"#1e1e2e",sub:"#7f849c",subAlt:"#181825",text:"#cdd6f4",main:"#cba6f7",caret:"#f2cdcd",error:"#f38ba8"},
+  "chaos_theory":{bg:"#141221",sub:"#676e8a",subAlt:"#1e1d2f",text:"#dde5ed",main:"#fd77d7",caret:"#dde5ed",error:"#fd77d7"},
+  "cheesecake":{bg:"#fdf0d5",sub:"#d91c81",subAlt:"#f3e2bf",text:"#3a3335",main:"#8e2949",caret:"#892948",error:"#5cf074"},
+  "cherry_blossom":{bg:"#323437",sub:"#787d82",subAlt:"#2d2f31",text:"#d1d0c5",main:"#d65ccc",caret:"#ffffff",error:"#ca4754"},
+  "comfy":{bg:"#4a5b6e",sub:"#9ec1cc",subAlt:"#425366",text:"#f5efee",main:"#f8cdc6",caret:"#9ec1cc",error:"#c9465e"},
+  "copper":{bg:"#442f29",sub:"#7ebab5",subAlt:"#50362e",text:"#e7e0de",main:"#b46a55",caret:"#c25c42",error:"#a32424"},
+  "creamsicle":{bg:"#ff9869",sub:"#ff661f",subAlt:"#fe8954",text:"#fcfcf8",main:"#fcfcf8",caret:"#fcfcf8",error:"#6a0dad"},
+  "cy_red":{bg:"#6e2626",sub:"#ff6060",subAlt:"#3f1616",text:"#ffaaaa",main:"#e55050",caret:"#541d1d",error:"#919fd9"},
+  "cyberspace":{bg:"#181c18",sub:"#9578d3",subAlt:"#131613",text:"#c2fbe1",main:"#00ce7c",caret:"#00ce7c",error:"#ff5f5f"},
+  "dark":{bg:"#111",sub:"#444",subAlt:"#191919",text:"#eee",main:"#eee",caret:"#eee",error:"#da3333"},
+  "dark_magic_girl":{bg:"#091f2c",sub:"#93e8d3",subAlt:"#071823",text:"#a288d9",main:"#f5b1cc",caret:"#a288d9",error:"#e45c96"},
+  "dark_note":{bg:"#1f1f1f",sub:"#768f95",subAlt:"#141414",text:"#d2dff4",main:"#f2c17b",caret:"#e3dce0",error:"#ff0000"},
+  "darling":{bg:"#fec8cd",sub:"#a30000",subAlt:"#f2babd",text:"#ffffff",main:"#ffffff",caret:"#ffffff",error:"#2e7dde"},
+  "deku":{bg:"#058b8c",sub:"#255458",subAlt:"#0e7d7e",text:"#f7f2ea",main:"#b63530",caret:"#b63530",error:"#b63530"},
+  "desert_oasis":{bg:"#fff2d5",sub:"#0061fe",subAlt:"#eddebc",text:"#332800",main:"#d19d01",caret:"#3a87fe",error:"#76bb40"},
+  "dev":{bg:"#1b2028",sub:"#4b5975",subAlt:"#151a21",text:"#ccccb5",main:"#23a9d5",caret:"#4b5975",error:"#b81b2c"},
+  "diner":{bg:"#537997",sub:"#445c7f",subAlt:"#4d6f8b",text:"#dfdbc8",main:"#c3af5b",caret:"#ad5145",error:"#ad5145"},
+  "dino":{bg:"#ffffff",sub:"#d5d5d5",subAlt:"#cafad8",text:"#1d221f",main:"#40d672",caret:"#40d672",error:"#ff5f5f"},
+  "discord":{bg:"#313338",sub:"#565861",subAlt:"#2b2d31",text:"#dcdee3",main:"#5a65ea",caret:"#5a65ea",error:"#df4f4b"},
+  "dmg":{bg:"#dadbdc",sub:"#3846b1",subAlt:"#bec1d2",text:"#414141",main:"#ae185e",caret:"#384693",error:"#ae185e"},
+  "dollar":{bg:"#e4e4d4",sub:"#8a9b69",subAlt:"#cbd0bf",text:"#555a56",main:"#6b886b",caret:"#424643",error:"#d60000"},
+  "dots":{bg:"#121520",sub:"#676e8a",subAlt:"#1b1e2c",text:"#fff",main:"#fff",caret:"#fff",error:"#da3333"},
+  "dracula":{bg:"#282a36",sub:"#6272a4",subAlt:"#20222c",text:"#f8f8f2",main:"#bd93f9",caret:"#bd93f9",error:"#ff5555"},
+  "drowning":{bg:"#191826",sub:"#50688c",subAlt:"#1e1f2f",text:"#9393a7",main:"#4a6fb5",caret:"#4f85e8",error:"#be555f"},
+  "dualshot":{bg:"#737373",sub:"#aaaaaa",subAlt:"#646464",text:"#212222",main:"#212222",caret:"#212222",error:"#c82931"},
+  "earthsong":{bg:"#292521",sub:"#f5ae2d",subAlt:"#1d1b18",text:"#e6c7a8",main:"#509452",caret:"#1298ba",error:"#7e2a33"},
+  "everblush":{bg:"#141b1e",sub:"#838887",subAlt:"#232a2d",text:"#dadada",main:"#8ccf7e",caret:"#6cbfbf",error:"#e57474"},
+  "evil_eye":{bg:"#0084c2",sub:"#01589f",subAlt:"#0c79be",text:"#171718",main:"#f7f2ea",caret:"#f7f2ea",error:"#ca4754"},
+  "ez_mode":{bg:"#0068c6",sub:"#138bf7",subAlt:"#005bac",text:"#ffffff",main:"#fa62d5",caret:"#4ddb47",error:"#4ddb47"},
+  "fire":{bg:"#0f0000",sub:"#683434",subAlt:"#200a0a",text:"#ffffff",main:"#b31313",caret:"#b31313",error:"#2f3cb6"},
+  "fledgling":{bg:"#3b363f",sub:"#8e5568",subAlt:"#332e38",text:"#e6d5d3",main:"#fc6e83",caret:"#474747",error:"#f52443"},
+  "fleuriste":{bg:"#c6b294",sub:"#64374d",subAlt:"#b4a389",text:"#091914",main:"#405a52",caret:"#8a785b",error:"#990000"},
+  "floret":{bg:"#00272c",sub:"#779097",subAlt:"#173033",text:"#e5e5e5",main:"#ffdd6d",caret:"#c3bd40",error:"#8a4000"},
+  "froyo":{bg:"#e1dacb",sub:"#b29c5e",subAlt:"#d3cdc1",text:"#7b7d7d",main:"#7b7d7d",caret:"#7b7d7d",error:"#f28578"},
+  "frozen_llama":{bg:"#9bf2ea",sub:"#b690fd",subAlt:"#7fe7dd",text:"#ffffff",main:"#6d44a6",caret:"#ffffff",error:"#e42629"},
+  "fruit_chew":{bg:"#d6d3d6",sub:"#b49cb5",subAlt:"#cabfca",text:"#282528",main:"#5c1e5f",caret:"#b92221",error:"#bd2621"},
+  "fundamentals":{bg:"#727474",sub:"#cac4be",subAlt:"#666868",text:"#131313",main:"#7fa482",caret:"#196378",error:"#5e477c"},
+  "future_funk":{bg:"#2e1a47",sub:"#c18fff",subAlt:"#27173c",text:"#f7f2ea",main:"#f7f2ea",caret:"#f7f2ea",error:"#f04e98"},
+  "github":{bg:"#212830",sub:"#788386",subAlt:"#141b23",text:"#ccdae6",main:"#41ce5c",caret:"#41ce5c",error:"#c23e3a"},
+  "godspeed":{bg:"#eae4cf",sub:"#ada998",subAlt:"#ded9c9",text:"#646669",main:"#9abbcd",caret:"#f4d476",error:"#ca4754"},
+  "graen":{bg:"#303c36",sub:"#181d1a",subAlt:"#36453c",text:"#a59682",main:"#a59682",caret:"#601420",error:"#601420"},
+  "grand_prix":{bg:"#36475c",sub:"#5c6c80",subAlt:"#42536b",text:"#c1c7d7",main:"#c0d036",caret:"#c0d036",error:"#fc5727"},
+  "grape":{bg:"#2c003e",sub:"#6e225e",subAlt:"#1f002d",text:"#fff",main:"#ff8f00",caret:"#ff8f00",error:"#ff4081"},
+  "gruvbox_dark":{bg:"#282828",sub:"#665c54",subAlt:"#212121",text:"#ebdbb2",main:"#d79921",caret:"#fabd2f",error:"#fb4934"},
+  "gruvbox_light":{bg:"#fbf1c7",sub:"#a89984",subAlt:"#daceae",text:"#3c3836",main:"#689d6a",caret:"#689d6a",error:"#cc241d"},
+  "hammerhead":{bg:"#030613",sub:"#213c53",subAlt:"#0a1928",text:"#e2f1f5",main:"#4fcdb9",caret:"#4fcdb9",error:"#e32b2b"},
+  "hanok":{bg:"#d8d2c3",sub:"#8b6f5c",subAlt:"#cdc0af",text:"#393b3b",main:"#513a2a",caret:"#513a2a",error:"#ca4754"},
+  "hedge":{bg:"#415e31",sub:"#ede5b4",subAlt:"#38502a",text:"#f7f1d6",main:"#6a994e",caret:"#f2efbb",error:"#ca3d3f"},
+  "honey":{bg:"#f2aa00",sub:"#a66b00",subAlt:"#e19e00",text:"#f3eecb",main:"#fff546",caret:"#795200",error:"#df3333"},
+  "horizon":{bg:"#1c1e26",sub:"#db886f",subAlt:"#17181f",text:"#bbbbbb",main:"#c4a88a",caret:"#bbbbbb",error:"#d55170"},
+  "husqy":{bg:"#000000",sub:"#972fff",subAlt:"#1e001e",text:"#ebd7ff",main:"#c58aff",caret:"#c58aff",error:"#da3333"},
+  "iceberg_dark":{bg:"#161821",sub:"#595e76",subAlt:"#232531",text:"#c6c8d1",main:"#84a0c6",caret:"#d2d4de",error:"#e27878"},
+  "iceberg_light":{bg:"#e8e9ec",sub:"#adb1c4",subAlt:"#ccceda",text:"#33374c",main:"#2d539e",caret:"#262a3f",error:"#cc517a"},
+  "incognito":{bg:"#0e0e0e",sub:"#555555",subAlt:"#151515",text:"#c6c6c6",main:"#ff9900",caret:"#ff9900",error:"#e44545"},
+  "ishtar":{bg:"#202020",sub:"#847869",subAlt:"#272727",text:"#fae1c3",main:"#91170c",caret:"#c58940",error:"#bb1e10"},
+  "iv_clover":{bg:"#a0a0a0",sub:"#353535",subAlt:"#bebebe",text:"#3b2d3b",main:"#573e40",caret:"#8d8d8d",error:"#937173"},
+  "iv_spade":{bg:"#0c0c0c",sub:"#404040",subAlt:"#121212",text:"#d3c2c3",main:"#b7976a",caret:"#bebebe",error:"#9d7b7d"},
+  "joker":{bg:"#1a0e25",sub:"#7554a3",subAlt:"#14081f",text:"#e9e2f5",main:"#99de1e",caret:"#99de1e",error:"#e32b2b"},
+  "laser":{bg:"#221b44",sub:"#b82356",subAlt:"#1e173b",text:"#dbe7e8",main:"#009eaf",caret:"#009eaf",error:"#a8d400"},
+  "lavender":{bg:"#ada6c2",sub:"#e4e3e9",subAlt:"#a19bb9",text:"#2f2a41",main:"#e4e3e9",caret:"#e4e3e9",error:"#ca4754"},
+  "leather":{bg:"#a86948",sub:"#81482b",subAlt:"#9a5f3f",text:"#ffe4bc",main:"#ffe4bc",caret:"#ef6d49",error:"#ca4754"},
+  "lil_dragon":{bg:"#ebe1ef",sub:"#a28db8",subAlt:"#dac7e2",text:"#212b43",main:"#8a5bd6",caret:"#212b43",error:"#f794ca"},
+  "lilac_mist":{bg:"#fffbfe",sub:"#e094c2",subAlt:"#ecdcee",text:"#5c2954",main:"#b94189",caret:"#e099d6",error:"#ff6f69"},
+  "lime":{bg:"#7c878e",sub:"#4b5257",subAlt:"#737d82",text:"#bfcfdc",main:"#93c247",caret:"#93c247",error:"#ea4221"},
+  "luna":{bg:"#221c35",sub:"#5a3a7e",subAlt:"#2f2346",text:"#ffe3eb",main:"#f67599",caret:"#f67599",error:"#efc050"},
+  "macroblank":{bg:"#b2d2c8",sub:"#717977",subAlt:"#c6ddd3",text:"#490909",main:"#c13117",caret:"#766f71",error:"#c13117"},
+  "magic_girl":{bg:"#ffffff",sub:"#93e8d3",subAlt:"#f2f2f2",text:"#00ac8c",main:"#f5b1cc",caret:"#e45c96",error:"#ffe495"},
+  "mashu":{bg:"#2b2b2c",sub:"#d8a0a6",subAlt:"#27242c",text:"#f1e2e4",main:"#76689a",caret:"#76689a",error:"#d44729"},
+  "matcha_moccha":{bg:"#523525",sub:"#9e6749",subAlt:"#422b1e",text:"#ecddcc",main:"#7ec160",caret:"#7ec160",error:"#fb4934"},
+  "material":{bg:"#263238",sub:"#4c6772",subAlt:"#2e3c43",text:"#e6edf3",main:"#80cbc4",caret:"#80cbc4",error:"#fb4934"},
+  "matrix":{bg:"#000000",sub:"#006500",subAlt:"#032000",text:"#d1ffcd",main:"#15ff00",caret:"#15ff00",error:"#da3333"},
+  "menthol":{bg:"#00c18c",sub:"#186544",subAlt:"#17ae7d",text:"#ffffff",main:"#ffffff",caret:"#99fdd8",error:"#e03c3c"},
+  "metaverse":{bg:"#232323",sub:"#5e5e5e",subAlt:"#1d1d1d",text:"#e8e8e8",main:"#d82934",caret:"#d82934",error:"#da3333"},
+  "metropolis":{bg:"#0f1f2c",sub:"#326984",subAlt:"#0b1822",text:"#e4edf1",main:"#56c3b7",caret:"#56c3b7",error:"#d44729"},
+  "mexican":{bg:"#f8ad34",sub:"#333",subAlt:"#f9b951",text:"#eee",main:"#b12189",caret:"#eee",error:"#da3333"},
+  "miami":{bg:"#f35588",sub:"#94294c",subAlt:"#db4979",text:"#f0e9ec",main:"#05dfd7",caret:"#a3f7bf",error:"#fff591"},
+  "miami_nights":{bg:"#18181a",sub:"#47bac0",subAlt:"#0f0f10",text:"#fff",main:"#e4609b",caret:"#e4609b",error:"#fff591"},
+  "midnight":{bg:"#0b0e13",sub:"#394760",subAlt:"#141a24",text:"#9fadc6",main:"#60759f",caret:"#60759f",error:"#c27070"},
+  "milkshake":{bg:"#ffffff",sub:"#62cfe6",subAlt:"#ddeff3",text:"#212b43",main:"#212b43",caret:"#212b43",error:"#f19dac"},
+  "mint":{bg:"#05385b",sub:"#20688a",subAlt:"#07324e",text:"#edf5e1",main:"#5cdb95",caret:"#5cdb95",error:"#f35588"},
+  "mizu":{bg:"#afcbdd",sub:"#85a5bb",subAlt:"#9fc1d4",text:"#1a2633",main:"#fcfbf6",caret:"#fcfbf6",error:"#bf616a"},
+  "modern_dolch":{bg:"#2d2e30",sub:"#54585c",subAlt:"#242527",text:"#e3e6eb",main:"#7eddd3",caret:"#7eddd3",error:"#d36a7b"},
+  "modern_dolch_light":{bg:"#dbdbdb",sub:"#a3a2a2",subAlt:"#e8e8e8",text:"#454545",main:"#8fd1c3",caret:"#8fd1c3",error:"#ea8a9a"},
+  "modern_ink":{bg:"#ffffff",sub:"#b7b7b7",subAlt:"#ececec",text:"#000000",main:"#ff360d",caret:"#ff0000",error:"#d70000"},
+  "monokai":{bg:"#272822",sub:"#e6db74",subAlt:"#1f201b",text:"#e2e2dc",main:"#a6e22e",caret:"#66d9ef",error:"#f92672"},
+  "moonlight":{bg:"#191f28",sub:"#4b5975",subAlt:"#141a22",text:"#ccccb5",main:"#c69f68",caret:"#8f744b",error:"#b81b2c"},
+  "mountain":{bg:"#0f0f0f",sub:"#4c4c4c",subAlt:"#1a1a1a",text:"#e7e7e7",main:"#e7e7e7",caret:"#f5f5f5",error:"#ac8c8c"},
+  "mr_sleeves":{bg:"#d1d7da",sub:"#9a9fa1",subAlt:"#bfcbd1",text:"#1d1d1d",main:"#daa99b",caret:"#8fadc9",error:"#bf6464"},
+  "ms_cupcakes":{bg:"#ffffff",sub:"#d64090",subAlt:"#edf8fa",text:"#0a282f",main:"#5ed5f3",caret:"#303030",error:"#a4dd32"},
+  "muted":{bg:"#525252",sub:"#939eae",subAlt:"#494949",text:"#b1e4e3",main:"#c5b4e3",caret:"#b1e4e3",error:"#edc1cd"},
+  "nautilus":{bg:"#132237",sub:"#0b4c6c",subAlt:"#0e1a29",text:"#1cbaac",main:"#ebb723",caret:"#ebb723",error:"#da3333"},
+  "nebula":{bg:"#212135",sub:"#19b3b8",subAlt:"#191928",text:"#838686",main:"#be3c88",caret:"#78c729",error:"#ca4754"},
+  "night_runner":{bg:"#212121",sub:"#5c4a9c",subAlt:"#1a1a1a",text:"#e8e8e8",main:"#feff04",caret:"#feff04",error:"#da3333"},
+  "nord":{bg:"#242933",sub:"#929aaa",subAlt:"#2e3440",text:"#d8dee9",main:"#88c0d0",caret:"#eceff4",error:"#bf616a"},
+  "nord_light":{bg:"#eceff4",sub:"#6a7791",subAlt:"#d8dee9",text:"#8fbcbb",main:"#8fbcbb",caret:"#8fbcbb",error:"#bf616a"},
+  "norse":{bg:"#242425",sub:"#505b5e",subAlt:"#303333",text:"#ccc2b1",main:"#2b5f6d",caret:"#2b5f6d",error:"#7e2a2a"},
+  "oblivion":{bg:"#313231",sub:"#5d6263",subAlt:"#3a3b3b",text:"#f7f5f1",main:"#a5a096",caret:"#a5a096",error:"#dd452e"},
+  "olive":{bg:"#e9e5cc",sub:"#b7b39e",subAlt:"#d4cfbc",text:"#373731",main:"#92946f",caret:"#92946f",error:"#cf2f2f"},
+  "olivia":{bg:"#1c1b1d",sub:"#4e3e3e",subAlt:"#262223",text:"#f2efed",main:"#deaf9d",caret:"#deaf9d",error:"#bf616a"},
+  "onedark":{bg:"#2f343f",sub:"#eceff4",subAlt:"#262b34",text:"#98c379",main:"#61afef",caret:"#61afef",error:"#e06c75"},
+  "our_theme":{bg:"#ce1226",sub:"#6d0f19",subAlt:"#9f1020",text:"#ffffff",main:"#fcd116",caret:"#fcd116",error:"#fcd116"},
+  "pale_nimbus":{bg:"#433e4c",sub:"#ffaca3",subAlt:"#694f5e",text:"#feffdb",main:"#94ffc2",caret:"#9efffd",error:"#ff5c5c"},
+  "paper":{bg:"#eeeeee",sub:"#b2b2b2",subAlt:"#dddddd",text:"#444444",main:"#444444",caret:"#444444",error:"#d70000"},
+  "passion_fruit":{bg:"#7c2142",sub:"#9994b8",subAlt:"#833c5e",text:"#ffffff",main:"#f4a3b4",caret:"#ffffff",error:"#deb80b"},
+  "pastel":{bg:"#e0b2bd",sub:"#b4e9ff",subAlt:"#d29fab",text:"#6d5c6f",main:"#fbf4b6",caret:"#fbf4b6",error:"#ff6961"},
+  "peach_blossom":{bg:"#292929",sub:"#616161",subAlt:"#2a363b",text:"#fecea8",main:"#99b898",caret:"#616161",error:"#ff6961"},
+  "peaches":{bg:"#e0d7c1",sub:"#e7b28e",subAlt:"#e2caaf",text:"#5f4c41",main:"#dd7a5f",caret:"#dd7a5f",error:"#ff6961"},
+  "phantom":{bg:"#001",sub:"#414868",subAlt:"#24283b",text:"#c0caf5",main:"#7aa2f7",caret:"#bb9af7",error:"#f7768e"},
+  "pink_lemonade":{bg:"#f6d992",sub:"#f6b092",subAlt:"#f6cc93",text:"#fcfcf8",main:"#f6a192",caret:"#fcfcf8",error:"#ff6f69"},
+  "pulse":{bg:"#181818",sub:"#53565a",subAlt:"#121212",text:"#e5f4f4",main:"#17b8bd",caret:"#17b8bd",error:"#da3333"},
+  "purpleish":{bg:"#1e1e32",sub:"#5c5c99",subAlt:"#181829",text:"#a3a3cc",main:"#7a52cc",caret:"#7a52cc",error:"#ff6666"},
+  "rainbow_trail":{bg:"#f5f5f5",sub:"#4f4f4f",subAlt:"#e0e0e0",text:"#1f1f1f",main:"#363636",caret:"#0d0d0d",error:"#ff0008"},
+  "red_dragon":{bg:"#1a0b0c",sub:"#e2a528",subAlt:"#0e0506",text:"#4a4d4e",main:"#ff3a32",caret:"#ff3a32",error:"#771b1f"},
+  "red_samurai":{bg:"#84202c",sub:"#55131b",subAlt:"#751d26",text:"#e2dad0",main:"#c79e6e",caret:"#c79e6e",error:"#33bbda"},
+  "repose_dark":{bg:"#2f3338",sub:"#8f8e84",subAlt:"#3a3c3d",text:"#d6d2bc",main:"#d6d2bc",caret:"#d6d2bc",error:"#ff4a59"},
+  "repose_light":{bg:"#efead0",sub:"#8f8e84",subAlt:"#dbd6c4",text:"#333538",main:"#5f605e",caret:"#5f605e",error:"#c43c53"},
+  "retro":{bg:"#dad3c1",sub:"#918b7d",subAlt:"#c8c3b3",text:"#1d1b17",main:"#1d1b17",caret:"#1d1b17",error:"#bf616a"},
+  "retrocast":{bg:"#07737a",sub:"#f3e03b",subAlt:"#26858b",text:"#ffffff",main:"#88dbdf",caret:"#88dbdf",error:"#ff585d"},
+  "rgb":{bg:"#111",sub:"#444",subAlt:"#1a1a1a",text:"#eee",main:"#eee",caret:"#eee",error:"#eee"},
+  "rose_pine":{bg:"#1f1d27",sub:"#c4a7e7",subAlt:"#282533",text:"#e0def4",main:"#9ccfd8",caret:"#f6c177",error:"#eb6f92"},
+  "rose_pine_dawn":{bg:"#fffaf3",sub:"#c4a7e7",subAlt:"#f0e9df",text:"#286983",main:"#56949f",caret:"#ea9d34",error:"#b4637a"},
+  "rose_pine_moon":{bg:"#2a273f",sub:"#c4a7e7",subAlt:"#211f32",text:"#e0def4",main:"#9ccfd8",caret:"#f6c177",error:"#eb6f92"},
+  "rudy":{bg:"#1a2b3e",sub:"#3a506c",subAlt:"#152231",text:"#c9c8bf",main:"#af8f5c",caret:"#af8f5c",error:"#bf616a"},
+  "ryujinscales":{bg:"#081426",sub:"#ffbc90",subAlt:"#040e1d",text:"#ffe4bc",main:"#f17754",caret:"#ef6d49",error:"#ca4754"},
+  "serika":{bg:"#e1e1e3",sub:"#aaaeb3",subAlt:"#d1d3d8",text:"#323437",main:"#e2b714",caret:"#e2b714",error:"#da3333"},
+  "serika_dark":{bg:"#323437",sub:"#646669",subAlt:"#2c2e31",text:"#d1d0c5",main:"#e2b714",caret:"#e2b714",error:"#ca4754"},
+  "sewing_tin":{bg:"#241963",sub:"#446ad5",subAlt:"#2a277a",text:"#ffffff",main:"#f2ce83",caret:"#fbdb8c",error:"#c6915e"},
+  "sewing_tin_light":{bg:"#ffffff",sub:"#385eca",subAlt:"#c8cedf",text:"#2d2076",main:"#2d2076",caret:"#fbdb8c",error:"#f2ce83"},
+  "shadow":{bg:"#000",sub:"#444",subAlt:"#171717",text:"#eee",main:"#eee",caret:"#eee",error:"#fff"},
+  "shoko":{bg:"#ced7e0",sub:"#7599b1",subAlt:"#b7cada",text:"#3b4c58",main:"#81c4dd",caret:"#81c4dd",error:"#bf616a"},
+  "slambook":{bg:"#fffdde",sub:"#1c82adc4",subAlt:"#c6dce4",text:"#13005a",main:"#03001c",caret:"#367e18",error:"#f900bf"},
+  "snes":{bg:"#bfbec2",sub:"#9f8ad4",subAlt:"#b5b0c2",text:"#2e2e2e",main:"#553d94",caret:"#523793",error:"#ca4754"},
+  "soaring_skies":{bg:"#fff9f2",sub:"#1e107a",subAlt:"#e5ddd4",text:"#1d1e1e",main:"#55c6f0",caret:"#1e107a",error:"#fb5745"},
+  "solarized_dark":{bg:"#002b36",sub:"#2aa198",subAlt:"#00222b",text:"#268bd2",main:"#859900",caret:"#dc322f",error:"#d33682"},
+  "solarized_light":{bg:"#fdf6e3",sub:"#2aa198",subAlt:"#e2d8be",text:"#181819",main:"#859900",caret:"#dc322f",error:"#d33682"},
+  "solarized_osaka":{bg:"#00141a",sub:"#2aa198",subAlt:"#00222b",text:"#eee8d5",main:"#859900",caret:"#b58900",error:"#dc322f"},
+  "sonokai":{bg:"#2c2e34",sub:"#e7c664",subAlt:"#232429",text:"#e2e2e3",main:"#9ed072",caret:"#f38c71",error:"#fc5d7c"},
+  "spiderman":{bg:"#0d1219",sub:"#0476f2",subAlt:"#0b1c2e",text:"#f0f0f0",main:"#e23636",caret:"#e23636",error:"#0476f2"},
+  "stealth":{bg:"#010203",sub:"#5e676e",subAlt:"#121212",text:"#383e42",main:"#383e42",caret:"#e25303",error:"#e25303"},
+  "strawberry":{bg:"#f37f83",sub:"#e53c58",subAlt:"#ef6e77",text:"#fcfcf8",main:"#fcfcf8",caret:"#fcfcf8",error:"#fcd23f"},
+  "striker":{bg:"#124883",sub:"#0f2d4e",subAlt:"#104176",text:"#d6dbd9",main:"#d7dcda",caret:"#d7dcda",error:"#fb4934"},
+  "suisei":{bg:"#3b4a62",sub:"#fe9841",subAlt:"#313e55",text:"#dbdeeb",main:"#bef0ff",caret:"#bef0ff",error:"#ed2939"},
+  "sunset":{bg:"#211e24",sub:"#5b578e",subAlt:"#161319",text:"#f4e0c9",main:"#f79777",caret:"#ffca99",error:"#66a1ff"},
+  "superuser":{bg:"#262a33",sub:"#526777",subAlt:"#1f232c",text:"#e5f7ef",main:"#43ffaf",caret:"#43ffaf",error:"#ff5f5f"},
+  "sweden":{bg:"#0058a3",sub:"#57abdb",subAlt:"#024f8e",text:"#ffffff",main:"#ffcc02",caret:"#b5b5b5",error:"#e74040"},
+  "tangerine":{bg:"#ffede0",sub:"#ff9562",subAlt:"#fdd3bf",text:"#3d1705",main:"#fe5503",caret:"#5d8500",error:"#7fb500"},
+  "taro":{bg:"#b3baff",sub:"#6f6c91",subAlt:"#a3a7df",text:"#130f1a",main:"#130f1a",caret:"#00e9e5",error:"#ffe23e"},
+  "terminal":{bg:"#191a1b",sub:"#48494b",subAlt:"#141516",text:"#e7eae0",main:"#79a617",caret:"#79a617",error:"#a61717"},
+  "terra":{bg:"#0c100e",sub:"#436029",subAlt:"#0f1d18",text:"#f0edd1",main:"#89c559",caret:"#89c559",error:"#d3ca78"},
+  "terrazzo":{bg:"#f1e5da",sub:"#688e8f",subAlt:"#e3d3c6",text:"#023e3b",main:"#e0794e",caret:"#e0794e",error:"#a01034"},
+  "terror_below":{bg:"#0b1e1a",sub:"#015c53",subAlt:"#041715",text:"#dceae5",main:"#66ac92",caret:"#66ac92",error:"#bf616a"},
+  "tiramisu":{bg:"#cfc6b9",sub:"#c0976f",subAlt:"#d0bca7",text:"#7d5448",main:"#c0976f",caret:"#7d5448",error:"#e9632d"},
+  "trackday":{bg:"#464d66",sub:"#5c7eb9",subAlt:"#3d4359",text:"#cfcfcf",main:"#e0513e",caret:"#475782",error:"#e44e4e"},
+  "trance":{bg:"#00021b",sub:"#3c4c79",subAlt:"#18214c",text:"#fff",main:"#e51376",caret:"#e51376",error:"#02d3b0"},
+  "tron_orange":{bg:"#0d1c1c",sub:"#ff6600",subAlt:"#9c9191",text:"#ffffff",main:"#f0e800",caret:"#f0e800",error:"#ff0000"},
+  "vaporwave":{bg:"#a4a7ea",sub:"#7c7faf",subAlt:"#989bd9",text:"#f1ebf1",main:"#e368da",caret:"#28cafe",error:"#573ca9"},
+  "vesper":{bg:"#101010",sub:"#a0a0a0",subAlt:"#1c1c1c",text:"#ffffff",main:"#ffc799",caret:"#99ffe4",error:"#ff8080"},
+  "vesper_light":{bg:"#ffffff",sub:"#a0a0a0",subAlt:"#fff8f4",text:"#000000",main:"#fb7100",caret:"#067a6e",error:"#ed2839"},
+  "viridescent":{bg:"#2c3333",sub:"#84a98c",subAlt:"#232828",text:"#e9f5db",main:"#95d5b2",caret:"#f0d3c9",error:"#ff4646"},
+  "voc":{bg:"#190618",sub:"#4c1e48",subAlt:"#2c0c28",text:"#eeeae4",main:"#e0caac",caret:"#e0caac",error:"#af3735"},
+  "vscode":{bg:"#1e1e1e",sub:"#4d4d4d",subAlt:"#191919",text:"#d4d4d4",main:"#007acc",caret:"#569cd6",error:"#f44747"},
+  "watermelon":{bg:"#1f4437",sub:"#3e7a65",subAlt:"#244d3f",text:"#cdc6bc",main:"#d6686f",caret:"#d6686f",error:"#c82931"},
+  "wavez":{bg:"#1c292f",sub:"#1f5e6b",subAlt:"#1b3238",text:"#e9efe6",main:"#6bde3b",caret:"#6bde3b",error:"#ca4754"},
+  "witch_girl":{bg:"#f3dbda",sub:"#ddb4a7",subAlt:"#e7c8be",text:"#56786a",main:"#56786a",caret:"#afc5bd",error:"#b29a91"}
+};
+var WORDS = "the of to and a in is it you that he was for on are with as I his they be at one have this from or had by not word but what some we can out other were all there when up use your how said an each she which do their time if will way about many then them write would like so these her long make thing see him two has look more day could go come did number sound no most people my over know water than call first who may down side been now find any new work part take get place made live where after back little only round man year came show every good me give our under name very through just form sentence great think say help low line differ turn cause much mean before move right boy old too same tell does set three want air well also play small end put home read hand port large spell add even land here must big high such follow act why ask men change went light kind off need house picture try us again animal point mother world near build self earth father head stand own page should country found answer school grow study still learn plant cover food sun four between state keep eye never last let thought city tree cross farm hard start might story saw far sea draw left late run while press close night real life few north open seem together next white children begin got walk example ease paper group always music those both mark often letter until mile river car feet care second book carry took science eat room friend began idea fish mountain stop once base hear horse cut sure watch color face wood main enough plain girl usual young ready above ever red list though feel talk bird soon body dog family direct pose leave song measure door product black short numeral class wind question happen complete ship area half rock order fire south problem piece told knew pass since top whole king space heard best hour better true during hundred five remember step early hold west ground interest reach fast verb sing listen six table travel less morning ten simple several vowel toward war lay against pattern slow center love person money serve appear road map rain rule govern pull cold notice voice unit power town fine certain fly fall lead cry dark machine note wait plan figure star box noun field rest correct able pound done beauty drive stood contain front teach week final gave green oh quick develop ocean warm free minute strong special mind behind clear tail produce fact street inch multiply nothing course stay wheel full force blue object decide surface deep moon island foot system busy test record boat common gold possible plane stead dry wonder laugh thousand ago ran check game shape equate hot miss brought heat snow tire bring yes distant fill east paint language among grand ball yet wave drop heart am present heavy dance engine position arm wide sail material size vary settle speak weight general ice matter circle pair include divide syllable felt perhaps pick sudden count square reason length represent art subject region energy hunt probable bed brother egg ride cell believe fraction forest sit race window store summer train sleep prove lone leg exercise wall catch mount wish sky board joy winter sat written wild instrument kept glass grass cow job edge sign visit past soft fun bright gas weather month million bear finish happy hope flower clothes strange gone jump baby eight village meet root buy raise solve metal whether push seven paragraph third shall held hair describe cook floor either result burn hill safe cat century consider type law bit coast copy phrase silent tall sand soil roll temperature finger industry value fight lie beat excite natural view sense ear else quite broke case middle kill son lake moment scale loud spring observe child straight consonant nation dictionary milk speed method organ pay age section dress cloud surprise quiet stone tiny climb cool design poor lot experiment bottom key iron single stick flat twenty skin smile crease hole trade melody trip office receive row mouth exact symbol die least trouble shout except wrote seed tone join suggest clean break lady yard rise bad blow oil blood touch grew cent mix team wire cost lost brown wear garden equal sent choose fell fit flow fair bank collect save control decimal gentle woman captain practice separate difficult doctor please protect noon whose locate ring character insect caught period indicate radio spoke atom human history effect electric expect crop modern element hit student corner party supply bone rail imagine provide agree thus capital chair danger fruit rich thick soldier process operate guess necessary sharp wing create neighbor wash bat rather crowd corn compare poem string bell depend meat rub tube famous dollar stream fear sight thin triangle planet hurry chief colony clock mine tie enter major fresh search send yellow gun allow print dead spot desert suit current lift rose continue block chart hat sell success company subtract event particular deal swim term opposite wife shoe shoulder spread arrange camp invent cotton born determine quart nine truck noise level chance gather shop stretch throw shine property column molecule select wrong gray repeat require broad prepare salt nose plural anger claim continent oxygen sugar death pretty skill women season solution magnet silver thank branch match suffix especially fig afraid huge sister steel discuss forward similar guide experience score apple bought led pitch coat mass card band rope slip win dream evening condition feed tool total basic smell valley nor double seat arrive master track parent shore division sheet substance favor connect post spend chord fat glad original share station dad bread charge proper bar offer segment duck instant market degree populate chick dear enemy reply drink occur support speech nature range steam motion path liquid log meant quotient teeth shell neck program public universe computational ayanokoji iterational butler okwidas ding dong blackberry pickle butt".split(" ");
 (function(){
   var state = {
     mode: "time",
@@ -308,6 +443,8 @@ var WORDS = (
   var liveWpm = document.getElementById("liveWpm");
   var resultsEl = document.getElementById("results");
   var restartBtn = document.getElementById("restartBtn");
+  var restartRow = document.getElementById("restartRow");
+  var statusRow = document.getElementById("statusRow");
   var customToggle = document.getElementById("customToggle");
   var customPanel = document.getElementById("customPanel");
   var customTextarea = document.getElementById("customText");
@@ -315,12 +452,126 @@ var WORDS = (
   var timeGroup = document.getElementById("timeGroup");
   var flowCaret = document.getElementById("flowCaret");
 
+  /* ---------- theming ---------- */
+  var DEFAULT_THEME = "default";
+  var currentTheme = DEFAULT_THEME;
+
+  function hexToRgba(hex, a){
+    hex = hex.replace("#", "");
+    if (hex.length === 3) hex = hex.split("").map(function(c){ return c + c; }).join("");
+    var r = parseInt(hex.slice(0, 2), 16);
+    var g = parseInt(hex.slice(2, 4), 16);
+    var b = parseInt(hex.slice(4, 6), 16);
+    var alpha = a;
+    if (hex.length === 8){ alpha = a * parseInt(hex.slice(6, 8), 16) / 255; }
+    return "rgba(" + r + "," + g + "," + b + "," + alpha + ")";
+  }
+
+  function applyTheme(name){
+    var t = THEMES[name] || THEMES[DEFAULT_THEME];
+    if (!t) return;
+    currentTheme = name;
+    var r = document.documentElement.style;
+    r.setProperty("--bg", t.bg);
+    r.setProperty("--sub", t.sub);
+    r.setProperty("--sub-alt", t.subAlt);
+    r.setProperty("--text", t.text);
+    r.setProperty("--accent", t.main);
+    r.setProperty("--caret", t.caret);
+    r.setProperty("--error", t.error);
+    r.setProperty("--border", hexToRgba(t.main, 0.16));
+    r.setProperty("--border-strong", hexToRgba(t.main, 0.32));
+    r.setProperty("--accent-soft", hexToRgba(t.main, 0.12));
+    r.setProperty("--accent-soft2", hexToRgba(t.main, 0.22));
+    r.setProperty("--error-soft", hexToRgba(t.error, 0.16));
+    r.setProperty("--accent-swatch", t.main);
+    var nameEl = document.getElementById("themeName");
+    if (nameEl) nameEl.textContent = name.replace(/_/g, " ");
+    var sw = document.getElementById("themeSwatch");
+    if (sw) sw.style.background = t.main;
+    var mt = document.getElementById("metaTheme");
+    if (mt) mt.setAttribute("content", t.bg);
+    try { localStorage.setItem("tw.theme", name); } catch (e) {}
+    var grid = document.getElementById("themeGrid");
+    if (grid){
+      var cards = grid.querySelectorAll(".theme-card");
+      for (var i = 0; i < cards.length; i++){
+        cards[i].classList.toggle("active", cards[i].dataset.theme === name);
+      }
+    }
+  }
+
+  function buildPicker(){
+    var grid = document.getElementById("themeGrid");
+    if (!grid) return;
+    var names = Object.keys(THEMES);
+    var frag = document.createDocumentFragment();
+    names.forEach(function(n){
+      var t = THEMES[n];
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "theme-card";
+      btn.dataset.theme = n;
+      btn.dataset.search = n.replace(/_/g, " ").toLowerCase();
+      var sw = document.createElement("span");
+      sw.className = "swatch";
+      sw.style.background = t.bg;
+      sw.style.color = t.text;
+      sw.textContent = "Aa";
+      var nm = document.createElement("span");
+      nm.className = "tname";
+      nm.textContent = n.replace(/_/g, " ");
+      btn.appendChild(sw);
+      btn.appendChild(nm);
+      frag.appendChild(btn);
+    });
+    grid.appendChild(frag);
+    document.getElementById("pickerCount").textContent = names.length;
+  }
+
+  function openPicker(){
+    var ov = document.getElementById("pickerOverlay");
+    ov.classList.add("open");
+    inputEl.blur();
+    var search = document.getElementById("pickerSearch");
+    search.value = "";
+    filterPicker("");
+    search.focus();
+  }
+  function closePicker(){
+    document.getElementById("pickerOverlay").classList.remove("open");
+    focusInput();
+  }
+  function filterPicker(q){
+    q = q.trim().toLowerCase();
+    var cards = document.querySelectorAll("#themeGrid .theme-card");
+    for (var i = 0; i < cards.length; i++){
+      cards[i].classList.toggle("hide", q !== "" && cards[i].dataset.search.indexOf(q) === -1);
+    }
+  }
+
+  document.getElementById("themeBtn").addEventListener("click", openPicker);
+  document.getElementById("pickerClose").addEventListener("click", closePicker);
+  document.getElementById("pickerOverlay").addEventListener("click", function(e){
+    if (e.target === this) closePicker();
+  });
+  document.getElementById("pickerSearch").addEventListener("input", function(){
+    filterPicker(this.value);
+  });
+  document.getElementById("themeGrid").addEventListener("click", function(e){
+    var card = e.target.closest(".theme-card");
+    if (!card) return;
+    applyTheme(card.dataset.theme);
+  });
+
+  buildPicker();
+  var savedTheme = DEFAULT_THEME;
+  try { savedTheme = localStorage.getItem("tw.theme") || DEFAULT_THEME; } catch (e) {}
+  applyTheme(THEMES[savedTheme] ? savedTheme : DEFAULT_THEME);
+
+  /* ---------- typing engine ---------- */
   function newCounts(){ return { allCorrect:0, correctWord:0, incorrect:0, extra:0, missed:0 }; }
 
-  /* monkeytype's countChars, ported verbatim.
-     target words carry a trailing commit space (like monkeytype's textWithCommit),
-     committed inputs carry the trailing space too. creditPartial is only true for
-     the in-progress word at the end of a timed test. */
   function countChars(inputWord, targetWord, creditPartial){
     var c = newCounts();
     var wordCorrect = inputWord === targetWord;
@@ -515,8 +766,8 @@ var WORDS = (
 
     resultsEl.classList.add("show");
     typeArea.style.display = "none";
-    document.querySelector(".restart-row").style.display = "none";
-    document.querySelector(".status-row").style.display = "none";
+    restartRow.style.display = "none";
+    statusRow.style.display = "none";
   }
 
   function resetTest(){
@@ -541,8 +792,8 @@ var WORDS = (
 
     resultsEl.classList.remove("show");
     typeArea.style.display = "";
-    document.querySelector(".restart-row").style.display = "";
-    document.querySelector(".status-row").style.display = "";
+    restartRow.style.display = "";
+    statusRow.style.display = "";
     wordsEl.scrollTop = 0;
 
     render();
@@ -605,7 +856,11 @@ var WORDS = (
   });
 
   document.addEventListener("keydown", function(e){
-    if (e.key === "Escape"){ e.preventDefault(); resetTest(); }
+    if (e.key === "Escape"){
+      e.preventDefault();
+      if (document.getElementById("pickerOverlay").classList.contains("open")){ closePicker(); }
+      else { resetTest(); }
+    }
   });
 
   restartBtn.addEventListener("click", resetTest);
