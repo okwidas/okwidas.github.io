@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T15:15:34Z",
+  "updated_at": "2026-10-13T18:14:56Z",
   "demons": {
     "250": [
       {
@@ -90684,7 +90684,7 @@
           "id": 54737,
           "name": "[ILUV] hanni"
         },
-        "progress": 99,
+        "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Isn4rSInFws"
       },
@@ -102546,6 +102546,15 @@
       },
       {
         "player": {
+          "id": 67355,
+          "name": "Antonn26"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=G9bxrjCmnmo"
+      },
+      {
+        "player": {
           "id": 67709,
           "name": "Gd Waffled"
         },
@@ -102597,15 +102606,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2nlTs5MOf1w"
-      },
-      {
-        "player": {
-          "id": 67355,
-          "name": "Antonn26"
-        },
-        "progress": 96,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=G9bxrjCmnmo"
       },
       {
         "player": {
