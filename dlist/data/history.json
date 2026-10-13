@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T12:14:12Z",
+  "updated_at": "2026-10-13T15:15:34Z",
   "demons": {
     "250": [
       {
@@ -8246,6 +8246,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 131,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T12:46:34.799184",
+        "pos": 132,
+        "note": "passed by Checked Steam"
       }
     ],
     "439": [
@@ -10790,6 +10795,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 129,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T12:46:34.799184",
+        "pos": 130,
+        "note": "passed by Checked Steam"
       }
     ],
     "478": [
@@ -22427,6 +22437,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 134,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-13T12:46:34.799184",
+        "pos": 128,
+        "note": "Moved"
       }
     ],
     "583": [
@@ -37222,6 +37237,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 133,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-13T12:46:34.799184",
+        "pos": 134,
+        "note": "passed by Checked Steam"
       }
     ],
     "704": [
@@ -37544,6 +37564,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 130,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T12:46:34.799184",
+        "pos": 131,
+        "note": "passed by Checked Steam"
       }
     ],
     "715": [
@@ -37573,6 +37598,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 128,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T12:46:34.799184",
+        "pos": 129,
+        "note": "passed by Checked Steam"
       }
     ],
     "723": [
@@ -37604,6 +37634,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 132,
         "note": "placed on the list"
+      },
+      {
+        "time": "2026-10-13T12:46:34.799184",
+        "pos": 133,
+        "note": "passed by Checked Steam"
       }
     ]
   }

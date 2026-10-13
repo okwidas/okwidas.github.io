@@ -2413,8 +2413,27 @@
     "level_id": 97086864
   },
   {
-    "id": 716,
+    "id": 582,
     "position": 128,
+    "name": "Checked Steam",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=cq6047eYGXs",
+    "thumbnail": "https://i.ytimg.com/vi/cq6047eYGXs/mqdefault.jpg",
+    "publisher": {
+      "id": 44955,
+      "name": "gruzy",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42413,
+      "name": "[IQB7] Whizkid05",
+      "banned": false
+    },
+    "level_id": 105748155
+  },
+  {
+    "id": 716,
+    "position": 129,
     "name": "Heavenly Sakupen",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=4uwSVZBrtfg",
@@ -2433,7 +2452,7 @@
   },
   {
     "id": 475,
-    "position": 129,
+    "position": 130,
     "name": "UNKNOWN",
     "requirement": 83,
     "video": "https://www.youtube.com/watch?v=a1sQxQqU6EM",
@@ -2452,7 +2471,7 @@
   },
   {
     "id": 714,
-    "position": 130,
+    "position": 131,
     "name": "SPIRIT OVERCLOCK",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=WECBlbM0LJk",
@@ -2471,7 +2490,7 @@
   },
   {
     "id": 435,
-    "position": 131,
+    "position": 132,
     "name": "Shukketsu",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=nkG4hKJIz2g",
@@ -2490,7 +2509,7 @@
   },
   {
     "id": 729,
-    "position": 132,
+    "position": 133,
     "name": "Breakcore",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=_H3KOVLE6gs",
@@ -2509,7 +2528,7 @@
   },
   {
     "id": 703,
-    "position": 133,
+    "position": 134,
     "name": "idontknowwhatthisis",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=Dg9Q6s8EOlg",
@@ -2525,25 +2544,6 @@
       "banned": false
     },
     "level_id": 137334994
-  },
-  {
-    "id": 582,
-    "position": 134,
-    "name": "Checked Steam",
-    "requirement": 70,
-    "video": "https://www.youtube.com/watch?v=cq6047eYGXs",
-    "thumbnail": "https://i.ytimg.com/vi/cq6047eYGXs/mqdefault.jpg",
-    "publisher": {
-      "id": 44955,
-      "name": "gruzy",
-      "banned": false
-    },
-    "verifier": {
-      "id": 42413,
-      "name": "[IQB7] Whizkid05",
-      "banned": false
-    },
-    "level_id": 105748155
   },
   {
     "id": 478,
