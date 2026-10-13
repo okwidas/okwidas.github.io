@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T00:12:59Z",
+  "updated_at": "2026-10-13T03:12:23Z",
   "demons": {
     "250": [
       {
@@ -651,6 +651,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 109,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 110,
+        "note": "passed by Coalescence"
       }
     ],
     "274": [
@@ -2025,6 +2030,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 108,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 109,
+        "note": "passed by Coalescence"
       }
     ],
     "361": [
@@ -3968,6 +3978,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 104,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 105,
+        "note": "passed by Coalescence"
       }
     ],
     "391": [
@@ -18290,6 +18305,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 99,
         "note": "passed by TrakineS"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 100,
+        "note": "passed by Coalescence"
       }
     ],
     "551": [
@@ -20372,6 +20392,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 102,
         "note": "passed by TrakineS"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 103,
+        "note": "passed by Coalescence"
       }
     ],
     "572": [
@@ -23508,6 +23533,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 110,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 98,
+        "note": "Moved"
       }
     ],
     "589": [
@@ -25344,6 +25374,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 106,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 107,
+        "note": "passed by Coalescence"
       }
     ],
     "606": [
@@ -27924,6 +27959,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 101,
         "note": "passed by TrakineS"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 102,
+        "note": "passed by Coalescence"
       }
     ],
     "623": [
@@ -35417,6 +35457,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 105,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 106,
+        "note": "passed by Coalescence"
       }
     ],
     "676": [
@@ -35569,6 +35614,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 103,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 104,
+        "note": "passed by Coalescence"
       }
     ],
     "677": [
@@ -36221,6 +36271,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 107,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 108,
+        "note": "passed by Coalescence"
       }
     ],
     "683": [
@@ -36542,6 +36597,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 98,
         "note": "passed by TrakineS"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 99,
+        "note": "passed by Coalescence"
       }
     ],
     "690": [
@@ -37063,6 +37123,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 100,
         "note": "passed by TrakineS"
+      },
+      {
+        "time": "2026-10-13T00:59:05.569777",
+        "pos": 101,
+        "note": "passed by Coalescence"
       }
     ],
     "702": [
