@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T09:26:22Z",
+  "updated_at": "2026-10-14T12:24:57Z",
   "demons": {
     "250": [
       {
@@ -72924,6 +72924,24 @@
       },
       {
         "player": {
+          "id": 60727,
+          "name": "TOWAGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tv2f03rerp0"
+      },
+      {
+        "player": {
+          "id": 64604,
+          "name": "[CNGA] Lovely556"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zUOZ7hN9KeI"
+      },
+      {
+        "player": {
           "id": 50522,
           "name": "[SEREK] gotsmile"
         },
@@ -72966,15 +72984,6 @@
         "progress": 88,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=PXs-9u2k5So"
-      },
-      {
-        "player": {
-          "id": 64604,
-          "name": "[CNGA] Lovely556"
-        },
-        "progress": 77,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=tsMxdEEv9l8"
       },
       {
         "player": {
@@ -76749,6 +76758,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0qOHn1MufkY"
+      },
+      {
+        "player": {
+          "id": 57480,
+          "name": "[RF] Nitwose"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=01jbctIVjqk"
       },
       {
         "player": {
@@ -100849,6 +100867,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lmYKJYZ5Ep4"
+      },
+      {
+        "player": {
+          "id": 50829,
+          "name": "clover"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NsNKNVBrcBQ"
       }
     ],
     "630": [
@@ -103130,6 +103157,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=OGQW1uCFcjw"
+      },
+      {
+        "player": {
+          "id": 54698,
+          "name": "MarMarEvolve"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=kWuj9sprst0"
       }
     ],
     "633": [
