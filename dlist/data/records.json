@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T18:24:05Z",
+  "updated_at": "2026-10-14T21:23:14Z",
   "demons": {
     "250": [
       {
@@ -32274,6 +32274,15 @@
       },
       {
         "player": {
+          "id": 71369,
+          "name": "melon"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6Q8UMj5OUIU"
+      },
+      {
+        "player": {
           "id": 60714,
           "name": "Zekidash [PR]"
         },
@@ -56697,6 +56706,15 @@
       },
       {
         "player": {
+          "id": 71610,
+          "name": "YellowEgg"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=oFMAJw3ozpc"
+      },
+      {
+        "player": {
           "id": 42010,
           "name": "[SEREK] Kramujo"
         },
@@ -56973,15 +56991,6 @@
         "progress": 66,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=dTBmVQeYeQI"
-      },
-      {
-        "player": {
-          "id": 71610,
-          "name": "YellowEgg"
-        },
-        "progress": 66,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=U7sJM7Wdi_Q"
       },
       {
         "player": {
@@ -74689,6 +74698,15 @@
         "progress": 78,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=b5Jxia_8SCY"
+      },
+      {
+        "player": {
+          "id": 65759,
+          "name": "[didy] Kenshi_89"
+        },
+        "progress": 78,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XU65jY3k7_M"
       },
       {
         "player": {
