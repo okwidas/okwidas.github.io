@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:24:57Z",
+  "updated_at": "2026-10-14T15:26:39Z",
   "demons": {
     "250": [
       {
@@ -56670,6 +56670,15 @@
       },
       {
         "player": {
+          "id": 37662,
+          "name": "[YAHO] Cyvet"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VPSX-ajiga8"
+      },
+      {
+        "player": {
           "id": 62439,
           "name": "yunomkw"
         },
@@ -56721,6 +56730,15 @@
         "progress": 90,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=l8835NMpdS8"
+      },
+      {
+        "player": {
+          "id": 71457,
+          "name": "chesswiz"
+        },
+        "progress": 84,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rv3iuocjwGg"
       },
       {
         "player": {
@@ -99759,6 +99777,15 @@
         "progress": 82,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=expT8Dw5W_s"
+      },
+      {
+        "player": {
+          "id": 69477,
+          "name": "plepbep60"
+        },
+        "progress": 71,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yc9Jeook5ho"
       },
       {
         "player": {
