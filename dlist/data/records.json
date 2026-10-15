@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T16:01:10Z",
+  "updated_at": "2026-10-15T20:45:58Z",
   "demons": {
     "250": [
       {
@@ -56568,6 +56568,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=lIGb1P_WdY4"
+      },
+      {
+        "player": {
+          "id": 52046,
+          "name": "Rayflex"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2y86XFTisVY"
       },
       {
         "player": {
