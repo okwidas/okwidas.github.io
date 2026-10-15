@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:36:29Z",
+  "updated_at": "2026-10-15T16:01:10Z",
   "demons": {
     "250": [
       {
@@ -6994,6 +6994,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=bMS7Z4WIJWg"
+      },
+      {
+        "player": {
+          "id": 72501,
+          "name": "wildpunto"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Zw3izOy48DU"
       },
       {
         "player": {
@@ -27923,6 +27932,15 @@
       },
       {
         "player": {
+          "id": 70660,
+          "name": "teqred"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iDLyv0WSAac"
+      },
+      {
+        "player": {
           "id": 71511,
           "name": "ainiru"
         },
@@ -29162,15 +29180,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ch8zyvhigzg"
-      },
-      {
-        "player": {
-          "id": 70660,
-          "name": "teqred"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=wlIsAxUY1i8"
       },
       {
         "player": {
@@ -80270,6 +80279,15 @@
       },
       {
         "player": {
+          "id": 50564,
+          "name": "BreadGuyGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cJiUQxhlG7I"
+      },
+      {
+        "player": {
           "id": 57142,
           "name": "MateleQ"
         },
@@ -106406,6 +106424,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=erPuswC3J50"
+      },
+      {
+        "player": {
+          "id": 38481,
+          "name": "theworldofme"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wgzTpPsVueo"
       },
       {
         "player": {
