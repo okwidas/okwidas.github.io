@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T20:45:58Z",
+  "updated_at": "2026-10-15T23:30:04Z",
   "demons": {
     "250": [
       {
@@ -29261,6 +29261,24 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=H_ZuhNRJy2I"
+      },
+      {
+        "player": {
+          "id": 72441,
+          "name": "JPlonk_"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YYDK1Xx2sjk"
+      },
+      {
+        "player": {
+          "id": 63356,
+          "name": "[IQB7] BooKnQuiL"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Q7dwNv93OTc"
       }
     ],
     "383": [
@@ -70807,6 +70825,15 @@
       },
       {
         "player": {
+          "id": 70350,
+          "name": "yoTylr"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=66udn5EE7Es"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -70948,15 +70975,6 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=An9RoLFI4nY"
-      },
-      {
-        "player": {
-          "id": 70350,
-          "name": "yoTylr"
-        },
-        "progress": 76,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=UO6cSpO4u_U"
       },
       {
         "player": {
@@ -83860,6 +83878,15 @@
       },
       {
         "player": {
+          "id": 72212,
+          "name": "rejemyt"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qYFLQdGsBqo"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -89000,6 +89027,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=UM8BTY6wlK8"
+      },
+      {
+        "player": {
+          "id": 63097,
+          "name": "sxymate"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bn-CgV0Ljlg"
       }
     ],
     "583": [
@@ -112810,6 +112846,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=31F4EEGTjhg"
+      },
+      {
+        "player": {
+          "id": 63273,
+          "name": "IBeatRetray"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BUKPP5ZO_aA"
       }
     ],
     "690": [
