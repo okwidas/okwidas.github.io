@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:43:55Z",
+  "updated_at": "2026-10-16T13:42:11Z",
   "demons": {
     "250": [
       {
@@ -5896,6 +5896,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 27,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-16T09:13:04.642661",
+        "pos": 28,
+        "note": "passed by Defeated Circles"
       }
     ],
     "425": [
@@ -8845,6 +8850,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 24,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-16T09:13:04.642661",
+        "pos": 25,
+        "note": "passed by Defeated Circles"
       }
     ],
     "464": [
@@ -12026,6 +12036,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 23,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-16T09:13:04.642661",
+        "pos": 24,
+        "note": "passed by Defeated Circles"
       }
     ],
     "487": [
@@ -21091,6 +21106,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 26,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-16T09:13:04.642661",
+        "pos": 27,
+        "note": "passed by Defeated Circles"
       }
     ],
     "578": [
@@ -24064,6 +24084,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 25,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-16T09:13:04.642661",
+        "pos": 26,
+        "note": "passed by Defeated Circles"
       }
     ],
     "594": [
@@ -30908,6 +30933,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 28,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-16T09:13:04.642661",
+        "pos": 23,
+        "note": "Moved"
       }
     ],
     "640": [

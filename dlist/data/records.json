@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:43:55Z",
+  "updated_at": "2026-10-16T13:42:11Z",
   "demons": {
     "250": [
       {
@@ -52337,6 +52337,15 @@
       },
       {
         "player": {
+          "id": 57839,
+          "name": "[SALAA] AvainPortti"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8Ss_bayzqVU"
+      },
+      {
+        "player": {
           "id": 39366,
           "name": "[MYS] za1lx"
         },
@@ -52478,15 +52487,6 @@
         "progress": 84,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ioX-pu7Mj8Y"
-      },
-      {
-        "player": {
-          "id": 57839,
-          "name": "[SALAA] AvainPortti"
-        },
-        "progress": 84,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=cx8TpPX0dzs"
       },
       {
         "player": {
@@ -87075,6 +87075,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=p8ICcJOL7fk"
+      },
+      {
+        "player": {
+          "id": 61980,
+          "name": "mays"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tAaU3cWUKow"
       },
       {
         "player": {

@@ -418,8 +418,27 @@
     "level_id": 112313819
   },
   {
-    "id": 486,
+    "id": 639,
     "position": 23,
+    "name": "Defeated Circles",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=nU5AQPzd2YA",
+    "thumbnail": "https://i.ytimg.com/vi/nU5AQPzd2YA/mqdefault.jpg",
+    "publisher": {
+      "id": 64802,
+      "name": "GXQ",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 120012581
+  },
+  {
+    "id": 486,
+    "position": 24,
     "name": "Avernus",
     "requirement": 67,
     "video": "https://www.youtube.com/watch?v=16Zh8jssanc",
@@ -438,7 +457,7 @@
   },
   {
     "id": 442,
-    "position": 24,
+    "position": 25,
     "name": "Acheron",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=sBKR6aUorzA",
@@ -457,7 +476,7 @@
   },
   {
     "id": 592,
-    "position": 25,
+    "position": 26,
     "name": "Spectre",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=MzsSLKJrLSI",
@@ -476,7 +495,7 @@
   },
   {
     "id": 577,
-    "position": 26,
+    "position": 27,
     "name": "Menace",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=nnkgghxxsEE",
@@ -495,7 +514,7 @@
   },
   {
     "id": 413,
-    "position": 27,
+    "position": 28,
     "name": "Abyss of Darkness",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=ejJkpqcMMCY",
@@ -511,25 +530,6 @@
       "banned": false
     },
     "level_id": 49896559
-  },
-  {
-    "id": 639,
-    "position": 28,
-    "name": "Defeated Circles",
-    "requirement": 73,
-    "video": "https://www.youtube.com/watch?v=nU5AQPzd2YA",
-    "thumbnail": "https://i.ytimg.com/vi/nU5AQPzd2YA/mqdefault.jpg",
-    "publisher": {
-      "id": 64802,
-      "name": "GXQ",
-      "banned": false
-    },
-    "verifier": {
-      "id": 53408,
-      "name": "[67] Zoink",
-      "banned": false
-    },
-    "level_id": 120012581
   },
   {
     "id": 715,
