@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:30:04Z",
+  "updated_at": "2026-10-16T02:11:08Z",
   "demons": {
     "250": [
       {
@@ -23020,6 +23020,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=C3RW4RtQRg4"
+      },
+      {
+        "player": {
+          "id": 64153,
+          "name": "kylegmd1"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Ba-_pDwNpnU"
       },
       {
         "player": {
@@ -105089,6 +105098,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=y_39y1cZDUk"
+      },
+      {
+        "player": {
+          "id": 61934,
+          "name": "[STACK] Jyvl01"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wC0s7qWB2XY"
       }
     ],
     "651": [
@@ -106743,6 +106761,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=an3THrWBBbQ"
+      },
+      {
+        "player": {
+          "id": 62678,
+          "name": "Sm1leX"
+        },
+        "progress": 65,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=L-Zl2IWPsAE"
       }
     ],
     "662": [
@@ -111806,9 +111833,9 @@
           "id": 45136,
           "name": "Luclahgd"
         },
-        "progress": 92,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=4exYk9No4-A"
+        "video": "https://www.youtube.com/watch?v=64ldHwWOUZo"
       },
       {
         "player": {
