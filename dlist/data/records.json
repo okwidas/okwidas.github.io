@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:42:11Z",
+  "updated_at": "2026-10-16T18:35:49Z",
   "demons": {
     "250": [
       {
@@ -6994,6 +6994,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=bMS7Z4WIJWg"
+      },
+      {
+        "player": {
+          "id": 69126,
+          "name": "[GARB] trips"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aOE04P5XOEI"
       },
       {
         "player": {
@@ -15231,6 +15240,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jexm1_pEP5k"
+      },
+      {
+        "player": {
+          "id": 2195,
+          "name": "[HOLA] Evilseph83"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QUWYrtdgOLM"
+      },
+      {
+        "player": {
+          "id": 72506,
+          "name": "Flipcosti"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=CyXnbGT03gg"
       },
       {
         "player": {
@@ -25122,6 +25149,15 @@
       },
       {
         "player": {
+          "id": 41329,
+          "name": "Lura"
+        },
+        "progress": 88,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BleRQHupmPs"
+      },
+      {
+        "player": {
           "id": 67785,
           "name": "zreal"
         },
@@ -27617,6 +27653,15 @@
       },
       {
         "player": {
+          "id": 64105,
+          "name": "positive"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_pKocWb-5yE"
+      },
+      {
+        "player": {
           "id": 40837,
           "name": "[CAFE] GuillExprex52"
         },
@@ -27947,6 +27992,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iDLyv0WSAac"
+      },
+      {
+        "player": {
+          "id": 67513,
+          "name": "Krox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HVZPMPH6ooE"
       },
       {
         "player": {
@@ -28721,15 +28775,6 @@
         "progress": 80,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=v4887Dvbxzw"
-      },
-      {
-        "player": {
-          "id": 67513,
-          "name": "Krox"
-        },
-        "progress": 80,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=saTkPLJjkBY"
       },
       {
         "player": {
@@ -52562,6 +52607,15 @@
       },
       {
         "player": {
+          "id": 67346,
+          "name": "[LOOT] Gopn"
+        },
+        "progress": 73,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=CMEf4UGxSs4"
+      },
+      {
+        "player": {
           "id": 40101,
           "name": "[HUFS] Clutter"
         },
@@ -73952,6 +74006,15 @@
       },
       {
         "player": {
+          "id": 58032,
+          "name": "[AURA] Hollan"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xwdOfOSGplo"
+      },
+      {
+        "player": {
           "id": 38521,
           "name": "kedi"
         },
@@ -85420,6 +85483,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=dw1aocZXGcI"
+      },
+      {
+        "player": {
+          "id": 64024,
+          "name": "NJGhost9"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VHOofPuZFWc"
       },
       {
         "player": {
@@ -106499,6 +106571,15 @@
       },
       {
         "player": {
+          "id": 54187,
+          "name": "kakol"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BWLzpJmbgIs"
+      },
+      {
+        "player": {
           "id": 38481,
           "name": "theworldofme"
         },
@@ -107438,6 +107519,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=k_i9ZnT_TR0"
+      },
+      {
+        "player": {
+          "id": 59618,
+          "name": "SandHanitizer01"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XDjYm-1IXwU"
       }
     ],
     "663": [
