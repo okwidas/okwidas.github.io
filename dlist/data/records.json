@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T19:54:12Z",
+  "updated_at": "2026-10-17T22:51:15Z",
   "demons": {
     "250": [
       {
@@ -15306,6 +15306,15 @@
       },
       {
         "player": {
+          "id": 72527,
+          "name": "OPolo704"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.twitch.tv/videos/2898882294"
+      },
+      {
+        "player": {
           "id": 60441,
           "name": "[TSC] destr"
         },
@@ -28265,6 +28274,15 @@
       },
       {
         "player": {
+          "id": 67495,
+          "name": "[TMC] majin"
+        },
+        "progress": 93,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=15DKQxjyVPg"
+      },
+      {
+        "player": {
           "id": 53337,
           "name": "dizbro"
         },
@@ -29468,6 +29486,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Q7dwNv93OTc"
+      },
+      {
+        "player": {
+          "id": 67451,
+          "name": "navo"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Z0yuCCJbmh8"
       }
     ],
     "383": [
@@ -63849,6 +63876,15 @@
       },
       {
         "player": {
+          "id": 50833,
+          "name": "[HOLA] hijos de puta"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4qmWrSjjWyQ"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -71155,6 +71191,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=66udn5EE7Es"
+      },
+      {
+        "player": {
+          "id": 66615,
+          "name": "ChromeGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0TUmvPEamGw"
       },
       {
         "player": {
@@ -87647,6 +87692,15 @@
       },
       {
         "player": {
+          "id": 72510,
+          "name": "James50c"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LkgyuyVmO_4"
+      },
+      {
+        "player": {
           "id": 32792,
           "name": "[HOLA] Klopz"
         },
@@ -91254,6 +91308,15 @@
         "progress": 72,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HZkc7lua8zo"
+      },
+      {
+        "player": {
+          "id": 68972,
+          "name": "[MKL] bleepable"
+        },
+        "progress": 70,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AQz4RXwOyXo"
       }
     ],
     "588": [
@@ -110662,6 +110725,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Dx_sKZJVQ3w"
+      },
+      {
+        "player": {
+          "id": 65768,
+          "name": "bob_vi"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=c7QBLt6t5oI"
       }
     ],
     "674": [
