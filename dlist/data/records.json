@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T17:43:16Z",
+  "updated_at": "2026-10-17T19:54:12Z",
   "demons": {
     "250": [
       {
@@ -15285,6 +15285,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CyXnbGT03gg"
+      },
+      {
+        "player": {
+          "id": 61807,
+          "name": "GameFoxGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wtOLBfUVNUY"
       },
       {
         "player": {
@@ -43730,6 +43739,15 @@
       },
       {
         "player": {
+          "id": 71589,
+          "name": "bluubrry"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5KSvoMAA6BU"
+      },
+      {
+        "player": {
           "id": 60191,
           "name": "EndersDoom"
         },
@@ -44096,6 +44114,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_cHsrn8nirQ"
+      },
+      {
+        "player": {
+          "id": 64118,
+          "name": "Craf4yk"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YuuZfiWZurQ"
       },
       {
         "player": {
@@ -57288,6 +57315,15 @@
         "progress": 65,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=SuVbftQkKi0"
+      },
+      {
+        "player": {
+          "id": 64478,
+          "name": "Jojo 4444"
+        },
+        "progress": 65,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HzNTHhbCrPI"
       },
       {
         "player": {
@@ -81793,6 +81829,15 @@
       },
       {
         "player": {
+          "id": 65571,
+          "name": "asolihin"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AP6HqFHb1ls"
+      },
+      {
+        "player": {
           "id": 61114,
           "name": "[BLKHL] LightBulb"
         },
@@ -84642,6 +84687,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=8iLEexPOVko"
+      },
+      {
+        "player": {
+          "id": 59154,
+          "name": "[MAOR] itorio"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=V60T8F4eDAo"
       },
       {
         "player": {
@@ -106311,6 +106365,15 @@
       },
       {
         "player": {
+          "id": 59910,
+          "name": "JaxonGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=c-x5KJF3DdY"
+      },
+      {
+        "player": {
           "id": 51582,
           "name": "Napalm04"
         },
@@ -110566,6 +110629,24 @@
       },
       {
         "player": {
+          "id": 69703,
+          "name": "Smapalt"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zy_J2CWOkq8"
+      },
+      {
+        "player": {
+          "id": 54313,
+          "name": "[CAFE] Calo"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cZ0Q1TVgw4E"
+      },
+      {
+        "player": {
           "id": 42494,
           "name": "[JUICE] Trees"
         },
@@ -110581,24 +110662,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Dx_sKZJVQ3w"
-      },
-      {
-        "player": {
-          "id": 54313,
-          "name": "[CAFE] Calo"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=je-YcOaiIfE"
-      },
-      {
-        "player": {
-          "id": 69703,
-          "name": "Smapalt"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=99cff7909B4"
       }
     ],
     "674": [
