@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T12:39:09Z",
+  "updated_at": "2026-10-17T17:43:16Z",
   "demons": {
     "250": [
       {
@@ -7021,6 +7021,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Zw3izOy48DU"
+      },
+      {
+        "player": {
+          "id": 72511,
+          "name": "солесоселовелей"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1R_oM3KB5e0"
       },
       {
         "player": {
@@ -15279,6 +15288,15 @@
       },
       {
         "player": {
+          "id": 72512,
+          "name": "Miko"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_x3jz5Dz8Io"
+      },
+      {
+        "player": {
           "id": 60441,
           "name": "[TSC] destr"
         },
@@ -18239,6 +18257,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YyurZr1Z42Q"
+      },
+      {
+        "player": {
+          "id": 72511,
+          "name": "солесоселовелей"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ryTKIgfReO8"
       },
       {
         "player": {
@@ -23083,6 +23110,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ba-_pDwNpnU"
+      },
+      {
+        "player": {
+          "id": 40915,
+          "name": "Magic"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Xc8wse8a_mw"
       },
       {
         "player": {
@@ -28022,6 +28058,15 @@
       },
       {
         "player": {
+          "id": 54744,
+          "name": "Taianomainen"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6ZTouARM1Ew"
+      },
+      {
+        "player": {
           "id": 58133,
           "name": "[HOLA] DeividG"
         },
@@ -28697,15 +28742,6 @@
       },
       {
         "player": {
-          "id": 54744,
-          "name": "Taianomainen"
-        },
-        "progress": 81,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=WAxm5jBcj2I"
-      },
-      {
-        "player": {
           "id": 70602,
           "name": "yeatcw"
         },
@@ -28958,6 +28994,15 @@
       },
       {
         "player": {
+          "id": 71568,
+          "name": "sudo"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=769OCIDf7ps"
+      },
+      {
+        "player": {
           "id": 60839,
           "name": "S3N1"
         },
@@ -29045,6 +29090,15 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=S-ofJ4FJbhw"
+      },
+      {
+        "player": {
+          "id": 65154,
+          "name": "GovisLost"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bFBc0MIUgt4"
       },
       {
         "player": {
@@ -54652,6 +54706,15 @@
       },
       {
         "player": {
+          "id": 53600,
+          "name": "[FOWL] Erantic"
+        },
+        "progress": 68,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Sbk-tQJQCu4"
+      },
+      {
+        "player": {
           "id": 41614,
           "name": "[MAOR] abb2k"
         },
@@ -63738,6 +63801,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=E28JcMA_6xk"
+      },
+      {
+        "player": {
+          "id": 40696,
+          "name": "TheRealLcK"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VyFdmMhc-_0"
       },
       {
         "player": {
@@ -85340,6 +85412,15 @@
       },
       {
         "player": {
+          "id": 63523,
+          "name": "Starlite"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=kUFCH2t99kI"
+      },
+      {
+        "player": {
           "id": 56005,
           "name": "[QOG] MagnificCub9216"
         },
@@ -97774,6 +97855,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YcuJC8FoPj4"
+      },
+      {
+        "player": {
+          "id": 70984,
+          "name": "waterduckthethird"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=p8SmGKJ6YyQ"
       },
       {
         "player": {
