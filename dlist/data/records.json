@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T23:12:20Z",
+  "updated_at": "2026-10-17T02:04:46Z",
   "demons": {
     "250": [
       {
@@ -15276,6 +15276,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CyXnbGT03gg"
+      },
+      {
+        "player": {
+          "id": 60441,
+          "name": "[TSC] destr"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QiRzN4yLDaw"
       },
       {
         "player": {
@@ -78428,6 +78437,15 @@
       },
       {
         "player": {
+          "id": 62633,
+          "name": "daJyrki"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=o9atSb0Bq2o"
+      },
+      {
+        "player": {
           "id": 57057,
           "name": "[YAHO] Polar Bear on the Bingak"
         },
@@ -93260,6 +93278,15 @@
         "progress": 86,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CG8unqlsIeQ"
+      },
+      {
+        "player": {
+          "id": 59159,
+          "name": "Al3xTT"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OIz0URuChqA"
       },
       {
         "player": {
@@ -114202,6 +114229,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ZD5s3ImAb0M"
+      },
+      {
+        "player": {
+          "id": 59877,
+          "name": "Dami"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8jdcTIO0wWk"
       }
     ],
     "711": [
