@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T07:22:03Z",
+  "updated_at": "2026-10-17T12:39:09Z",
   "demons": {
     "250": [
       {
@@ -25131,6 +25131,15 @@
       },
       {
         "player": {
+          "id": 61660,
+          "name": "Rupi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7CHcs7JVU54"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -28136,6 +28145,15 @@
         "progress": 95,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=N5wXKgmNrGs"
+      },
+      {
+        "player": {
+          "id": 61474,
+          "name": "PigeonEnjoyer"
+        },
+        "progress": 94,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BdcNfQ0KWbA"
       },
       {
         "player": {
@@ -44027,6 +44045,15 @@
       },
       {
         "player": {
+          "id": 70631,
+          "name": "FatChiken"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rbhU2dZXqbo"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -59059,6 +59086,15 @@
       },
       {
         "player": {
+          "id": 52394,
+          "name": "[SARK] YoshiiPz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=vkBFHgRuZFw"
+      },
+      {
+        "player": {
           "id": 63923,
           "name": "MartiRex"
         },
@@ -63684,6 +63720,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=EKbvaDImoRk"
+      },
+      {
+        "player": {
+          "id": 58601,
+          "name": "[e] Jackpotgodzilla"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Bp2HzCl1zGE"
+      },
+      {
+        "player": {
+          "id": 64284,
+          "name": "pontes"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=E28JcMA_6xk"
       },
       {
         "player": {
@@ -74878,6 +74932,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=cafZ2oTj_2s"
+      },
+      {
+        "player": {
+          "id": 41333,
+          "name": "[LARP] littlegiggle"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7DsGp8tBK1s"
       },
       {
         "player": {
@@ -88953,6 +89016,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=xEtuZXltlfw"
+      },
+      {
+        "player": {
+          "id": 67345,
+          "name": "cauri"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5TnTYmb9Xs4"
       },
       {
         "player": {
@@ -109008,6 +109080,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=DXlF4ZLrMvY"
+      },
+      {
+        "player": {
+          "id": 72592,
+          "name": "Grass"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=dYQX1oSAzSY"
       }
     ],
     "665": [
@@ -110756,6 +110837,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jQ2VPl2YJuY"
+      },
+      {
+        "player": {
+          "id": 59896,
+          "name": "[SUN] paroe"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JCRsjZjZ6pM"
       }
     ],
     "676": [
