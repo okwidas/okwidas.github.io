@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:57:04Z",
+  "updated_at": "2026-10-18T17:44:16Z",
   "demons": {
     "250": [
       {
@@ -6997,6 +6997,15 @@
       },
       {
         "player": {
+          "id": 70685,
+          "name": "tablesalt"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ruNl9JBu26A"
+      },
+      {
+        "player": {
           "id": 69126,
           "name": "[GARB] trips"
         },
@@ -7039,6 +7048,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=bKVQsKdsJ_4"
+      },
+      {
+        "player": {
+          "id": 57379,
+          "name": "[Ñ] Link"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Yc4E8tQdVkc"
       },
       {
         "player": {
@@ -15321,6 +15339,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.twitch.tv/videos/2898882294"
+      },
+      {
+        "player": {
+          "id": 37807,
+          "name": "CraZDemonX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=P2twQ62UbkM"
       },
       {
         "player": {
@@ -37534,6 +37561,24 @@
       },
       {
         "player": {
+          "id": 58413,
+          "name": "NonCuber"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=z-Vgu_VkL0Y"
+      },
+      {
+        "player": {
+          "id": 37807,
+          "name": "CraZDemonX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Zrofp2RFd6o"
+      },
+      {
+        "player": {
           "id": 40457,
           "name": "[SOS] Mikhail Krotov"
         },
@@ -54625,6 +54670,15 @@
       },
       {
         "player": {
+          "id": 931,
+          "name": "[st] Technical"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rP_umm2gNiE"
+      },
+      {
+        "player": {
           "id": 65313,
           "name": "stoepit123"
         },
@@ -59254,6 +59308,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=vkBFHgRuZFw"
+      },
+      {
+        "player": {
+          "id": 51609,
+          "name": "[QW3] Eletriple"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mgp6EPKyxx0"
       },
       {
         "player": {
@@ -98083,6 +98146,15 @@
       },
       {
         "player": {
+          "id": 72596,
+          "name": "ReZine"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NDVbDdSzpKU"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -105371,6 +105443,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=mGvAnIUsdwQ"
+      },
+      {
+        "player": {
+          "id": 41142,
+          "name": "[tq] chiken1515"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=18I3EsFChG8"
       }
     ],
     "648": [
@@ -109694,6 +109775,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=VYYWvNWDxQI"
+      },
+      {
+        "player": {
+          "id": 51070,
+          "name": "[MEALY] zLevii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Py_5neCT8c0"
       }
     ],
     "667": [
@@ -111033,6 +111123,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hv_P7J4LYZs"
+      },
+      {
+        "player": {
+          "id": 60258,
+          "name": "[TARIQ] Billzer"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ewz1iwsvpjY"
       }
     ],
     "675": [
@@ -114764,6 +114863,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7p_qeBrh7R0"
+      },
+      {
+        "player": {
+          "id": 58039,
+          "name": "Tired"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6DDfa3A_rwc"
       },
       {
         "player": {
