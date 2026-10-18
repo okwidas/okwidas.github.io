@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T22:51:15Z",
+  "updated_at": "2026-10-18T02:04:14Z",
   "demons": {
     "250": [
       {
@@ -25019,7 +25019,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=MNv9bNVMOA4"
+        "video": "https://www.youtube.com/watch?v=M5vC4YxZXc0"
       },
       {
         "player": {
@@ -25182,6 +25182,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=SuBgCHY1JBo"
+      },
+      {
+        "player": {
+          "id": 63696,
+          "name": "SplitGMD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=3ipdw-_VBLs"
       },
       {
         "player": {
@@ -73383,6 +73392,15 @@
       },
       {
         "player": {
+          "id": 50749,
+          "name": "[FOWL] geodom"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=quiT7_KHa6Q"
+      },
+      {
+        "player": {
           "id": 50522,
           "name": "[SEREK] gotsmile"
         },
@@ -112357,7 +112375,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=337Cqm9EjWc"
+        "video": "https://www.youtube.com/watch?v=DsBzvDnnQlA"
       },
       {
         "player": {
@@ -113476,6 +113494,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BUKPP5ZO_aA"
+      },
+      {
+        "player": {
+          "id": 32971,
+          "name": "ItzApex"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QL0fb7PIky4"
       }
     ],
     "690": [
