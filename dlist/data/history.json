@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:55:09Z",
+  "updated_at": "2026-10-18T22:46:16Z",
   "demons": {
     "250": [
       {
@@ -656,6 +656,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 110,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 111,
+        "note": "Artemis 13 placed above"
       }
     ],
     "274": [
@@ -1398,6 +1403,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 120,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 121,
+        "note": "Artemis 13 placed above"
       }
     ],
     "349": [
@@ -2035,853 +2045,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 109,
         "note": "passed by Coalescence"
-      }
-    ],
-    "361": [
-      {
-        "time": "2021-09-16T04:30:08.655400",
-        "pos": 3,
-        "note": "placed on the list"
-      },
-      {
-        "time": "2021-11-04T01:47:36.292844",
-        "pos": 4,
-        "note": "Firework placed above"
-      },
-      {
-        "time": "2021-11-04T01:48:29.906285",
-        "pos": 5,
-        "note": "Slaughterhouse placed above"
-      },
-      {
-        "time": "2021-11-07T10:42:43.392391",
-        "pos": 4,
-        "note": "Moved"
-      },
-      {
-        "time": "2021-11-14T00:30:00.866409",
-        "pos": 3,
-        "note": "Moved"
-      },
-      {
-        "time": "2022-01-05T23:36:34.869862",
-        "pos": 4,
-        "note": "Sakupen Circles placed above"
-      },
-      {
-        "time": "2022-01-17T02:31:16.567462",
-        "pos": 5,
-        "note": "passed by Tartarus"
-      },
-      {
-        "time": "2022-03-04T22:51:36.503504",
-        "pos": 6,
-        "note": "passed by arcturus"
-      },
-      {
-        "time": "2022-05-23T01:28:18.982485",
-        "pos": 8,
-        "note": "Moved"
-      },
-      {
-        "time": "2022-05-27T17:01:08.056115",
-        "pos": 9,
-        "note": "passed by Arctic Lights"
-      },
-      {
-        "time": "2022-05-27T17:01:22.181918",
-        "pos": 8,
-        "note": "passed by Arctic Lights"
-      },
-      {
-        "time": "2022-06-12T19:28:32.946563",
-        "pos": 9,
-        "note": "Abyss of Darkness placed above"
-      },
-      {
-        "time": "2022-07-31T04:34:02.564253",
-        "pos": 10,
-        "note": "Oblivion placed above"
-      },
-      {
-        "time": "2022-08-07T19:10:09.676710",
-        "pos": 11,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-08-07T19:11:10.474714",
-        "pos": 10,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-08-07T19:14:45.882251",
-        "pos": 11,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-08-11T18:03:34.478556",
-        "pos": 12,
-        "note": "Silent clubstep placed above"
-      },
-      {
-        "time": "2022-09-06T22:38:46.243546",
-        "pos": 11,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2022-09-16T23:12:03.800155",
-        "pos": 12,
-        "note": "Mayhem placed above"
-      },
-      {
-        "time": "2022-09-27T03:44:28.099768",
-        "pos": 13,
-        "note": "Acheron placed above"
-      },
-      {
-        "time": "2022-10-02T00:27:41.861171",
-        "pos": 14,
-        "note": "passed by The Hallucination"
-      },
-      {
-        "time": "2022-12-25T19:56:06.233434",
-        "pos": 15,
-        "note": "poocubed placed above"
-      },
-      {
-        "time": "2023-01-01T04:09:35.570621",
-        "pos": 16,
-        "note": "LIMBO placed above"
-      },
-      {
-        "time": "2023-01-02T04:41:31.136050",
-        "pos": 17,
-        "note": "Kyouki placed above"
-      },
-      {
-        "time": "2023-03-05T22:14:37.787563",
-        "pos": 18,
-        "note": "UNKNOWN placed above"
-      },
-      {
-        "time": "2023-04-20T01:28:38.255219",
-        "pos": 19,
-        "note": "Edge of Destiny placed above"
-      },
-      {
-        "time": "2023-04-23T00:30:46.953566",
-        "pos": 20,
-        "note": "Avernus placed above"
-      },
-      {
-        "time": "2023-04-23T05:01:54.351181",
-        "pos": 21,
-        "note": "MINUSdry placed above"
-      },
-      {
-        "time": "2023-06-10T04:08:49.871965",
-        "pos": 22,
-        "note": "Solar Flare placed above"
-      },
-      {
-        "time": "2023-06-11T01:10:49.701963",
-        "pos": 23,
-        "note": "Saul Goodman placed above"
-      },
-      {
-        "time": "2023-06-16T14:36:27.124592",
-        "pos": 24,
-        "note": "KOCMOC placed above"
-      },
-      {
-        "time": "2023-07-29T19:58:52.197982",
-        "pos": 25,
-        "note": "passed by walter white"
-      },
-      {
-        "time": "2023-08-15T00:51:20.685348",
-        "pos": 26,
-        "note": "Codependence placed above"
-      },
-      {
-        "time": "2023-09-19T02:36:44.519299",
-        "pos": 27,
-        "note": "passed by The Golden"
-      },
-      {
-        "time": "2023-09-22T21:21:17.903385",
-        "pos": 28,
-        "note": "Deimos placed above"
-      },
-      {
-        "time": "2023-10-01T00:56:43.985808",
-        "pos": 29,
-        "note": "Tunnel of Despair placed above"
-      },
-      {
-        "time": "2023-10-17T23:19:02.415513",
-        "pos": 30,
-        "note": "COMBUSTION placed above"
-      },
-      {
-        "time": "2023-10-19T02:45:16.192419",
-        "pos": 31,
-        "note": "The Lightning Rod placed above"
-      },
-      {
-        "time": "2023-10-28T21:39:11.057981",
-        "pos": 32,
-        "note": "passed by Sinister Silence"
-      },
-      {
-        "time": "2023-12-06T00:31:40.093873",
-        "pos": 33,
-        "note": "Eyes in the Water placed above"
-      },
-      {
-        "time": "2023-12-11T21:54:54.161329",
-        "pos": 34,
-        "note": "SARYYX NEVER CLEAR placed above"
-      },
-      {
-        "time": "2023-12-16T23:00:01.994098",
-        "pos": 35,
-        "note": "Midnight placed above"
-      },
-      {
-        "time": "2024-01-21T09:06:42.403552",
-        "pos": 36,
-        "note": "Deadlier Clubstep placed above"
-      },
-      {
-        "time": "2024-02-10T05:37:26.458467",
-        "pos": 37,
-        "note": "passed by Belladonna"
-      },
-      {
-        "time": "2024-02-15T20:50:04.905578",
-        "pos": 36,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-16T21:25:00.347068",
-        "pos": 37,
-        "note": "passed by Damascus"
-      },
-      {
-        "time": "2024-02-16T21:45:59.031596",
-        "pos": 38,
-        "note": "passed by Codependence"
-      },
-      {
-        "time": "2024-02-18T22:15:49.645241",
-        "pos": 39,
-        "note": "Tidal Wave placed above"
-      },
-      {
-        "time": "2024-03-22T18:17:20.262970",
-        "pos": 40,
-        "note": "passed by Jigsaw"
-      },
-      {
-        "time": "2024-04-09T21:50:22.044413",
-        "pos": 39,
-        "note": "passed by Hard Machine"
-      },
-      {
-        "time": "2024-05-14T11:52:40.526409",
-        "pos": 42,
-        "note": "Moved"
-      },
-      {
-        "time": "2024-05-24T17:03:33.671929",
-        "pos": 43,
-        "note": "passed by Climax"
-      },
-      {
-        "time": "2024-05-31T15:22:59.680847",
-        "pos": 44,
-        "note": "ATOMIC CANNON Mk III placed above"
-      },
-      {
-        "time": "2024-06-14T20:18:17.297592",
-        "pos": 45,
-        "note": "PSYCHOPATH placed above"
-      },
-      {
-        "time": "2024-06-30T23:20:30.410482",
-        "pos": 46,
-        "note": "passed by Terminal Rampancy"
-      },
-      {
-        "time": "2024-07-23T19:53:42.666502",
-        "pos": 47,
-        "note": "passed by NETWORK"
-      },
-      {
-        "time": "2024-08-15T20:23:16.197914",
-        "pos": 48,
-        "note": "Menace placed above"
-      },
-      {
-        "time": "2024-08-17T21:32:59.150466",
-        "pos": 49,
-        "note": "Viprin UFO placed above"
-      },
-      {
-        "time": "2024-08-25T21:23:08.291354",
-        "pos": 50,
-        "note": "Natural Disaster placed above"
-      },
-      {
-        "time": "2024-09-25T00:03:16.423974",
-        "pos": 51,
-        "note": "passed by ORDINARY"
-      },
-      {
-        "time": "2024-09-29T22:20:38.224134",
-        "pos": 52,
-        "note": "KOSETSU placed above"
-      },
-      {
-        "time": "2024-10-02T18:25:46.058862",
-        "pos": 53,
-        "note": "Coalescence placed above"
-      },
-      {
-        "time": "2024-10-07T20:22:43.121012",
-        "pos": 54,
-        "note": "Nullscapes placed above"
-      },
-      {
-        "time": "2024-10-30T02:26:55.892361",
-        "pos": 55,
-        "note": "The Yangire placed above"
-      },
-      {
-        "time": "2024-11-11T19:06:03.696426",
-        "pos": 56,
-        "note": "Spectre placed above"
-      },
-      {
-        "time": "2024-11-12T20:35:17.207600",
-        "pos": 57,
-        "note": "BOOBAWAMBA placed above"
-      },
-      {
-        "time": "2024-11-19T01:19:23.586427",
-        "pos": 58,
-        "note": "Waterfall placed above"
-      },
-      {
-        "time": "2024-11-20T22:42:09.483620",
-        "pos": 59,
-        "note": "Judgement Knights placed above"
-      },
-      {
-        "time": "2024-11-29T20:36:19.283078",
-        "pos": 60,
-        "note": "BPATA MPAKA placed above"
-      },
-      {
-        "time": "2024-12-02T22:17:01.236244",
-        "pos": 61,
-        "note": "passed by Critical Heat"
-      },
-      {
-        "time": "2024-12-23T17:23:52.057033",
-        "pos": 62,
-        "note": "Anathema placed above"
-      },
-      {
-        "time": "2025-01-05T19:33:19.303323",
-        "pos": 63,
-        "note": "BEELINE placed above"
-      },
-      {
-        "time": "2025-01-22T22:09:36.642699",
-        "pos": 64,
-        "note": "Collapse placed above"
-      },
-      {
-        "time": "2025-02-16T19:55:24.607596",
-        "pos": 65,
-        "note": "The Plunge placed above"
-      },
-      {
-        "time": "2025-02-16T21:00:05.598359",
-        "pos": 64,
-        "note": "passed by Judgement Knights"
-      },
-      {
-        "time": "2025-02-23T16:48:54.480468",
-        "pos": 65,
-        "note": "Subterminal Point placed above"
-      },
-      {
-        "time": "2025-03-13T19:27:02.274395",
-        "pos": 66,
-        "note": "andromeda placed above"
-      },
-      {
-        "time": "2025-03-13T20:49:18.677760",
-        "pos": 67,
-        "note": "Apocalyptic Trilogy placed above"
-      },
-      {
-        "time": "2025-03-13T21:33:34.896411",
-        "pos": 68,
-        "note": "Gaggatrondra placed above"
-      },
-      {
-        "time": "2025-03-26T14:35:57.562179",
-        "pos": 69,
-        "note": "passed by Aerial Gleam"
-      },
-      {
-        "time": "2025-04-04T23:48:09.392989",
-        "pos": 70,
-        "note": "Crystal Crusher placed above"
-      },
-      {
-        "time": "2025-04-20T20:07:47.909124",
-        "pos": 71,
-        "note": "Every End placed above"
-      },
-      {
-        "time": "2025-04-20T23:33:41.291801",
-        "pos": 72,
-        "note": "passed by Checked Steam"
-      },
-      {
-        "time": "2025-05-25T19:06:34.683504",
-        "pos": 73,
-        "note": "Cimmerian Shade placed above"
-      },
-      {
-        "time": "2025-06-04T01:24:19.612504",
-        "pos": 74,
-        "note": "Amethyst placed above"
-      },
-      {
-        "time": "2025-07-11T16:05:30.978462",
-        "pos": 75,
-        "note": "limbo but uwu ig idk placed above"
-      },
-      {
-        "time": "2025-08-01T23:09:57.755169",
-        "pos": 76,
-        "note": "Operation Evolution placed above"
-      },
-      {
-        "time": "2025-08-02T01:19:37.670108",
-        "pos": 77,
-        "note": "Swing Swing placed above"
-      },
-      {
-        "time": "2025-08-06T12:03:08.956771",
-        "pos": 78,
-        "note": "Sevvend Clubstep placed above"
-      },
-      {
-        "time": "2025-08-07T18:33:39.403821",
-        "pos": 79,
-        "note": "passed by Starlit Stroll"
-      },
-      {
-        "time": "2025-09-06T21:21:15.858938",
-        "pos": 80,
-        "note": "THE JET ENGINE placed above"
-      },
-      {
-        "time": "2025-09-08T14:40:58.340963",
-        "pos": 81,
-        "note": "passed by The Paroxysm of Rage"
-      },
-      {
-        "time": "2025-09-19T17:57:26.893284",
-        "pos": 82,
-        "note": "Thinking Space II placed above"
-      },
-      {
-        "time": "2025-09-23T16:21:03.927854",
-        "pos": 81,
-        "note": "passed by Swing Swing"
-      },
-      {
-        "time": "2025-09-27T12:49:37.463489",
-        "pos": 82,
-        "note": "Blood Echo placed above"
-      },
-      {
-        "time": "2025-10-24T19:57:01.221442",
-        "pos": 83,
-        "note": "Flamewall placed above"
-      },
-      {
-        "time": "2025-10-26T22:11:24.736078",
-        "pos": 84,
-        "note": "Defeated Circles placed above"
-      },
-      {
-        "time": "2025-10-28T15:24:58.898085",
-        "pos": 85,
-        "note": "CONVULSION placed above"
-      },
-      {
-        "time": "2025-11-12T04:06:14.473392",
-        "pos": 86,
-        "note": "Loops of Fury placed above"
-      },
-      {
-        "time": "2025-12-07T20:42:21.258923",
-        "pos": 87,
-        "note": "Henken placed above"
-      },
-      {
-        "time": "2025-12-13T19:09:33.271153",
-        "pos": 88,
-        "note": "Silentlocked placed above"
-      },
-      {
-        "time": "2025-12-15T18:15:35.261767",
-        "pos": 89,
-        "note": "Subsuming Vortex placed above"
-      },
-      {
-        "time": "2025-12-19T17:51:44.890516",
-        "pos": 90,
-        "note": "Wavterminal placed above"
-      },
-      {
-        "time": "2025-12-23T22:59:36.470036",
-        "pos": 91,
-        "note": "Graceful placed above"
-      },
-      {
-        "time": "2025-12-26T16:59:28.007493",
-        "pos": 92,
-        "note": "CHIL placed above"
-      },
-      {
-        "time": "2026-01-02T17:25:12.238151",
-        "pos": 93,
-        "note": "Infinite Chaos placed above"
-      },
-      {
-        "time": "2026-01-03T06:07:18.888951",
-        "pos": 94,
-        "note": "DISCONNECT placed above"
-      },
-      {
-        "time": "2026-01-08T19:19:16.431758",
-        "pos": 95,
-        "note": "The Salt Factory placed above"
-      },
-      {
-        "time": "2026-01-13T04:38:23.324082",
-        "pos": 96,
-        "note": "Time Lapse placed above"
-      },
-      {
-        "time": "2026-01-15T04:49:22.511159",
-        "pos": 97,
-        "note": "Snowbound placed above"
-      },
-      {
-        "time": "2026-01-16T06:37:35.265165",
-        "pos": 98,
-        "note": "Decks Dark placed above"
-      },
-      {
-        "time": "2026-01-18T21:26:31.763854",
-        "pos": 99,
-        "note": "Quanteuse processing placed above"
-      },
-      {
-        "time": "2026-02-10T04:05:52.293479",
-        "pos": 100,
-        "note": "The Wonder of You placed above"
-      },
-      {
-        "time": "2026-02-19T04:06:00.661288",
-        "pos": 101,
-        "note": "Through The Gates placed above"
-      },
-      {
-        "time": "2026-02-24T21:41:58.991549",
-        "pos": 102,
-        "note": "paranoia placed above"
-      },
-      {
-        "time": "2026-02-25T18:35:32.193796",
-        "pos": 103,
-        "note": "Levigo placed above"
-      },
-      {
-        "time": "2026-03-01T21:31:44.849873",
-        "pos": 104,
-        "note": "Voltage placed above"
-      },
-      {
-        "time": "2026-03-01T21:39:22.929616",
-        "pos": 105,
-        "note": "Based After Based placed above"
-      },
-      {
-        "time": "2026-03-01T21:42:53.413172",
-        "pos": 106,
-        "note": "Ashley Wave Trials placed above"
-      },
-      {
-        "time": "2026-03-04T15:47:26.234789",
-        "pos": 107,
-        "note": "The Catacombs placed above"
-      },
-      {
-        "time": "2026-03-10T20:00:07.893497",
-        "pos": 108,
-        "note": "ORBIT placed above"
-      },
-      {
-        "time": "2026-03-11T18:03:43.715807",
-        "pos": 109,
-        "note": "CHROMACAVE placed above"
       },
       {
-        "time": "2026-03-19T17:31:32.116022",
+        "time": "2026-10-18T20:07:29.635521",
         "pos": 110,
-        "note": "passed by VOID"
-      },
-      {
-        "time": "2026-03-20T01:18:12.792602",
-        "pos": 109,
-        "note": "passed by Time Lapse"
-      },
-      {
-        "time": "2026-03-24T02:21:06.400900",
-        "pos": 110,
-        "note": "passed by WOBBLING MACHINE"
-      },
-      {
-        "time": "2026-04-01T14:56:01.355404",
-        "pos": 111,
-        "note": "NOMAD placed above"
-      },
-      {
-        "time": "2026-04-01T18:44:52.275485",
-        "pos": 112,
-        "note": "Stellar Night placed above"
-      },
-      {
-        "time": "2026-04-02T23:52:19.095725",
-        "pos": 113,
-        "note": "Diabolic ClubStep placed above"
-      },
-      {
-        "time": "2026-04-03T12:39:29.557649",
-        "pos": 114,
-        "note": "TrakineS placed above"
-      },
-      {
-        "time": "2026-04-09T16:41:01.441554",
-        "pos": 115,
-        "note": "zorin placed above"
-      },
-      {
-        "time": "2026-04-21T00:06:16.273498",
-        "pos": 116,
-        "note": "Dualist placed above"
-      },
-      {
-        "time": "2026-04-27T22:56:13.985455",
-        "pos": 117,
-        "note": "BEING HOME placed above"
-      },
-      {
-        "time": "2026-04-29T22:04:18.153892",
-        "pos": 118,
-        "note": "Penumbral placed above"
-      },
-      {
-        "time": "2026-04-30T19:03:44.006644",
-        "pos": 119,
-        "note": "Fracture placed above"
-      },
-      {
-        "time": "2026-04-30T19:25:15.033824",
-        "pos": 120,
-        "note": "DreamStep placed above"
-      },
-      {
-        "time": "2026-05-02T09:04:47.232258",
-        "pos": 121,
-        "note": "Calibrate placed above"
-      },
-      {
-        "time": "2026-05-08T00:51:58.827418",
-        "pos": 122,
-        "note": "BRITNEY NO SCLEARS placed above"
-      },
-      {
-        "time": "2026-06-03T23:12:32.744265",
-        "pos": 123,
-        "note": "ROCKBOTTOM placed above"
-      },
-      {
-        "time": "2026-06-09T01:40:51.753480",
-        "pos": 124,
-        "note": "Trickshot placed above"
-      },
-      {
-        "time": "2026-06-13T22:51:46.934121",
-        "pos": 125,
-        "note": "Between Duality placed above"
-      },
-      {
-        "time": "2026-06-17T21:13:45.958908",
-        "pos": 126,
-        "note": "Master of Puppets placed above"
-      },
-      {
-        "time": "2026-06-19T23:20:07.341845",
-        "pos": 127,
-        "note": "KILLSTEALER placed above"
-      },
-      {
-        "time": "2026-06-21T00:18:01.740770",
-        "pos": 128,
-        "note": "Maniacal Chains placed above"
-      },
-      {
-        "time": "2026-06-24T04:10:31.871616",
-        "pos": 129,
-        "note": "Society placed above"
-      },
-      {
-        "time": "2026-06-24T04:11:16.557005",
-        "pos": 128,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-24T13:59:41.442142",
-        "pos": 129,
-        "note": "passed by Society"
-      },
-      {
-        "time": "2026-06-27T08:05:28.054344",
-        "pos": 130,
-        "note": "Losing Your Mind placed above"
-      },
-      {
-        "time": "2026-07-23T23:58:43.410264",
-        "pos": 131,
-        "note": "The Bloop placed above"
-      },
-      {
-        "time": "2026-07-24T19:41:35.749964",
-        "pos": 132,
-        "note": "Doppler placed above"
-      },
-      {
-        "time": "2026-07-25T20:59:07.388535",
-        "pos": 131,
-        "note": "passed by ROCKBOTTOM"
-      },
-      {
-        "time": "2026-07-26T20:32:20.322484",
-        "pos": 132,
-        "note": "Green Bullet placed above"
-      },
-      {
-        "time": "2026-07-29T21:44:44.747982",
-        "pos": 133,
-        "note": "idontknowwhatthisis placed above"
-      },
-      {
-        "time": "2026-08-05T22:15:19.870032",
-        "pos": 134,
-        "note": "Ultra Paracosm placed above"
-      },
-      {
-        "time": "2026-08-10T00:24:41.670047",
-        "pos": 135,
-        "note": "NervHell placed above"
-      },
-      {
-        "time": "2026-08-11T00:26:31.083066",
-        "pos": 136,
-        "note": "Sacrifice placed above"
-      },
-      {
-        "time": "2026-08-19T19:39:49.698612",
-        "pos": 137,
-        "note": "Pinnacle of Life placed above"
-      },
-      {
-        "time": "2026-08-19T21:26:21.730545",
-        "pos": 138,
-        "note": "Prismline placed above"
-      },
-      {
-        "time": "2026-08-20T21:17:27.152352",
-        "pos": 139,
-        "note": "cognitohazard placed above"
-      },
-      {
-        "time": "2026-08-21T20:35:19.901106",
-        "pos": 140,
-        "note": "Sanctity placed above"
-      },
-      {
-        "time": "2026-08-22T19:08:14.006020",
-        "pos": 141,
-        "note": "Antarctic Lights placed above"
-      },
-      {
-        "time": "2026-08-23T13:58:25.810329",
-        "pos": 142,
-        "note": "Make Paul Dance placed above"
-      },
-      {
-        "time": "2026-08-28T01:48:55.220625",
-        "pos": 143,
-        "note": "Haunted Ship placed above"
-      },
-      {
-        "time": "2026-08-29T16:11:00.023739",
-        "pos": 144,
-        "note": "SPIRIT OVERCLOCK placed above"
-      },
-      {
-        "time": "2026-09-02T21:28:58.958576",
-        "pos": 145,
-        "note": "FOREST OF SPIKES placed above"
-      },
-      {
-        "time": "2026-09-12T22:00:35.784974",
-        "pos": 146,
-        "note": "Heavenly Sakupen placed above"
-      },
-      {
-        "time": "2026-10-05T03:26:24.707729",
-        "pos": 147,
-        "note": "passed by Starlight Summit"
-      },
-      {
-        "time": "2026-10-05T03:42:39.529414",
-        "pos": 148,
-        "note": "adjunto adnominal placed above"
-      },
-      {
-        "time": "2026-10-05T03:55:51.046657",
-        "pos": 149,
-        "note": "GRIEF placed above"
-      },
-      {
-        "time": "2026-10-10T01:03:49.867722",
-        "pos": 150,
-        "note": "Breakcore placed above"
+        "note": "Artemis 13 placed above"
       }
     ],
     "379": [
@@ -3184,6 +2352,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 53,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 54,
+        "note": "Artemis 13 placed above"
       }
     ],
     "380": [
@@ -3416,6 +2589,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 37,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 38,
+        "note": "Artemis 13 placed above"
       }
     ],
     "383": [
@@ -3983,6 +3161,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 105,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 106,
+        "note": "Artemis 13 placed above"
       }
     ],
     "391": [
@@ -4230,6 +3413,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 45,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 46,
+        "note": "Artemis 13 placed above"
       }
     ],
     "393": [
@@ -4942,6 +4130,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 126,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 127,
+        "note": "Artemis 13 placed above"
       }
     ],
     "412": [
@@ -5719,6 +4912,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 145,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 146,
+        "note": "Artemis 13 placed above"
       }
     ],
     "413": [
@@ -5901,6 +5099,11 @@
         "time": "2026-10-16T09:13:04.642661",
         "pos": 28,
         "note": "passed by Defeated Circles"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 29,
+        "note": "Artemis 13 placed above"
       }
     ],
     "425": [
@@ -6503,6 +5706,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 121,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 122,
+        "note": "Artemis 13 placed above"
       }
     ],
     "427": [
@@ -6925,6 +6133,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 63,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 64,
+        "note": "Artemis 13 placed above"
       }
     ],
     "428": [
@@ -7087,6 +6300,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 16,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 17,
+        "note": "Artemis 13 placed above"
       }
     ],
     "429": [
@@ -7584,6 +6802,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 87,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 88,
+        "note": "Artemis 13 placed above"
       }
     ],
     "435": [
@@ -8256,6 +7479,11 @@
         "time": "2026-10-13T12:46:34.799184",
         "pos": 132,
         "note": "passed by Checked Steam"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 133,
+        "note": "Artemis 13 placed above"
       }
     ],
     "439": [
@@ -8693,6 +7921,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 82,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 83,
+        "note": "Artemis 13 placed above"
       }
     ],
     "442": [
@@ -8855,6 +8088,11 @@
         "time": "2026-10-16T09:13:04.642661",
         "pos": 25,
         "note": "passed by Defeated Circles"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 26,
+        "note": "Artemis 13 placed above"
       }
     ],
     "464": [
@@ -9167,6 +8405,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 58,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 59,
+        "note": "Artemis 13 placed above"
       }
     ],
     "467": [
@@ -9539,6 +8782,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 77,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 78,
+        "note": "Artemis 13 placed above"
       }
     ],
     "468": [
@@ -9716,6 +8964,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 31,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 32,
+        "note": "Artemis 13 placed above"
       }
     ],
     "469": [
@@ -10243,6 +9496,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 96,
         "note": "passed by TrakineS"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 97,
+        "note": "Artemis 13 placed above"
       }
     ],
     "475": [
@@ -10810,6 +10068,11 @@
         "time": "2026-10-13T12:46:34.799184",
         "pos": 130,
         "note": "passed by Checked Steam"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 131,
+        "note": "Artemis 13 placed above"
       }
     ],
     "478": [
@@ -11482,6 +10745,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 135,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 136,
+        "note": "Artemis 13 placed above"
       }
     ],
     "485": [
@@ -11879,6 +11147,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 73,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 74,
+        "note": "Artemis 13 placed above"
       }
     ],
     "486": [
@@ -12041,6 +11314,11 @@
         "time": "2026-10-16T09:13:04.642661",
         "pos": 24,
         "note": "passed by Defeated Circles"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 25,
+        "note": "Artemis 13 placed above"
       }
     ],
     "487": [
@@ -12318,6 +11596,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 60,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 61,
+        "note": "Artemis 13 placed above"
       }
     ],
     "495": [
@@ -12710,6 +11993,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 75,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 76,
+        "note": "Artemis 13 placed above"
       }
     ],
     "496": [
@@ -13002,6 +12290,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 61,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 62,
+        "note": "Artemis 13 placed above"
       }
     ],
     "497": [
@@ -13634,6 +12927,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 125,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 126,
+        "note": "Artemis 13 placed above"
       }
     ],
     "501": [
@@ -13831,6 +13129,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 39,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 40,
+        "note": "Artemis 13 placed above"
       }
     ],
     "511": [
@@ -14193,6 +13496,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 80,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 81,
+        "note": "Artemis 13 placed above"
       }
     ],
     "516": [
@@ -14430,6 +13738,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 41,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 42,
+        "note": "Artemis 13 placed above"
       }
     ],
     "520": [
@@ -14617,6 +13930,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 30,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 31,
+        "note": "Artemis 13 placed above"
       }
     ],
     "521": [
@@ -15079,6 +14397,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 90,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 91,
+        "note": "Artemis 13 placed above"
       }
     ],
     "525": [
@@ -15616,6 +14939,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 113,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 114,
+        "note": "Artemis 13 placed above"
       }
     ],
     "526": [
@@ -15943,6 +15271,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 65,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 66,
+        "note": "Artemis 13 placed above"
       }
     ],
     "528": [
@@ -16155,6 +15488,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 35,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 36,
+        "note": "Artemis 13 placed above"
       }
     ],
     "539": [
@@ -16702,6 +16040,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 123,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 124,
+        "note": "Artemis 13 placed above"
       }
     ],
     "540": [
@@ -17229,6 +16572,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 94,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 95,
+        "note": "Artemis 13 placed above"
       }
     ],
     "545": [
@@ -17481,6 +16829,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 49,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 50,
+        "note": "Artemis 13 placed above"
       }
     ],
     "547": [
@@ -17893,6 +17246,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 92,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 93,
+        "note": "Artemis 13 placed above"
       }
     ],
     "549": [
@@ -18335,6 +17693,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 100,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 101,
+        "note": "Artemis 13 placed above"
       }
     ],
     "551": [
@@ -18682,6 +18045,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 79,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 80,
+        "note": "Artemis 13 placed above"
       }
     ],
     "555": [
@@ -19159,6 +18527,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 112,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 113,
+        "note": "Artemis 13 placed above"
       }
     ],
     "558": [
@@ -19506,6 +18879,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 68,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 69,
+        "note": "Artemis 13 placed above"
       }
     ],
     "562": [
@@ -19548,6 +18926,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 6,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 7,
+        "note": "Artemis 13 placed above"
       }
     ],
     "568": [
@@ -20055,6 +19438,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 124,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 125,
+        "note": "Artemis 13 placed above"
       }
     ],
     "570": [
@@ -20422,6 +19810,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 103,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 104,
+        "note": "Artemis 13 placed above"
       }
     ],
     "572": [
@@ -20969,6 +20362,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 143,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 144,
+        "note": "Artemis 13 placed above"
       }
     ],
     "577": [
@@ -21111,6 +20509,11 @@
         "time": "2026-10-16T09:13:04.642661",
         "pos": 27,
         "note": "passed by Defeated Circles"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 28,
+        "note": "Artemis 13 placed above"
       }
     ],
     "578": [
@@ -21563,6 +20966,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 122,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 123,
+        "note": "Artemis 13 placed above"
       }
     ],
     "579": [
@@ -21960,6 +21368,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 95,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 96,
+        "note": "Artemis 13 placed above"
       }
     ],
     "582": [
@@ -22462,6 +21875,11 @@
         "time": "2026-10-13T12:46:34.799184",
         "pos": 128,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 129,
+        "note": "Artemis 13 placed above"
       }
     ],
     "583": [
@@ -22919,6 +22337,11 @@
         "time": "2026-10-10T01:21:06.249616",
         "pos": 116,
         "note": "passed by The Wonder of You"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 117,
+        "note": "Artemis 13 placed above"
       }
     ],
     "587": [
@@ -23146,6 +22569,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 50,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 51,
+        "note": "Artemis 13 placed above"
       }
     ],
     "588": [
@@ -23573,6 +23001,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 98,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 99,
+        "note": "Artemis 13 placed above"
       }
     ],
     "589": [
@@ -23640,6 +23073,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 10,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 11,
+        "note": "Artemis 13 placed above"
       }
     ],
     "590": [
@@ -23972,6 +23410,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 93,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 94,
+        "note": "Artemis 13 placed above"
       }
     ],
     "592": [
@@ -24089,6 +23532,11 @@
         "time": "2026-10-16T09:13:04.642661",
         "pos": 26,
         "note": "passed by Defeated Circles"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 27,
+        "note": "Artemis 13 placed above"
       }
     ],
     "594": [
@@ -24176,6 +23624,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 12,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 13,
+        "note": "Artemis 13 placed above"
       }
     ],
     "595": [
@@ -24548,6 +24001,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 111,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 112,
+        "note": "Artemis 13 placed above"
       }
     ],
     "599": [
@@ -24940,6 +24398,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 115,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 116,
+        "note": "Artemis 13 placed above"
       }
     ],
     "602": [
@@ -25062,6 +24525,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 22,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 23,
+        "note": "Artemis 13 placed above"
       }
     ],
     "605": [
@@ -25419,6 +24887,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 107,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 108,
+        "note": "Artemis 13 placed above"
       }
     ],
     "606": [
@@ -25716,6 +25189,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 81,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 82,
+        "note": "Artemis 13 placed above"
       }
     ],
     "610": [
@@ -26033,6 +25511,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 84,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 85,
+        "note": "Artemis 13 placed above"
       }
     ],
     "612": [
@@ -26180,6 +25663,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 38,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 39,
+        "note": "Artemis 13 placed above"
       }
     ],
     "613": [
@@ -26282,6 +25770,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 19,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 20,
+        "note": "Artemis 13 placed above"
       }
     ],
     "614": [
@@ -26519,6 +26012,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 62,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 63,
+        "note": "Artemis 13 placed above"
       }
     ],
     "615": [
@@ -26791,6 +26289,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 70,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 71,
+        "note": "Artemis 13 placed above"
       }
     ],
     "617": [
@@ -27183,6 +26686,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 138,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 139,
+        "note": "Artemis 13 placed above"
       }
     ],
     "618": [
@@ -27615,6 +27123,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 142,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 143,
+        "note": "Artemis 13 placed above"
       }
     ],
     "620": [
@@ -27682,6 +27195,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 14,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 15,
+        "note": "Artemis 13 placed above"
       }
     ],
     "622": [
@@ -28004,6 +27522,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 102,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 103,
+        "note": "Artemis 13 placed above"
       }
     ],
     "623": [
@@ -28046,6 +27569,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 4,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 5,
+        "note": "Artemis 13 placed above"
       }
     ],
     "625": [
@@ -28413,6 +27941,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 139,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 140,
+        "note": "Artemis 13 placed above"
       }
     ],
     "627": [
@@ -28675,6 +28208,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 89,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 90,
+        "note": "Artemis 13 placed above"
       }
     ],
     "628": [
@@ -29112,6 +28650,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 149,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 150,
+        "note": "Artemis 13 placed above"
       }
     ],
     "630": [
@@ -29329,6 +28872,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 71,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 72,
+        "note": "Artemis 13 placed above"
       }
     ],
     "631": [
@@ -29746,6 +29294,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 147,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 148,
+        "note": "Artemis 13 placed above"
       }
     ],
     "633": [
@@ -30033,6 +29586,11 @@
         "time": "2026-10-09T09:57:49.372619",
         "pos": 97,
         "note": "passed by TrakineS"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 98,
+        "note": "Artemis 13 placed above"
       }
     ],
     "635": [
@@ -30060,6 +29618,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 3,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 4,
+        "note": "Artemis 13 placed above"
       }
     ],
     "636": [
@@ -30417,6 +29980,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 144,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 145,
+        "note": "Artemis 13 placed above"
       }
     ],
     "637": [
@@ -30814,6 +30382,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 137,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 138,
+        "note": "Artemis 13 placed above"
       }
     ],
     "638": [
@@ -30851,6 +30424,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 5,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 6,
+        "note": "Artemis 13 placed above"
       }
     ],
     "639": [
@@ -30938,6 +30516,11 @@
         "time": "2026-10-16T09:13:04.642661",
         "pos": 23,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 24,
+        "note": "Artemis 13 placed above"
       }
     ],
     "640": [
@@ -31115,6 +30698,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 51,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 52,
+        "note": "Artemis 13 placed above"
       }
     ],
     "642": [
@@ -31352,6 +30940,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 67,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 68,
+        "note": "Artemis 13 placed above"
       }
     ],
     "646": [
@@ -31699,6 +31292,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 148,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 149,
+        "note": "Artemis 13 placed above"
       }
     ],
     "648": [
@@ -31846,6 +31444,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 48,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 49,
+        "note": "Artemis 13 placed above"
       }
     ],
     "649": [
@@ -31923,6 +31526,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 21,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 22,
+        "note": "Artemis 13 placed above"
       }
     ],
     "650": [
@@ -32160,6 +31768,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 86,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 87,
+        "note": "Artemis 13 placed above"
       }
     ],
     "651": [
@@ -32462,6 +32075,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 140,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 141,
+        "note": "Artemis 13 placed above"
       }
     ],
     "652": [
@@ -32569,6 +32187,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 42,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 43,
+        "note": "Artemis 13 placed above"
       }
     ],
     "653": [
@@ -32786,6 +32409,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 88,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 89,
+        "note": "Artemis 13 placed above"
       }
     ],
     "654": [
@@ -33088,6 +32716,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 146,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 147,
+        "note": "Artemis 13 placed above"
       }
     ],
     "655": [
@@ -33240,6 +32873,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 46,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 47,
+        "note": "Artemis 13 placed above"
       }
     ],
     "658": [
@@ -33387,6 +33025,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 56,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 57,
+        "note": "Artemis 13 placed above"
       }
     ],
     "659": [
@@ -33589,6 +33232,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 91,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 92,
+        "note": "Artemis 13 placed above"
       }
     ],
     "660": [
@@ -33631,6 +33279,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 11,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 12,
+        "note": "Artemis 13 placed above"
       }
     ],
     "662": [
@@ -33863,6 +33516,11 @@
         "time": "2026-10-10T01:21:06.249616",
         "pos": 117,
         "note": "Moved"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 118,
+        "note": "Artemis 13 placed above"
       }
     ],
     "663": [
@@ -34005,6 +33663,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 52,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 53,
+        "note": "Artemis 13 placed above"
       }
     ],
     "664": [
@@ -34267,6 +33930,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 141,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 142,
+        "note": "Artemis 13 placed above"
       }
     ],
     "665": [
@@ -34494,6 +34162,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 127,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 128,
+        "note": "Artemis 13 placed above"
       }
     ],
     "667": [
@@ -34621,6 +34294,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 54,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 55,
+        "note": "Artemis 13 placed above"
       }
     ],
     "668": [
@@ -34703,6 +34381,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 33,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 34,
+        "note": "Artemis 13 placed above"
       }
     ],
     "669": [
@@ -34770,6 +34453,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 15,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 16,
+        "note": "Artemis 13 placed above"
       }
     ],
     "670": [
@@ -34922,6 +34610,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 76,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 77,
+        "note": "Artemis 13 placed above"
       }
     ],
     "671": [
@@ -34954,6 +34647,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 8,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 9,
+        "note": "Artemis 13 placed above"
       }
     ],
     "672": [
@@ -35106,6 +34804,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 83,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 84,
+        "note": "Artemis 13 placed above"
       }
     ],
     "673": [
@@ -35213,6 +34916,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 55,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 56,
+        "note": "Artemis 13 placed above"
       }
     ],
     "674": [
@@ -35345,6 +35053,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 72,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 73,
+        "note": "Artemis 13 placed above"
       }
     ],
     "675": [
@@ -35507,6 +35220,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 106,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 107,
+        "note": "Artemis 13 placed above"
       }
     ],
     "676": [
@@ -35664,6 +35382,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 104,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 105,
+        "note": "Artemis 13 placed above"
       }
     ],
     "677": [
@@ -35751,6 +35474,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 43,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 44,
+        "note": "Artemis 13 placed above"
       }
     ],
     "678": [
@@ -35908,6 +35636,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 118,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 119,
+        "note": "Artemis 13 placed above"
       }
     ],
     "679": [
@@ -36005,6 +35738,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 40,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 41,
+        "note": "Artemis 13 placed above"
       }
     ],
     "680": [
@@ -36052,6 +35790,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 18,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 19,
+        "note": "Artemis 13 placed above"
       }
     ],
     "681": [
@@ -36174,6 +35917,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 85,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 86,
+        "note": "Artemis 13 placed above"
       }
     ],
     "682": [
@@ -36321,6 +36069,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 108,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 109,
+        "note": "Artemis 13 placed above"
       }
     ],
     "683": [
@@ -36408,6 +36161,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 59,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 60,
+        "note": "Artemis 13 placed above"
       }
     ],
     "684": [
@@ -36530,6 +36288,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 69,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 70,
+        "note": "Artemis 13 placed above"
       }
     ],
     "687": [
@@ -36647,6 +36410,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 99,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 100,
+        "note": "Artemis 13 placed above"
       }
     ],
     "690": [
@@ -36764,6 +36532,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 114,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 115,
+        "note": "Artemis 13 placed above"
       }
     ],
     "695": [
@@ -36856,6 +36629,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 47,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 48,
+        "note": "Artemis 13 placed above"
       }
     ],
     "696": [
@@ -36903,6 +36681,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 20,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 21,
+        "note": "Artemis 13 placed above"
       }
     ],
     "697": [
@@ -36970,6 +36753,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 36,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 37,
+        "note": "Artemis 13 placed above"
       }
     ],
     "698": [
@@ -36997,6 +36785,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 2,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 3,
+        "note": "Artemis 13 placed above"
       }
     ],
     "699": [
@@ -37074,6 +36867,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 74,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 75,
+        "note": "Artemis 13 placed above"
       }
     ],
     "700": [
@@ -37096,6 +36894,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 13,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 14,
+        "note": "Artemis 13 placed above"
       }
     ],
     "701": [
@@ -37173,6 +36976,11 @@
         "time": "2026-10-13T00:59:05.569777",
         "pos": 101,
         "note": "passed by Coalescence"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 102,
+        "note": "Artemis 13 placed above"
       }
     ],
     "702": [
@@ -37185,6 +36993,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 7,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 8,
+        "note": "Artemis 13 placed above"
       }
     ],
     "703": [
@@ -37272,6 +37085,11 @@
         "time": "2026-10-13T12:46:34.799184",
         "pos": 134,
         "note": "passed by Checked Steam"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 135,
+        "note": "Artemis 13 placed above"
       }
     ],
     "704": [
@@ -37294,6 +37112,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 17,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 18,
+        "note": "Artemis 13 placed above"
       }
     ],
     "705": [
@@ -37331,6 +37154,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 57,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 58,
+        "note": "Artemis 13 placed above"
       }
     ],
     "706": [
@@ -37368,6 +37196,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 32,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 33,
+        "note": "Artemis 13 placed above"
       }
     ],
     "707": [
@@ -37405,6 +37238,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 64,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 65,
+        "note": "Artemis 13 placed above"
       }
     ],
     "708": [
@@ -37442,6 +37280,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 44,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 45,
+        "note": "Artemis 13 placed above"
       }
     ],
     "709": [
@@ -37474,6 +37317,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 34,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 35,
+        "note": "Artemis 13 placed above"
       }
     ],
     "710": [
@@ -37506,6 +37354,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 119,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 120,
+        "note": "Artemis 13 placed above"
       }
     ],
     "711": [
@@ -37518,6 +37371,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 9,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 10,
+        "note": "Artemis 13 placed above"
       }
     ],
     "712": [
@@ -37545,6 +37403,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 78,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 79,
+        "note": "Artemis 13 placed above"
       }
     ],
     "713": [
@@ -37572,6 +37435,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 66,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 67,
+        "note": "Artemis 13 placed above"
       }
     ],
     "714": [
@@ -37599,6 +37467,11 @@
         "time": "2026-10-13T12:46:34.799184",
         "pos": 131,
         "note": "passed by Checked Steam"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 132,
+        "note": "Artemis 13 placed above"
       }
     ],
     "715": [
@@ -37611,6 +37484,11 @@
         "time": "2026-10-05T03:55:51.046657",
         "pos": 29,
         "note": "GRIEF placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 30,
+        "note": "Artemis 13 placed above"
       }
     ],
     "716": [
@@ -37633,6 +37511,11 @@
         "time": "2026-10-13T12:46:34.799184",
         "pos": 129,
         "note": "passed by Checked Steam"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 130,
+        "note": "Artemis 13 placed above"
       }
     ],
     "723": [
@@ -37650,6 +37533,11 @@
         "time": "2026-10-10T01:03:49.867722",
         "pos": 136,
         "note": "Breakcore placed above"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 137,
+        "note": "Artemis 13 placed above"
       }
     ],
     "728": [
@@ -37669,6 +37557,18 @@
         "time": "2026-10-13T12:46:34.799184",
         "pos": 133,
         "note": "passed by Checked Steam"
+      },
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 134,
+        "note": "Artemis 13 placed above"
+      }
+    ],
+    "730": [
+      {
+        "time": "2026-10-18T20:07:29.635521",
+        "pos": 2,
+        "note": "placed on the list"
       }
     ]
   }
