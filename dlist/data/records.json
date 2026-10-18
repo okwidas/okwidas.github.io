@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T02:04:14Z",
+  "updated_at": "2026-10-18T07:36:09Z",
   "demons": {
     "250": [
       {
@@ -7030,6 +7030,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=1R_oM3KB5e0"
+      },
+      {
+        "player": {
+          "id": 72554,
+          "name": "Twigz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bKVQsKdsJ_4"
       },
       {
         "player": {
@@ -54607,6 +54616,15 @@
       },
       {
         "player": {
+          "id": 65313,
+          "name": "stoepit123"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5TGEkNRDtOw"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -71212,6 +71230,15 @@
       },
       {
         "player": {
+          "id": 71742,
+          "name": "Paffek"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NMf7_FZm2S4"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -71425,15 +71452,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=52OtIXwomAk"
-      },
-      {
-        "player": {
-          "id": 71742,
-          "name": "Paffek"
-        },
-        "progress": 71,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Jtmq4mk_SPE"
       },
       {
         "player": {
@@ -75103,6 +75121,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=cafZ2oTj_2s"
+      },
+      {
+        "player": {
+          "id": 71044,
+          "name": "LuminePoke"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=nzXa3I5Z8Oc"
       },
       {
         "player": {
@@ -80744,6 +80771,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=cJiUQxhlG7I"
+      },
+      {
+        "player": {
+          "id": 61168,
+          "name": "luno"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=H-EA1wfoFOA"
       },
       {
         "player": {
@@ -98002,6 +98038,15 @@
       },
       {
         "player": {
+          "id": 32971,
+          "name": "ItzApex"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=z1kPRsAwEPk"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -113494,6 +113539,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BUKPP5ZO_aA"
+      },
+      {
+        "player": {
+          "id": 41932,
+          "name": "Laurendi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=P-zT_Wne6ZI"
       },
       {
         "player": {
