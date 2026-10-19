@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T22:46:16Z",
+  "updated_at": "2026-10-19T02:22:04Z",
   "demons": {
     "250": [
       {
@@ -13475,7 +13475,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=J4Bh-kyEyso"
+        "video": "https://www.youtube.com/watch?v=F_co8jUHuJ8"
       },
       {
         "player": {
@@ -20572,6 +20572,15 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=skkw1RFj_-Q"
+      },
+      {
+        "player": {
+          "id": 68892,
+          "name": "Crupice"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Y97th7jaicY"
       }
     ],
     "380": [
@@ -52330,6 +52339,15 @@
       },
       {
         "player": {
+          "id": 70253,
+          "name": "OxygenSE"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-jLOavBYVQk"
+      },
+      {
+        "player": {
           "id": 42010,
           "name": "[SEREK] Kramujo"
         },
@@ -52354,15 +52372,6 @@
         "progress": 90,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=a8vW3UwVAZw"
-      },
-      {
-        "player": {
-          "id": 70253,
-          "name": "OxygenSE"
-        },
-        "progress": 90,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=l8835NMpdS8"
       },
       {
         "player": {
@@ -110684,6 +110693,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=i5CFwrNDEYA"
+      },
+      {
+        "player": {
+          "id": 56419,
+          "name": "[SELL] Harhir"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JhBX3eRIoxs"
       }
     ],
     "723": [
