@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:05:24Z",
+  "updated_at": "2026-10-19T21:55:41Z",
   "demons": {
     "250": [
       {
@@ -42456,6 +42456,15 @@
       },
       {
         "player": {
+          "id": 61685,
+          "name": "zimbae"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZwiXZ6DA2fQ"
+      },
+      {
+        "player": {
           "id": 54705,
           "name": "KlimK"
         },
@@ -47922,6 +47931,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=8Ss_bayzqVU"
+      },
+      {
+        "player": {
+          "id": 14668,
+          "name": "[HOLA] Diris"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HWgjZKBAkaY"
       },
       {
         "player": {
@@ -66584,6 +66602,15 @@
       },
       {
         "player": {
+          "id": 68497,
+          "name": "Viyoo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NXcDN3YhQNI"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -66770,15 +66797,6 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=DSzIGDnqc2o"
-      },
-      {
-        "player": {
-          "id": 68497,
-          "name": "Viyoo"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=THwHBC_2iBU"
       },
       {
         "player": {
@@ -109127,6 +109145,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=QL0fb7PIky4"
+      },
+      {
+        "player": {
+          "id": 70731,
+          "name": "styxx"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=sGnqzzYA7LM"
       }
     ],
     "690": [
@@ -110855,6 +110882,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=JhBX3eRIoxs"
+      },
+      {
+        "player": {
+          "id": 56749,
+          "name": "manuelmeep"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UKG825xS0rs"
       }
     ],
     "723": [

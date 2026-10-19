@@ -1330,8 +1330,27 @@
     "level_id": 125317359
   },
   {
-    "id": 615,
+    "id": 674,
     "position": 71,
+    "name": "Stellar Night",
+    "requirement": 78,
+    "video": "https://www.youtube.com/watch?v=XpBY-eMYZTE",
+    "thumbnail": "https://i.ytimg.com/vi/XpBY-eMYZTE/mqdefault.jpg",
+    "publisher": {
+      "id": 3245,
+      "name": "icedcave",
+      "banned": false
+    },
+    "verifier": {
+      "id": 37857,
+      "name": "Tuggy",
+      "banned": false
+    },
+    "level_id": 83244159
+  },
+  {
+    "id": 615,
+    "position": 72,
     "name": "Gaggatrondra",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=A4G41vw6Cf0",
@@ -1350,7 +1369,7 @@
   },
   {
     "id": 630,
-    "position": 72,
+    "position": 73,
     "name": "Sevvend Clubstep",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
@@ -1366,25 +1385,6 @@
       "banned": true
     },
     "level_id": 120255728
-  },
-  {
-    "id": 674,
-    "position": 73,
-    "name": "Stellar Night",
-    "requirement": 78,
-    "video": "https://www.youtube.com/watch?v=XpBY-eMYZTE",
-    "thumbnail": "https://i.ytimg.com/vi/XpBY-eMYZTE/mqdefault.jpg",
-    "publisher": {
-      "id": 3245,
-      "name": "icedcave",
-      "banned": false
-    },
-    "verifier": {
-      "id": 37857,
-      "name": "Tuggy",
-      "banned": false
-    },
-    "level_id": 83244159
   },
   {
     "id": 485,

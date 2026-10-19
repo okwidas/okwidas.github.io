@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:05:24Z",
+  "updated_at": "2026-10-19T21:55:41Z",
   "demons": {
     "250": [
       {
@@ -26294,6 +26294,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 71,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-19T20:28:43.648617",
+        "pos": 72,
+        "note": "passed by Stellar Night"
       }
     ],
     "617": [
@@ -28877,6 +28882,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 72,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-19T20:28:43.648617",
+        "pos": 73,
+        "note": "passed by Stellar Night"
       }
     ],
     "631": [
@@ -35058,6 +35068,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 73,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-19T20:28:43.648617",
+        "pos": 71,
+        "note": "Moved"
       }
     ],
     "675": [
