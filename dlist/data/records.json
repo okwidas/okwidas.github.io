@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T14:02:51Z",
+  "updated_at": "2026-10-20T18:54:12Z",
   "demons": {
     "250": [
       {
@@ -52372,6 +52372,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nBeuO5j78Rk"
+      },
+      {
+        "player": {
+          "id": 71875,
+          "name": "BluePhoenix097"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=M2EOAYFhLtM"
       },
       {
         "player": {
