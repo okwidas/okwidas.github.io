@@ -475,8 +475,27 @@
     "level_id": 89496627
   },
   {
-    "id": 442,
+    "id": 715,
     "position": 26,
+    "name": "FOREST OF SPIKES",
+    "requirement": 66,
+    "video": "https://www.youtube.com/watch?v=WJYh3dW8Bfo",
+    "thumbnail": "https://i.ytimg.com/vi/WJYh3dW8Bfo/mqdefault.jpg",
+    "publisher": {
+      "id": 52342,
+      "name": "bims",
+      "banned": false
+    },
+    "verifier": {
+      "id": 56916,
+      "name": "Brian_Cheese",
+      "banned": false
+    },
+    "level_id": 145709435
+  },
+  {
+    "id": 442,
+    "position": 27,
     "name": "Acheron",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=sBKR6aUorzA",
@@ -495,7 +514,7 @@
   },
   {
     "id": 592,
-    "position": 27,
+    "position": 28,
     "name": "Spectre",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=MzsSLKJrLSI",
@@ -514,7 +533,7 @@
   },
   {
     "id": 577,
-    "position": 28,
+    "position": 29,
     "name": "Menace",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=nnkgghxxsEE",
@@ -533,7 +552,7 @@
   },
   {
     "id": 413,
-    "position": 29,
+    "position": 30,
     "name": "Abyss of Darkness",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=ejJkpqcMMCY",
@@ -549,25 +568,6 @@
       "banned": false
     },
     "level_id": 49896559
-  },
-  {
-    "id": 715,
-    "position": 30,
-    "name": "FOREST OF SPIKES",
-    "requirement": 66,
-    "video": "https://www.youtube.com/watch?v=WJYh3dW8Bfo",
-    "thumbnail": "https://i.ytimg.com/vi/WJYh3dW8Bfo/mqdefault.jpg",
-    "publisher": {
-      "id": 52342,
-      "name": "bims",
-      "banned": false
-    },
-    "verifier": {
-      "id": 56916,
-      "name": "Brian_Cheese",
-      "banned": false
-    },
-    "level_id": 145709435
   },
   {
     "id": 520,

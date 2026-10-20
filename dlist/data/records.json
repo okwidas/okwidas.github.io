@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:55:41Z",
+  "updated_at": "2026-10-20T02:35:43Z",
   "demons": {
     "250": [
       {
@@ -109118,6 +109118,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=31F4EEGTjhg"
+      },
+      {
+        "player": {
+          "id": 37807,
+          "name": "CraZDemonX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Y4ffoRGNVro"
       },
       {
         "player": {

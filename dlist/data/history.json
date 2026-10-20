@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:55:41Z",
+  "updated_at": "2026-10-20T02:35:43Z",
   "demons": {
     "250": [
       {
@@ -5104,6 +5104,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 29,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-20T00:22:28.141981",
+        "pos": 30,
+        "note": "passed by FOREST OF SPIKES"
       }
     ],
     "425": [
@@ -8093,6 +8098,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 26,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-20T00:22:28.141981",
+        "pos": 27,
+        "note": "passed by FOREST OF SPIKES"
       }
     ],
     "464": [
@@ -20514,6 +20524,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 28,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-20T00:22:28.141981",
+        "pos": 29,
+        "note": "passed by FOREST OF SPIKES"
       }
     ],
     "578": [
@@ -23537,6 +23552,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 27,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-20T00:22:28.141981",
+        "pos": 28,
+        "note": "passed by FOREST OF SPIKES"
       }
     ],
     "594": [
@@ -37504,6 +37524,11 @@
         "time": "2026-10-18T20:07:29.635521",
         "pos": 30,
         "note": "Artemis 13 placed above"
+      },
+      {
+        "time": "2026-10-20T00:22:28.141981",
+        "pos": 26,
+        "note": "Moved"
       }
     ],
     "716": [
