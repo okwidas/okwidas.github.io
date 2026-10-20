@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:54:12Z",
+  "updated_at": "2026-10-20T23:37:16Z",
   "demons": {
     "250": [
       {
@@ -15357,6 +15357,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wtOLBfUVNUY"
+      },
+      {
+        "player": {
+          "id": 72511,
+          "name": "солесоселовелей"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LRoj2skN010"
       },
       {
         "player": {
