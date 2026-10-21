@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T08:11:07Z",
+  "updated_at": "2026-10-21T14:19:17Z",
   "demons": {
     "250": [
       {
@@ -20431,6 +20431,15 @@
       },
       {
         "player": {
+          "id": 61941,
+          "name": "[HERVE] niwox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bkR3so6cxxo"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -39525,6 +39534,15 @@
       },
       {
         "player": {
+          "id": 66855,
+          "name": "[NCSC] Liz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TvKQIgp4t68"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -46154,6 +46172,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=q3fxUa68Ihk"
+      },
+      {
+        "player": {
+          "id": 72692,
+          "name": "JohnHorse"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Hzio2bPO8yY"
       },
       {
         "player": {
@@ -59353,6 +59380,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=TpJSYdfGMi4"
+      },
+      {
+        "player": {
+          "id": 68415,
+          "name": "HuntGeniy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zzz6WnK5RBA"
       },
       {
         "player": {
@@ -79862,21 +79898,21 @@
       },
       {
         "player": {
+          "id": 67581,
+          "name": "Bongoraspberry"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Xvn7bNbBk_s"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
         "progress": 90,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=akQopVFo3I4"
-      },
-      {
-        "player": {
-          "id": 67581,
-          "name": "Bongoraspberry"
-        },
-        "progress": 84,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=08mRM0pFJ7Q"
       },
       {
         "player": {
@@ -96061,6 +96097,15 @@
       },
       {
         "player": {
+          "id": 64653,
+          "name": "[FLAT] Alice Margatroid"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Rr0ok3e20cw"
+      },
+      {
+        "player": {
           "id": 69477,
           "name": "plepbep60"
         },
@@ -107273,6 +107318,15 @@
       },
       {
         "player": {
+          "id": 60390,
+          "name": "Hardcore507"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yqc-_tc_J6k"
+      },
+      {
+        "player": {
           "id": 51038,
           "name": "[LARP] voicechatping"
         },
@@ -109352,6 +109406,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=sGnqzzYA7LM"
+      },
+      {
+        "player": {
+          "id": 60002,
+          "name": "Alexinho"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7G6DqjFlYZg"
       }
     ],
     "690": [
@@ -109525,6 +109588,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=659Y5XXeDqs"
+      },
+      {
+        "player": {
+          "id": 52917,
+          "name": "[아기엔더맨] Blebae"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=kZYFhF3UDhY"
       }
     ],
     "695": [
