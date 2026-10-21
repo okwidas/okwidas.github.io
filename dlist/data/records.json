@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T02:29:38Z",
+  "updated_at": "2026-10-21T08:11:07Z",
   "demons": {
     "250": [
       {
@@ -7003,6 +7003,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ruNl9JBu26A"
+      },
+      {
+        "player": {
+          "id": 61055,
+          "name": "[NAILS] Solah"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QkWwugl7bws"
       },
       {
         "player": {
@@ -15321,6 +15330,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jexm1_pEP5k"
+      },
+      {
+        "player": {
+          "id": 53201,
+          "name": "arch"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=DeasY8tydIY"
       },
       {
         "player": {
@@ -33313,6 +33331,15 @@
       },
       {
         "player": {
+          "id": 61977,
+          "name": "[ASTIL] nov"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qA2_rx_1XFs"
+      },
+      {
+        "player": {
           "id": 60051,
           "name": "[GMT] ApparentlyDan"
         },
@@ -33346,15 +33373,6 @@
         "progress": 95,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Zkhwma6sKNE"
-      },
-      {
-        "player": {
-          "id": 61977,
-          "name": "[ASTIL] nov"
-        },
-        "progress": 95,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=W1COAYfTu1I"
       },
       {
         "player": {
@@ -62656,6 +62674,15 @@
       },
       {
         "player": {
+          "id": 61699,
+          "name": "[tq] SunKen"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uytt1u2qvzc"
+      },
+      {
+        "player": {
           "id": 51435,
           "name": "[USSR] Light"
         },
@@ -62689,15 +62716,6 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=JO8PPgr7fy0"
-      },
-      {
-        "player": {
-          "id": 61699,
-          "name": "[tq] SunKen"
-        },
-        "progress": 77,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=QGaOBhTXxO4"
       }
     ],
     "487": [
@@ -111112,7 +111130,17 @@
       }
     ],
     "728": [],
-    "729": [],
+    "729": [
+      {
+        "player": {
+          "id": 61436,
+          "name": "[SLVT] Nim"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0u_Jkh4DE6c"
+      }
+    ],
     "730": []
   }
 }
