@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:10:07Z",
+  "updated_at": "2026-10-22T14:26:19Z",
   "demons": {
     "250": [
       {
@@ -7093,6 +7093,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Yc4E8tQdVkc"
+      },
+      {
+        "player": {
+          "id": 37468,
+          "name": "[zzz] The Rykinator"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ASyAfpI9Bqs"
       },
       {
         "player": {
@@ -15429,6 +15438,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=QiRzN4yLDaw"
+      },
+      {
+        "player": {
+          "id": 72656,
+          "name": "FireWalker"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cLx174SynHM"
       },
       {
         "player": {
@@ -39540,6 +39558,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=rbhU2dZXqbo"
+      },
+      {
+        "player": {
+          "id": 68761,
+          "name": "CyroxWTF"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zlhU5P3Xfq0"
       },
       {
         "player": {
@@ -70730,6 +70757,15 @@
       },
       {
         "player": {
+          "id": 72634,
+          "name": "Menko"
+        },
+        "progress": 82,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ugsXGQhbzA4"
+      },
+      {
+        "player": {
           "id": 66382,
           "name": "nqlol"
         },
@@ -89226,15 +89262,6 @@
         "progress": 86,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CG8unqlsIeQ"
-      },
-      {
-        "player": {
-          "id": 59159,
-          "name": "Al3xTT"
-        },
-        "progress": 79,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=OIz0URuChqA"
       },
       {
         "player": {
