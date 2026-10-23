@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T08:30:42Z",
+  "updated_at": "2026-10-23T14:22:32Z",
   "demons": {
     "250": [
       {
@@ -64770,6 +64770,15 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=UawzqBosOTo"
+      },
+      {
+        "player": {
+          "id": 72620,
+          "name": "cata"
+        },
+        "progress": 69,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ALgjZgWpwWM"
       }
     ],
     "496": [
@@ -70607,6 +70616,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=01jbctIVjqk"
+      },
+      {
+        "player": {
+          "id": 51038,
+          "name": "[LARP] voicechatping"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qt6WrdIMZmw"
       },
       {
         "player": {
@@ -92653,6 +92671,15 @@
       },
       {
         "player": {
+          "id": 72073,
+          "name": "Masuke"
+        },
+        "progress": 85,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=3Rms_nOZpQU"
+      },
+      {
+        "player": {
           "id": 71819,
           "name": "Agent009"
         },
@@ -92686,15 +92713,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=yc9Jeook5ho"
-      },
-      {
-        "player": {
-          "id": 72073,
-          "name": "Masuke"
-        },
-        "progress": 71,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=WUMnBV1CRa4"
       }
     ],
     "622": [
