@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:23:19Z",
+  "updated_at": "2026-10-23T02:55:26Z",
   "demons": {
     "250": [
       {
@@ -101986,6 +101986,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=64ldHwWOUZo"
+      },
+      {
+        "player": {
+          "id": 52146,
+          "name": "[COMET] Parithon"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XvVoF70P8cU"
       },
       {
         "player": {
