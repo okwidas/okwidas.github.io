@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T02:55:26Z",
+  "updated_at": "2026-10-23T08:30:42Z",
   "demons": {
     "250": [
       {
@@ -103050,6 +103050,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BUKPP5ZO_aA"
+      },
+      {
+        "player": {
+          "id": 72451,
+          "name": "KPC"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=nN_W60hUxH4"
       },
       {
         "player": {
