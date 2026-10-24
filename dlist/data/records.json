@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T18:11:27Z",
+  "updated_at": "2026-10-24T20:24:29Z",
   "demons": {
     "250": [
       {
@@ -6296,7 +6296,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -7096,12 +7096,30 @@
       },
       {
         "player": {
+          "id": 61555,
+          "name": "runi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xUSXjH361dk"
+      },
+      {
+        "player": {
           "id": 37468,
           "name": "[zzz] The Rykinator"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ASyAfpI9Bqs"
+      },
+      {
+        "player": {
+          "id": 64770,
+          "name": "cubeoi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RMv6bbGkV5g"
       },
       {
         "player": {
@@ -12796,7 +12814,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -13350,6 +13368,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=LovS3NgcY_4"
+      },
+      {
+        "player": {
+          "id": 58393,
+          "name": "TheOblivionGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=nSXjUH_0cq0"
       },
       {
         "player": {
@@ -20548,6 +20575,15 @@
       },
       {
         "player": {
+          "id": 72682,
+          "name": "oAquix"
+        },
+        "progress": 83,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=jU-R0u4A4W0"
+      },
+      {
+        "player": {
           "id": 57528,
           "name": "Tihra"
         },
@@ -23466,6 +23502,15 @@
       },
       {
         "player": {
+          "id": 58797,
+          "name": "Liamkn08"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xC3BiIq03ms"
+      },
+      {
+        "player": {
           "id": 61831,
           "name": "ekleraaa"
         },
@@ -23517,15 +23562,6 @@
         "progress": 95,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=5lgZC6TXTpw"
-      },
-      {
-        "player": {
-          "id": 58797,
-          "name": "Liamkn08"
-        },
-        "progress": 95,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=3k0-gqUHKeU"
       },
       {
         "player": {
@@ -24483,6 +24519,15 @@
       },
       {
         "player": {
+          "id": 67451,
+          "name": "navo"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=h-jPjGetHN8"
+      },
+      {
+        "player": {
           "id": 38021,
           "name": "Eclipse"
         },
@@ -24840,15 +24885,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Q7dwNv93OTc"
-      },
-      {
-        "player": {
-          "id": 67451,
-          "name": "navo"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Z0yuCCJbmh8"
       }
     ],
     "383": [
@@ -28981,7 +29017,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -29733,6 +29769,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-zFw9_5el1I"
+      },
+      {
+        "player": {
+          "id": 58393,
+          "name": "TheOblivionGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=r-RK5seivmA"
       },
       {
         "player": {
@@ -32981,7 +33026,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -33202,6 +33247,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nQzc1OP6nyI"
+      },
+      {
+        "player": {
+          "id": 58393,
+          "name": "TheOblivionGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9HTtSkPFogk"
       },
       {
         "player": {
@@ -39719,7 +39773,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -40336,6 +40390,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=SqBzcCnWwJY"
+      },
+      {
+        "player": {
+          "id": 59926,
+          "name": "[CARL] Staticon"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9N6cme9LZ28"
       },
       {
         "player": {
@@ -42408,6 +42471,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=1f70BMaQWvA"
+      },
+      {
+        "player": {
+          "id": 58393,
+          "name": "TheOblivionGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_UhBYfe1NE0"
       },
       {
         "player": {
@@ -44687,6 +44759,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=snVo5kN496Q"
+      },
+      {
+        "player": {
+          "id": 58393,
+          "name": "TheOblivionGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NlNvSLPNbnQ"
       },
       {
         "player": {
@@ -57275,6 +57356,24 @@
       },
       {
         "player": {
+          "id": 72671,
+          "name": "Zewyx"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7ecHrRDDkEE"
+      },
+      {
+        "player": {
+          "id": 72679,
+          "name": "ziqqz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QIgyEQ2xkQk"
+      },
+      {
+        "player": {
           "id": 64492,
           "name": "Draconis"
         },
@@ -58088,7 +58187,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -59682,6 +59781,15 @@
       },
       {
         "player": {
+          "id": 58393,
+          "name": "TheOblivionGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NEYsS3GYIJ8"
+      },
+      {
+        "player": {
           "id": 64902,
           "name": "Soletti"
         },
@@ -59836,7 +59944,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -73985,7 +74093,7 @@
       {
         "player": {
           "id": 40912,
-          "name": "[COMET] Acacia"
+          "name": "Acacia"
         },
         "progress": 100,
         "status": "approved",
@@ -84060,6 +84168,15 @@
       },
       {
         "player": {
+          "id": 61196,
+          "name": "Zaaforus"
+        },
+        "progress": 82,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZVfh6hb9gCE"
+      },
+      {
+        "player": {
           "id": 54921,
           "name": "[BLKHL] ZaZa GD"
         },
@@ -87408,6 +87525,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ztq75kVtLCg"
+      },
+      {
+        "player": {
+          "id": 72707,
+          "name": "relsatron"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WQdmla4T9Lk"
       },
       {
         "player": {
@@ -90838,6 +90964,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=XIqGXnlD1zQ"
+      },
+      {
+        "player": {
+          "id": 61552,
+          "name": "Hudcrafter"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=PfYIPR1CRxs"
       },
       {
         "player": {
@@ -99298,6 +99433,15 @@
       },
       {
         "player": {
+          "id": 53735,
+          "name": "Tortric"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=x8I_nZcs3OI"
+      },
+      {
+        "player": {
           "id": 52995,
           "name": "[ASTIL] Theitha"
         },
@@ -103646,6 +103790,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=1t-x-gbnPZY"
+      },
+      {
+        "player": {
+          "id": 64451,
+          "name": "EpixGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=vaXziYoJDms"
       },
       {
         "player": {
