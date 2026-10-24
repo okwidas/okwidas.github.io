@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T08:10:53Z",
+  "updated_at": "2026-10-24T13:26:40Z",
   "demons": {
     "250": [
       {
@@ -23430,6 +23430,15 @@
       },
       {
         "player": {
+          "id": 71467,
+          "name": "Xtra8nuggies"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OM4SphJ0hXM"
+      },
+      {
+        "player": {
           "id": 38685,
           "name": "[SPQR] Paliermu"
         },
@@ -23616,6 +23625,15 @@
         "progress": 93,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=15DKQxjyVPg"
+      },
+      {
+        "player": {
+          "id": 72594,
+          "name": "ramxs"
+        },
+        "progress": 93,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SGaNPmh9h7w"
       },
       {
         "player": {
@@ -38562,6 +38580,15 @@
       },
       {
         "player": {
+          "id": 54737,
+          "name": "[ILUV] hanni"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AxOoH8itXP8"
+      },
+      {
+        "player": {
           "id": 52141,
           "name": "[SARK] Bamvie"
         },
@@ -47877,6 +47904,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=5TGEkNRDtOw"
+      },
+      {
+        "player": {
+          "id": 63562,
+          "name": "[TTG] sebby"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=dmDLldMrPRo"
       },
       {
         "player": {
@@ -64593,6 +64629,15 @@
       },
       {
         "player": {
+          "id": 63562,
+          "name": "[TTG] sebby"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HcywBRQac8Y"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -64770,15 +64815,6 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=3udyGBnGpuU"
-      },
-      {
-        "player": {
-          "id": 63562,
-          "name": "[TTG] sebby"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=DSzIGDnqc2o"
       },
       {
         "player": {
@@ -95791,6 +95827,15 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=W2yLCl00LHk"
+      },
+      {
+        "player": {
+          "id": 64260,
+          "name": "[didy] vsce"
+        },
+        "progress": 70,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4omnQ8VLpbM"
       }
     ],
     "639": [
@@ -104669,6 +104714,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=C2bJo4M1DqQ"
+      },
+      {
+        "player": {
+          "id": 60420,
+          "name": "Rylanmmb"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=gHDZgFwttbw"
       },
       {
         "player": {
