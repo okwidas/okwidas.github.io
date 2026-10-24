@@ -2166,8 +2166,27 @@
     "level_id": 125788781
   },
   {
-    "id": 383,
+    "id": 690,
     "position": 115,
+    "name": "Between Duality",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=uOb-ajQ4bgw",
+    "thumbnail": "https://i.ytimg.com/vi/sK2dyGGVV_c/mqdefault.jpg",
+    "publisher": {
+      "id": 42324,
+      "name": "[Hi] Nexel",
+      "banned": false
+    },
+    "verifier": {
+      "id": 60441,
+      "name": "[TSC] destr",
+      "banned": false
+    },
+    "level_id": 137757402
+  },
+  {
+    "id": 383,
+    "position": 116,
     "name": "arcturus",
     "requirement": 74,
     "video": "https://www.youtube.com/watch?v=a_Bqa8l9Xtc",
@@ -2186,7 +2205,7 @@
   },
   {
     "id": 675,
-    "position": 116,
+    "position": 117,
     "name": "Diabolic ClubStep",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=BN7DxkMaQfg",
@@ -2205,7 +2224,7 @@
   },
   {
     "id": 605,
-    "position": 117,
+    "position": 118,
     "name": "BEELINE",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=nt6T9YDb6gw",
@@ -2224,7 +2243,7 @@
   },
   {
     "id": 682,
-    "position": 118,
+    "position": 119,
     "name": "DreamStep",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=EK5-0OB1tmc",
@@ -2243,7 +2262,7 @@
   },
   {
     "id": 349,
-    "position": 119,
+    "position": 120,
     "name": "Sonic Wave Infinity",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=C3-l_fFikpQ",
@@ -2262,7 +2281,7 @@
   },
   {
     "id": 250,
-    "position": 120,
+    "position": 121,
     "name": "Tartarus",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=JptG7rwti1U",
@@ -2281,7 +2300,7 @@
   },
   {
     "id": 595,
-    "position": 121,
+    "position": 122,
     "name": "Waterfall",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=VKuVdqneG9Y",
@@ -2300,7 +2319,7 @@
   },
   {
     "id": 555,
-    "position": 122,
+    "position": 123,
     "name": "Jigsaw",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=FPfSqlI0T30",
@@ -2319,7 +2338,7 @@
   },
   {
     "id": 525,
-    "position": 123,
+    "position": 124,
     "name": "Delta",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=_rr3J8DkIm4",
@@ -2335,25 +2354,6 @@
       "banned": false
     },
     "level_id": 93917362
-  },
-  {
-    "id": 690,
-    "position": 124,
-    "name": "Between Duality",
-    "requirement": 100,
-    "video": "https://www.youtube.com/watch?v=uOb-ajQ4bgw",
-    "thumbnail": "https://i.ytimg.com/vi/sK2dyGGVV_c/mqdefault.jpg",
-    "publisher": {
-      "id": 42324,
-      "name": "[Hi] Nexel",
-      "banned": false
-    },
-    "verifier": {
-      "id": 60441,
-      "name": "[TSC] destr",
-      "banned": false
-    },
-    "level_id": 137757402
   },
   {
     "id": 599,

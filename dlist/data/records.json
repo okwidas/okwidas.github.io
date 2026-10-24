@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:26:40Z",
+  "updated_at": "2026-10-24T18:11:27Z",
   "demons": {
     "250": [
       {
@@ -45943,6 +45943,15 @@
       },
       {
         "player": {
+          "id": 63471,
+          "name": "Florned"
+        },
+        "progress": 94,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QVGAsF_f2a8"
+      },
+      {
+        "player": {
           "id": 59279,
           "name": "Rodmentor"
         },
@@ -46210,15 +46219,6 @@
         "progress": 72,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=scVtuRoblRU"
-      },
-      {
-        "player": {
-          "id": 63471,
-          "name": "Florned"
-        },
-        "progress": 72,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=X4idS_N1V9A"
       },
       {
         "player": {
@@ -57275,6 +57275,15 @@
       },
       {
         "player": {
+          "id": 64492,
+          "name": "Draconis"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tnZ8yKziqNI"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -64635,6 +64644,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HcywBRQac8Y"
+      },
+      {
+        "player": {
+          "id": 35651,
+          "name": "FornaxGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Tw4mM_F0-hc"
       },
       {
         "player": {
@@ -79517,6 +79535,15 @@
       },
       {
         "player": {
+          "id": 52377,
+          "name": "[HOLA] weyolll3"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=V4RiH7Jwgf8"
+      },
+      {
+        "player": {
           "id": 40436,
           "name": "[ASTIL] Paltadashg"
         },
@@ -84030,6 +84057,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=UMgb0HOUE0A"
+      },
+      {
+        "player": {
+          "id": 54921,
+          "name": "[BLKHL] ZaZa GD"
+        },
+        "progress": 82,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=D2obWogb87w"
       },
       {
         "player": {
@@ -90805,6 +90841,15 @@
       },
       {
         "player": {
+          "id": 72756,
+          "name": "Boshkalosz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=weOSxg6QZyk"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -92502,6 +92547,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=heXuWalAtm4"
+      },
+      {
+        "player": {
+          "id": 67507,
+          "name": "slusset"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4YrIMNAQLxw"
       },
       {
         "player": {
@@ -97466,6 +97520,15 @@
       },
       {
         "player": {
+          "id": 70379,
+          "name": "[didy] monodynamics"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=O2PkNxZTwHw"
+      },
+      {
+        "player": {
           "id": 51582,
           "name": "Napalm04"
         },
@@ -98000,6 +98063,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wgzTpPsVueo"
+      },
+      {
+        "player": {
+          "id": 36915,
+          "name": "[TCD] Trick"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wuNZF0ERMqI"
       },
       {
         "player": {
