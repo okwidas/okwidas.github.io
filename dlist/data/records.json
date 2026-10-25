@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T02:38:11Z",
+  "updated_at": "2026-10-25T08:21:12Z",
   "demons": {
     "250": [
       {
@@ -24588,6 +24588,15 @@
         "progress": 78,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=WM8AlahjDeI"
+      },
+      {
+        "player": {
+          "id": 58683,
+          "name": "[RHTE] Phantomm"
+        },
+        "progress": 78,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0jw99Hqa7Ek"
       },
       {
         "player": {
@@ -60327,6 +60336,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=G9yUQQoZ00k"
+      },
+      {
+        "player": {
+          "id": 59553,
+          "name": "KuMi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=nz5o-0Aa89E"
       },
       {
         "player": {
@@ -105074,6 +105092,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=geGr5HY5wNc"
+      },
+      {
+        "player": {
+          "id": 59335,
+          "name": "snorkelair"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=i_NdFwrrXgg"
       }
     ],
     "711": [
