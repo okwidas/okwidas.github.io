@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:24:50Z",
+  "updated_at": "2026-10-25T20:45:57Z",
   "demons": {
     "250": [
       {
@@ -57443,6 +57443,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=QIgyEQ2xkQk"
+      },
+      {
+        "player": {
+          "id": 59618,
+          "name": "SandHanitizer01"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tCbnQ4pDeP8"
       },
       {
         "player": {
