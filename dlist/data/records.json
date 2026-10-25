@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T08:21:12Z",
+  "updated_at": "2026-10-25T13:53:27Z",
   "demons": {
     "250": [
       {
@@ -15501,6 +15501,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=G3QnxJkJJ_0"
+      },
+      {
+        "player": {
+          "id": 69085,
+          "name": "iArctic"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=s2LaGrGACCk"
       },
       {
         "player": {
@@ -37435,6 +37444,15 @@
       },
       {
         "player": {
+          "id": 42581,
+          "name": "[VOID] CoolBonnie1987"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wplpL4GXZNA"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -38667,6 +38685,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=AxOoH8itXP8"
+      },
+      {
+        "player": {
+          "id": 61941,
+          "name": "[HERVE] niwox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=CSyIzH0trZA"
       },
       {
         "player": {
@@ -57416,6 +57443,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=tnZ8yKziqNI"
+      },
+      {
+        "player": {
+          "id": 72795,
+          "name": "FoolzyCat"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UwFL6uC_6_8"
       },
       {
         "player": {
@@ -98309,6 +98345,15 @@
       },
       {
         "player": {
+          "id": 53081,
+          "name": "[PULA] Goanga"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_Kot5BqpjS0"
+      },
+      {
+        "player": {
           "id": 36915,
           "name": "[TCD] Trick"
         },
@@ -105716,6 +105761,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=UKG825xS0rs"
+      },
+      {
+        "player": {
+          "id": 54373,
+          "name": "MyRougeYoshi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=a4qfq0UaKJc"
       }
     ],
     "728": [],
@@ -105731,7 +105785,17 @@
       }
     ],
     "730": [],
-    "731": [],
+    "731": [
+      {
+        "player": {
+          "id": 32305,
+          "name": "Axinity"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zUhpOAdM1Fs"
+      }
+    ],
     "732": [
       {
         "player": {
@@ -105758,8 +105822,28 @@
     "735": [],
     "736": [],
     "737": [],
-    "738": [],
+    "738": [
+      {
+        "player": {
+          "id": 55496,
+          "name": "[ARMED] Lingherr"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UTA0DLtyI_0"
+      }
+    ],
     "739": [],
-    "740": []
+    "740": [
+      {
+        "player": {
+          "id": 51733,
+          "name": "[SUN] Electrx"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NdbBCZe_jb0"
+      }
+    ]
   }
 }
