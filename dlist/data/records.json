@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T23:14:22Z",
+  "updated_at": "2026-10-25T02:38:11Z",
   "demons": {
     "250": [
       {
@@ -23799,6 +23799,15 @@
       },
       {
         "player": {
+          "id": 68207,
+          "name": "horsee"
+        },
+        "progress": 90,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TRLGnc4D908"
+      },
+      {
+        "player": {
           "id": 61704,
           "name": "NeonMustard"
         },
@@ -24021,15 +24030,6 @@
         "progress": 83,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=4msocstNFvQ"
-      },
-      {
-        "player": {
-          "id": 68207,
-          "name": "horsee"
-        },
-        "progress": 83,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=9wJ86v9W450"
       },
       {
         "player": {
@@ -93103,6 +93103,15 @@
       },
       {
         "player": {
+          "id": 72724,
+          "name": "Grief"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6AkPC2FyPvU"
+      },
+      {
+        "player": {
           "id": 66016,
           "name": "Kiruu"
         },
@@ -100979,6 +100988,15 @@
       },
       {
         "player": {
+          "id": 67045,
+          "name": "TrollFaceGaming"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=kHSdG8F8G3c"
+      },
+      {
+        "player": {
           "id": 54313,
           "name": "[CAFE] Calo"
         },
@@ -105698,7 +105716,17 @@
         "video": "https://www.youtube.com/watch?v=cADGRDS4hkA"
       }
     ],
-    "733": [],
+    "733": [
+      {
+        "player": {
+          "id": 53108,
+          "name": "[st] Albert"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LVhYDri1DBg"
+      }
+    ],
     "734": [],
     "735": [],
     "736": [],
