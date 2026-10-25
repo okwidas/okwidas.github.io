@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T13:53:27Z",
+  "updated_at": "2026-10-25T18:24:50Z",
   "demons": {
     "250": [
       {
@@ -44139,6 +44139,15 @@
       },
       {
         "player": {
+          "id": 72735,
+          "name": "Rayzor"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2G_Vfgfsv14"
+      },
+      {
+        "player": {
           "id": 55347,
           "name": "feisaran"
         },
@@ -68826,6 +68835,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Q8Q2aKU83iQ"
+      },
+      {
+        "player": {
+          "id": 66469,
+          "name": "Rando"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=GwsILC-g7MY"
       },
       {
         "player": {
@@ -99320,6 +99338,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MX4MRZtJH0g"
+      },
+      {
+        "player": {
+          "id": 54219,
+          "name": "[DTC] Teno"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4bGSHl_75wI"
       }
     ],
     "663": [
@@ -105146,6 +105173,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=i_NdFwrrXgg"
+      },
+      {
+        "player": {
+          "id": 55226,
+          "name": "Rusty111"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uwROk5zYaXE"
       }
     ],
     "711": [
