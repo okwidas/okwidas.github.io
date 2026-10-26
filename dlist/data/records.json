@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T16:17:55Z",
+  "updated_at": "2026-10-26T22:30:13Z",
   "demons": {
     "250": [
       {
@@ -1400,7 +1400,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -1409,7 +1409,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -2687,7 +2687,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -3173,7 +3173,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -3704,7 +3704,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -4253,7 +4253,7 @@
       {
         "player": {
           "id": 59684,
-          "name": "[YAHO] Cosicant"
+          "name": "[tq] Cosicant"
         },
         "progress": 100,
         "status": "approved",
@@ -5036,7 +5036,7 @@
       {
         "player": {
           "id": 64511,
-          "name": "[SGG] nettniko"
+          "name": "[SGG] nikole"
         },
         "progress": 100,
         "status": "approved",
@@ -5990,7 +5990,7 @@
       {
         "player": {
           "id": 70417,
-          "name": "[corn] pythrox"
+          "name": "pythrox"
         },
         "progress": 100,
         "status": "approved",
@@ -6881,7 +6881,7 @@
       {
         "player": {
           "id": 63295,
-          "name": "[didy] Egg Salad Sandwich"
+          "name": "Hyperex"
         },
         "progress": 100,
         "status": "approved",
@@ -8863,7 +8863,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -9295,7 +9295,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -10033,7 +10033,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -10510,7 +10510,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -10528,7 +10528,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -10591,7 +10591,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -11023,7 +11023,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -11986,7 +11986,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 100,
         "status": "approved",
@@ -11995,7 +11995,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -14524,7 +14524,7 @@
       {
         "player": {
           "id": 52394,
-          "name": "[SARK] YoshiiPz"
+          "name": "YoshiiPz"
         },
         "progress": 100,
         "status": "approved",
@@ -14659,7 +14659,7 @@
       {
         "player": {
           "id": 69815,
-          "name": "[CORN] Shatter"
+          "name": "[CORN] Qburger"
         },
         "progress": 100,
         "status": "approved",
@@ -15532,7 +15532,7 @@
       {
         "player": {
           "id": 69085,
-          "name": "iArctic"
+          "name": "Rift"
         },
         "progress": 100,
         "status": "approved",
@@ -15546,6 +15546,33 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=qYzgtocC11c"
+      },
+      {
+        "player": {
+          "id": 39044,
+          "name": "Sushiboys"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wWDkeRTSnOs"
+      },
+      {
+        "player": {
+          "id": 66049,
+          "name": "santoku"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Wu1QC0GMvME"
+      },
+      {
+        "player": {
+          "id": 34846,
+          "name": "bopsi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=kU9H6DnZ2fE"
       },
       {
         "player": {
@@ -16614,7 +16641,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -16749,7 +16776,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -16848,7 +16875,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -17253,7 +17280,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -18180,7 +18207,7 @@
       {
         "player": {
           "id": 51584,
-          "name": "[TCC] TheButcher"
+          "name": "[TCC] NoctaXI"
         },
         "progress": 100,
         "status": "approved",
@@ -18432,7 +18459,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -19154,7 +19181,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -19541,7 +19568,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -19577,7 +19604,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -19766,7 +19793,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 100,
         "status": "approved",
@@ -19829,7 +19856,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -20234,7 +20261,7 @@
       {
         "player": {
           "id": 64511,
-          "name": "[SGG] nettniko"
+          "name": "[SGG] nikole"
         },
         "progress": 100,
         "status": "approved",
@@ -20522,7 +20549,7 @@
       {
         "player": {
           "id": 59529,
-          "name": "[ID] naraoka"
+          "name": "[EVIL] naraoka"
         },
         "progress": 100,
         "status": "approved",
@@ -21055,7 +21082,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -21280,7 +21307,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -21901,7 +21928,7 @@
       {
         "player": {
           "id": 63497,
-          "name": "fungus"
+          "name": "fungybaws"
         },
         "progress": 100,
         "status": "approved",
@@ -21964,7 +21991,7 @@
       {
         "player": {
           "id": 64154,
-          "name": "[아기엔더맨] Blebaded"
+          "name": "bladed"
         },
         "progress": 100,
         "status": "approved",
@@ -22081,7 +22108,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -22792,7 +22819,7 @@
       {
         "player": {
           "id": 67717,
-          "name": "kOre"
+          "name": "[PATU] kOre"
         },
         "progress": 100,
         "status": "approved",
@@ -22918,7 +22945,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -23287,7 +23314,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -23566,7 +23593,7 @@
       {
         "player": {
           "id": 60299,
-          "name": "[SCN] Fluxz"
+          "name": "[DND] Fluxz"
         },
         "progress": 100,
         "status": "approved",
@@ -23953,7 +23980,7 @@
       {
         "player": {
           "id": 63180,
-          "name": "[POIKA] Beems"
+          "name": "Beems"
         },
         "progress": 87,
         "status": "approved",
@@ -24286,7 +24313,7 @@
       {
         "player": {
           "id": 68307,
-          "name": "BigZacian"
+          "name": "[351] BigZacian"
         },
         "progress": 81,
         "status": "approved",
@@ -25287,7 +25314,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -25332,7 +25359,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -25701,7 +25728,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -26720,7 +26747,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -26765,7 +26792,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -26774,7 +26801,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -27260,7 +27287,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -27656,7 +27683,7 @@
       {
         "player": {
           "id": 64154,
-          "name": "[아기엔더맨] Blebaded"
+          "name": "bladed"
         },
         "progress": 100,
         "status": "approved",
@@ -27899,7 +27926,7 @@
       {
         "player": {
           "id": 68845,
-          "name": "[KI] Lavvanderr"
+          "name": "[ZOIO] ArdiZz"
         },
         "progress": 100,
         "status": "approved",
@@ -28567,7 +28594,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -29494,7 +29521,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -29512,7 +29539,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -30718,7 +30745,7 @@
       {
         "player": {
           "id": 69817,
-          "name": "skylar"
+          "name": "[COMET] skylar"
         },
         "progress": 100,
         "status": "approved",
@@ -31134,7 +31161,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -31445,6 +31472,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=T9SgXeuNjEU"
+      },
+      {
+        "player": {
+          "id": 58593,
+          "name": "Nino2408"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aE3SxtVePPU"
       }
     ],
     "425": [
@@ -31739,7 +31775,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -32090,7 +32126,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -32360,7 +32396,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -33602,7 +33638,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -33665,7 +33701,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -33710,7 +33746,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -33755,7 +33791,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -34511,7 +34547,7 @@
       {
         "player": {
           "id": 60299,
-          "name": "[SCN] Fluxz"
+          "name": "[DND] Fluxz"
         },
         "progress": 100,
         "status": "approved",
@@ -34619,7 +34655,7 @@
       {
         "player": {
           "id": 59605,
-          "name": "[KEVIN] Maurice"
+          "name": "Maurice"
         },
         "progress": 100,
         "status": "approved",
@@ -34952,7 +34988,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -35348,7 +35384,7 @@
       {
         "player": {
           "id": 58802,
-          "name": "[PHH] Deathrange"
+          "name": "Deathrange"
         },
         "progress": 100,
         "status": "approved",
@@ -35834,7 +35870,7 @@
       {
         "player": {
           "id": 64152,
-          "name": "cats1077"
+          "name": "[BEAVR] cats1077"
         },
         "progress": 100,
         "status": "approved",
@@ -36482,7 +36518,7 @@
       {
         "player": {
           "id": 51584,
-          "name": "[TCC] TheButcher"
+          "name": "[TCC] NoctaXI"
         },
         "progress": 100,
         "status": "approved",
@@ -37148,7 +37184,7 @@
       {
         "player": {
           "id": 65552,
-          "name": "[TCM] zAndro"
+          "name": "[AMT] Stormy_121"
         },
         "progress": 100,
         "status": "approved",
@@ -38059,7 +38095,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -38068,7 +38104,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -39051,7 +39087,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -39998,7 +40034,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -40079,7 +40115,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -40810,7 +40846,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -41269,7 +41305,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -42106,7 +42142,7 @@
       {
         "player": {
           "id": 59529,
-          "name": "[ID] naraoka"
+          "name": "[EVIL] naraoka"
         },
         "progress": 100,
         "status": "approved",
@@ -42178,7 +42214,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -42628,7 +42664,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -42691,7 +42727,7 @@
       {
         "player": {
           "id": 60022,
-          "name": "Natsuyodragon"
+          "name": "[ddd] Natsuyodragon"
         },
         "progress": 100,
         "status": "approved",
@@ -43051,7 +43087,7 @@
       {
         "player": {
           "id": 62438,
-          "name": "[MOON] qxwr"
+          "name": "[Hi] qxwr"
         },
         "progress": 100,
         "status": "approved",
@@ -43564,7 +43600,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -43996,7 +44032,7 @@
       {
         "player": {
           "id": 69815,
-          "name": "[CORN] Shatter"
+          "name": "[CORN] Qburger"
         },
         "progress": 100,
         "status": "approved",
@@ -44230,7 +44266,7 @@
       {
         "player": {
           "id": 72735,
-          "name": "Rayzor"
+          "name": "[ddd] Rayzor"
         },
         "progress": 100,
         "status": "approved",
@@ -44925,7 +44961,7 @@
       {
         "player": {
           "id": 64511,
-          "name": "[SGG] nettniko"
+          "name": "[SGG] nikole"
         },
         "progress": 100,
         "status": "approved",
@@ -45422,7 +45458,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -45935,7 +45971,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -46016,7 +46052,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -46169,7 +46205,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 97,
         "status": "approved",
@@ -46259,7 +46295,7 @@
       {
         "player": {
           "id": 64154,
-          "name": "[아기엔더맨] Blebaded"
+          "name": "bladed"
         },
         "progress": 86,
         "status": "approved",
@@ -46774,7 +46810,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -46864,7 +46900,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -47044,7 +47080,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -47080,7 +47116,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -47170,7 +47206,7 @@
       {
         "player": {
           "id": 63497,
-          "name": "fungus"
+          "name": "fungybaws"
         },
         "progress": 100,
         "status": "approved",
@@ -47557,7 +47593,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -48034,7 +48070,7 @@
       {
         "player": {
           "id": 59529,
-          "name": "[ID] naraoka"
+          "name": "[EVIL] naraoka"
         },
         "progress": 100,
         "status": "approved",
@@ -48222,6 +48258,15 @@
       },
       {
         "player": {
+          "id": 50749,
+          "name": "[FOWL] geodom"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BMAFGe3AXJQ"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -48285,6 +48330,15 @@
       },
       {
         "player": {
+          "id": 53600,
+          "name": "[FOWL] Erantic"
+        },
+        "progress": 88,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YxEhGN4L8vs"
+      },
+      {
+        "player": {
           "id": 54582,
           "name": "[WCL] LilNuh25"
         },
@@ -48300,6 +48354,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Jn77mLKPQ54"
+      },
+      {
+        "player": {
+          "id": 66165,
+          "name": "[MONDÁ] Staixz"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1W6HqNlAny4"
       },
       {
         "player": {
@@ -48348,6 +48411,15 @@
       },
       {
         "player": {
+          "id": 64917,
+          "name": "ryanbcgd"
+        },
+        "progress": 77,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=vt-ybR7liPE"
+      },
+      {
+        "player": {
           "id": 61207,
           "name": "[CBFA] ejgpsyched"
         },
@@ -48372,15 +48444,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7TdNnrtnCEU"
-      },
-      {
-        "player": {
-          "id": 53600,
-          "name": "[FOWL] Erantic"
-        },
-        "progress": 68,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Sbk-tQJQCu4"
       },
       {
         "player": {
@@ -48693,7 +48756,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -49008,7 +49071,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -50169,7 +50232,7 @@
       {
         "player": {
           "id": 60299,
-          "name": "[SCN] Fluxz"
+          "name": "[DND] Fluxz"
         },
         "progress": 100,
         "status": "approved",
@@ -50520,7 +50583,7 @@
       {
         "player": {
           "id": 63274,
-          "name": "[YAHO] freedom"
+          "name": "freedom"
         },
         "progress": 100,
         "status": "approved",
@@ -51305,7 +51368,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -51350,7 +51413,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -51431,7 +51494,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -51593,7 +51656,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 100,
         "status": "approved",
@@ -51674,7 +51737,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -51827,7 +51890,7 @@
       {
         "player": {
           "id": 63497,
-          "name": "fungus"
+          "name": "fungybaws"
         },
         "progress": 100,
         "status": "approved",
@@ -52450,7 +52513,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -52495,7 +52558,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -52621,7 +52684,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -52774,7 +52837,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -52855,7 +52918,7 @@
       {
         "player": {
           "id": 52394,
-          "name": "[SARK] YoshiiPz"
+          "name": "YoshiiPz"
         },
         "progress": 100,
         "status": "approved",
@@ -53172,7 +53235,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -53631,7 +53694,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -55575,7 +55638,7 @@
       {
         "player": {
           "id": 59529,
-          "name": "[ID] naraoka"
+          "name": "[EVIL] naraoka"
         },
         "progress": 100,
         "status": "approved",
@@ -55728,7 +55791,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -56799,7 +56862,7 @@
       {
         "player": {
           "id": 65469,
-          "name": "alextb⁩"
+          "name": "[351] alextb"
         },
         "progress": 100,
         "status": "approved",
@@ -57599,6 +57662,15 @@
       },
       {
         "player": {
+          "id": 60621,
+          "name": "tanner"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-J2EtmMttyE"
+      },
+      {
+        "player": {
           "id": 72795,
           "name": "FoolzyCat"
         },
@@ -58322,7 +58394,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -58331,7 +58403,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -58646,7 +58718,7 @@
       {
         "player": {
           "id": 52913,
-          "name": "[MOON] Lexy"
+          "name": "[Hi] Lexy"
         },
         "progress": 100,
         "status": "approved",
@@ -59015,7 +59087,7 @@
       {
         "player": {
           "id": 69817,
-          "name": "skylar"
+          "name": "[COMET] skylar"
         },
         "progress": 100,
         "status": "approved",
@@ -59092,6 +59164,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=vSy3N_7_3Gg"
+      },
+      {
+        "player": {
+          "id": 63207,
+          "name": "Dragomir Despić Desingerica"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Qcpub3hkS4o"
       },
       {
         "player": {
@@ -59449,7 +59530,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -59539,7 +59620,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -59899,7 +59980,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -60142,7 +60223,7 @@
       {
         "player": {
           "id": 64511,
-          "name": "[SGG] nettniko"
+          "name": "[SGG] nikole"
         },
         "progress": 100,
         "status": "approved",
@@ -60466,7 +60547,7 @@
       {
         "player": {
           "id": 51584,
-          "name": "[TCC] TheButcher"
+          "name": "[TCC] NoctaXI"
         },
         "progress": 100,
         "status": "approved",
@@ -60810,7 +60891,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -60846,7 +60927,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 100,
         "status": "approved",
@@ -60882,7 +60963,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -61307,7 +61388,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -61388,7 +61469,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -61397,7 +61478,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -61514,7 +61595,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -61685,7 +61766,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -61694,7 +61775,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -62144,7 +62225,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -63001,7 +63082,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -63289,7 +63370,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -63901,7 +63982,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -65016,6 +65097,15 @@
       },
       {
         "player": {
+          "id": 67542,
+          "name": "[ED] liono"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=j96sjlNhjJs"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -65143,7 +65233,7 @@
       {
         "player": {
           "id": 62438,
-          "name": "[MOON] qxwr"
+          "name": "[Hi] qxwr"
         },
         "progress": 76,
         "status": "approved",
@@ -65211,15 +65301,6 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YmVbHHhL50k"
-      },
-      {
-        "player": {
-          "id": 67542,
-          "name": "[ED] liono"
-        },
-        "progress": 73,
-        "status": "approved",
-        "video": "https://www.twitch.tv/videos/2901867549"
       },
       {
         "player": {
@@ -65604,7 +65685,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -65694,7 +65775,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -65712,7 +65793,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -65856,7 +65937,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -65991,7 +66072,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -66198,7 +66279,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -66234,7 +66315,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -67296,7 +67377,7 @@
       {
         "player": {
           "id": 63497,
-          "name": "fungus"
+          "name": "fungybaws"
         },
         "progress": 88,
         "status": "approved",
@@ -67523,7 +67604,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -67703,7 +67784,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -67730,7 +67811,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -67766,7 +67847,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -67928,7 +68009,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -68443,7 +68524,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -69001,7 +69082,7 @@
       {
         "player": {
           "id": 59529,
-          "name": "[ID] naraoka"
+          "name": "[EVIL] naraoka"
         },
         "progress": 100,
         "status": "approved",
@@ -69073,7 +69154,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 74,
         "status": "approved",
@@ -69509,7 +69590,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -69590,7 +69671,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -69653,7 +69734,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -70058,7 +70139,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -70094,7 +70175,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 100,
         "status": "approved",
@@ -70300,6 +70381,15 @@
       },
       {
         "player": {
+          "id": 39786,
+          "name": "[DL] mari"
+        },
+        "progress": 79,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-U9hwrn-n-o"
+      },
+      {
+        "player": {
           "id": 51606,
           "name": "[RF] It keeps your hands clean"
         },
@@ -70429,7 +70519,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -70447,7 +70537,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -70546,7 +70636,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -70989,7 +71079,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -71594,7 +71684,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -72449,7 +72539,7 @@
       {
         "player": {
           "id": 52394,
-          "name": "[SARK] YoshiiPz"
+          "name": "YoshiiPz"
         },
         "progress": 100,
         "status": "approved",
@@ -72512,7 +72602,7 @@
       {
         "player": {
           "id": 71298,
-          "name": "TheWormDo"
+          "name": "[ddd] TheWormDo"
         },
         "progress": 100,
         "status": "approved",
@@ -72593,7 +72683,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -72607,6 +72697,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=PihLbztm_fE"
+      },
+      {
+        "player": {
+          "id": 72746,
+          "name": "JuNiX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4Gx0d8VO3Ak"
       },
       {
         "player": {
@@ -72757,7 +72856,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -73135,7 +73234,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -73198,7 +73297,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -73207,7 +73306,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -73567,7 +73666,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -73764,6 +73863,15 @@
       },
       {
         "player": {
+          "id": 63605,
+          "name": "[gmccl] craig0"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qMqKffwY93Y"
+      },
+      {
+        "player": {
           "id": 57818,
           "name": "Laban"
         },
@@ -73911,7 +74019,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -74111,7 +74219,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -74833,7 +74941,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -74896,7 +75004,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -74905,7 +75013,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -75427,7 +75535,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 100,
         "status": "approved",
@@ -75679,7 +75787,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -76158,7 +76266,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -76457,7 +76565,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -76493,7 +76601,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -76520,7 +76628,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -76565,7 +76673,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -76927,7 +77035,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -77251,7 +77359,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -77395,7 +77503,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -78016,7 +78124,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -78115,7 +78223,7 @@
       {
         "player": {
           "id": 62371,
-          "name": "fp"
+          "name": "burger"
         },
         "progress": 100,
         "status": "approved",
@@ -78495,7 +78603,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -78630,7 +78738,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -78675,7 +78783,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -78711,7 +78819,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -78938,7 +79046,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -78992,7 +79100,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -79010,7 +79118,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -79415,7 +79523,7 @@
       {
         "player": {
           "id": 52913,
-          "name": "[MOON] Lexy"
+          "name": "[Hi] Lexy"
         },
         "progress": 100,
         "status": "approved",
@@ -79804,7 +79912,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -80123,7 +80231,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -80620,7 +80728,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -80665,7 +80773,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -80966,7 +81074,7 @@
       {
         "player": {
           "id": 59684,
-          "name": "[YAHO] Cosicant"
+          "name": "[tq] Cosicant"
         },
         "progress": 100,
         "status": "approved",
@@ -81218,7 +81326,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -81418,7 +81526,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -81445,7 +81553,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -81472,7 +81580,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -82309,7 +82417,7 @@
       {
         "player": {
           "id": 64152,
-          "name": "cats1077"
+          "name": "[BEAVR] cats1077"
         },
         "progress": 100,
         "status": "approved",
@@ -82943,7 +83051,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -83006,7 +83114,7 @@
       {
         "player": {
           "id": 56284,
-          "name": "l1nxxd"
+          "name": "[ЗСУ] l1nxxd"
         },
         "progress": 100,
         "status": "approved",
@@ -83654,7 +83762,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -83980,7 +84088,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -84088,7 +84196,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -84483,6 +84591,15 @@
       },
       {
         "player": {
+          "id": 38083,
+          "name": "[ЗСУ] kloone"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rIIEjTH-4Lk"
+      },
+      {
+        "player": {
           "id": 61196,
           "name": "Zaaforus"
         },
@@ -84511,7 +84628,7 @@
       {
         "player": {
           "id": 68972,
-          "name": "[MKL] bleepable"
+          "name": "bleepable"
         },
         "progress": 70,
         "status": "approved",
@@ -84666,7 +84783,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -84684,7 +84801,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -85091,7 +85208,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -85732,7 +85849,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -85831,7 +85948,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -85912,7 +86029,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -86434,11 +86551,20 @@
       {
         "player": {
           "id": 58802,
-          "name": "[PHH] Deathrange"
+          "name": "Deathrange"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Sq_K2-yCM04"
+      },
+      {
+        "player": {
+          "id": 65820,
+          "name": "itsRainn"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Q5eNr6b7Ga0"
       },
       {
         "player": {
@@ -86448,15 +86574,6 @@
         "progress": 95,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=zo-vO-G5V6Q"
-      },
-      {
-        "player": {
-          "id": 65820,
-          "name": "itsRainn"
-        },
-        "progress": 82,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=OfsmWyqSYfg"
       },
       {
         "player": {
@@ -86526,7 +86643,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -86598,7 +86715,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -87673,7 +87790,7 @@
       {
         "player": {
           "id": 52394,
-          "name": "[SARK] YoshiiPz"
+          "name": "YoshiiPz"
         },
         "progress": 100,
         "status": "approved",
@@ -87972,7 +88089,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -88341,7 +88458,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -88539,7 +88656,7 @@
       {
         "player": {
           "id": 68972,
-          "name": "[MKL] bleepable"
+          "name": "bleepable"
         },
         "progress": 100,
         "status": "approved",
@@ -88883,7 +89000,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -89018,7 +89135,7 @@
       {
         "player": {
           "id": 64154,
-          "name": "[아기엔더맨] Blebaded"
+          "name": "bladed"
         },
         "progress": 96,
         "status": "approved",
@@ -89301,7 +89418,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -89436,7 +89553,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -89517,7 +89634,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -89814,7 +89931,7 @@
       {
         "player": {
           "id": 71298,
-          "name": "TheWormDo"
+          "name": "[ddd] TheWormDo"
         },
         "progress": 100,
         "status": "approved",
@@ -90221,7 +90338,7 @@
       {
         "player": {
           "id": 61629,
-          "name": "[QOG] GDRed"
+          "name": "[BRMK] GDRed"
         },
         "progress": 100,
         "status": "approved",
@@ -90266,7 +90383,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -90482,7 +90599,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -91645,7 +91762,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -91663,7 +91780,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -91962,7 +92079,7 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
@@ -92070,7 +92187,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -92351,7 +92468,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -92441,7 +92558,7 @@
       {
         "player": {
           "id": 51584,
-          "name": "[TCC] TheButcher"
+          "name": "[TCC] NoctaXI"
         },
         "progress": 100,
         "status": "approved",
@@ -92569,7 +92686,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -92659,7 +92776,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -92731,7 +92848,7 @@
       {
         "player": {
           "id": 59529,
-          "name": "[ID] naraoka"
+          "name": "[EVIL] naraoka"
         },
         "progress": 100,
         "status": "approved",
@@ -92767,7 +92884,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -92974,7 +93091,7 @@
       {
         "player": {
           "id": 69815,
-          "name": "[CORN] Shatter"
+          "name": "[CORN] Qburger"
         },
         "progress": 100,
         "status": "approved",
@@ -93042,6 +93159,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=4YrIMNAQLxw"
+      },
+      {
+        "player": {
+          "id": 70295,
+          "name": "leaf_BD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lo1nadyONAE"
       },
       {
         "player": {
@@ -93484,7 +93610,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -93695,7 +93821,7 @@
       {
         "player": {
           "id": 63274,
-          "name": "[YAHO] freedom"
+          "name": "freedom"
         },
         "progress": 100,
         "status": "approved",
@@ -94329,7 +94455,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -94419,7 +94545,7 @@
       {
         "player": {
           "id": 63497,
-          "name": "fungus"
+          "name": "fungybaws"
         },
         "progress": 100,
         "status": "approved",
@@ -94455,7 +94581,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -94698,7 +94824,7 @@
       {
         "player": {
           "id": 53062,
-          "name": "[YTG] hazelnut"
+          "name": "420noscopesugoi"
         },
         "progress": 100,
         "status": "approved",
@@ -94833,7 +94959,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -95094,7 +95220,7 @@
       {
         "player": {
           "id": 62438,
-          "name": "[MOON] qxwr"
+          "name": "[Hi] qxwr"
         },
         "progress": 100,
         "status": "approved",
@@ -95877,7 +96003,7 @@
       {
         "player": {
           "id": 68010,
-          "name": "AbsoluteGMD"
+          "name": "[IHGD] AbsoluteGMD"
         },
         "progress": 100,
         "status": "approved",
@@ -96380,7 +96506,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 74,
         "status": "approved",
@@ -96636,7 +96762,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -97557,7 +97683,7 @@
       {
         "player": {
           "id": 62438,
-          "name": "[MOON] qxwr"
+          "name": "[Hi] qxwr"
         },
         "progress": 100,
         "status": "approved",
@@ -97647,7 +97773,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -97917,7 +98043,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -98180,7 +98306,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -98299,7 +98425,7 @@
       {
         "player": {
           "id": 63605,
-          "name": "craig0"
+          "name": "[gmccl] craig0"
         },
         "progress": 68,
         "status": "approved",
@@ -98717,7 +98843,7 @@
       {
         "player": {
           "id": 58354,
-          "name": "[IH82P] erzor"
+          "name": "[TSC] erzor"
         },
         "progress": 100,
         "status": "approved",
@@ -98726,7 +98852,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -98964,7 +99090,7 @@
       {
         "player": {
           "id": 38083,
-          "name": "[OG B] kloone"
+          "name": "[ЗСУ] kloone"
         },
         "progress": 100,
         "status": "approved",
@@ -99572,6 +99698,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=74cVgYquOJY"
+      },
+      {
+        "player": {
+          "id": 64695,
+          "name": "[SR53] icey"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=znwe9tbtbwc"
+      },
+      {
+        "player": {
+          "id": 67832,
+          "name": "7"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0i-7O1JpEdo"
       }
     ],
     "663": [
@@ -99623,7 +99767,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -100212,7 +100356,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -100484,7 +100628,7 @@
       {
         "player": {
           "id": 55784,
-          "name": "whfyre"
+          "name": "[ЗСУ] whfyre"
         },
         "progress": 100,
         "status": "approved",
@@ -100906,11 +101050,38 @@
       {
         "player": {
           "id": 51411,
-          "name": "[EZ] Jerpaa"
+          "name": "[ЗСУ] jerpa"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-tnebf-j5Fw"
+      },
+      {
+        "player": {
+          "id": 57634,
+          "name": "[STACK] talbo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5XPw-9RmmJM"
+      },
+      {
+        "player": {
+          "id": 61934,
+          "name": "[STACK] Jyvl01"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=nb5v3VsJJ9w"
+      },
+      {
+        "player": {
+          "id": 40736,
+          "name": "[STACK] CHOOONK"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VWSNaH7lczg"
       }
     ],
     "673": [
@@ -101034,7 +101205,7 @@
       {
         "player": {
           "id": 60880,
-          "name": "[BNDR] Rain"
+          "name": "[ЗСУ] Rain"
         },
         "progress": 100,
         "status": "approved",
@@ -101259,7 +101430,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -101623,7 +101794,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -101727,6 +101898,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=k4ba1YyA5m4"
+      },
+      {
+        "player": {
+          "id": 51746,
+          "name": "Iva"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ZQI-2fvP0to"
       }
     ],
     "676": [
@@ -101760,7 +101940,7 @@
       {
         "player": {
           "id": 60594,
-          "name": "[Hi] qxwr"
+          "name": "[Hi] applocation"
         },
         "progress": 100,
         "status": "approved",
@@ -101850,7 +102030,7 @@
       {
         "player": {
           "id": 66883,
-          "name": "kolip"
+          "name": "[nik] kolip"
         },
         "progress": 100,
         "status": "approved",
@@ -102081,7 +102261,7 @@
       {
         "player": {
           "id": 56437,
-          "name": "[YAHO] Pumben"
+          "name": "[tq] Pumben"
         },
         "progress": 100,
         "status": "approved",
@@ -102692,7 +102872,7 @@
       {
         "player": {
           "id": 37331,
-          "name": "[OG B] Laysah"
+          "name": "[LASER] Laysah"
         },
         "progress": 100,
         "status": "approved",
@@ -102916,6 +103096,15 @@
       },
       {
         "player": {
+          "id": 58667,
+          "name": "Rain"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-ZfTRv9tiEo"
+      },
+      {
+        "player": {
           "id": 59224,
           "name": "[KAN] Hypa"
         },
@@ -103108,7 +103297,7 @@
       {
         "player": {
           "id": 59684,
-          "name": "[YAHO] Cosicant"
+          "name": "[tq] Cosicant"
         },
         "progress": 100,
         "status": "approved",
@@ -103524,7 +103713,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -103596,7 +103785,7 @@
       {
         "player": {
           "id": 62438,
-          "name": "[MOON] qxwr"
+          "name": "[Hi] qxwr"
         },
         "progress": 100,
         "status": "approved",
@@ -103614,7 +103803,7 @@
       {
         "player": {
           "id": 68010,
-          "name": "AbsoluteGMD"
+          "name": "[IHGD] AbsoluteGMD"
         },
         "progress": 100,
         "status": "approved",
@@ -104172,7 +104361,7 @@
       {
         "player": {
           "id": 72434,
-          "name": "missledragon55"
+          "name": "[ddd] Missiledragon"
         },
         "progress": 100,
         "status": "approved",
@@ -104199,7 +104388,7 @@
       {
         "player": {
           "id": 72451,
-          "name": "KPC"
+          "name": "[IHGD] KPC"
         },
         "progress": 100,
         "status": "approved",
@@ -104261,6 +104450,15 @@
       },
       {
         "player": {
+          "id": 67513,
+          "name": "Krox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=sf9-RF7By3E"
+      },
+      {
+        "player": {
           "id": 72372,
           "name": "Atomic Rain"
         },
@@ -104282,7 +104480,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -104345,7 +104543,7 @@
       {
         "player": {
           "id": 62438,
-          "name": "[MOON] qxwr"
+          "name": "[Hi] qxwr"
         },
         "progress": 100,
         "status": "approved",
@@ -104531,7 +104729,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 87,
         "status": "approved",
@@ -104860,6 +105058,15 @@
       },
       {
         "player": {
+          "id": 66714,
+          "name": "Aeryn"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=J0rf-v6NkEk"
+      },
+      {
+        "player": {
           "id": 62619,
           "name": "Bacolor"
         },
@@ -104884,15 +105091,6 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hqiwzfLdzhY"
-      },
-      {
-        "player": {
-          "id": 66714,
-          "name": "Aeryn"
-        },
-        "progress": 78,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=6Bvpu9KnlHA"
       },
       {
         "player": {
@@ -105168,7 +105366,7 @@
       {
         "player": {
           "id": 52394,
-          "name": "[SARK] YoshiiPz"
+          "name": "YoshiiPz"
         },
         "progress": 100,
         "status": "approved",
@@ -105384,7 +105582,7 @@
       {
         "player": {
           "id": 70417,
-          "name": "[corn] pythrox"
+          "name": "pythrox"
         },
         "progress": 100,
         "status": "approved",
@@ -105981,7 +106179,7 @@
       {
         "player": {
           "id": 58160,
-          "name": "[MOON] ByteLaw"
+          "name": "[Hi] ByteLaw"
         },
         "progress": 100,
         "status": "approved",
@@ -106079,6 +106277,15 @@
       },
       {
         "player": {
+          "id": 63772,
+          "name": "Rexern"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7_laRX_H_hU"
+      },
+      {
+        "player": {
           "id": 54373,
           "name": "MyRougeYoshi"
         },
@@ -106134,6 +106341,15 @@
       },
       {
         "player": {
+          "id": 52993,
+          "name": "[WBT] Mizukii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aBhjftGEao0"
+      },
+      {
+        "player": {
           "id": 41613,
           "name": "[OG B] Airez"
         },
@@ -106149,6 +106365,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=LVhYDri1DBg"
+      },
+      {
+        "player": {
+          "id": 34009,
+          "name": "[!MUTE] piesy"
+        },
+        "progress": 98,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=225objzl8xk"
       }
     ],
     "734": [
@@ -106162,7 +106387,17 @@
         "video": "https://www.youtube.com/watch?v=35PseoF9iEQ"
       }
     ],
-    "735": [],
+    "735": [
+      {
+        "player": {
+          "id": 5692,
+          "name": "funny boy"
+        },
+        "progress": 78,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XNG8YCnFq84"
+      }
+    ],
     "736": [],
     "737": [],
     "738": [
@@ -106186,6 +106421,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=NdbBCZe_jb0"
+      },
+      {
+        "player": {
+          "id": 70379,
+          "name": "[didy] monodynamics"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=l-nFYc7ji2k"
       }
     ]
   }
