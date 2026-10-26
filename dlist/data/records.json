@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:30:51Z",
+  "updated_at": "2026-10-26T02:38:35Z",
   "demons": {
     "250": [
       {
@@ -7129,6 +7129,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=3Ivc8GQDefc"
+      },
+      {
+        "player": {
+          "id": 72860,
+          "name": "nicolai"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iMSi9eZvKDk"
       },
       {
         "player": {
@@ -18509,6 +18518,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=SfBtmh1C9-c"
+      },
+      {
+        "player": {
+          "id": 66039,
+          "name": "Sklork"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uRE9rOYF_KA"
       },
       {
         "player": {
@@ -46078,6 +46096,15 @@
       },
       {
         "player": {
+          "id": 60873,
+          "name": "[FLAT] Toxical"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=860wiXNxogs"
+      },
+      {
+        "player": {
           "id": 64424,
           "name": "sorrow"
         },
@@ -50636,6 +50663,15 @@
       },
       {
         "player": {
+          "id": 67921,
+          "name": "C0bra"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wTB29zjn3uI"
+      },
+      {
+        "player": {
           "id": 42010,
           "name": "[SEREK] Kramujo"
         },
@@ -50840,15 +50876,6 @@
         "progress": 72,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=v1SjDtj6MdU"
-      },
-      {
-        "player": {
-          "id": 67921,
-          "name": "C0bra"
-        },
-        "progress": 72,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=9n8zH1CdgxY"
       },
       {
         "player": {
@@ -60615,6 +60642,15 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=TP4aOUtVXh4"
+      },
+      {
+        "player": {
+          "id": 61110,
+          "name": "Kelp"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WDjbPgGqhYk"
       }
     ],
     "486": [
@@ -86370,6 +86406,15 @@
       },
       {
         "player": {
+          "id": 58802,
+          "name": "[PHH] Deathrange"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Sq_K2-yCM04"
+      },
+      {
+        "player": {
           "id": 37368,
           "name": "Kelvin"
         },
@@ -95822,6 +95867,15 @@
       },
       {
         "player": {
+          "id": 66327,
+          "name": "RxpraEX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=y-7xLOvPTW4"
+      },
+      {
+        "player": {
           "id": 64379,
           "name": "[j] Chaos"
         },
@@ -102865,9 +102919,9 @@
           "id": 66407,
           "name": "maxyop3"
         },
-        "progress": 69,
+        "progress": 73,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=VL8dIaR_Fwo"
+        "video": "https://www.youtube.com/watch?v=hEZEUpSmIH0"
       },
       {
         "player": {
@@ -104159,6 +104213,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7G6DqjFlYZg"
+      },
+      {
+        "player": {
+          "id": 56702,
+          "name": "ItzQuick"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AfOFaX3YlFg"
       }
     ],
     "690": [
