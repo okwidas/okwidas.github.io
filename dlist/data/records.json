@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:30:13Z",
+  "updated_at": "2026-10-27T03:15:40Z",
   "demons": {
     "250": [
       {
@@ -7146,7 +7146,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=iMSi9eZvKDk"
+        "video": "https://www.youtube.com/watch?v=k7sRimfMbCI"
       },
       {
         "player": {
@@ -15132,6 +15132,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7z0dFgFR4WM"
+      },
+      {
+        "player": {
+          "id": 42415,
+          "name": "derek3"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=k7BMp6KH8x8"
       },
       {
         "player": {
@@ -37579,6 +37588,15 @@
       },
       {
         "player": {
+          "id": 55004,
+          "name": "SirFilo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Uyi2Y1CquGA"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -45020,6 +45038,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0iPA0bNZmhQ"
+      },
+      {
+        "player": {
+          "id": 57482,
+          "name": "Polixe"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SmhtkeoMJ_A"
       },
       {
         "player": {
@@ -65103,6 +65130,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=j96sjlNhjJs"
+      },
+      {
+        "player": {
+          "id": 57839,
+          "name": "[SALAA] AvainPortti"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=E8lA3zt_t1Y"
       },
       {
         "player": {
@@ -86956,6 +86992,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=kI7WTN1FIxQ"
+      },
+      {
+        "player": {
+          "id": 54081,
+          "name": "[IQB7] BlueGMD"
+        },
+        "progress": 69,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1MaV58wNiA8"
       }
     ],
     "595": [
@@ -105216,6 +105261,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=o2ViiZJHoz8"
+      },
+      {
+        "player": {
+          "id": 69040,
+          "name": "rogi"
+        },
+        "progress": 78,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=m1strNzpcOo"
       }
     ],
     "710": [

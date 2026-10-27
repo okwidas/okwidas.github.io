@@ -1216,8 +1216,27 @@
     "level_id": 143718114
   },
   {
-    "id": 681,
+    "id": 642,
     "position": 65,
+    "name": "Loops of Fury",
+    "requirement": 73,
+    "video": "https://www.youtube.com/watch?v=9HBG3i5zbw8",
+    "thumbnail": "https://i.ytimg.com/vi/9HBG3i5zbw8/mqdefault.jpg",
+    "publisher": {
+      "id": 59124,
+      "name": "[TCC] Enfur",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51771,
+      "name": "[TCC] Cork",
+      "banned": false
+    },
+    "level_id": 126571887
+  },
+  {
+    "id": 681,
+    "position": 66,
     "name": "Fracture",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=R_-chk3SRFI",
@@ -1236,7 +1255,7 @@
   },
   {
     "id": 464,
-    "position": 66,
+    "position": 67,
     "name": "poocubed",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=fzL31vai1ms",
@@ -1255,7 +1274,7 @@
   },
   {
     "id": 683,
-    "position": 67,
+    "position": 68,
     "name": "Calibrate",
     "requirement": 63,
     "video": "https://www.youtube.com/watch?v=6WYnZryX_mg",
@@ -1274,7 +1293,7 @@
   },
   {
     "id": 487,
-    "position": 68,
+    "position": 69,
     "name": "MINUSdry",
     "requirement": 75,
     "video": "https://www.youtube.com/watch?v=YvA8ehhzz0Q",
@@ -1293,7 +1312,7 @@
   },
   {
     "id": 496,
-    "position": 69,
+    "position": 70,
     "name": "Saul Goodman",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=hjs5PjUaw9k",
@@ -1312,7 +1331,7 @@
   },
   {
     "id": 614,
-    "position": 70,
+    "position": 71,
     "name": "Apocalyptic Trilogy",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=RUBbpsTR5eU",
@@ -1331,7 +1350,7 @@
   },
   {
     "id": 427,
-    "position": 71,
+    "position": 72,
     "name": "The Hallucination",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=tYbXsNkO9HE",
@@ -1350,7 +1369,7 @@
   },
   {
     "id": 735,
-    "position": 72,
+    "position": 73,
     "name": "Blooming Blossoms",
     "requirement": 77,
     "video": "https://www.youtube.com/watch?v=GU-qfLRoDMo",
@@ -1369,7 +1388,7 @@
   },
   {
     "id": 707,
-    "position": 73,
+    "position": 74,
     "name": "Pinnacle of Life",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=gQl5iY1ekyE",
@@ -1388,7 +1407,7 @@
   },
   {
     "id": 526,
-    "position": 74,
+    "position": 75,
     "name": "COMBUSTION",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=3cTR4XUcA28",
@@ -1407,7 +1426,7 @@
   },
   {
     "id": 713,
-    "position": 75,
+    "position": 76,
     "name": "Haunted Ship",
     "requirement": 61,
     "video": "https://www.youtube.com/watch?v=22l59QGmL48",
@@ -1423,25 +1442,6 @@
       "banned": false
     },
     "level_id": 143523624
-  },
-  {
-    "id": 642,
-    "position": 76,
-    "name": "Loops of Fury",
-    "requirement": 73,
-    "video": "https://www.youtube.com/watch?v=9HBG3i5zbw8",
-    "thumbnail": "https://i.ytimg.com/vi/9HBG3i5zbw8/mqdefault.jpg",
-    "publisher": {
-      "id": 59124,
-      "name": "[TCC] Enfur",
-      "banned": false
-    },
-    "verifier": {
-      "id": 51771,
-      "name": "[TCC] Cork",
-      "banned": false
-    },
-    "level_id": 126571887
   },
   {
     "id": 558,
