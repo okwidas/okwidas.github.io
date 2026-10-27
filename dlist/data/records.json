@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:57:29Z",
+  "updated_at": "2026-10-27T15:28:00Z",
   "demons": {
     "250": [
       {
@@ -30771,6 +30771,24 @@
       },
       {
         "player": {
+          "id": 72826,
+          "name": "샤인"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WTDhN4cZUnA"
+      },
+      {
+        "player": {
+          "id": 66061,
+          "name": "KOXNIM"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ePL1JPIC0BQ"
+      },
+      {
+        "player": {
           "id": 708,
           "name": "xoen"
         },
@@ -39551,6 +39569,15 @@
         "progress": 63,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=rFr-OHdneJY"
+      },
+      {
+        "player": {
+          "id": 41762,
+          "name": "[IRAN] Sulky"
+        },
+        "progress": 63,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=60PqxuFea5w"
       }
     ],
     "429": [
@@ -52968,6 +52995,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=mgp6EPKyxx0"
+      },
+      {
+        "player": {
+          "id": 60494,
+          "name": "Lighty"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RC9Z9hcm7Iw"
       },
       {
         "player": {
@@ -80823,6 +80859,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=fvOgZBrapmA"
+      },
+      {
+        "player": {
+          "id": 51292,
+          "name": "[ILUV] PoCle"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YbA05oF2Bu8"
       },
       {
         "player": {
