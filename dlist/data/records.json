@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:28:00Z",
+  "updated_at": "2026-10-27T20:21:46Z",
   "demons": {
     "250": [
       {
@@ -2462,7 +2462,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -17433,7 +17433,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -25836,7 +25836,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -29377,7 +29377,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -33809,7 +33809,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -49638,7 +49638,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -57752,6 +57752,15 @@
       },
       {
         "player": {
+          "id": 45040,
+          "name": "andreas"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KAsz0xZVIzA"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -59854,7 +59863,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -79577,7 +79586,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -80384,7 +80393,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -91130,7 +91139,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -93682,7 +93691,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
@@ -97301,7 +97310,7 @@
       {
         "player": {
           "id": 42488,
-          "name": "[DL] vonic"
+          "name": "[PSL] vonic"
         },
         "progress": 100,
         "status": "approved",
