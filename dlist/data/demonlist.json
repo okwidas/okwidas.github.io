@@ -1400,7 +1400,7 @@
     },
     "verifier": {
       "id": 42488,
-      "name": "[DL] vonic",
+      "name": "[PSL] vonic",
       "banned": false
     },
     "level_id": 144012996
@@ -2060,12 +2060,12 @@
     "thumbnail": "https://i.ytimg.com/vi/IMLjnmnIWRc/mqdefault.jpg",
     "publisher": {
       "id": 42488,
-      "name": "[DL] vonic",
+      "name": "[PSL] vonic",
       "banned": false
     },
     "verifier": {
       "id": 42488,
-      "name": "[DL] vonic",
+      "name": "[PSL] vonic",
       "banned": false
     },
     "level_id": 136135870
