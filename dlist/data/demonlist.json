@@ -2698,8 +2698,27 @@
     "level_id": 132751236
   },
   {
-    "id": 435,
+    "id": 641,
     "position": 143,
+    "name": "azure blast",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=TN0FQ3KBv4w",
+    "thumbnail": "https://i.ytimg.com/vi/TN0FQ3KBv4w/mqdefault.jpg",
+    "publisher": {
+      "id": 37661,
+      "name": "[tq] AlbinoSnail",
+      "banned": false
+    },
+    "verifier": {
+      "id": 36994,
+      "name": "[YAHO] DNM121",
+      "banned": false
+    },
+    "level_id": 120060187
+  },
+  {
+    "id": 435,
+    "position": 144,
     "name": "Shukketsu",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=nkG4hKJIz2g",
@@ -2718,7 +2737,7 @@
   },
   {
     "id": 729,
-    "position": 144,
+    "position": 145,
     "name": "Breakcore",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=_H3KOVLE6gs",
@@ -2737,7 +2756,7 @@
   },
   {
     "id": 703,
-    "position": 145,
+    "position": 146,
     "name": "idontknowwhatthisis",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=Dg9Q6s8EOlg",
@@ -2756,7 +2775,7 @@
   },
   {
     "id": 478,
-    "position": 146,
+    "position": 147,
     "name": "Critical Heat",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=UjYIt2jy_BY",
@@ -2775,7 +2794,7 @@
   },
   {
     "id": 637,
-    "position": 147,
+    "position": 148,
     "name": "WOBBLING MACHINE",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=RKX6VOsICOg",
@@ -2794,7 +2813,7 @@
   },
   {
     "id": 617,
-    "position": 148,
+    "position": 149,
     "name": "Crystal Crusher",
     "requirement": 67,
     "video": "https://www.youtube.com/watch?v=qirwgz-haVQ",
@@ -2813,7 +2832,7 @@
   },
   {
     "id": 625,
-    "position": 149,
+    "position": 150,
     "name": "limbo but uwu ig idk",
     "requirement": 77,
     "video": "https://www.youtube.com/watch?v=3B36N-qfOD8",
@@ -2829,24 +2848,5 @@
       "banned": false
     },
     "level_id": 110705712
-  },
-  {
-    "id": 651,
-    "position": 150,
-    "name": "Graceful",
-    "requirement": 100,
-    "video": "https://www.youtube.com/watch?v=5kOD37vQHKE",
-    "thumbnail": "https://i.ytimg.com/vi/5kOD37vQHKE/mqdefault.jpg",
-    "publisher": {
-      "id": 6056,
-      "name": "[1319] D A G",
-      "banned": false
-    },
-    "verifier": {
-      "id": 6056,
-      "name": "[1319] D A G",
-      "banned": false
-    },
-    "level_id": 71885708
   }
 ]
