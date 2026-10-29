@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:26:02Z",
+  "updated_at": "2026-10-29T18:17:25Z",
   "demons": {
     "250": [
       {
@@ -65427,6 +65427,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=E8lA3zt_t1Y"
+      },
+      {
+        "player": {
+          "id": 63893,
+          "name": "[NETAN] Abdul9531"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FpH3mBh1or4"
       },
       {
         "player": {
