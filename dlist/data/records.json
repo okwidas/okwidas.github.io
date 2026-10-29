@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:27:17Z",
+  "updated_at": "2026-10-29T03:48:31Z",
   "demons": {
     "250": [
       {
@@ -48465,6 +48465,15 @@
       },
       {
         "player": {
+          "id": 64917,
+          "name": "ryanbcgd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HNum2s6cwxY"
+      },
+      {
+        "player": {
           "id": 68668,
           "name": "berth"
         },
@@ -48546,6 +48555,15 @@
       },
       {
         "player": {
+          "id": 58686,
+          "name": "Ares"
+        },
+        "progress": 88,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iKROZjpcF50"
+      },
+      {
+        "player": {
           "id": 64695,
           "name": "[SR53] icey"
         },
@@ -48624,15 +48642,6 @@
         "progress": 77,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=m8Zio2tZdaw"
-      },
-      {
-        "player": {
-          "id": 64917,
-          "name": "ryanbcgd"
-        },
-        "progress": 77,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=vt-ybR7liPE"
       },
       {
         "player": {
@@ -48738,7 +48747,7 @@
       {
         "player": {
           "id": 34088,
-          "name": "[PRIME] azren"
+          "name": "twilight"
         },
         "progress": 100,
         "status": "approved",
@@ -52390,6 +52399,15 @@
         "progress": 83,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=jmNQypzc_uM"
+      },
+      {
+        "player": {
+          "id": 56916,
+          "name": "Brian_Cheese"
+        },
+        "progress": 83,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RTIiVS8wmKo"
       },
       {
         "player": {
