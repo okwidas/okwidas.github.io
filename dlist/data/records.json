@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T03:49:53Z",
+  "updated_at": "2026-10-30T12:17:46Z",
   "demons": {
     "250": [
       {
@@ -15630,6 +15630,15 @@
       },
       {
         "player": {
+          "id": 69061,
+          "name": "Azulblade"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XeCrMA-tg2k"
+      },
+      {
+        "player": {
           "id": 35926,
           "name": "TurtleYAY"
         },
@@ -20737,6 +20746,15 @@
       },
       {
         "player": {
+          "id": 68892,
+          "name": "Crupice"
+        },
+        "progress": 88,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Dzfw3tiU8jA"
+      },
+      {
+        "player": {
           "id": 72770,
           "name": "ioneix"
         },
@@ -20887,15 +20905,6 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=skkw1RFj_-Q"
-      },
-      {
-        "player": {
-          "id": 68892,
-          "name": "Crupice"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Y97th7jaicY"
       }
     ],
     "380": [
@@ -23754,6 +23763,15 @@
       },
       {
         "player": {
+          "id": 65627,
+          "name": "[PULA] calinos"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=k_PcLPg_lDE"
+      },
+      {
+        "player": {
           "id": 71511,
           "name": "ainiru"
         },
@@ -24831,15 +24849,6 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Weom6yrmSlk"
-      },
-      {
-        "player": {
-          "id": 65627,
-          "name": "[PULA] calinos"
-        },
-        "progress": 76,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=zk30AV2wFFA"
       },
       {
         "player": {
@@ -37756,6 +37765,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=TARBtScqVy8"
+      },
+      {
+        "player": {
+          "id": 72856,
+          "name": "Mud"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=49D6Cnz-1Uc"
       },
       {
         "player": {
@@ -61002,6 +61020,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=c73aLFFrf_I"
+      },
+      {
+        "player": {
+          "id": 39806,
+          "name": "Dylinator"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=b3NHe2rlYOQ"
       },
       {
         "player": {
@@ -85783,6 +85810,15 @@
       },
       {
         "player": {
+          "id": 60849,
+          "name": "[YAHO] Sogak"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ifwRt56BrsQ"
+      },
+      {
+        "player": {
           "id": 61460,
           "name": "Ninde"
         },
@@ -85843,15 +85879,6 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hRUAGZmDn1k"
-      },
-      {
-        "player": {
-          "id": 60849,
-          "name": "[YAHO] Sogak"
-        },
-        "progress": 71,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=qfaigtTUxZ0"
       },
       {
         "player": {
