@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:17:46Z",
+  "updated_at": "2026-10-30T17:52:48Z",
   "demons": {
     "250": [
       {
@@ -23760,6 +23760,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-i94Kt3xb0E"
+      },
+      {
+        "player": {
+          "id": 54187,
+          "name": "kakol"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mVKbwqrsXrk"
       },
       {
         "player": {
@@ -70813,6 +70822,15 @@
       },
       {
         "player": {
+          "id": 41863,
+          "name": "vicente"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RRMcgnVC9zQ"
+      },
+      {
+        "player": {
           "id": 52491,
           "name": "RaizingGD"
         },
@@ -83019,6 +83037,15 @@
       },
       {
         "player": {
+          "id": 72914,
+          "name": "uxn41"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2ukAXfGfZXw"
+      },
+      {
+        "player": {
           "id": 53557,
           "name": "[USSR] Внибрачьная Систренка Эйриле"
         },
@@ -83324,6 +83351,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9QKb326Y7iE"
+      },
+      {
+        "player": {
+          "id": 62420,
+          "name": "[IQB7] notmrsooty"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XK7XbuewAds"
       }
     ],
     "583": [
@@ -105963,6 +105999,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=o2ViiZJHoz8"
+      },
+      {
+        "player": {
+          "id": 63188,
+          "name": "BliYod"
+        },
+        "progress": 82,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9YzAGpAOJkw"
       },
       {
         "player": {

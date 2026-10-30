@@ -1026,27 +1026,8 @@
     "level_id": 95851008
   },
   {
-    "id": 587,
-    "position": 55,
-    "name": "KOSETSU",
-    "requirement": 68,
-    "video": "https://www.youtube.com/watch?v=hZ8vFX8z_BU",
-    "thumbnail": "https://i.ytimg.com/vi/hZ8vFX8z_BU/mqdefault.jpg",
-    "publisher": {
-      "id": 59822,
-      "name": "fwe",
-      "banned": false
-    },
-    "verifier": {
-      "id": 39295,
-      "name": "[WBT] Taiago",
-      "banned": false
-    },
-    "level_id": 109439644
-  },
-  {
     "id": 640,
-    "position": 56,
+    "position": 55,
     "name": "CONVULSION",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=qeRKuyU3eGI",
@@ -1065,7 +1046,7 @@
   },
   {
     "id": 663,
-    "position": 57,
+    "position": 56,
     "name": "Through The Gates",
     "requirement": 90,
     "video": "https://www.youtube.com/watch?v=4yHA6jux5UI",
@@ -1084,7 +1065,7 @@
   },
   {
     "id": 739,
-    "position": 58,
+    "position": 57,
     "name": "Shadow Of The Past",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=LEyo0LJV8os",
@@ -1103,7 +1084,7 @@
   },
   {
     "id": 740,
-    "position": 59,
+    "position": 58,
     "name": "ace",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=7uYghOdos8I",
@@ -1122,7 +1103,7 @@
   },
   {
     "id": 379,
-    "position": 60,
+    "position": 59,
     "name": "Firework",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=QBe5x2o9v2w",
@@ -1138,6 +1119,25 @@
       "banned": false
     },
     "level_id": 75206202
+  },
+  {
+    "id": 587,
+    "position": 60,
+    "name": "KOSETSU",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=hZ8vFX8z_BU",
+    "thumbnail": "https://i.ytimg.com/vi/hZ8vFX8z_BU/mqdefault.jpg",
+    "publisher": {
+      "id": 59822,
+      "name": "fwe",
+      "banned": false
+    },
+    "verifier": {
+      "id": 39295,
+      "name": "[WBT] Taiago",
+      "banned": false
+    },
+    "level_id": 109439644
   },
   {
     "id": 667,
