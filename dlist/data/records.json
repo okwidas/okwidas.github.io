@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T17:52:48Z",
+  "updated_at": "2026-10-30T22:13:17Z",
   "demons": {
     "250": [
       {
@@ -3218,7 +3218,7 @@
       {
         "player": {
           "id": 44752,
-          "name": "Nik14K"
+          "name": "nik14k"
         },
         "progress": 100,
         "status": "approved",
@@ -5513,7 +5513,7 @@
       {
         "player": {
           "id": 59113,
-          "name": "Anro"
+          "name": "[tq] Anro"
         },
         "progress": 100,
         "status": "approved",
@@ -7115,7 +7115,7 @@
       {
         "player": {
           "id": 64770,
-          "name": "cubeoi"
+          "name": "[ZEE] cubeoi"
         },
         "progress": 100,
         "status": "approved",
@@ -7174,6 +7174,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=k7sRimfMbCI"
+      },
+      {
+        "player": {
+          "id": 68763,
+          "name": "MasterBub"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-ykDcRhqmPA"
       },
       {
         "player": {
@@ -8440,7 +8449,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -9034,7 +9043,7 @@
       {
         "player": {
           "id": 53676,
-          "name": "[ID] Sapi"
+          "name": "[COLA] cowslice"
         },
         "progress": 100,
         "status": "approved",
@@ -10771,7 +10780,7 @@
       {
         "player": {
           "id": 44752,
-          "name": "Nik14K"
+          "name": "nik14k"
         },
         "progress": 100,
         "status": "approved",
@@ -12580,7 +12589,7 @@
       {
         "player": {
           "id": 64770,
-          "name": "cubeoi"
+          "name": "[ZEE] cubeoi"
         },
         "progress": 100,
         "status": "approved",
@@ -18243,7 +18252,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -19199,7 +19208,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -21820,7 +21829,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -23853,6 +23862,15 @@
       },
       {
         "player": {
+          "id": 71152,
+          "name": "Bokash"
+        },
+        "progress": 95,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2eQv0jFw1nk"
+      },
+      {
+        "player": {
           "id": 61474,
           "name": "PigeonEnjoyer"
         },
@@ -23904,15 +23922,6 @@
         "progress": 93,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Z7yGQioLAFI"
-      },
-      {
-        "player": {
-          "id": 71152,
-          "name": "Bokash"
-        },
-        "progress": 93,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=h6v82EFSRXQ"
       },
       {
         "player": {
@@ -29674,7 +29683,7 @@
       {
         "player": {
           "id": 44752,
-          "name": "Nik14K"
+          "name": "nik14k"
         },
         "progress": 100,
         "status": "approved",
@@ -31775,7 +31784,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -34997,7 +35006,7 @@
       {
         "player": {
           "id": 44752,
-          "name": "Nik14K"
+          "name": "nik14k"
         },
         "progress": 100,
         "status": "approved",
@@ -38311,7 +38320,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -42826,7 +42835,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -44526,6 +44535,15 @@
       },
       {
         "player": {
+          "id": 63421,
+          "name": "Adlantis"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Pv5KtkbCPj8"
+      },
+      {
+        "player": {
           "id": 55347,
           "name": "feisaran"
         },
@@ -44745,7 +44763,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -48591,6 +48609,24 @@
       },
       {
         "player": {
+          "id": 65190,
+          "name": "an4rchh"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4SrMbqztvcU"
+      },
+      {
+        "player": {
+          "id": 57527,
+          "name": "[OG B] kropka"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=08iKmgaTzj0"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -48696,6 +48732,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Jn77mLKPQ54"
+      },
+      {
+        "player": {
+          "id": 66019,
+          "name": "Nejou"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=D25Ok-AhsJQ"
       },
       {
         "player": {
@@ -50214,7 +50259,7 @@
       {
         "player": {
           "id": 60500,
-          "name": "[OX] wMixy"
+          "name": "[CREAM] Mixy"
         },
         "progress": 100,
         "status": "approved",
@@ -52034,7 +52079,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -53478,7 +53523,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -58673,7 +58718,7 @@
       {
         "player": {
           "id": 40810,
-          "name": "[PATU] cuin894"
+          "name": "cuin894"
         },
         "progress": 100,
         "status": "approved",
@@ -60646,7 +60691,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -66009,7 +66054,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -67805,6 +67850,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=tVU3jVVZak0"
+      },
+      {
+        "player": {
+          "id": 59105,
+          "name": "Slaylarius"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=i1Zz9ylfo8Y"
       },
       {
         "player": {
@@ -71790,7 +71844,7 @@
       {
         "player": {
           "id": 1348,
-          "name": "jbmoon"
+          "name": "[tq] jbmoon"
         },
         "progress": 100,
         "status": "approved",
@@ -71891,7 +71945,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -73240,6 +73294,15 @@
       },
       {
         "player": {
+          "id": 65111,
+          "name": "ZhevX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VymW-jxdpac"
+      },
+      {
+        "player": {
           "id": 57057,
           "name": "[YAHO] Polar Bear on the Bingak"
         },
@@ -73432,7 +73495,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -74777,7 +74840,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -77402,7 +77465,7 @@
       {
         "player": {
           "id": 33652,
-          "name": "[TARIQ] C0mical"
+          "name": "C0mical"
         },
         "progress": 100,
         "status": "approved",
@@ -77863,7 +77926,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -80176,6 +80239,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=kUFCH2t99kI"
+      },
+      {
+        "player": {
+          "id": 62307,
+          "name": "King:3"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AhMuTlQTjSI"
       },
       {
         "player": {
@@ -88608,6 +88680,15 @@
       },
       {
         "player": {
+          "id": 72879,
+          "name": "GraftonGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HDHxDJ1T2ek"
+      },
+      {
+        "player": {
           "id": 63925,
           "name": "[PATU] Sisa"
         },
@@ -88899,7 +88980,7 @@
       {
         "player": {
           "id": 33652,
-          "name": "[TARIQ] C0mical"
+          "name": "C0mical"
         },
         "progress": 100,
         "status": "approved",
@@ -90626,7 +90707,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -91265,7 +91346,7 @@
       {
         "player": {
           "id": 53676,
-          "name": "[ID] Sapi"
+          "name": "[COLA] cowslice"
         },
         "progress": 100,
         "status": "approved",
@@ -92083,6 +92164,15 @@
       },
       {
         "player": {
+          "id": 63562,
+          "name": "[TTG] sebby"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=pBFTSfplMF8"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -92269,15 +92359,6 @@
         "progress": 68,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=yjKdeDyCnnc"
-      },
-      {
-        "player": {
-          "id": 63562,
-          "name": "[TTG] sebby"
-        },
-        "progress": 68,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=am63ScBSSSw"
       },
       {
         "player": {
@@ -98810,9 +98891,9 @@
           "id": 69298,
           "name": "ArdiGD"
         },
-        "progress": 95,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=H6o2S8QU15g"
+        "video": "https://www.youtube.com/watch?v=HAEufsF8ESI"
       },
       {
         "player": {
@@ -99702,7 +99783,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -103069,6 +103150,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=NVNWFisysQE"
+      },
+      {
+        "player": {
+          "id": 56607,
+          "name": "[CREAM] Serpentical"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LnTvr2XGrGY"
       }
     ],
     "681": [
@@ -103174,7 +103264,7 @@
       {
         "player": {
           "id": 44752,
-          "name": "Nik14K"
+          "name": "nik14k"
         },
         "progress": 100,
         "status": "approved",
@@ -104415,7 +104505,7 @@
       {
         "player": {
           "id": 39481,
-          "name": "[BHO] bazettuk"
+          "name": "[BHO] Opera"
         },
         "progress": 100,
         "status": "approved",
@@ -104586,7 +104676,7 @@
       {
         "player": {
           "id": 40810,
-          "name": "[PATU] cuin894"
+          "name": "cuin894"
         },
         "progress": 100,
         "status": "approved",
@@ -106005,7 +106095,7 @@
           "id": 63188,
           "name": "BliYod"
         },
-        "progress": 82,
+        "progress": 84,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9YzAGpAOJkw"
       },
