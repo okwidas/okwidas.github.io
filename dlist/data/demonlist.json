@@ -1045,27 +1045,8 @@
     "level_id": 113322063
   },
   {
-    "id": 663,
-    "position": 56,
-    "name": "Through The Gates",
-    "requirement": 90,
-    "video": "https://www.youtube.com/watch?v=4yHA6jux5UI",
-    "thumbnail": "https://i.ytimg.com/vi/4yHA6jux5UI/mqdefault.jpg",
-    "publisher": {
-      "id": 67127,
-      "name": "TeamTheDashers",
-      "banned": false
-    },
-    "verifier": {
-      "id": 53408,
-      "name": "[67] Zoink",
-      "banned": false
-    },
-    "level_id": 49072489
-  },
-  {
     "id": 739,
-    "position": 57,
+    "position": 56,
     "name": "Shadow Of The Past",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=LEyo0LJV8os",
@@ -1084,7 +1065,7 @@
   },
   {
     "id": 740,
-    "position": 58,
+    "position": 57,
     "name": "ace",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=7uYghOdos8I",
@@ -1103,7 +1084,7 @@
   },
   {
     "id": 379,
-    "position": 59,
+    "position": 58,
     "name": "Firework",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=QBe5x2o9v2w",
@@ -1119,6 +1100,25 @@
       "banned": false
     },
     "level_id": 75206202
+  },
+  {
+    "id": 663,
+    "position": 59,
+    "name": "Through The Gates",
+    "requirement": 90,
+    "video": "https://www.youtube.com/watch?v=4yHA6jux5UI",
+    "thumbnail": "https://i.ytimg.com/vi/4yHA6jux5UI/mqdefault.jpg",
+    "publisher": {
+      "id": 67127,
+      "name": "TeamTheDashers",
+      "banned": false
+    },
+    "verifier": {
+      "id": 53408,
+      "name": "[67] Zoink",
+      "banned": false
+    },
+    "level_id": 49072489
   },
   {
     "id": 587,
@@ -1672,27 +1672,8 @@
     "level_id": 115860808
   },
   {
-    "id": 551,
-    "position": 89,
-    "name": "Belladonna",
-    "requirement": 70,
-    "video": "https://www.youtube.com/watch?v=saHSgoU1JQQ",
-    "thumbnail": "https://i.ytimg.com/vi/saHSgoU1JQQ/mqdefault.jpg",
-    "publisher": {
-      "id": 40446,
-      "name": "cherryteam",
-      "banned": false
-    },
-    "verifier": {
-      "id": 40419,
-      "name": "[PRIME] exsii",
-      "banned": false
-    },
-    "level_id": 94969889
-  },
-  {
     "id": 511,
-    "position": 90,
+    "position": 89,
     "name": "Codependence",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=IKGk41hSnDo",
@@ -1711,7 +1692,7 @@
   },
   {
     "id": 606,
-    "position": 91,
+    "position": 90,
     "name": "Collapse",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=RCFpXyf6bn0",
@@ -1727,6 +1708,25 @@
       "banned": false
     },
     "level_id": 113256247
+  },
+  {
+    "id": 551,
+    "position": 91,
+    "name": "Belladonna",
+    "requirement": 70,
+    "video": "https://www.youtube.com/watch?v=saHSgoU1JQQ",
+    "thumbnail": "https://i.ytimg.com/vi/saHSgoU1JQQ/mqdefault.jpg",
+    "publisher": {
+      "id": 40446,
+      "name": "cherryteam",
+      "banned": false
+    },
+    "verifier": {
+      "id": 40419,
+      "name": "[PRIME] exsii",
+      "banned": false
+    },
+    "level_id": 94969889
   },
   {
     "id": 439,
