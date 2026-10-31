@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:13:17Z",
+  "updated_at": "2026-10-31T03:35:03Z",
   "demons": {
     "250": [
       {
@@ -99485,6 +99485,15 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Ncm7QblzRPg"
+      },
+      {
+        "player": {
+          "id": 39319,
+          "name": "chandelle"
+        },
+        "progress": 72,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Fiv0ADg8K2k"
       }
     ],
     "659": [
