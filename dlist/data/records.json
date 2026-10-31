@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:50:44Z",
+  "updated_at": "2026-10-31T16:55:42Z",
   "demons": {
     "250": [
       {
@@ -7183,6 +7183,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-ykDcRhqmPA"
+      },
+      {
+        "player": {
+          "id": 70786,
+          "name": "Syth"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lNvLt9WdOSk"
       },
       {
         "player": {
@@ -15657,6 +15666,15 @@
       },
       {
         "player": {
+          "id": 268,
+          "name": "Gryllex"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LL9MkiaSQz0"
+      },
+      {
+        "player": {
           "id": 55753,
           "name": "[999] Thisisfcp"
         },
@@ -18656,6 +18674,15 @@
       },
       {
         "player": {
+          "id": 34642,
+          "name": "Ohdangs"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AADl3K3sWFk"
+      },
+      {
+        "player": {
           "id": 65277,
           "name": "DAST"
         },
@@ -20701,6 +20728,15 @@
       },
       {
         "player": {
+          "id": 68892,
+          "name": "Crupice"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1ttPuuKUHM8"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -20752,15 +20788,6 @@
         "progress": 88,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BleRQHupmPs"
-      },
-      {
-        "player": {
-          "id": 68892,
-          "name": "Crupice"
-        },
-        "progress": 88,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Dzfw3tiU8jA"
       },
       {
         "player": {
@@ -23790,6 +23817,24 @@
       },
       {
         "player": {
+          "id": 71057,
+          "name": "cibildak"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aoOdbgLtwOY"
+      },
+      {
+        "player": {
+          "id": 69610,
+          "name": "Emrauld"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=R3vTnZXHv1I"
+      },
+      {
+        "player": {
           "id": 71511,
           "name": "ainiru"
         },
@@ -24654,15 +24699,6 @@
       },
       {
         "player": {
-          "id": 69610,
-          "name": "Emrauld"
-        },
-        "progress": 79,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Z2e4WH2Zf_w"
-      },
-      {
-        "player": {
           "id": 71568,
           "name": "sudo"
         },
@@ -24741,15 +24777,6 @@
         "progress": 79,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-Si7u8-B7ZU"
-      },
-      {
-        "player": {
-          "id": 71057,
-          "name": "cibildak"
-        },
-        "progress": 79,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=S-ofJ4FJbhw"
       },
       {
         "player": {
@@ -24921,6 +24948,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=O4WS-5Lm5m8"
+      },
+      {
+        "player": {
+          "id": 72905,
+          "name": "aden5674"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MUCNpqga0pE"
       },
       {
         "player": {
@@ -37822,6 +37858,15 @@
       },
       {
         "player": {
+          "id": 70402,
+          "name": "GamerAJG"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VI3ymuYAWfs"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -39590,6 +39635,15 @@
       },
       {
         "player": {
+          "id": 58485,
+          "name": "[HERVE] Cryostazz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_JbsJz8o4GY"
+      },
+      {
+        "player": {
           "id": 63438,
           "name": "Chiikawa"
         },
@@ -39605,15 +39659,6 @@
         "progress": 78,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Dd2CfvA77RA"
-      },
-      {
-        "player": {
-          "id": 58485,
-          "name": "[HERVE] Cryostazz"
-        },
-        "progress": 78,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=mKlamh4t_2g"
       },
       {
         "player": {
@@ -46462,6 +46507,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=ZP2cfZAYyVg"
+      },
+      {
+        "player": {
+          "id": 67628,
+          "name": "privarskii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OrKV4HAQYPM"
       },
       {
         "player": {
@@ -65628,6 +65682,15 @@
       },
       {
         "player": {
+          "id": 52653,
+          "name": "Thusky"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=aIVJqg4naAc"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -71373,6 +71436,15 @@
       },
       {
         "player": {
+          "id": 54395,
+          "name": "[GMT] mancersito"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Eue5Qa_RGYY"
+      },
+      {
+        "player": {
           "id": 63830,
           "name": "Giovanni5250"
         },
@@ -74484,6 +74556,15 @@
       },
       {
         "player": {
+          "id": 67147,
+          "name": "[POIKA] unkka"
+        },
+        "progress": 89,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RBi3ATuDVYM"
+      },
+      {
+        "player": {
           "id": 55149,
           "name": "BarGames"
         },
@@ -75421,6 +75502,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=H-EA1wfoFOA"
+      },
+      {
+        "player": {
+          "id": 67290,
+          "name": "Mooma"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=giLPRxm_IVo"
       },
       {
         "player": {
@@ -87222,6 +87312,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Q5eNr6b7Ga0"
+      },
+      {
+        "player": {
+          "id": 52767,
+          "name": "[BHO] ItzMira"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7mPDEwH-UpY"
       },
       {
         "player": {
@@ -103948,6 +104047,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=JQqBkn0O8wU"
+      },
+      {
+        "player": {
+          "id": 56588,
+          "name": "spookkd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0xtwDb1By4Y"
       },
       {
         "player": {
