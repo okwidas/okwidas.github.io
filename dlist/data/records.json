@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T00:18:44Z",
+  "updated_at": "2026-11-01T03:30:15Z",
   "demons": {
     "250": [
       {
@@ -37876,6 +37876,15 @@
       },
       {
         "player": {
+          "id": 39025,
+          "name": "TDNeil79"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=F7xAUotn7-M"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -58199,6 +58208,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=u3_bABHP6IU"
+      },
+      {
+        "player": {
+          "id": 72911,
+          "name": "Shissgd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1hD4u529BCI"
+      },
+      {
+        "player": {
+          "id": 71069,
+          "name": "Luvo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fZE9z_Kj6N0"
       },
       {
         "player": {
@@ -97551,6 +97578,15 @@
       },
       {
         "player": {
+          "id": 60218,
+          "name": "necrolord"
+        },
+        "progress": 87,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=PGRV2bL0oXU"
+      },
+      {
+        "player": {
           "id": 63767,
           "name": "[67] aidanhh"
         },
@@ -103294,6 +103330,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=LnTvr2XGrGY"
+      },
+      {
+        "player": {
+          "id": 38003,
+          "name": "pohgii"
+        },
+        "progress": 85,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=F3V-qCONQnA"
       }
     ],
     "681": [
@@ -105664,6 +105709,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=i1DkJfliPVg"
+      },
+      {
+        "player": {
+          "id": 52972,
+          "name": "TrueInverse"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2QFCutG8it8"
       }
     ],
     "695": [

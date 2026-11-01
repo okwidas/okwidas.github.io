@@ -1045,8 +1045,27 @@
     "level_id": 113322063
   },
   {
-    "id": 739,
+    "id": 658,
     "position": 56,
+    "name": "Snowbound",
+    "requirement": 68,
+    "video": "https://www.youtube.com/watch?v=cjHwgbtAkXU",
+    "thumbnail": "https://i.ytimg.com/vi/cjHwgbtAkXU/mqdefault.jpg",
+    "publisher": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "verifier": {
+      "id": 51878,
+      "name": "[JUICE] Amplitron",
+      "banned": false
+    },
+    "level_id": 120289520
+  },
+  {
+    "id": 739,
+    "position": 57,
     "name": "Shadow Of The Past",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=LEyo0LJV8os",
@@ -1065,7 +1084,7 @@
   },
   {
     "id": 740,
-    "position": 57,
+    "position": 58,
     "name": "ace",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=7uYghOdos8I",
@@ -1084,7 +1103,7 @@
   },
   {
     "id": 379,
-    "position": 58,
+    "position": 59,
     "name": "Firework",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=QBe5x2o9v2w",
@@ -1103,7 +1122,7 @@
   },
   {
     "id": 663,
-    "position": 59,
+    "position": 60,
     "name": "Through The Gates",
     "requirement": 90,
     "video": "https://www.youtube.com/watch?v=4yHA6jux5UI",
@@ -1122,7 +1141,7 @@
   },
   {
     "id": 587,
-    "position": 60,
+    "position": 61,
     "name": "KOSETSU",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=hZ8vFX8z_BU",
@@ -1141,7 +1160,7 @@
   },
   {
     "id": 667,
-    "position": 61,
+    "position": 62,
     "name": "Voltage",
     "requirement": 57,
     "video": "https://www.youtube.com/watch?v=wBRvBN9tmlc",
@@ -1160,7 +1179,7 @@
   },
   {
     "id": 673,
-    "position": 62,
+    "position": 63,
     "name": "NOMAD",
     "requirement": 72,
     "video": "https://www.youtube.com/watch?v=H2TkHbEX__A",
@@ -1176,25 +1195,6 @@
       "banned": false
     },
     "level_id": 115077305
-  },
-  {
-    "id": 658,
-    "position": 63,
-    "name": "Snowbound",
-    "requirement": 68,
-    "video": "https://www.youtube.com/watch?v=cjHwgbtAkXU",
-    "thumbnail": "https://i.ytimg.com/vi/cjHwgbtAkXU/mqdefault.jpg",
-    "publisher": {
-      "id": 51878,
-      "name": "[JUICE] Amplitron",
-      "banned": false
-    },
-    "verifier": {
-      "id": 51878,
-      "name": "[JUICE] Amplitron",
-      "banned": false
-    },
-    "level_id": 120289520
   },
   {
     "id": 705,
