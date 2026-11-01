@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:14:18Z",
+  "updated_at": "2026-11-01T00:18:44Z",
   "demons": {
     "250": [
       {
@@ -23826,6 +23826,15 @@
       },
       {
         "player": {
+          "id": 63356,
+          "name": "[IQB7] BooKnQuiL"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=krGB1-N4X_E"
+      },
+      {
+        "player": {
           "id": 69610,
           "name": "Emrauld"
         },
@@ -25137,15 +25146,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YYDK1Xx2sjk"
-      },
-      {
-        "player": {
-          "id": 63356,
-          "name": "[IQB7] BooKnQuiL"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Q7dwNv93OTc"
       },
       {
         "player": {
@@ -31544,6 +31544,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nIo4J_7-vFM"
+      },
+      {
+        "player": {
+          "id": 66469,
+          "name": "Rando"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=K0Dx2baTUMQ"
       },
       {
         "player": {
@@ -58184,6 +58193,15 @@
       },
       {
         "player": {
+          "id": 67540,
+          "name": "[RIVER] bugubag"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=u3_bABHP6IU"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -61137,6 +61155,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=b3NHe2rlYOQ"
+      },
+      {
+        "player": {
+          "id": 63696,
+          "name": "SplitGMD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=i68TcsWPmpY"
       },
       {
         "player": {
@@ -70948,21 +70975,21 @@
       },
       {
         "player": {
+          "id": 51458,
+          "name": "[TCC] Waffle12"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MMY8MdvlzOQ"
+      },
+      {
+        "player": {
           "id": 52491,
           "name": "RaizingGD"
         },
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=D1yYVTCRzD8"
-      },
-      {
-        "player": {
-          "id": 51458,
-          "name": "[TCC] Waffle12"
-        },
-        "progress": 92,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=7Foq9AH7H44"
       },
       {
         "player": {
@@ -96857,6 +96884,15 @@
       },
       {
         "player": {
+          "id": 63809,
+          "name": "Elapsed"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HEynpJ8NFiE"
+      },
+      {
+        "player": {
           "id": 64379,
           "name": "[j] Chaos"
         },
@@ -96980,15 +97016,6 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=73TFg0JKsrQ"
-      },
-      {
-        "player": {
-          "id": 63809,
-          "name": "Elapsed"
-        },
-        "progress": 76,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=R-i9SfqR8EQ"
       },
       {
         "player": {
@@ -104047,6 +104074,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=JQqBkn0O8wU"
+      },
+      {
+        "player": {
+          "id": 40736,
+          "name": "[STACK] CHOOONK"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bgbXopvYaDw"
       },
       {
         "player": {
