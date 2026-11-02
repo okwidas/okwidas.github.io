@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:28:01Z",
+  "updated_at": "2026-11-02T10:42:51Z",
   "demons": {
     "250": [
       {
@@ -50952,7 +50952,7 @@
       {
         "player": {
           "id": 60420,
-          "name": "Rylanmmb"
+          "name": "[STACK] Rylanmmb"
         },
         "progress": 100,
         "status": "approved",
@@ -51389,6 +51389,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wTB29zjn3uI"
+      },
+      {
+        "player": {
+          "id": 62342,
+          "name": "[DOUD] Because_im_lulu"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6HmU-Wt4RDQ"
       },
       {
         "player": {
@@ -58409,6 +58418,24 @@
       },
       {
         "player": {
+          "id": 53270,
+          "name": "Hazel_"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iEzmThfma9s"
+      },
+      {
+        "player": {
+          "id": 66092,
+          "name": "godiskdjei"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=i3H1Yp92-So"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -61497,6 +61524,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=6CycsuCKlf8"
+      },
+      {
+        "player": {
+          "id": 59244,
+          "name": "[WCL] NotDragon"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SSjAIfyCCxg"
       },
       {
         "player": {
@@ -65922,6 +65958,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=DnpRTl8pmKg"
+      },
+      {
+        "player": {
+          "id": 42337,
+          "name": "[MOON] Karma"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7dpNH7Q5izQ"
       },
       {
         "player": {
@@ -78853,7 +78898,7 @@
       {
         "player": {
           "id": 60420,
-          "name": "Rylanmmb"
+          "name": "[STACK] Rylanmmb"
         },
         "progress": 100,
         "status": "approved",
@@ -92723,7 +92768,7 @@
       {
         "player": {
           "id": 60420,
-          "name": "Rylanmmb"
+          "name": "[STACK] Rylanmmb"
         },
         "progress": 70,
         "status": "approved",
@@ -106042,6 +106087,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2QFCutG8it8"
+      },
+      {
+        "player": {
+          "id": 63809,
+          "name": "Elapsed"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1scvTR4TcV4"
       }
     ],
     "695": [
@@ -107040,7 +107094,7 @@
       {
         "player": {
           "id": 60420,
-          "name": "Rylanmmb"
+          "name": "[STACK] Rylanmmb"
         },
         "progress": 100,
         "status": "approved",
