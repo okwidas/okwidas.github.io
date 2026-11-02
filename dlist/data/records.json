@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:44:19Z",
+  "updated_at": "2026-11-02T00:28:01Z",
   "demons": {
     "250": [
       {
@@ -18701,6 +18701,24 @@
       },
       {
         "player": {
+          "id": 58607,
+          "name": "[TEC] Deez"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UM96Lj8sCok"
+      },
+      {
+        "player": {
+          "id": 58411,
+          "name": "TwiDeck"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=gXoZN3lp7kI"
+      },
+      {
+        "player": {
           "id": 2195,
           "name": "[HOLA] Evilseph83"
         },
@@ -20896,6 +20914,15 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CUMVvHoq_mk"
+      },
+      {
+        "player": {
+          "id": 67603,
+          "name": "Bon"
+        },
+        "progress": 81,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iKJu0-PlML4"
       },
       {
         "player": {
@@ -37921,6 +37948,15 @@
       },
       {
         "player": {
+          "id": 72873,
+          "name": "vecspi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bjbHjXeR79g"
+      },
+      {
+        "player": {
           "id": 59791,
           "name": "Verminity [FOWL]"
         },
@@ -48762,6 +48798,15 @@
       },
       {
         "player": {
+          "id": 52259,
+          "name": "[HRYZ] Pluntix"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=lIo9OKoj5VM"
+      },
+      {
+        "player": {
           "id": 64302,
           "name": "mlgmario13"
         },
@@ -48993,6 +49038,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MoyrMcc3lv8"
+      },
+      {
+        "player": {
+          "id": 69437,
+          "name": "Maciejeczka"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WPFhf6PuKtI"
       },
       {
         "player": {
@@ -90956,6 +91010,15 @@
       },
       {
         "player": {
+          "id": 52477,
+          "name": "Heeru"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wCKNtjCurS8"
+      },
+      {
+        "player": {
           "id": 65324,
           "name": "[OX] zsakos"
         },
@@ -97289,6 +97352,15 @@
       },
       {
         "player": {
+          "id": 65246,
+          "name": "Riann"
+        },
+        "progress": 72,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6IBjn_1c-DE"
+      },
+      {
+        "player": {
           "id": 40917,
           "name": "zDusti"
         },
@@ -102671,6 +102743,15 @@
       },
       {
         "player": {
+          "id": 65768,
+          "name": "bob_vi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BkW0Ut7Jnt0"
+      },
+      {
+        "player": {
           "id": 42494,
           "name": "[JUICE] Trees"
         },
@@ -102686,15 +102767,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Dx_sKZJVQ3w"
-      },
-      {
-        "player": {
-          "id": 65768,
-          "name": "bob_vi"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=c7QBLt6t5oI"
       },
       {
         "player": {
@@ -107243,6 +107315,15 @@
       },
       {
         "player": {
+          "id": 60735,
+          "name": "GDLNB"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=CekaLWc9PQQ"
+      },
+      {
+        "player": {
           "id": 63508,
           "name": "dinowifawtysm"
         },
@@ -107840,6 +107921,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=UTA0DLtyI_0"
+      },
+      {
+        "player": {
+          "id": 54729,
+          "name": "[ARMED] Trunki"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mc6k1DTurwU"
       }
     ],
     "739": [],
