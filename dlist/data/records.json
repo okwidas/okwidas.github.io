@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T10:43:11Z",
+  "updated_at": "2026-11-03T19:15:34Z",
   "demons": {
     "250": [
       {
@@ -7210,6 +7210,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=twxHXY0kpCg"
+      },
+      {
+        "player": {
+          "id": 50564,
+          "name": "BreadGuyGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=-1mSrGBtjTk"
       },
       {
         "player": {
@@ -51797,15 +51806,6 @@
       },
       {
         "player": {
-          "id": 72120,
-          "name": "geoalex7"
-        },
-        "progress": 73,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=2Tc7M5beSdQ"
-      },
-      {
-        "player": {
           "id": 61529,
           "name": "Jorvan765"
         },
@@ -68516,6 +68516,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0zPdWniJhlc"
+      },
+      {
+        "player": {
+          "id": 70487,
+          "name": "[HOLA] nines"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SWZjT3B1rjw"
       },
       {
         "player": {
