@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T19:34:49Z",
+  "updated_at": "2026-11-05T01:36:54Z",
   "demons": {
     "250": [
       {
@@ -15333,6 +15333,15 @@
       },
       {
         "player": {
+          "id": 72170,
+          "name": "PushLastname"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fGKAFKcYl5U"
+      },
+      {
+        "player": {
           "id": 56093,
           "name": "[SALAA] HunajaMeloni"
         },
@@ -28645,6 +28654,15 @@
       },
       {
         "player": {
+          "id": 35034,
+          "name": "[24hs] 金艮"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=T5sj5Ykh9hs"
+      },
+      {
+        "player": {
           "id": 35580,
           "name": "Conical"
         },
@@ -28696,15 +28714,6 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=cWVeSqCTR0A"
-      },
-      {
-        "player": {
-          "id": 35034,
-          "name": "[24hs] 金艮"
-        },
-        "progress": 81,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=T0gs-3-F1pc"
       },
       {
         "player": {
@@ -58370,6 +58379,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=oXv1mFW6zgI"
+      },
+      {
+        "player": {
+          "id": 71079,
+          "name": "BoopGMD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=G0ylRPPL9Vs"
       },
       {
         "player": {
@@ -98866,6 +98884,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=EbsPDwcmzjQ"
+      },
+      {
+        "player": {
+          "id": 72934,
+          "name": "TheLimeGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7fpFdTVkveA"
       }
     ],
     "642": [
@@ -101887,6 +101914,15 @@
         "progress": 93,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=dzeYxhi2OGc"
+      },
+      {
+        "player": {
+          "id": 72192,
+          "name": "Claous"
+        },
+        "progress": 93,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Dy7fgcaGnCI"
       },
       {
         "player": {
@@ -108136,6 +108172,15 @@
       }
     ],
     "715": [
+      {
+        "player": {
+          "id": 56330,
+          "name": "[MAOR] Syrcx"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wSnjj-lw6bU"
+      },
       {
         "player": {
           "id": 63392,
