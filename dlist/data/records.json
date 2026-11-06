@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:43:49Z",
+  "updated_at": "2026-11-06T10:41:40Z",
   "demons": {
     "250": [
       {
@@ -7255,6 +7255,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=-1mSrGBtjTk"
+      },
+      {
+        "player": {
+          "id": 60154,
+          "name": "Yacknee"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=SXpiNM4yh5g"
       },
       {
         "player": {
@@ -49410,6 +49419,15 @@
       },
       {
         "player": {
+          "id": 68234,
+          "name": "[MASI] graceful"
+        },
+        "progress": 90,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5_3qgo9MM5g"
+      },
+      {
+        "player": {
           "id": 67334,
           "name": "[APPLE] Batthumbs"
         },
@@ -49443,6 +49461,15 @@
         "progress": 83,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=GHsrtE_S7zA"
+      },
+      {
+        "player": {
+          "id": 71772,
+          "name": "xyiuyo"
+        },
+        "progress": 83,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=EC2njDzQRXU"
       },
       {
         "player": {
@@ -58982,6 +59009,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=kOl2GJenGbs"
+      },
+      {
+        "player": {
+          "id": 73053,
+          "name": "Dubby"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.twitch.tv/videos/2918128395"
       },
       {
         "player": {
@@ -104790,6 +104826,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=sH_iSI8PlZ8"
+      },
+      {
+        "player": {
+          "id": 58039,
+          "name": "Tired"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rI0U7Q6_9Co"
       }
     ],
     "682": [
@@ -107623,6 +107668,15 @@
       },
       {
         "player": {
+          "id": 72747,
+          "name": "Zaffy"
+        },
+        "progress": 65,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BKmu0d2NGV8"
+      },
+      {
+        "player": {
           "id": 72185,
           "name": "kyno"
         },
@@ -108500,6 +108554,15 @@
         "progress": 67,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HWcHpcUh184"
+      },
+      {
+        "player": {
+          "id": 64323,
+          "name": "peekingurangle"
+        },
+        "progress": 67,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zZrwHLmAqTM"
       }
     ],
     "714": [
@@ -108540,6 +108603,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wSnjj-lw6bU"
+      },
+      {
+        "player": {
+          "id": 37748,
+          "name": "[OG] ProudGiraffe311"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ctTIylXl0ro"
       },
       {
         "player": {
