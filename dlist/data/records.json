@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:57:38Z",
+  "updated_at": "2026-11-07T09:51:05Z",
   "demons": {
     "250": [
       {
@@ -9141,7 +9141,7 @@
       },
       {
         "player": {
-          "id": 53676,
+          "id": 54315,
           "name": "[COLA] cowslice"
         },
         "progress": 100,
@@ -88874,6 +88874,15 @@
       },
       {
         "player": {
+          "id": 59159,
+          "name": "Al3xTT"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=z581dwqNsgg"
+      },
+      {
+        "player": {
           "id": 58973,
           "name": "MIxselPL"
         },
@@ -92740,7 +92749,7 @@
       },
       {
         "player": {
-          "id": 53676,
+          "id": 54315,
           "name": "[COLA] cowslice"
         },
         "progress": 100,
