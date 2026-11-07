@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:51:05Z",
+  "updated_at": "2026-11-07T17:35:33Z",
   "demons": {
     "250": [
       {
@@ -24222,6 +24222,24 @@
       },
       {
         "player": {
+          "id": 72711,
+          "name": "AndreiGA"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LwrXUKM1dGQ"
+      },
+      {
+        "player": {
+          "id": 52457,
+          "name": "[GEGE] Reapavon"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zRr0pQqUug0"
+      },
+      {
+        "player": {
           "id": 71511,
           "name": "ainiru"
         },
@@ -24300,6 +24318,15 @@
         "progress": 95,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2eQv0jFw1nk"
+      },
+      {
+        "player": {
+          "id": 63386,
+          "name": "woolfys"
+        },
+        "progress": 95,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=PoBrO3xMgxU"
       },
       {
         "player": {
@@ -24411,15 +24438,6 @@
       },
       {
         "player": {
-          "id": 52457,
-          "name": "[GEGE] Reapavon"
-        },
-        "progress": 92,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=DJe0Okm31a4"
-      },
-      {
-        "player": {
           "id": 66165,
           "name": "[MONDÁ] Staixz"
         },
@@ -24444,15 +24462,6 @@
         "progress": 91,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BJXGY2CDmUo"
-      },
-      {
-        "player": {
-          "id": 63386,
-          "name": "woolfys"
-        },
-        "progress": 91,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=2dDQgT9RsaU"
       },
       {
         "player": {
@@ -47374,6 +47383,15 @@
       },
       {
         "player": {
+          "id": 41871,
+          "name": "[SEREK] Sharpzera"
+        },
+        "progress": 73,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Lrt6I8394E0"
+      },
+      {
+        "player": {
           "id": 40101,
           "name": "[HUFS] Clutter"
         },
@@ -49416,6 +49434,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BVWTg4GKPzA"
+      },
+      {
+        "player": {
+          "id": 60043,
+          "name": "[GTS] Gamingbyte"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IqPiT4TfM7w"
       },
       {
         "player": {
@@ -59093,6 +59120,15 @@
       },
       {
         "player": {
+          "id": 73074,
+          "name": "ddro"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Aq5_-ZwnkdM"
+      },
+      {
+        "player": {
           "id": 64379,
           "name": "[j] Chaos"
         },
@@ -66726,6 +66762,15 @@
       },
       {
         "player": {
+          "id": 57625,
+          "name": "HexzGMD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=V9EgTpv3hxQ"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -69047,6 +69092,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nOTO1NpR4NU"
+      },
+      {
+        "player": {
+          "id": 64034,
+          "name": "uzuudeen"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=k2S-yF43XOc"
       },
       {
         "player": {
@@ -82880,6 +82934,15 @@
       },
       {
         "player": {
+          "id": 56330,
+          "name": "[MAOR] Syrcx"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JU-FdB_-oZQ"
+      },
+      {
+        "player": {
           "id": 32792,
           "name": "[HOLA] Klopz"
         },
@@ -82913,15 +82976,6 @@
         "progress": 86,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wuSzsNXH8tE"
-      },
-      {
-        "player": {
-          "id": 56330,
-          "name": "[MAOR] Syrcx"
-        },
-        "progress": 85,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=uLyk65FZiqg"
       },
       {
         "player": {
