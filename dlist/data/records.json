@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:35:33Z",
+  "updated_at": "2026-11-07T21:39:30Z",
   "demons": {
     "250": [
       {
@@ -24399,6 +24399,15 @@
         "progress": 93,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7YP5vRn5GX0"
+      },
+      {
+        "player": {
+          "id": 69845,
+          "name": "Noxureta"
+        },
+        "progress": 93,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ki7Bu9CUJWI"
       },
       {
         "player": {
@@ -98423,6 +98432,15 @@
       },
       {
         "player": {
+          "id": 44789,
+          "name": "[ZOBRO] KubeczekTV"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QT3NZjVyFjM"
+      },
+      {
+        "player": {
           "id": 72253,
           "name": "FloLink212"
         },
@@ -108021,9 +108039,9 @@
           "id": 63188,
           "name": "BliYod"
         },
-        "progress": 86,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=9hGeX2HYIBE"
+        "video": "https://www.youtube.com/watch?v=ggRHyKt_z8U"
       },
       {
         "player": {
