@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T03:37:30Z",
+  "updated_at": "2026-11-08T12:51:23Z",
   "demons": {
     "250": [
       {
@@ -419,7 +419,7 @@
       {
         "player": {
           "id": 5234,
-          "name": "kay."
+          "name": "hlcyn"
         },
         "progress": 100,
         "status": "approved",
@@ -8224,7 +8224,7 @@
       {
         "player": {
           "id": 5234,
-          "name": "kay."
+          "name": "hlcyn"
         },
         "progress": 100,
         "status": "approved",
@@ -19118,7 +19118,7 @@
       {
         "player": {
           "id": 5234,
-          "name": "kay."
+          "name": "hlcyn"
         },
         "progress": 100,
         "status": "approved",
@@ -21061,6 +21061,15 @@
       },
       {
         "player": {
+          "id": 60813,
+          "name": "yomayoCB"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=w8snVPnAqvE"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -21274,15 +21283,6 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hGAY82VZPj0"
-      },
-      {
-        "player": {
-          "id": 60813,
-          "name": "yomayoCB"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=skkw1RFj_-Q"
       }
     ],
     "380": [
@@ -31443,6 +31443,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=08_0p1JAPDA"
+      },
+      {
+        "player": {
+          "id": 50825,
+          "name": "Exquisite"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qNOaxuOPfTY"
       },
       {
         "player": {
@@ -54304,7 +54313,7 @@
       {
         "player": {
           "id": 5234,
-          "name": "kay."
+          "name": "hlcyn"
         },
         "progress": 80,
         "status": "approved",
@@ -102204,7 +102213,7 @@
       {
         "player": {
           "id": 72167,
-          "name": "punpito"
+          "name": "[j] punpito"
         },
         "progress": 100,
         "status": "approved",
@@ -104189,6 +104198,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=5T3Ym_ToUBM"
+      },
+      {
+        "player": {
+          "id": 73084,
+          "name": "JackoXD⁩"
+        },
+        "progress": 73,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FmhabzMu-eI"
       }
     ],
     "674": [
