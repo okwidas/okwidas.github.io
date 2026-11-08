@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T12:51:23Z",
+  "updated_at": "2026-11-08T19:40:58Z",
   "demons": {
     "250": [
       {
@@ -24183,6 +24183,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=krGB1-N4X_E"
+      },
+      {
+        "player": {
+          "id": 56333,
+          "name": "Vaskiat"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=pIsSZjCyWlg"
       },
       {
         "player": {
@@ -63898,6 +63907,15 @@
       },
       {
         "player": {
+          "id": 52259,
+          "name": "[HRYZ] Pluntix"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uDdsbGRJYA8"
+      },
+      {
+        "player": {
           "id": 63808,
           "name": "syrisGD"
         },
@@ -99141,6 +99159,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=DPDOHUZlsUc"
+      },
+      {
+        "player": {
+          "id": 34896,
+          "name": "Franzy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7nsadsvgQUw"
       },
       {
         "player": {
