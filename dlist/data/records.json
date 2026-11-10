@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:22:22Z",
+  "updated_at": "2026-11-10T21:33:28Z",
   "demons": {
     "250": [
       {
@@ -24798,6 +24798,15 @@
       },
       {
         "player": {
+          "id": 72322,
+          "name": "orbPT"
+        },
+        "progress": 86,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8mIQPdrlhqs"
+      },
+      {
+        "player": {
           "id": 39488,
           "name": "[SGD] CookieIsMine"
         },
@@ -25641,15 +25650,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0xqzdlGfhzU"
-      },
-      {
-        "player": {
-          "id": 72322,
-          "name": "orbPT"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=f3W9mdVCdYg"
       },
       {
         "player": {
@@ -38596,6 +38596,15 @@
       },
       {
         "player": {
+          "id": 39343,
+          "name": "gmdlagcube"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=XNlqgKEDb9g"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -49758,6 +49767,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=6mFyt_iNABs"
+      },
+      {
+        "player": {
+          "id": 41252,
+          "name": "[YTG] fwin"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tu_KdM39oPk"
       },
       {
         "player": {
@@ -62505,6 +62523,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=FpBVWdywESw"
+      },
+      {
+        "player": {
+          "id": 61282,
+          "name": "Tigger4046"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1uSxBaTXDEE"
       },
       {
         "player": {
@@ -105203,6 +105230,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=gCQYw_0bQYE"
+      },
+      {
+        "player": {
+          "id": 52394,
+          "name": "YoshiiPz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HkUrCqnJsao"
       },
       {
         "player": {
