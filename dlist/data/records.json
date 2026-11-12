@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T05:14:28Z",
+  "updated_at": "2026-11-12T14:39:20Z",
   "demons": {
     "250": [
       {
@@ -15990,6 +15990,15 @@
       },
       {
         "player": {
+          "id": 73123,
+          "name": "1nsani1ty"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=J4BDsKDV3g4"
+      },
+      {
+        "player": {
           "id": 55753,
           "name": "[999] Thisisfcp"
         },
@@ -27083,6 +27092,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=1LY7bUI75Y8"
+      },
+      {
+        "player": {
+          "id": 59468,
+          "name": "luisf12321"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MNu2gG_Yy0k"
       },
       {
         "player": {
@@ -40427,6 +40445,15 @@
       },
       {
         "player": {
+          "id": 58986,
+          "name": "eternalluna"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FBH5TJZfLb4"
+      },
+      {
+        "player": {
           "id": 63438,
           "name": "Chiikawa"
         },
@@ -40550,15 +40577,6 @@
         "progress": 65,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hmkQJ-LQ5Jg"
-      },
-      {
-        "player": {
-          "id": 58986,
-          "name": "eternalluna"
-        },
-        "progress": 65,
-        "status": "approved",
-        "video": "https://www.bilibili.com/video/BV1wjjT6YEnT"
       },
       {
         "player": {
@@ -81311,21 +81329,21 @@
       },
       {
         "player": {
+          "id": 35544,
+          "name": "[FAX] Zoink Doink"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ccKr2ckKcFg"
+      },
+      {
+        "player": {
           "id": 53189,
           "name": "[SARK] 1ssky"
         },
         "progress": 82,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=YziL0yo8pUs"
-      },
-      {
-        "player": {
-          "id": 35544,
-          "name": "[FAX] Zoink Doink"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=uSLPZPQaKCE"
       }
     ],
     "555": [
