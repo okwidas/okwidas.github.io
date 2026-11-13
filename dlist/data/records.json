@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T14:02:46Z",
+  "updated_at": "2026-11-13T21:31:09Z",
   "demons": {
     "250": [
       {
@@ -7300,6 +7300,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iv9ghP_o3xs"
+      },
+      {
+        "player": {
+          "id": 62366,
+          "name": "Hexzo"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RuMK0HB-iV4"
+      },
+      {
+        "player": {
+          "id": 73216,
+          "name": "AngelDxst"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YarbNuSIBOk"
       },
       {
         "player": {
@@ -45480,6 +45498,15 @@
       },
       {
         "player": {
+          "id": 55567,
+          "name": "[SKY] TopzeraYT"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7NXwCoNm3RQ"
+      },
+      {
+        "player": {
           "id": 72272,
           "name": "[GBLUD] Zahgee"
         },
@@ -59102,6 +59129,15 @@
       },
       {
         "player": {
+          "id": 71968,
+          "name": "KanOne_"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HtD7wc93xUI"
+      },
+      {
+        "player": {
           "id": 61554,
           "name": "lemonliam"
         },
@@ -61213,9 +61249,9 @@
           "id": 57992,
           "name": "Arouvis"
         },
-        "progress": 87,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Q9A7s0R7iR8"
+        "video": "https://www.youtube.com/watch?v=LN7MFd-e-kw"
       },
       {
         "player": {
@@ -69731,6 +69767,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=pM4UkjpviFY"
+      },
+      {
+        "player": {
+          "id": 58393,
+          "name": "TheOblivionGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_LD8I8TY9ZA"
       },
       {
         "player": {
@@ -83245,6 +83290,15 @@
       },
       {
         "player": {
+          "id": 73191,
+          "name": "Laki"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BXz0JnYTWys"
+      },
+      {
+        "player": {
           "id": 53731,
           "name": "[COMET] sock"
         },
@@ -89666,6 +89720,15 @@
       },
       {
         "player": {
+          "id": 57417,
+          "name": "[RF] Trixsm"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8rLGy6MqjX8"
+      },
+      {
+        "player": {
           "id": 58973,
           "name": "MIxselPL"
         },
@@ -89690,15 +89753,6 @@
         "progress": 91,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Er_eLhwffd0"
-      },
-      {
-        "player": {
-          "id": 57417,
-          "name": "[RF] Trixsm"
-        },
-        "progress": 90,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=5HgmoUh8BxE"
       },
       {
         "player": {
@@ -101841,6 +101895,15 @@
         "progress": 72,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Fiv0ADg8K2k"
+      },
+      {
+        "player": {
+          "id": 63670,
+          "name": "marcix"
+        },
+        "progress": 71,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zPASIXDRX_I"
       }
     ],
     "659": [
@@ -108367,6 +108430,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=21AucRgD3EQ"
+      },
+      {
+        "player": {
+          "id": 37331,
+          "name": "[LASER] Laysah"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=z0Fv6dycwqQ"
       }
     ],
     "702": [],
