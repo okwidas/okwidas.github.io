@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:25:44Z",
+  "updated_at": "2026-11-13T14:02:46Z",
   "demons": {
     "250": [
       {
@@ -3317,7 +3317,7 @@
       {
         "player": {
           "id": 36757,
-          "name": "[MEALY] redd"
+          "name": "phoebii77"
         },
         "progress": 100,
         "status": "approved",
@@ -21232,6 +21232,15 @@
       },
       {
         "player": {
+          "id": 57417,
+          "name": "[RF] Trixsm"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tVL_U3TuhsI"
+      },
+      {
+        "player": {
           "id": 69118,
           "name": "babybeeee"
         },
@@ -22648,7 +22657,7 @@
       {
         "player": {
           "id": 36757,
-          "name": "[MEALY] redd"
+          "name": "phoebii77"
         },
         "progress": 100,
         "status": "approved",
@@ -84103,6 +84112,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7tr9nBBKzcg"
+      },
+      {
+        "player": {
+          "id": 73144,
+          "name": "Mrbossman"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=VGHx78wcWig"
       },
       {
         "player": {
