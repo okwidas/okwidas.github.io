@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:31:09Z",
+  "updated_at": "2026-11-14T04:23:22Z",
   "demons": {
     "250": [
       {
@@ -29113,6 +29113,15 @@
       },
       {
         "player": {
+          "id": 62986,
+          "name": "noobyguy1"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=W0rYlJN3lWU"
+      },
+      {
+        "player": {
           "id": 71213,
           "name": "[RIVER] Cclixgd"
         },
@@ -29461,6 +29470,15 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=TWBQ5j1H8dk"
+      },
+      {
+        "player": {
+          "id": 51440,
+          "name": "[HOLA] agatha"
+        },
+        "progress": 69,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=T9F_Vi9oW04"
       }
     ],
     "393": [
@@ -64447,21 +64465,21 @@
       },
       {
         "player": {
+          "id": 62084,
+          "name": "iruseu"
+        },
+        "progress": 87,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JxKyJ7yRZvA"
+      },
+      {
+        "player": {
           "id": 54705,
           "name": "KlimK"
         },
         "progress": 83,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HF0t8DgaagQ"
-      },
-      {
-        "player": {
-          "id": 62084,
-          "name": "iruseu"
-        },
-        "progress": 81,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=MOt_Mxk1J_c"
       },
       {
         "player": {
@@ -94486,6 +94504,15 @@
       },
       {
         "player": {
+          "id": 60420,
+          "name": "[STACK] Rylanmmb"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xx9aiAG8tDI"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -94636,15 +94663,6 @@
         "progress": 72,
         "status": "approved",
         "video": "https://vimeo.com/1218300207"
-      },
-      {
-        "player": {
-          "id": 60420,
-          "name": "[STACK] Rylanmmb"
-        },
-        "progress": 70,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=-e4C4kWiI14"
       },
       {
         "player": {
@@ -96231,6 +96249,15 @@
       },
       {
         "player": {
+          "id": 56927,
+          "name": "Christuhh"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=EeHEFO7oyy8"
+      },
+      {
+        "player": {
           "id": 61187,
           "name": "Shub"
         },
@@ -96264,15 +96291,6 @@
         "progress": 78,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7TgTQgxlpzY"
-      },
-      {
-        "player": {
-          "id": 56927,
-          "name": "Christuhh"
-        },
-        "progress": 77,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=QU2n3DdkoK8"
       },
       {
         "player": {
@@ -102945,6 +102963,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=a8qhEe1cbfM"
+      },
+      {
+        "player": {
+          "id": 73230,
+          "name": "merccry"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LJpDpJNj1YY"
       }
     ],
     "663": [
@@ -108588,6 +108615,15 @@
         "progress": 50,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=fA2E2kZRa2M"
+      },
+      {
+        "player": {
+          "id": 73145,
+          "name": "Deforklift"
+        },
+        "progress": 46,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=YUD7Ii7WVYA"
       },
       {
         "player": {
