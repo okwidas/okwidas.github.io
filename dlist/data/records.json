@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:08:02Z",
+  "updated_at": "2026-11-14T20:00:55Z",
   "demons": {
     "250": [
       {
@@ -6593,7 +6593,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -20900,7 +20900,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -24313,7 +24313,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -32187,7 +32187,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -72434,7 +72434,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -76258,7 +76258,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -78658,7 +78658,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -89829,7 +89829,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 75,
         "status": "approved",
@@ -103651,6 +103651,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CY4MVaI81RQ"
+      },
+      {
+        "player": {
+          "id": 73264,
+          "name": "Fizzlen"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Fgg4O52FyL8"
       }
     ],
     "667": [
@@ -105652,7 +105661,7 @@
       {
         "player": {
           "id": 63866,
-          "name": "veyra"
+          "name": "[MOON] veyra"
         },
         "progress": 100,
         "status": "approved",
@@ -108860,6 +108869,15 @@
         "progress": 65,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BKmu0d2NGV8"
+      },
+      {
+        "player": {
+          "id": 41174,
+          "name": "Turt1e"
+        },
+        "progress": 64,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=RO6BCMwCAkE"
       },
       {
         "player": {
