@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:23:22Z",
+  "updated_at": "2026-11-14T13:08:02Z",
   "demons": {
     "250": [
       {
@@ -16050,6 +16050,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=PItugbPYiKs"
+      },
+      {
+        "player": {
+          "id": 73113,
+          "name": "Suv123"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zZ2obBKAPM0"
       },
       {
         "player": {
@@ -49977,6 +49986,15 @@
       },
       {
         "player": {
+          "id": 34881,
+          "name": "DarkTD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=2-P4AYK_90I"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -62784,6 +62802,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=1uSxBaTXDEE"
+      },
+      {
+        "player": {
+          "id": 58663,
+          "name": "[SALAA] Vallufinland"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=19ka6fD84MM"
       },
       {
         "player": {
@@ -76530,9 +76557,9 @@
           "id": 67147,
           "name": "[POIKA] unkka"
         },
-        "progress": 89,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=RBi3ATuDVYM"
+        "video": "https://www.youtube.com/watch?v=kSYkdxN7Sb0"
       },
       {
         "player": {
@@ -103268,9 +103295,9 @@
           "id": 70401,
           "name": "purrzzival"
         },
-        "progress": 96,
+        "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=LT6IjfSzBDY"
+        "video": "https://www.youtube.com/watch?v=bbOrd5W1Isw"
       },
       {
         "player": {
@@ -110205,6 +110232,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=VoWbtqpQHeQ"
+      },
+      {
+        "player": {
+          "id": 67617,
+          "name": "KvakoGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rhXS429RiDo"
       }
     ],
     "728": [],
