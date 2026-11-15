@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T00:57:47Z",
+  "updated_at": "2026-11-15T10:33:47Z",
   "demons": {
     "250": [
       {
@@ -19121,6 +19121,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=asJi8ACVPpM"
+      },
+      {
+        "player": {
+          "id": 73245,
+          "name": "Silver Bullet"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.bilibili.com/video/BV1aEW96AEhg"
       },
       {
         "player": {
@@ -38803,6 +38812,15 @@
       },
       {
         "player": {
+          "id": 68007,
+          "name": "буянчик"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qf6oczeiMdU"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -47698,6 +47716,15 @@
       },
       {
         "player": {
+          "id": 70592,
+          "name": "Miku Mayhem"
+        },
+        "progress": 97,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cOvbFvTWmVg"
+      },
+      {
+        "player": {
           "id": 39809,
           "name": "[AMEN] dellonz"
         },
@@ -47875,15 +47902,6 @@
         "progress": 73,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9uaApq_DOXU"
-      },
-      {
-        "player": {
-          "id": 70592,
-          "name": "Miku Mayhem"
-        },
-        "progress": 73,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=OtEFVd7jlxg"
       },
       {
         "player": {
@@ -50019,6 +50037,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2-P4AYK_90I"
+      },
+      {
+        "player": {
+          "id": 52917,
+          "name": "[아기엔더맨] Blebae"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Zd4IbzcVJBs"
       },
       {
         "player": {
@@ -59828,6 +59855,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7k5gxRt0nA8"
+      },
+      {
+        "player": {
+          "id": 72190,
+          "name": "cardy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=F_vDG41Zifs"
       },
       {
         "player": {
@@ -102006,6 +102042,15 @@
       },
       {
         "player": {
+          "id": 68659,
+          "name": "Hels"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uHADbMuVaOM"
+      },
+      {
+        "player": {
           "id": 61130,
           "name": "[SEREK] strikk"
         },
@@ -104955,21 +105000,21 @@
       },
       {
         "player": {
+          "id": 42494,
+          "name": "[JUICE] Trees"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TCMRBWTyc9Q"
+      },
+      {
+        "player": {
           "id": 57818,
           "name": "Laban"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nugyg3xoFVk"
-      },
-      {
-        "player": {
-          "id": 42494,
-          "name": "[JUICE] Trees"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=60tE75_P3sw"
       },
       {
         "player": {
@@ -107044,6 +107089,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=v3JW5H4SZ-8"
+      },
+      {
+        "player": {
+          "id": 51070,
+          "name": "[MEALY] zLevii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=w2gLqM70C2M"
       },
       {
         "player": {
@@ -110595,6 +110649,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=l-nFYc7ji2k"
+      },
+      {
+        "player": {
+          "id": 68659,
+          "name": "Hels"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=l1SAabXIKVk"
       }
     ],
     "741": []
