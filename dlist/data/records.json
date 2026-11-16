@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T00:59:38Z",
+  "updated_at": "2026-11-16T10:48:01Z",
   "demons": {
     "250": [
       {
@@ -38902,6 +38902,24 @@
       },
       {
         "player": {
+          "id": 72124,
+          "name": "Crazywhw"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qwnGqnucC08"
+      },
+      {
+        "player": {
+          "id": 73251,
+          "name": "grechka084"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=93p2LNtUw-Y"
+      },
+      {
+        "player": {
           "id": 73252,
           "name": "Dihment"
         },
@@ -50175,6 +50193,15 @@
       },
       {
         "player": {
+          "id": 51411,
+          "name": "[ЗСУ] jerpa"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9lGj1v1sWFM"
+      },
+      {
+        "player": {
           "id": 59365,
           "name": "Crabicle"
         },
@@ -60008,6 +60035,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=6T3vj-Z_-LU"
+      },
+      {
+        "player": {
+          "id": 73222,
+          "name": "WeddedAuthor788"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=pmD9t05axmk"
       },
       {
         "player": {
@@ -70094,6 +70130,15 @@
       },
       {
         "player": {
+          "id": 67729,
+          "name": "[LCG] Andre0997"
+        },
+        "progress": 91,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=WY_RfamcSgM"
+      },
+      {
+        "player": {
           "id": 73151,
           "name": "StintlerGD"
         },
@@ -75586,6 +75631,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=agLZhqv9MC0"
+      },
+      {
+        "player": {
+          "id": 5234,
+          "name": "hlcyn"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=L2mzGPEUo84"
       },
       {
         "player": {
@@ -94846,6 +94900,15 @@
       },
       {
         "player": {
+          "id": 57992,
+          "name": "Arouvis"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=x87JHzJqJxU"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -99375,6 +99438,15 @@
       },
       {
         "player": {
+          "id": 52767,
+          "name": "[BHO] ItzMira"
+        },
+        "progress": 85,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tV-97MhXN5I"
+      },
+      {
+        "player": {
           "id": 64017,
           "name": "copi666"
         },
@@ -103699,6 +103771,15 @@
     "665": [
       {
         "player": {
+          "id": 36885,
+          "name": "Abloxite"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=BuQwMevBMj4"
+      },
+      {
+        "player": {
           "id": 41400,
           "name": "SealLover"
         },
@@ -103732,15 +103813,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=qX0H0sNWXiQ"
-      },
-      {
-        "player": {
-          "id": 36885,
-          "name": "Abloxite"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=BuQwMevBMj4"
       },
       {
         "player": {
@@ -109187,6 +109259,15 @@
     "705": [
       {
         "player": {
+          "id": 61410,
+          "name": "[didy] chips"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Z74oUtKo-co"
+      },
+      {
+        "player": {
           "id": 39121,
           "name": "[RF] Johnlikediamond"
         },
@@ -109202,15 +109283,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=U8I_jS3KZNE"
-      },
-      {
-        "player": {
-          "id": 61410,
-          "name": "[didy] chips"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Z74oUtKo-co"
       },
       {
         "player": {
@@ -109304,21 +109376,21 @@
       },
       {
         "player": {
+          "id": 59775,
+          "name": "[RHTE] TheFireInside"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=0NH_AunAF7E"
+      },
+      {
+        "player": {
           "id": 62619,
           "name": "Bacolor"
         },
         "progress": 90,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2_olEx1JOq4"
-      },
-      {
-        "player": {
-          "id": 59775,
-          "name": "[RHTE] TheFireInside"
-        },
-        "progress": 87,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=wMSt_m55su8"
       },
       {
         "player": {
@@ -110004,6 +110076,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CGwj-VqHwpQ"
+      },
+      {
+        "player": {
+          "id": 68010,
+          "name": "[IHGD] AbsoluteGMD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5nVHs6WRlrc"
       }
     ],
     "711": [
@@ -110984,6 +111065,16 @@
         "video": "https://www.youtube.com/watch?v=l1SAabXIKVk"
       }
     ],
-    "741": []
+    "741": [
+      {
+        "player": {
+          "id": 39121,
+          "name": "[RF] Johnlikediamond"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=nKGfJaD4MPs"
+      }
+    ]
   }
 }
