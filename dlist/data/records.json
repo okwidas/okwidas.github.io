@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:50:54Z",
+  "updated_at": "2026-11-17T06:04:42Z",
   "demons": {
     "250": [
       {
@@ -16089,6 +16089,15 @@
       },
       {
         "player": {
+          "id": 73237,
+          "name": "DPZY"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=h_WbCKtYJoY"
+      },
+      {
+        "player": {
           "id": 57849,
           "name": "[V2] Pop-cat_8-bit"
         },
@@ -25167,6 +25176,15 @@
       },
       {
         "player": {
+          "id": 53189,
+          "name": "[SARK] 1ssky"
+        },
+        "progress": 82,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=9HI59gDtrjk"
+      },
+      {
+        "player": {
           "id": 45020,
           "name": "zYosh"
         },
@@ -25740,6 +25758,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=MUCNpqga0pE"
+      },
+      {
+        "player": {
+          "id": 56749,
+          "name": "manuelmeep"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=o9k7_StC-wE"
       },
       {
         "player": {
@@ -54184,6 +54211,15 @@
       },
       {
         "player": {
+          "id": 41756,
+          "name": "NotNickOk"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=eq_NPnkU6DY"
+      },
+      {
+        "player": {
           "id": 52623,
           "name": "[EZ] AleZiniX"
         },
@@ -54253,15 +54289,6 @@
         "progress": 87,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=CVWNPRDfp4U"
-      },
-      {
-        "player": {
-          "id": 41756,
-          "name": "NotNickOk"
-        },
-        "progress": 83,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=2TrsUZhMoc8"
       },
       {
         "player": {
@@ -61603,6 +61630,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=LN7MFd-e-kw"
+      },
+      {
+        "player": {
+          "id": 72026,
+          "name": "SeaBird"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qUBYjHRsYQc"
       },
       {
         "player": {
@@ -70280,6 +70316,15 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HmYfS8s8klc"
+      },
+      {
+        "player": {
+          "id": 64625,
+          "name": "proxo"
+        },
+        "progress": 71,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=1-jL0hGtnZM"
       }
     ],
     "497": [
@@ -85683,6 +85728,15 @@
       },
       {
         "player": {
+          "id": 73240,
+          "name": "Makoto"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6Ui-KThKqys"
+      },
+      {
+        "player": {
           "id": 59562,
           "name": "carv"
         },
@@ -88633,6 +88687,15 @@
         "progress": 71,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=3_5d-YrX5CI"
+      },
+      {
+        "player": {
+          "id": 62874,
+          "name": "stayawhile"
+        },
+        "progress": 71,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8loWB8RrsXA"
       },
       {
         "player": {
@@ -101203,6 +101266,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nXgLSauKouU"
+      },
+      {
+        "player": {
+          "id": 70379,
+          "name": "[didy] monodynamics"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=260KNKIJwDQ"
       }
     ],
     "652": [
@@ -102736,6 +102808,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=an3THrWBBbQ"
+      },
+      {
+        "player": {
+          "id": 63915,
+          "name": "lua"
+        },
+        "progress": 89,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FydEPWMIK8A"
       },
       {
         "player": {
@@ -111010,6 +111091,15 @@
     ],
     "728": [],
     "729": [
+      {
+        "player": {
+          "id": 3488,
+          "name": "BigMacGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=xStCcKCCZYg"
+      },
       {
         "player": {
           "id": 61436,
