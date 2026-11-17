@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T06:04:42Z",
+  "updated_at": "2026-11-17T15:33:25Z",
   "demons": {
     "250": [
       {
@@ -21349,6 +21349,15 @@
       },
       {
         "player": {
+          "id": 70514,
+          "name": "Rastalennn"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=JvnD2jxCBCI"
+      },
+      {
+        "player": {
           "id": 66272,
           "name": "Zwariowany Wojtek"
         },
@@ -21472,15 +21481,6 @@
         "progress": 81,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iKJu0-PlML4"
-      },
-      {
-        "player": {
-          "id": 70514,
-          "name": "Rastalennn"
-        },
-        "progress": 81,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=GyGY5pnFnio"
       },
       {
         "player": {
@@ -24591,6 +24591,15 @@
       },
       {
         "player": {
+          "id": 72889,
+          "name": "EllJad."
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ErdXBLHuZu0"
+      },
+      {
+        "player": {
           "id": 71511,
           "name": "ainiru"
         },
@@ -25155,15 +25164,6 @@
         "progress": 82,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BIgBUtkJASU"
-      },
-      {
-        "player": {
-          "id": 72889,
-          "name": "EllJad."
-        },
-        "progress": 82,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=TeGdvkMD7CQ"
       },
       {
         "player": {
@@ -25965,6 +25965,15 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=NB184aNJt3I"
+      },
+      {
+        "player": {
+          "id": 73261,
+          "name": "Aaaapex"
+        },
+        "progress": 75,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=q6Ce3sA4O2c"
       }
     ],
     "383": [
@@ -50181,6 +50190,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=6mFyt_iNABs"
+      },
+      {
+        "player": {
+          "id": 34867,
+          "name": "Hexeract"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=FF6phKgR-ec"
       },
       {
         "player": {
@@ -102507,6 +102525,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Re2_Bdb7sV0"
+      },
+      {
+        "player": {
+          "id": 58667,
+          "name": "Rain"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=73lCqxazuDc"
       },
       {
         "player": {
