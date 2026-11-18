@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T11:18:57Z",
+  "updated_at": "2026-11-18T20:09:59Z",
   "demons": {
     "250": [
       {
@@ -6444,7 +6444,7 @@
         },
         "progress": 100,
         "status": "approved",
-        "video": "https://www.youtube.com/watch?v=YxDnu1Cc3B4"
+        "video": "https://www.youtube.com/watch?v=2S5IzfuhGc4"
       },
       {
         "player": {
@@ -7336,6 +7336,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=k2yXOAFtSr0"
+      },
+      {
+        "player": {
+          "id": 51771,
+          "name": "[TCC] Cork"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=iXRe2PZzGJw"
       },
       {
         "player": {
@@ -52958,6 +52967,15 @@
       },
       {
         "player": {
+          "id": 73277,
+          "name": "MrBananas"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5i-hEeHmN1U"
+      },
+      {
+        "player": {
           "id": 42010,
           "name": "[SEREK] Kramujo"
         },
@@ -89961,6 +89979,15 @@
       },
       {
         "player": {
+          "id": 40721,
+          "name": "[24hs] StarXV"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HjM6GnWXFmo"
+      },
+      {
+        "player": {
           "id": 37368,
           "name": "Kelvin"
         },
@@ -104859,6 +104886,15 @@
       },
       {
         "player": {
+          "id": 54395,
+          "name": "[GMT] mancersito"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=hAzOJPJ9Jy8"
+      },
+      {
+        "player": {
           "id": 52141,
           "name": "[SARK] Bamvie"
         },
@@ -107420,6 +107456,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=RN5Rx0B3Qb8"
+      },
+      {
+        "player": {
+          "id": 53286,
+          "name": "[MEALY] LAMINGTON"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4BEAwhshjRE"
       },
       {
         "player": {
@@ -110355,6 +110400,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=QNWsAkbUcxY"
+      },
+      {
+        "player": {
+          "id": 63356,
+          "name": "[IQB7] BooKnQuiL"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mIUy6OGFnrY"
       }
     ],
     "711": [
