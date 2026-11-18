@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T15:33:25Z",
+  "updated_at": "2026-11-18T00:37:09Z",
   "demons": {
     "250": [
       {
@@ -33763,15 +33763,6 @@
       },
       {
         "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=xKIRIrryaBo"
-      },
-      {
-        "player": {
           "id": 57381,
           "name": "[DLNW] RAASU"
         },
@@ -41506,15 +41497,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_PM7ijQEoBY"
-      },
-      {
-        "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=oGVsdYed8JI"
       },
       {
         "player": {
@@ -60110,6 +60092,15 @@
       },
       {
         "player": {
+          "id": 73186,
+          "name": "g4nn1"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=AxG3NQBrOSc"
+      },
+      {
+        "player": {
           "id": 40912,
           "name": "Acacia"
         },
@@ -64168,15 +64159,6 @@
       },
       {
         "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=bnl5n3LHHPM"
-      },
-      {
-        "player": {
           "id": 36784,
           "name": "[WBT] hstorm"
         },
@@ -65769,15 +65751,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=GRaoUJqDB94"
-      },
-      {
-        "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=4EGomK0NKCE"
       },
       {
         "player": {
@@ -67839,6 +67812,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=z4R85iwfMZY"
+      },
+      {
+        "player": {
+          "id": 60002,
+          "name": "Alexinho"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=d5NPUM2VX1I"
       },
       {
         "player": {
@@ -73497,15 +73479,6 @@
       },
       {
         "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=RAwfsfu-faQ"
-      },
-      {
-        "player": {
           "id": 55804,
           "name": "[SARK] Netermind"
         },
@@ -76230,15 +76203,6 @@
       },
       {
         "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=KX38j_mA_2M"
-      },
-      {
-        "player": {
           "id": 41762,
           "name": "[IRAN] Sulky"
         },
@@ -78234,15 +78198,6 @@
       },
       {
         "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Qp-l-NhNp5s"
-      },
-      {
-        "player": {
           "id": 54395,
           "name": "[GMT] mancersito"
         },
@@ -79466,15 +79421,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=f4M5JZvH_vg"
-      },
-      {
-        "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=pWIuLVq5lm4"
       },
       {
         "player": {
@@ -97063,15 +97009,6 @@
       },
       {
         "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=qCMU4Ua8vcc"
-      },
-      {
-        "player": {
           "id": 50637,
           "name": "Samot"
         },
@@ -102109,15 +102046,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=9N8ic2BbRi8"
-      },
-      {
-        "player": {
-          "id": 56608,
-          "name": "[USSR] lanx"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=ehwVQFTsJSM"
       },
       {
         "player": {
