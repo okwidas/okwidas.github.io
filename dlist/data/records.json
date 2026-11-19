@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T11:20:31Z",
+  "updated_at": "2026-11-19T20:11:07Z",
   "demons": {
     "250": [
       {
@@ -7363,6 +7363,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=iXRe2PZzGJw"
+      },
+      {
+        "player": {
+          "id": 67513,
+          "name": "Krox"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TB7nIlJtohk"
       },
       {
         "player": {
@@ -19232,6 +19241,15 @@
       },
       {
         "player": {
+          "id": 54448,
+          "name": "[HOLA] Hacedores"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wpM5yrn4snA"
+      },
+      {
+        "player": {
           "id": 65277,
           "name": "DAST"
         },
@@ -29347,6 +29365,15 @@
       },
       {
         "player": {
+          "id": 71785,
+          "name": "[NDSH] MoyaiX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=PaspESwEJQ8"
+      },
+      {
+        "player": {
           "id": 71213,
           "name": "[RIVER] Cclixgd"
         },
@@ -29686,15 +29713,6 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=JGW9RbbFIlE"
-      },
-      {
-        "player": {
-          "id": 71785,
-          "name": "[NDSH] MoyaiX"
-        },
-        "progress": 69,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=TWBQ5j1H8dk"
       },
       {
         "player": {
@@ -40305,6 +40323,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=_0BeKEPc5Zs"
+      },
+      {
+        "player": {
+          "id": 931,
+          "name": "[st] Technical"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=sXfY2eYCks4"
       },
       {
         "player": {
@@ -60218,6 +60245,24 @@
       },
       {
         "player": {
+          "id": 35099,
+          "name": "DLAppleGamez"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=93WXfJet420"
+      },
+      {
+        "player": {
+          "id": 73318,
+          "name": "PrinceOfSuceava"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=HMXfxWJzynA"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -63351,6 +63396,15 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=raB9Hb-vgls"
+      },
+      {
+        "player": {
+          "id": 56120,
+          "name": "PL0SIVE"
+        },
+        "progress": 76,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=kvrpKOnvei8"
       },
       {
         "player": {
@@ -67893,6 +67947,24 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=z4R85iwfMZY"
+      },
+      {
+        "player": {
+          "id": 73268,
+          "name": "506D"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cAmukCEv8dA"
+      },
+      {
+        "player": {
+          "id": 71213,
+          "name": "[RIVER] Cclixgd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=eRFiaiCwnUk"
       },
       {
         "player": {
@@ -73872,6 +73944,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Eue5Qa_RGYY"
+      },
+      {
+        "player": {
+          "id": 52972,
+          "name": "TrueInverse"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=dUVeVslLjaI"
       },
       {
         "player": {
@@ -84075,6 +84156,15 @@
       },
       {
         "player": {
+          "id": 42409,
+          "name": "Slaughter"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OGpLf6UtzcY"
+      },
+      {
+        "player": {
           "id": 1069,
           "name": "FlameGMD"
         },
@@ -87430,6 +87520,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=0ZX-CRJcPO8"
+      },
+      {
+        "player": {
+          "id": 64240,
+          "name": "Neotak"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=X7cuSNkYWtU"
       },
       {
         "player": {
@@ -95170,6 +95269,15 @@
       },
       {
         "player": {
+          "id": 67961,
+          "name": "Stoichiometry"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wpAspQUjG54"
+      },
+      {
+        "player": {
           "id": 52527,
           "name": "[MEDAL] hundeguten"
         },
@@ -95284,15 +95392,6 @@
         "progress": 75,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=89YPW2We7I0"
-      },
-      {
-        "player": {
-          "id": 67961,
-          "name": "Stoichiometry"
-        },
-        "progress": 75,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=RxZ9PAimPLw"
       },
       {
         "player": {
