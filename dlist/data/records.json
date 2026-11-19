@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T20:09:59Z",
+  "updated_at": "2026-11-19T02:35:30Z",
   "demons": {
     "250": [
       {
@@ -7336,6 +7336,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=k2yXOAFtSr0"
+      },
+      {
+        "player": {
+          "id": 70163,
+          "name": "krodite"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qP7S54312-c"
       },
       {
         "player": {
@@ -60182,6 +60191,15 @@
       },
       {
         "player": {
+          "id": 64601,
+          "name": "[SEREK] Alemao"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QajWzqiGHOg"
+      },
+      {
+        "player": {
           "id": 52270,
           "name": "Alpha Ary"
         },
@@ -70337,6 +70355,15 @@
       },
       {
         "player": {
+          "id": 73275,
+          "name": "ThethetheJ"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=v0kdSt6KEJI"
+      },
+      {
+        "player": {
           "id": 53317,
           "name": "AleezCourtz"
         },
@@ -79140,6 +79167,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Yv1KHbaCr7M"
+      },
+      {
+        "player": {
+          "id": 73276,
+          "name": "高木さん⁩"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=uh3yIzt8D4Q"
       },
       {
         "player": {
@@ -87966,6 +88002,15 @@
       },
       {
         "player": {
+          "id": 64995,
+          "name": "Krystalline"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=IOKcmYRGWPo"
+      },
+      {
+        "player": {
           "id": 61196,
           "name": "Zaaforus"
         },
@@ -87981,15 +88026,6 @@
         "progress": 82,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=D2obWogb87w"
-      },
-      {
-        "player": {
-          "id": 64995,
-          "name": "Krystalline"
-        },
-        "progress": 78,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=2oRn1bnGCUQ"
       },
       {
         "player": {
