@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:35:30Z",
+  "updated_at": "2026-11-19T11:20:31Z",
   "demons": {
     "250": [
       {
@@ -7303,6 +7303,15 @@
       },
       {
         "player": {
+          "id": 63877,
+          "name": "RoundRascalB"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=TDqRq3TsoW0"
+      },
+      {
+        "player": {
           "id": 62366,
           "name": "Hexzo"
         },
@@ -12085,7 +12094,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -19034,6 +19043,15 @@
       },
       {
         "player": {
+          "id": 72094,
+          "name": "Scubley"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8G9UQwLe9hw"
+      },
+      {
+        "player": {
           "id": 64050,
           "name": "gerlicbrad"
         },
@@ -20729,7 +20747,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -26538,7 +26556,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -27374,6 +27392,15 @@
       },
       {
         "player": {
+          "id": 72918,
+          "name": "[FROM TEMU] doggie_FR"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=oJdh6HR1OjI"
+      },
+      {
+        "player": {
           "id": 59494,
           "name": "[QOG] maxidlo147"
         },
@@ -27398,15 +27425,6 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=rC7ToexT8_c"
-      },
-      {
-        "player": {
-          "id": 67565,
-          "name": "[FROM TEMU] Cursed_FR"
-        },
-        "progress": 86,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=05QNqhw64Pc"
       },
       {
         "player": {
@@ -30700,7 +30718,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -32981,7 +32999,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -39436,7 +39454,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -41420,7 +41438,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -42457,7 +42475,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -46428,7 +46446,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -49276,7 +49294,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -60473,7 +60491,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -63980,7 +63998,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -65836,7 +65854,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -68961,7 +68979,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -70655,7 +70673,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -71692,7 +71710,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -74492,7 +74510,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -76204,7 +76222,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -77297,7 +77315,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -78730,7 +78748,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -80329,7 +80347,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -81897,7 +81915,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -82358,7 +82376,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -83399,7 +83417,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -86516,7 +86534,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -88149,7 +88167,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -91707,7 +91725,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -93740,7 +93758,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -96358,7 +96376,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -97873,7 +97891,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -101234,7 +101252,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -101569,7 +101587,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -102250,7 +102268,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -103129,7 +103147,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -105822,7 +105840,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -106332,7 +106350,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -106759,6 +106777,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=XPt8f5BWHlY"
+      },
+      {
+        "player": {
+          "id": 52377,
+          "name": "[HOLA] weyolll3"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=G9CTGPWqlsI"
       }
     ],
     "682": [
@@ -109014,7 +109041,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
@@ -110053,7 +110080,7 @@
       {
         "player": {
           "id": 42324,
-          "name": "[Hi] Nexel"
+          "name": "[TSC] Nexel"
         },
         "progress": 100,
         "status": "approved",
