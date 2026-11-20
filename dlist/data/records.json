@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:23:50Z",
+  "updated_at": "2026-11-20T11:08:58Z",
   "demons": {
     "250": [
       {
@@ -16188,6 +16188,24 @@
       },
       {
         "player": {
+          "id": 65111,
+          "name": "ZhevX"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=_xjMoX3-T-I"
+      },
+      {
+        "player": {
+          "id": 73405,
+          "name": "Alewew"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zBL5FF_IdTA"
+      },
+      {
+        "player": {
           "id": 55753,
           "name": "[999] Thisisfcp"
         },
@@ -19265,6 +19283,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.bilibili.com/video/BV1aEW96AEhg"
+      },
+      {
+        "player": {
+          "id": 71309,
+          "name": "thshaminushif"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=x9T6J6d8u-k"
       },
       {
         "player": {
@@ -40955,6 +40982,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=FBH5TJZfLb4"
+      },
+      {
+        "player": {
+          "id": 66092,
+          "name": "godiskdjei"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=30Gw6PK_-Ok"
       },
       {
         "player": {
@@ -95419,6 +95455,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=x87JHzJqJxU"
+      },
+      {
+        "player": {
+          "id": 73314,
+          "name": "Акулик"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=UxHGLknYBSU"
       },
       {
         "player": {
