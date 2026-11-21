@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T10:52:25Z",
+  "updated_at": "2026-11-21T18:52:58Z",
   "demons": {
     "250": [
       {
@@ -4892,7 +4892,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -21529,6 +21529,15 @@
       },
       {
         "player": {
+          "id": 53081,
+          "name": "[PULA] Goanga"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=yI_k6JHBv9E"
+      },
+      {
+        "player": {
           "id": 51584,
           "name": "[TCC] NoctaXI"
         },
@@ -36977,7 +36986,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -41915,7 +41924,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -57636,7 +57645,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -71357,7 +71366,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -72399,6 +72408,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=PJVDS5M0BNE"
+      },
+      {
+        "player": {
+          "id": 52371,
+          "name": "Velocity"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KRrU_ARNE6M"
       },
       {
         "player": {
@@ -79938,7 +79956,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -79961,6 +79979,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=6LBb95hgtKQ"
+      },
+      {
+        "player": {
+          "id": 70984,
+          "name": "waterduckthethird"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qyPjpLwwMXM"
       },
       {
         "player": {
@@ -80390,7 +80417,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -86169,6 +86196,15 @@
       },
       {
         "player": {
+          "id": 73389,
+          "name": "aceelordd"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mpVra3wLa9g"
+      },
+      {
+        "player": {
           "id": 53557,
           "name": "[USSR] Внибрачьная Систренка Эйриле"
         },
@@ -91426,7 +91462,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -92454,7 +92490,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -97583,21 +97619,21 @@
       },
       {
         "player": {
+          "id": 72073,
+          "name": "Masuke"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ajw3-AR-xzA"
+      },
+      {
+        "player": {
           "id": 66016,
           "name": "Kiruu"
         },
         "progress": 99,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=i0sirGwQpW0"
-      },
-      {
-        "player": {
-          "id": 72073,
-          "name": "Masuke"
-        },
-        "progress": 95,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=GTNyPsk-6Yk"
       },
       {
         "player": {
@@ -99257,7 +99293,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -100418,6 +100454,15 @@
         "progress": 89,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=HdYQFpXgsv0"
+      },
+      {
+        "player": {
+          "id": 63605,
+          "name": "[gmccl] craig0"
+        },
+        "progress": 85,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=bZhqaahOp80"
       },
       {
         "player": {
@@ -102350,7 +102395,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -106380,7 +106425,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -107815,6 +107860,15 @@
       },
       {
         "player": {
+          "id": 40419,
+          "name": "exsii"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qh9Ihs6uAUo"
+      },
+      {
+        "player": {
           "id": 59224,
           "name": "[KAN] Hypa"
         },
@@ -108171,7 +108225,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -110133,7 +110187,7 @@
       {
         "player": {
           "id": 60108,
-          "name": "[ILUV] CoJong"
+          "name": "CoJong"
         },
         "progress": 100,
         "status": "approved",
@@ -111044,6 +111098,15 @@
       },
       {
         "player": {
+          "id": 58094,
+          "name": "[PAPUS] sopa354"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=zCS0RZOk8mI"
+      },
+      {
+        "player": {
           "id": 63508,
           "name": "dinowifawtysm"
         },
@@ -111059,15 +111122,6 @@
         "progress": 76,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=twhDLTgjoA0"
-      },
-      {
-        "player": {
-          "id": 58094,
-          "name": "[PAPUS] sopa354"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=uoXP20K4nwo"
       },
       {
         "player": {
