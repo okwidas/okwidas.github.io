@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:19:21Z",
+  "updated_at": "2026-11-21T10:52:25Z",
   "demons": {
     "250": [
       {
@@ -3047,7 +3047,7 @@
       {
         "player": {
           "id": 53970,
-          "name": "[VOID] horse"
+          "name": "[Void] MB"
         },
         "progress": 100,
         "status": "approved",
@@ -3092,7 +3092,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -3101,7 +3101,7 @@
       {
         "player": {
           "id": 34345,
-          "name": "[DERG] Hyru1e"
+          "name": "[DERG] ZephyrNoodle"
         },
         "progress": 100,
         "status": "approved",
@@ -6935,7 +6935,7 @@
       {
         "player": {
           "id": 41219,
-          "name": "[BUDDY] JoshuaEightyThree"
+          "name": "FragmentedHeart"
         },
         "progress": 100,
         "status": "approved",
@@ -7223,7 +7223,7 @@
       {
         "player": {
           "id": 57787,
-          "name": "[YAHO] KenDy"
+          "name": "[tq] SookJa"
         },
         "progress": 100,
         "status": "approved",
@@ -7313,7 +7313,7 @@
       {
         "player": {
           "id": 62366,
-          "name": "Hexzo"
+          "name": "[ALÈS] Erratas"
         },
         "progress": 100,
         "status": "approved",
@@ -13921,7 +13921,7 @@
       {
         "player": {
           "id": 58411,
-          "name": "TwiDeck"
+          "name": "[ALÈS] DieuTwi"
         },
         "progress": 100,
         "status": "approved",
@@ -14326,7 +14326,7 @@
       {
         "player": {
           "id": 67542,
-          "name": "[ED] liono"
+          "name": "liono"
         },
         "progress": 100,
         "status": "approved",
@@ -18324,7 +18324,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -18675,7 +18675,7 @@
       {
         "player": {
           "id": 59789,
-          "name": "DreamyBull"
+          "name": "[CREAM] DreamyBull"
         },
         "progress": 100,
         "status": "approved",
@@ -19260,7 +19260,7 @@
       {
         "player": {
           "id": 58411,
-          "name": "TwiDeck"
+          "name": "[ALÈS] DieuTwi"
         },
         "progress": 100,
         "status": "approved",
@@ -19313,6 +19313,15 @@
       },
       {
         "player": {
+          "id": 73310,
+          "name": "Pompi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=s_iiQka9xL0"
+      },
+      {
+        "player": {
           "id": 71309,
           "name": "thshaminushif"
         },
@@ -19328,6 +19337,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wpM5yrn4snA"
+      },
+      {
+        "player": {
+          "id": 3421,
+          "name": "[1319] BUNNYGRAM"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=3hH3s4GLksg"
       },
       {
         "player": {
@@ -23143,7 +23161,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -23458,7 +23476,7 @@
       {
         "player": {
           "id": 59789,
-          "name": "DreamyBull"
+          "name": "[CREAM] DreamyBull"
         },
         "progress": 100,
         "status": "approved",
@@ -23827,7 +23845,7 @@
       {
         "player": {
           "id": 62366,
-          "name": "Hexzo"
+          "name": "[ALÈS] Erratas"
         },
         "progress": 100,
         "status": "approved",
@@ -24007,7 +24025,7 @@
       {
         "player": {
           "id": 71065,
-          "name": "Jmgd"
+          "name": "Jmg"
         },
         "progress": 100,
         "status": "approved",
@@ -29429,7 +29447,7 @@
       {
         "player": {
           "id": 55665,
-          "name": "[HELLA] Baprag"
+          "name": "[ALÈS] Baprag"
         },
         "progress": 100,
         "status": "approved",
@@ -31294,7 +31312,7 @@
       {
         "player": {
           "id": 64401,
-          "name": "[24hs] Pancakes"
+          "name": "Pancakes"
         },
         "progress": 100,
         "status": "approved",
@@ -31312,7 +31330,7 @@
       {
         "player": {
           "id": 64018,
-          "name": "[24hs] Hazel"
+          "name": "[24hs] Maddie"
         },
         "progress": 100,
         "status": "approved",
@@ -32619,7 +32637,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -37130,7 +37148,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -40237,7 +40255,7 @@
       {
         "player": {
           "id": 55665,
-          "name": "[HELLA] Baprag"
+          "name": "[ALÈS] Baprag"
         },
         "progress": 100,
         "status": "approved",
@@ -41031,7 +41049,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -41672,7 +41690,7 @@
       {
         "player": {
           "id": 53970,
-          "name": "[VOID] horse"
+          "name": "[Void] MB"
         },
         "progress": 100,
         "status": "approved",
@@ -42356,7 +42374,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -43537,7 +43555,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -44257,7 +44275,7 @@
       {
         "player": {
           "id": 55665,
-          "name": "[HELLA] Baprag"
+          "name": "[ALÈS] Baprag"
         },
         "progress": 100,
         "status": "approved",
@@ -47474,7 +47492,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -48230,7 +48248,7 @@
       {
         "player": {
           "id": 67346,
-          "name": "[LOOT] Gopn"
+          "name": "Gopn"
         },
         "progress": 85,
         "status": "approved",
@@ -50607,6 +50625,15 @@
       },
       {
         "player": {
+          "id": 71549,
+          "name": "screenz"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tZKPUBqsjGg"
+      },
+      {
+        "player": {
           "id": 67384,
           "name": "galagzee"
         },
@@ -50707,7 +50734,7 @@
       {
         "player": {
           "id": 71065,
-          "name": "Jmgd"
+          "name": "Jmg"
         },
         "progress": 70,
         "status": "approved",
@@ -52005,7 +52032,7 @@
       {
         "player": {
           "id": 53970,
-          "name": "[VOID] horse"
+          "name": "[Void] MB"
         },
         "progress": 100,
         "status": "approved",
@@ -52158,7 +52185,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -53427,7 +53454,7 @@
       {
         "player": {
           "id": 71065,
-          "name": "Jmgd"
+          "name": "Jmg"
         },
         "progress": 65,
         "status": "approved",
@@ -55755,7 +55782,7 @@
       {
         "player": {
           "id": 34345,
-          "name": "[DERG] Hyru1e"
+          "name": "[DERG] ZephyrNoodle"
         },
         "progress": 100,
         "status": "approved",
@@ -59967,7 +59994,7 @@
       {
         "player": {
           "id": 72411,
-          "name": "Cabe"
+          "name": "[MONDÁ] Cabe"
         },
         "progress": 100,
         "status": "approved",
@@ -60219,7 +60246,7 @@
       {
         "player": {
           "id": 72931,
-          "name": "67 monster (NoCuBbe4)"
+          "name": "NoCuBbe4"
         },
         "progress": 100,
         "status": "approved",
@@ -60264,7 +60291,7 @@
       {
         "player": {
           "id": 67542,
-          "name": "[ED] liono"
+          "name": "liono"
         },
         "progress": 100,
         "status": "approved",
@@ -60318,7 +60345,7 @@
       {
         "player": {
           "id": 51251,
-          "name": "[YAHO] Rina1n"
+          "name": "[ILUV] Rina1n"
         },
         "progress": 100,
         "status": "approved",
@@ -61850,7 +61877,7 @@
       {
         "player": {
           "id": 70171,
-          "name": "Calleitalia"
+          "name": "CalleGMDstreeT"
         },
         "progress": 100,
         "status": "approved",
@@ -62770,7 +62797,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -63753,7 +63780,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -64646,7 +64673,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -66340,7 +66367,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -67978,7 +68005,7 @@
       {
         "player": {
           "id": 67542,
-          "name": "[ED] liono"
+          "name": "liono"
         },
         "progress": 100,
         "status": "approved",
@@ -69771,7 +69798,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -70473,7 +70500,7 @@
       {
         "player": {
           "id": 68973,
-          "name": "Chaverin"
+          "name": "ChaverinIsBurning"
         },
         "progress": 100,
         "status": "approved",
@@ -71366,7 +71393,7 @@
       {
         "player": {
           "id": 68680,
-          "name": "[didy] bizzare"
+          "name": "[didy] rockydoessnacks"
         },
         "progress": 100,
         "status": "approved",
@@ -72214,7 +72241,7 @@
       {
         "player": {
           "id": 59789,
-          "name": "DreamyBull"
+          "name": "[CREAM] DreamyBull"
         },
         "progress": 100,
         "status": "approved",
@@ -74906,7 +74933,7 @@
       {
         "player": {
           "id": 55665,
-          "name": "[HELLA] Baprag"
+          "name": "[ALÈS] Baprag"
         },
         "progress": 100,
         "status": "approved",
@@ -78188,7 +78215,7 @@
       {
         "player": {
           "id": 70171,
-          "name": "Calleitalia"
+          "name": "CalleGMDstreeT"
         },
         "progress": 100,
         "status": "approved",
@@ -79450,7 +79477,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -81031,7 +81058,7 @@
       {
         "player": {
           "id": 55665,
-          "name": "[HELLA] Baprag"
+          "name": "[ALÈS] Baprag"
         },
         "progress": 100,
         "status": "approved",
@@ -84328,7 +84355,7 @@
       {
         "player": {
           "id": 59789,
-          "name": "DreamyBull"
+          "name": "[CREAM] DreamyBull"
         },
         "progress": 100,
         "status": "approved",
@@ -85387,7 +85414,7 @@
       {
         "player": {
           "id": 53970,
-          "name": "[VOID] horse"
+          "name": "[Void] MB"
         },
         "progress": 100,
         "status": "approved",
@@ -86134,7 +86161,7 @@
       {
         "player": {
           "id": 58411,
-          "name": "TwiDeck"
+          "name": "[ALÈS] DieuTwi"
         },
         "progress": 100,
         "status": "approved",
@@ -87065,7 +87092,7 @@
       {
         "player": {
           "id": 59789,
-          "name": "DreamyBull"
+          "name": "[CREAM] DreamyBull"
         },
         "progress": 100,
         "status": "approved",
@@ -87299,7 +87326,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -90349,7 +90376,7 @@
       {
         "player": {
           "id": 64401,
-          "name": "[24hs] Pancakes"
+          "name": "Pancakes"
         },
         "progress": 100,
         "status": "approved",
@@ -93005,7 +93032,7 @@
       {
         "player": {
           "id": 59789,
-          "name": "DreamyBull"
+          "name": "[CREAM] DreamyBull"
         },
         "progress": 100,
         "status": "approved",
@@ -93756,7 +93783,7 @@
       {
         "player": {
           "id": 67346,
-          "name": "[LOOT] Gopn"
+          "name": "Gopn"
         },
         "progress": 100,
         "status": "approved",
@@ -94676,7 +94703,7 @@
       {
         "player": {
           "id": 53970,
-          "name": "[VOID] horse"
+          "name": "[Void] MB"
         },
         "progress": 100,
         "status": "approved",
@@ -95405,7 +95432,7 @@
       {
         "player": {
           "id": 72756,
-          "name": "Boshkalosz"
+          "name": "[BRMK] Bosh"
         },
         "progress": 100,
         "status": "approved",
@@ -97213,7 +97240,7 @@
       {
         "player": {
           "id": 71751,
-          "name": "zenixgd"
+          "name": "[ORI] zenix"
         },
         "progress": 100,
         "status": "approved",
@@ -97371,80 +97398,6 @@
         "progress": 69,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=3xyCuoWXwu4"
-      }
-    ],
-    "617": [
-      {
-        "player": {
-          "id": 58784,
-          "name": "[HOLA] Draks_Loves_U"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=6wKo6SURJRc"
-      },
-      {
-        "player": {
-          "id": 42413,
-          "name": "[IQB7] Whizkid05"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Y55Pzo60-f8"
-      },
-      {
-        "player": {
-          "id": 61841,
-          "name": "[IH82P] Danieljgd"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=1Z8gA-eAPp0"
-      },
-      {
-        "player": {
-          "id": 52306,
-          "name": "Bram4Real"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=2w2GAasP_cY"
-      },
-      {
-        "player": {
-          "id": 41935,
-          "name": "[IH82P] Nsaynchkn"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=indZhMML8lg"
-      },
-      {
-        "player": {
-          "id": 61696,
-          "name": "[TSC] Rilso"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=MSHYwq0-tA0"
-      },
-      {
-        "player": {
-          "id": 36882,
-          "name": "[POB2P] conski"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=z6XmsO1OzZQ"
-      },
-      {
-        "player": {
-          "id": 65814,
-          "name": "Anise"
-        },
-        "progress": 70,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=ReyKZA01M88"
       }
     ],
     "620": [
@@ -99979,7 +99932,7 @@
       {
         "player": {
           "id": 72931,
-          "name": "67 monster (NoCuBbe4)"
+          "name": "NoCuBbe4"
         },
         "progress": 100,
         "status": "approved",
@@ -100474,89 +100427,6 @@
         "progress": 83,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=7i0jP31DeD8"
-      }
-    ],
-    "637": [
-      {
-        "player": {
-          "id": 61696,
-          "name": "[TSC] Rilso"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Nf-XlhUnVFI"
-      },
-      {
-        "player": {
-          "id": 3628,
-          "name": "rqd"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=gUIMrQB0RNY"
-      },
-      {
-        "player": {
-          "id": 57454,
-          "name": "GuitGuit"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=OPjoxit1stw"
-      },
-      {
-        "player": {
-          "id": 61841,
-          "name": "[IH82P] Danieljgd"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=MKct5E3a6XU"
-      },
-      {
-        "player": {
-          "id": 56005,
-          "name": "[QOG] MagnificCub9216"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=xcioNiS_0Zw"
-      },
-      {
-        "player": {
-          "id": 42413,
-          "name": "[IQB7] Whizkid05"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=zvhy07XI0Dg"
-      },
-      {
-        "player": {
-          "id": 41935,
-          "name": "[IH82P] Nsaynchkn"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=TaEAGKV8Nmc"
-      },
-      {
-        "player": {
-          "id": 60737,
-          "name": "LanLiangator"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=waA9Bf5nrWs"
-      },
-      {
-        "player": {
-          "id": 55990,
-          "name": "Ptyw"
-        },
-        "progress": 100,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=FcuvkrJxQ_Q"
       }
     ],
     "638": [
@@ -101064,7 +100934,7 @@
       {
         "player": {
           "id": 41219,
-          "name": "[BUDDY] JoshuaEightyThree"
+          "name": "FragmentedHeart"
         },
         "progress": 100,
         "status": "approved",
@@ -101235,7 +101105,7 @@
       {
         "player": {
           "id": 65068,
-          "name": "[tq] 레고로화성가기"
+          "name": "[tq] udfae"
         },
         "progress": 100,
         "status": "approved",
@@ -101253,7 +101123,7 @@
       {
         "player": {
           "id": 57787,
-          "name": "[YAHO] KenDy"
+          "name": "[tq] SookJa"
         },
         "progress": 100,
         "status": "approved",
@@ -103372,7 +103242,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -104065,7 +103935,7 @@
       {
         "player": {
           "id": 72931,
-          "name": "67 monster (NoCuBbe4)"
+          "name": "NoCuBbe4"
         },
         "progress": 100,
         "status": "approved",
@@ -104519,7 +104389,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -104636,7 +104506,7 @@
       {
         "player": {
           "id": 41219,
-          "name": "[BUDDY] JoshuaEightyThree"
+          "name": "FragmentedHeart"
         },
         "progress": 100,
         "status": "approved",
@@ -107168,7 +107038,7 @@
       {
         "player": {
           "id": 58986,
-          "name": "eternalluna"
+          "name": "[tq] Eternalluna"
         },
         "progress": 100,
         "status": "approved",
@@ -107928,7 +107798,7 @@
       {
         "player": {
           "id": 55665,
-          "name": "[HELLA] Baprag"
+          "name": "[ALÈS] Baprag"
         },
         "progress": 100,
         "status": "approved",
@@ -109048,7 +108918,7 @@
       {
         "player": {
           "id": 55665,
-          "name": "[HELLA] Baprag"
+          "name": "[ALÈS] Baprag"
         },
         "progress": 100,
         "status": "approved",
@@ -110014,7 +109884,7 @@
       {
         "player": {
           "id": 53970,
-          "name": "[VOID] horse"
+          "name": "[Void] MB"
         },
         "progress": 40,
         "status": "approved",
@@ -111848,7 +111718,7 @@
       {
         "player": {
           "id": 67333,
-          "name": "[QOG] zabakovnik"
+          "name": "[HRYZ] zabakovnik"
         },
         "progress": 87,
         "status": "approved",
@@ -111985,6 +111855,8 @@
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=nKGfJaD4MPs"
       }
-    ]
+    ],
+    "742": [],
+    "743": []
   }
 }
