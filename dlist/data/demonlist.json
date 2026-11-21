@@ -1691,27 +1691,8 @@
     "level_id": 86084399
   },
   {
-    "id": 712,
-    "position": 90,
-    "name": "Make Paul Dance",
-    "requirement": 57,
-    "video": "https://www.youtube.com/watch?v=XQoF35hNKpg",
-    "thumbnail": "https://i.ytimg.com/vi/XQoF35hNKpg/mqdefault.jpg",
-    "publisher": {
-      "id": 71552,
-      "name": "Bemq",
-      "banned": false
-    },
-    "verifier": {
-      "id": 42006,
-      "name": "Airi~",
-      "banned": false
-    },
-    "level_id": 115860808
-  },
-  {
     "id": 511,
-    "position": 91,
+    "position": 90,
     "name": "Codependence",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=IKGk41hSnDo",
@@ -1730,7 +1711,7 @@
   },
   {
     "id": 606,
-    "position": 92,
+    "position": 91,
     "name": "Collapse",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=RCFpXyf6bn0",
@@ -1749,7 +1730,7 @@
   },
   {
     "id": 551,
-    "position": 93,
+    "position": 92,
     "name": "Belladonna",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=saHSgoU1JQQ",
@@ -1768,7 +1749,7 @@
   },
   {
     "id": 439,
-    "position": 94,
+    "position": 93,
     "name": "Mayhem",
     "requirement": 57,
     "video": "https://www.youtube.com/watch?v=U6e6DD32noM",
@@ -1787,7 +1768,7 @@
   },
   {
     "id": 672,
-    "position": 95,
+    "position": 94,
     "name": "CHROMACAVE",
     "requirement": 82,
     "video": "https://www.youtube.com/watch?v=tfpsMZI6z-o",
@@ -1806,7 +1787,7 @@
   },
   {
     "id": 650,
-    "position": 96,
+    "position": 95,
     "name": "Wavterminal",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=dlvsCE3xYkQ",
@@ -1825,7 +1806,7 @@
   },
   {
     "id": 429,
-    "position": 97,
+    "position": 96,
     "name": "walter white",
     "requirement": 65,
     "video": "https://www.youtube.com/watch?v=KzK62PkWOJ0",
@@ -1844,7 +1825,7 @@
   },
   {
     "id": 653,
-    "position": 98,
+    "position": 97,
     "name": "Infinite Chaos",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=wOMVERxU5IA",
@@ -1860,6 +1841,25 @@
       "banned": false
     },
     "level_id": 119689515
+  },
+  {
+    "id": 712,
+    "position": 98,
+    "name": "Make Paul Dance",
+    "requirement": 57,
+    "video": "https://www.youtube.com/watch?v=XQoF35hNKpg",
+    "thumbnail": "https://i.ytimg.com/vi/XQoF35hNKpg/mqdefault.jpg",
+    "publisher": {
+      "id": 71552,
+      "name": "Bemq",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42006,
+      "name": "Airi~",
+      "banned": false
+    },
+    "level_id": 115860808
   },
   {
     "id": 627,
@@ -2071,27 +2071,8 @@
     "level_id": 108708033
   },
   {
-    "id": 687,
-    "position": 110,
-    "name": "Trickshot",
-    "requirement": 100,
-    "video": "https://www.youtube.com/watch?v=IMLjnmnIWRc",
-    "thumbnail": "https://i.ytimg.com/vi/IMLjnmnIWRc/mqdefault.jpg",
-    "publisher": {
-      "id": 42488,
-      "name": "[PSL] vonic",
-      "banned": false
-    },
-    "verifier": {
-      "id": 42488,
-      "name": "[PSL] vonic",
-      "banned": false
-    },
-    "level_id": 136135870
-  },
-  {
     "id": 549,
-    "position": 111,
+    "position": 110,
     "name": "Midnight",
     "requirement": 74,
     "video": "https://www.youtube.com/watch?v=NhkN_a9cNi8",
@@ -2110,7 +2091,7 @@
   },
   {
     "id": 701,
-    "position": 112,
+    "position": 111,
     "name": "Doppler",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=xSP43i61SLM",
@@ -2129,7 +2110,7 @@
   },
   {
     "id": 622,
-    "position": 113,
+    "position": 112,
     "name": "Cimmerian Shade",
     "requirement": 81,
     "video": "https://www.youtube.com/watch?v=lUNvV1k19HA",
@@ -2148,7 +2129,7 @@
   },
   {
     "id": 570,
-    "position": 114,
+    "position": 113,
     "name": "PSYCHOPATH",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=1luL7tTE8p8",
@@ -2167,7 +2148,7 @@
   },
   {
     "id": 676,
-    "position": 115,
+    "position": 114,
     "name": "TrakineS",
     "requirement": 77,
     "video": "https://www.youtube.com/watch?v=oKuoI-_JzKU",
@@ -2186,7 +2167,7 @@
   },
   {
     "id": 690,
-    "position": 116,
+    "position": 115,
     "name": "Between Duality",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=uOb-ajQ4bgw",
@@ -2205,7 +2186,7 @@
   },
   {
     "id": 383,
-    "position": 117,
+    "position": 116,
     "name": "arcturus",
     "requirement": 74,
     "video": "https://www.youtube.com/watch?v=a_Bqa8l9Xtc",
@@ -2224,7 +2205,7 @@
   },
   {
     "id": 675,
-    "position": 118,
+    "position": 117,
     "name": "Diabolic ClubStep",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=BN7DxkMaQfg",
@@ -2243,7 +2224,7 @@
   },
   {
     "id": 605,
-    "position": 119,
+    "position": 118,
     "name": "BEELINE",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=nt6T9YDb6gw",
@@ -2262,7 +2243,7 @@
   },
   {
     "id": 682,
-    "position": 120,
+    "position": 119,
     "name": "DreamStep",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=EK5-0OB1tmc",
@@ -2281,7 +2262,7 @@
   },
   {
     "id": 349,
-    "position": 121,
+    "position": 120,
     "name": "Sonic Wave Infinity",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=C3-l_fFikpQ",
@@ -2300,7 +2281,7 @@
   },
   {
     "id": 250,
-    "position": 122,
+    "position": 121,
     "name": "Tartarus",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=JptG7rwti1U",
@@ -2319,7 +2300,7 @@
   },
   {
     "id": 595,
-    "position": 123,
+    "position": 122,
     "name": "Waterfall",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=VKuVdqneG9Y",
@@ -2338,7 +2319,7 @@
   },
   {
     "id": 555,
-    "position": 124,
+    "position": 123,
     "name": "Jigsaw",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=FPfSqlI0T30",
@@ -2357,7 +2338,7 @@
   },
   {
     "id": 525,
-    "position": 125,
+    "position": 124,
     "name": "Delta",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=_rr3J8DkIm4",
@@ -2373,6 +2354,25 @@
       "banned": false
     },
     "level_id": 93917362
+  },
+  {
+    "id": 687,
+    "position": 125,
+    "name": "Trickshot",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=IMLjnmnIWRc",
+    "thumbnail": "https://i.ytimg.com/vi/IMLjnmnIWRc/mqdefault.jpg",
+    "publisher": {
+      "id": 42488,
+      "name": "[PSL] vonic",
+      "banned": false
+    },
+    "verifier": {
+      "id": 42488,
+      "name": "[PSL] vonic",
+      "banned": false
+    },
+    "level_id": 136135870
   },
   {
     "id": 599,
