@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T18:52:58Z",
+  "updated_at": "2026-11-22T01:13:43Z",
   "demons": {
     "250": [
       {
@@ -4406,7 +4406,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -10573,7 +10573,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -20765,7 +20765,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -23287,7 +23287,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -24807,12 +24807,30 @@
       },
       {
         "player": {
+          "id": 54924,
+          "name": "[BLKHL] AjayGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NztMkFCL2t4"
+      },
+      {
+        "player": {
           "id": 53566,
           "name": "audo;pi"
         },
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=G2szjOtr4Ug"
+      },
+      {
+        "player": {
+          "id": 60397,
+          "name": "[PAPUS] m4rleywave"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Bdg0_C9ip8s"
       },
       {
         "player": {
@@ -24975,15 +24993,6 @@
         "progress": 92,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=eexGMkVLg-s"
-      },
-      {
-        "player": {
-          "id": 60397,
-          "name": "[PAPUS] m4rleywave"
-        },
-        "progress": 92,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=h947sMw4GNQ"
       },
       {
         "player": {
@@ -26808,7 +26817,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -28736,7 +28745,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -35447,7 +35456,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -40497,6 +40506,15 @@
       },
       {
         "player": {
+          "id": 53309,
+          "name": "[OG] ColossalOrange"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=U7-Y63b7Dcs"
+      },
+      {
+        "player": {
           "id": 52141,
           "name": "[SARK] Bamvie"
         },
@@ -41072,6 +41090,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=30Gw6PK_-Ok"
+      },
+      {
+        "player": {
+          "id": 38083,
+          "name": "[ЗСУ] kloone"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=ORV4_4kIxHw"
       },
       {
         "player": {
@@ -44419,7 +44446,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -48068,7 +48095,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -53978,7 +54005,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -55141,7 +55168,7 @@
       {
         "player": {
           "id": 57953,
-          "name": "[smd] merkyB"
+          "name": "merkyb"
         },
         "progress": 100,
         "status": "approved",
@@ -55371,6 +55398,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=BTm6tDC3CMg"
+      },
+      {
+        "player": {
+          "id": 58683,
+          "name": "[RHTE] Phantomm"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=rQcHsfILxqE"
       },
       {
         "player": {
@@ -58527,7 +58563,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -60192,7 +60228,7 @@
       {
         "player": {
           "id": 57953,
-          "name": "[smd] merkyB"
+          "name": "merkyb"
         },
         "progress": 100,
         "status": "approved",
@@ -63950,6 +63986,15 @@
       },
       {
         "player": {
+          "id": 56330,
+          "name": "[MAOR] Syrcx"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=MicBceL4moQ"
+      },
+      {
+        "player": {
           "id": 51435,
           "name": "[USSR] Light"
         },
@@ -63965,15 +64010,6 @@
         "progress": 87,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=z_j6ORfOYpA"
-      },
-      {
-        "player": {
-          "id": 56330,
-          "name": "[MAOR] Syrcx"
-        },
-        "progress": 83,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=Q-HUhXiaVYU"
       },
       {
         "player": {
@@ -64736,7 +64772,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -68077,7 +68113,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -69366,7 +69402,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -71042,7 +71078,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -72465,6 +72501,15 @@
       },
       {
         "player": {
+          "id": 70418,
+          "name": "[didy] taro"
+        },
+        "progress": 80,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=NvCXLRpyDrU"
+      },
+      {
+        "player": {
           "id": 66382,
           "name": "nqlol"
         },
@@ -72498,15 +72543,6 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=Dbv_qALCJCQ"
-      },
-      {
-        "player": {
-          "id": 70418,
-          "name": "[didy] taro"
-        },
-        "progress": 74,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=UdvRHNj0MVc"
       },
       {
         "player": {
@@ -75239,7 +75275,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -76519,7 +76555,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -78649,7 +78685,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -80498,7 +80534,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -81121,7 +81157,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -84083,7 +84119,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -85657,7 +85693,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -87182,7 +87218,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -88653,7 +88689,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -93378,7 +93414,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -94775,7 +94811,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -97968,7 +98004,7 @@
       {
         "player": {
           "id": 57953,
-          "name": "[smd] merkyB"
+          "name": "merkyb"
         },
         "progress": 100,
         "status": "approved",
@@ -98339,7 +98375,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -99784,6 +99820,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=O688Q2CQeEU"
+      },
+      {
+        "player": {
+          "id": 55171,
+          "name": "[HOLA] XaviiiFG"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=exzAG1q3Ogo"
       },
       {
         "player": {
@@ -106479,7 +106524,7 @@
       {
         "player": {
           "id": 57953,
-          "name": "[smd] merkyB"
+          "name": "merkyb"
         },
         "progress": 100,
         "status": "approved",
@@ -106951,6 +106996,15 @@
         "progress": 85,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=F3V-qCONQnA"
+      },
+      {
+        "player": {
+          "id": 66474,
+          "name": "unwill"
+        },
+        "progress": 81,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=tYb9CqYOa18"
       }
     ],
     "681": [
@@ -107429,7 +107483,7 @@
       {
         "player": {
           "id": 42337,
-          "name": "[MOON] Karma"
+          "name": "Karmakaze"
         },
         "progress": 100,
         "status": "approved",
@@ -108129,6 +108183,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=w2gLqM70C2M"
+      },
+      {
+        "player": {
+          "id": 34896,
+          "name": "Franzy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=wtG5mhes1qA"
       },
       {
         "player": {
@@ -109364,6 +109427,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=QkKlCpB3d2M"
+      },
+      {
+        "player": {
+          "id": 73352,
+          "name": "minecat"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=5mYFWNMMvb4"
       }
     ],
     "690": [
