@@ -2223,8 +2223,27 @@
     "level_id": 72315402
   },
   {
-    "id": 675,
+    "id": 744,
     "position": 118,
+    "name": "l o v e",
+    "requirement": 100,
+    "video": "https://www.youtube.com/watch?v=ESrEIdb86sM",
+    "thumbnail": "https://i.ytimg.com/vi/ESrEIdb86sM/mqdefault.jpg",
+    "publisher": {
+      "id": 73435,
+      "name": "fletchrr",
+      "banned": false
+    },
+    "verifier": {
+      "id": 59562,
+      "name": "carv",
+      "banned": false
+    },
+    "level_id": 146225300
+  },
+  {
+    "id": 675,
+    "position": 119,
     "name": "Diabolic ClubStep",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=BN7DxkMaQfg",
@@ -2243,7 +2262,7 @@
   },
   {
     "id": 605,
-    "position": 119,
+    "position": 120,
     "name": "BEELINE",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=nt6T9YDb6gw",
@@ -2262,7 +2281,7 @@
   },
   {
     "id": 682,
-    "position": 120,
+    "position": 121,
     "name": "DreamStep",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=EK5-0OB1tmc",
@@ -2281,7 +2300,7 @@
   },
   {
     "id": 349,
-    "position": 121,
+    "position": 122,
     "name": "Sonic Wave Infinity",
     "requirement": 68,
     "video": "https://www.youtube.com/watch?v=C3-l_fFikpQ",
@@ -2300,7 +2319,7 @@
   },
   {
     "id": 250,
-    "position": 122,
+    "position": 123,
     "name": "Tartarus",
     "requirement": 64,
     "video": "https://www.youtube.com/watch?v=JptG7rwti1U",
@@ -2319,7 +2338,7 @@
   },
   {
     "id": 595,
-    "position": 123,
+    "position": 124,
     "name": "Waterfall",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=VKuVdqneG9Y",
@@ -2338,7 +2357,7 @@
   },
   {
     "id": 555,
-    "position": 124,
+    "position": 125,
     "name": "Jigsaw",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=FPfSqlI0T30",
@@ -2357,7 +2376,7 @@
   },
   {
     "id": 525,
-    "position": 125,
+    "position": 126,
     "name": "Delta",
     "requirement": 69,
     "video": "https://www.youtube.com/watch?v=_rr3J8DkIm4",
@@ -2376,7 +2395,7 @@
   },
   {
     "id": 687,
-    "position": 126,
+    "position": 127,
     "name": "Trickshot",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=IMLjnmnIWRc",
@@ -2395,7 +2414,7 @@
   },
   {
     "id": 599,
-    "position": 127,
+    "position": 128,
     "name": "BPATA MPAKA",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=sSbHYzYgYfA",
@@ -2414,7 +2433,7 @@
   },
   {
     "id": 738,
-    "position": 128,
+    "position": 129,
     "name": "blight",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=2y1GVoPZjhU",
@@ -2433,7 +2452,7 @@
   },
   {
     "id": 583,
-    "position": 129,
+    "position": 130,
     "name": "Natural Disaster",
     "requirement": 71,
     "video": "https://www.youtube.com/watch?v=_0GqdSFmG_8",
@@ -2452,7 +2471,7 @@
   },
   {
     "id": 662,
-    "position": 130,
+    "position": 131,
     "name": "The Wonder of You",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=iQ3RzYCvLvA",
@@ -2471,7 +2490,7 @@
   },
   {
     "id": 678,
-    "position": 131,
+    "position": 132,
     "name": "Dualist",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=6ntYaDqBqu4",
@@ -2490,7 +2509,7 @@
   },
   {
     "id": 710,
-    "position": 132,
+    "position": 133,
     "name": "Sanctity",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=rtU2oDBz9X0",
@@ -2509,7 +2528,7 @@
   },
   {
     "id": 274,
-    "position": 133,
+    "position": 134,
     "name": "The Golden",
     "requirement": 72,
     "video": "https://www.youtube.com/watch?v=Ah-PcqwqRTQ",
@@ -2528,7 +2547,7 @@
   },
   {
     "id": 743,
-    "position": 134,
+    "position": 135,
     "name": "frame reframe",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=WqVmhGKN0oE",
@@ -2547,7 +2566,7 @@
   },
   {
     "id": 425,
-    "position": 135,
+    "position": 136,
     "name": "Oblivion",
     "requirement": 72,
     "video": "https://www.youtube.com/watch?v=ZcmDAm50BB0",
@@ -2566,7 +2585,7 @@
   },
   {
     "id": 578,
-    "position": 136,
+    "position": 137,
     "name": "Viprin UFO",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=LTMW9Py-nHE",
@@ -2585,7 +2604,7 @@
   },
   {
     "id": 539,
-    "position": 137,
+    "position": 138,
     "name": "NETWORK",
     "requirement": 76,
     "video": "https://www.youtube.com/watch?v=K7wJi01J5D8",
@@ -2604,7 +2623,7 @@
   },
   {
     "id": 568,
-    "position": 138,
+    "position": 139,
     "name": "ATOMIC CANNON Mk III",
     "requirement": 66,
     "video": "https://www.youtube.com/watch?v=xlAI_wVvnx8",
@@ -2623,7 +2642,7 @@
   },
   {
     "id": 497,
-    "position": 139,
+    "position": 140,
     "name": "Terminal Rampancy",
     "requirement": 73,
     "video": "https://www.youtube.com/watch?v=29hRhhqQTLc",
@@ -2642,7 +2661,7 @@
   },
   {
     "id": 393,
-    "position": 140,
+    "position": 141,
     "name": "Verdant Landscape",
     "requirement": 63,
     "video": "https://www.youtube.com/watch?v=wjZxkS5KC0A",
@@ -2661,7 +2680,7 @@
   },
   {
     "id": 665,
-    "position": 141,
+    "position": 142,
     "name": "Levigo",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=AROmUo7DNkE",
@@ -2680,7 +2699,7 @@
   },
   {
     "id": 582,
-    "position": 142,
+    "position": 143,
     "name": "Checked Steam",
     "requirement": 70,
     "video": "https://www.youtube.com/watch?v=cq6047eYGXs",
@@ -2699,7 +2718,7 @@
   },
   {
     "id": 716,
-    "position": 143,
+    "position": 144,
     "name": "Heavenly Sakupen",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=4uwSVZBrtfg",
@@ -2718,7 +2737,7 @@
   },
   {
     "id": 475,
-    "position": 144,
+    "position": 145,
     "name": "UNKNOWN",
     "requirement": 83,
     "video": "https://www.youtube.com/watch?v=a1sQxQqU6EM",
@@ -2737,7 +2756,7 @@
   },
   {
     "id": 714,
-    "position": 145,
+    "position": 146,
     "name": "SPIRIT OVERCLOCK",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=WECBlbM0LJk",
@@ -2756,7 +2775,7 @@
   },
   {
     "id": 641,
-    "position": 146,
+    "position": 147,
     "name": "azure blast",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=TN0FQ3KBv4w",
@@ -2775,7 +2794,7 @@
   },
   {
     "id": 435,
-    "position": 147,
+    "position": 148,
     "name": "Shukketsu",
     "requirement": 78,
     "video": "https://www.youtube.com/watch?v=nkG4hKJIz2g",
@@ -2794,7 +2813,7 @@
   },
   {
     "id": 729,
-    "position": 148,
+    "position": 149,
     "name": "Breakcore",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=_H3KOVLE6gs",
@@ -2813,7 +2832,7 @@
   },
   {
     "id": 703,
-    "position": 149,
+    "position": 150,
     "name": "idontknowwhatthisis",
     "requirement": 100,
     "video": "https://www.youtube.com/watch?v=Dg9Q6s8EOlg",
@@ -2829,24 +2848,5 @@
       "banned": false
     },
     "level_id": 137334994
-  },
-  {
-    "id": 478,
-    "position": 150,
-    "name": "Critical Heat",
-    "requirement": 69,
-    "video": "https://www.youtube.com/watch?v=UjYIt2jy_BY",
-    "thumbnail": "https://i.ytimg.com/vi/UjYIt2jy_BY/mqdefault.jpg",
-    "publisher": {
-      "id": 52291,
-      "name": "Zeniux",
-      "banned": false
-    },
-    "verifier": {
-      "id": 36784,
-      "name": "[WBT] hstorm",
-      "banned": false
-    },
-    "level_id": 88442157
   }
 ]
