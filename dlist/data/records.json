@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T01:41:51Z",
+  "updated_at": "2026-11-23T11:55:25Z",
   "demons": {
     "250": [
       {
@@ -25410,6 +25410,15 @@
       },
       {
         "player": {
+          "id": 67110,
+          "name": "hammy"
+        },
+        "progress": 84,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=qqgoQiptiak"
+      },
+      {
+        "player": {
           "id": 60889,
           "name": "Regoshi"
         },
@@ -25956,15 +25965,6 @@
         "progress": 78,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=hRdGRamhzng"
-      },
-      {
-        "player": {
-          "id": 67110,
-          "name": "hammy"
-        },
-        "progress": 78,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=O2EUu-N9ios"
       },
       {
         "player": {
@@ -68955,6 +68955,15 @@
       },
       {
         "player": {
+          "id": 55406,
+          "name": "[HOLA] RubenChuGD"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=mN6RqI7h1Ro"
+      },
+      {
+        "player": {
           "id": 34423,
           "name": "[400] CuatrocientosYT"
         },
@@ -72659,6 +72668,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=m_kreHVlWIk"
+      },
+      {
+        "player": {
+          "id": 61388,
+          "name": "[RHTE] sharkyga"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=dg055IOMpsY"
       },
       {
         "player": {
@@ -107097,6 +107115,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=wROCLA-YrwI"
+      },
+      {
+        "player": {
+          "id": 51129,
+          "name": "[SARK] Timy"
+        },
+        "progress": 66,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=fjWlRsZsJNA"
       }
     ],
     "746": [],
