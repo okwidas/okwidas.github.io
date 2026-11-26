@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T12:08:18Z",
+  "updated_at": "2026-11-26T21:11:16Z",
   "demons": {
     "250": [
       {
@@ -39577,6 +39577,15 @@
       },
       {
         "player": {
+          "id": 63134,
+          "name": "[CFKYY] cf"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=KxOJRrHWoNY"
+      },
+      {
+        "player": {
           "id": 73415,
           "name": "qRain"
         },
@@ -44867,6 +44876,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=2_AucNJCCYw"
+      },
+      {
+        "player": {
+          "id": 42409,
+          "name": "Slaughter"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=LgTGPBZKrX0"
       },
       {
         "player": {
@@ -57363,6 +57381,15 @@
       },
       {
         "player": {
+          "id": 73133,
+          "name": "gmdtwixy"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=g2P-eqh-D8E"
+      },
+      {
+        "player": {
           "id": 64081,
           "name": "salv"
         },
@@ -63779,6 +63806,15 @@
       },
       {
         "player": {
+          "id": 53566,
+          "name": "[CNSLT] audo;pi"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=6oTxkb_3wW8"
+      },
+      {
+        "player": {
           "id": 57795,
           "name": "[GFSM] Sfan"
         },
@@ -66157,6 +66193,24 @@
       },
       {
         "player": {
+          "id": 67729,
+          "name": "[LCG] Andre0997"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=cqvk0VG0PJs"
+      },
+      {
+        "player": {
+          "id": 40761,
+          "name": "[Ñ] Freikz"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=Ld1L1BpoDIM"
+      },
+      {
+        "player": {
           "id": 50522,
           "name": "[SEREK] gotsmile"
         },
@@ -66181,15 +66235,6 @@
         "progress": 91,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=G-zSsV6yumg"
-      },
-      {
-        "player": {
-          "id": 67729,
-          "name": "[LCG] Andre0997"
-        },
-        "progress": 91,
-        "status": "approved",
-        "video": "https://www.youtube.com/watch?v=WY_RfamcSgM"
       },
       {
         "player": {
@@ -81935,6 +81980,15 @@
       },
       {
         "player": {
+          "id": 64012,
+          "name": "[YSTA] ghostball24"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=sO8HnEddKgw"
+      },
+      {
+        "player": {
           "id": 53557,
           "name": "[USSR] Внибрачьная Систренка Эйриле"
         },
@@ -95901,6 +95955,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=s5mfsXxbLig"
+      },
+      {
+        "player": {
+          "id": 67495,
+          "name": "[TMC] majin"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=4l7TYvQunI4"
       },
       {
         "player": {
