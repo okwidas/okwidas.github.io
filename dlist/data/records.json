@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:11:16Z",
+  "updated_at": "2026-11-27T03:48:31Z",
   "demons": {
     "250": [
       {
@@ -16395,6 +16395,15 @@
       },
       {
         "player": {
+          "id": 35544,
+          "name": "[FAX] Zoink Doink"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=OPYPwa2lluA"
+      },
+      {
+        "player": {
           "id": 73450,
           "name": "xArthurXyy"
         },
@@ -19535,6 +19544,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=3hH3s4GLksg"
+      },
+      {
+        "player": {
+          "id": 58919,
+          "name": "strderrr"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=7g-PAJRfqv4"
       },
       {
         "player": {
@@ -39595,6 +39613,15 @@
       },
       {
         "player": {
+          "id": 65763,
+          "name": "Blinkkous"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=QdnxiYjkHl4"
+      },
+      {
+        "player": {
           "id": 52191,
           "name": "otchim darosiwa"
         },
@@ -50109,6 +50136,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=SMY8br5TySc"
+      },
+      {
+        "player": {
+          "id": 73434,
+          "name": "TexyQ"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=eJYOcvMb34s"
       },
       {
         "player": {
@@ -66316,6 +66352,15 @@
         "progress": 74,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=v0kdSt6KEJI"
+      },
+      {
+        "player": {
+          "id": 67540,
+          "name": "[RIVER] bugubag"
+        },
+        "progress": 74,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=8pzxr-o0PDk"
       },
       {
         "player": {
@@ -106072,6 +106117,15 @@
         "progress": 100,
         "status": "approved",
         "video": "https://www.youtube.com/watch?v=C1s0WX4eE1c"
+      },
+      {
+        "player": {
+          "id": 41982,
+          "name": "Almier"
+        },
+        "progress": 100,
+        "status": "approved",
+        "video": "https://www.youtube.com/watch?v=eGBwK7dYiyQ"
       },
       {
         "player": {
